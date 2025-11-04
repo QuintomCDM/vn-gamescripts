@@ -1,0 +1,1 @@
+[Head over to the wiki](https://github.com/QuintomCDM/vn-gamescripts/wiki/Games)
