@@ -1,0 +1,322 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（あそこの土産物屋にいるのは……四葉とらいはか）",
+    "translation": "(I wonder if that's...Yotsuba and Raiha\n over there at that souvenir shop.)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お土産って悩むよー。\n友達は美味しい物がいいって言ってたけど、\nありすぎなのも困っちゃう。",
+    "translation": "It's tough deciding on souvenirs.\nMy friend said they want something delicious,\nbut there are too many options to choose from."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ちんすこうなら間違いないですよね。\n他の定番は、サーターアンダギーでしょうか？",
+    "translation": "With chinsuko you're on the safe side.\nAnother classic might be sata andagi?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うんうん、定番ってことは\nつまり美味しいってことだもん。",
+    "translation": "Yeah, yeah, if it's a classic,\nit means it's delicious, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "だけど、ここでマイナーな食べ物でサプライズ！\nってやってみたくもなりますよねー。",
+    "translation": "But don't you also want to surprise them\nwith something more adventurous?\nThat sounds like fun."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんたね。\nお土産に驚きを混ぜるのは、かなりの冒険じゃない？",
+    "translation": "Oh, you. If anything, it sounds risky."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、二乃。\n上杉さんも。",
+    "translation": "Ah, Nino.\nUesugi-san, too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "友達へのお土産探しか。",
+    "translation": "You're looking for souvenirs\nfor your friends."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん。\n冒険しちゃうか定番にするか迷ってるところ。",
+    "translation": "Yeah. I'm torn between going for something a little\nadventurous, or sticking with a classic."
+  },
+  {
+    "character": "四葉",
+    "japanese": "これなんかインパクトありそうですよ。\nミミガージャーキー！",
+    "translation": "This one looks like it could have a strong impact.\nMimiga jerky!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ミミガーって豚の耳よね。\nジャーキーもあるんだ。",
+    "translation": "Mimiga are pig ears, right?\nThey even have jerky of that, huh."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちょっと渋すぎないか？\nあと配るのに向いてないだろ。",
+    "translation": "Isn't that a bit too daring?\nAnd it doesn't seem suitable for sharing."
+  },
+  {
+    "character": "らいは",
+    "japanese": "そうそう、それも大事！\nみんなで分けられるようなものがいいなって。",
+    "translation": "That's right, sharing is important too!\nWe need something that everyone can share."
+  },
+  {
+    "character": "二乃",
+    "japanese": "って、よく見たらこの棚、\n豚料理のお土産が多いわね。",
+    "translation": "And, looking closely, there are a lot of souvenirs here\nthat are snacks made of pork."
+  },
+  {
+    "character": "らいは",
+    "japanese": "わっ、本当だ。\nラフテーとかは知ってるけど――",
+    "translation": "Wow, you're right.\nI know about rafute and all, but%p-2;――"
+  },
+  {
+    "character": "らいは",
+    "japanese": "なんだろう、この中味汁（なかみじる）って。",
+    "translation": "I wonder what this 'nakami-jiru' is."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "謎だな。\nさっぱりわからん。",
+    "translation": "It's a mystery to me.\nI have no idea."
+  },
+  {
+    "character": "四葉",
+    "japanese": "中の味ってことですかね？\nからいと甘いの中間とか。",
+    "translation": "Is it the taste between two opposite flavors?\nLike the middle of spicy and sweet?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "それはつまり何味なのよ。",
+    "translation": "So what flavor is that, then?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "……なんだろ？\nからくもなくて甘くもない……。\nなぞなぞみたいになってきた。",
+    "translation": "I wonder?\nIt's not spicy or sweet...\nIt's turning into a riddle."
+  },
+  {
+    "character": "らいは",
+    "japanese": "あっ！\nもしかして中って内臓のことじゃないかな？",
+    "translation": "Ah!\nCould the 'naka' here mean organs?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、中味と中身を掛けてるのか。",
+    "translation": "Ok, so there's a double meaning,\nboth 'taste' and 'contents.'"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、そうかなって。",
+    "translation": "Yeah, that's what I was thinking."
+  },
+  {
+    "character": "二乃",
+    "japanese": "つまり、内臓を使ったスープ？\nそれならありそうだわ。",
+    "translation": "So, it could be a soup made with pig organs?\nThat's a possibility."
+  },
+  {
+    "character": "四葉",
+    "japanese": "では、答え合わせのお時間です！",
+    "translation": "Right, time to check the answer!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか、スマホで調べれば答えがわかるな。",
+    "translation": "Oh yeah, we can look up the answer on our smartphones."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "豚汁みたいなものか？",
+    "translation": "Wonder if it's like pork miso soup."
+  },
+  {
+    "character": "四葉",
+    "japanese": "なるほど。\n沖縄では豚汁を中味汁って言うパターンですかね。",
+    "translation": "I see. In Okinawa, they call pork soup 'nakami-jiru,'\ndon't they."
+  },
+  {
+    "character": "二乃",
+    "japanese": "だったら説明に豚汁って書くでしょ。",
+    "translation": "Then, they should have just said it was pork soup\nin the first place."
+  },
+  {
+    "character": "らいは",
+    "japanese": "あ、そうかも。\n買って帰って開けてみたら豚汁だと、\nちょっとガッカリしちゃいそうだし。",
+    "translation": "Oh, I see what you mean.\nIf we bought it and opened it up to find pork miso soup,\nwe would have been disappointed."
+  },
+  {
+    "character": "二乃",
+    "japanese": "それがないってことは、\n多分これも沖縄料理なのよ。",
+    "translation": "If it's not pork soup,\nthen it's probably another Okinawan dish."
+  },
+  {
+    "character": "二乃",
+    "japanese": "豚汁じゃなくて、もう少し別のなにか……。",
+    "translation": "It might be something other than pork miso soup,\nsomething a little different..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……そうだわ。\n中って中身、つまり内臓のことなんじゃないかしら。",
+    "translation": "...That's right.\n'Naka' here is referring to contents,\nwhich means organs."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、内臓を使った汁ってことか。",
+    "translation": "I get it, it's a soup using organs, huh."
+  },
+  {
+    "character": "四葉",
+    "japanese": "では、答え合わせのお時間です！",
+    "translation": "Right, time to check the answer!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか、スマホで調べれば答えがわかるな。",
+    "translation": "Oh yeah, we can look up the answer on our smartphones."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "『中味』は『中身』か？\n内臓の汁物ってことかもな。",
+    "translation": "I think the kanji for 'mi' is 'body,' not 'taste.'\nIt means a soup containing pig organs."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ、確かに！\nさすが上杉さんですね。",
+    "translation": "Ah, you're right!\nOf course you'd know that, Uesugi-san."
+  },
+  {
+    "character": "二乃",
+    "japanese": "内臓の汁物ってことは、\nもつ煮みたいなものなのかしら。",
+    "translation": "If it's a soup made of organs,\nit could be an offal stew."
+  },
+  {
+    "character": "らいは",
+    "japanese": "そっか！\nそう思うと想像しやすいね。",
+    "translation": "I see! It's easier to imagine it that way."
+  },
+  {
+    "character": "四葉",
+    "japanese": "では、答え合わせのお時間です！",
+    "translation": "Right, time to check the answer!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか、スマホで調べれば答えがわかるな。",
+    "translation": "Oh yeah, we can look up the answer on our smartphones."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えーと……。",
+    "translation": "Umm..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "やっぱり、豚の内臓の料理ですね。\nカツオの出汁で煮込んだスープで、\nモツの歯ごたえや食感を楽しむもの、だそうです。",
+    "translation": "I think it's a dish made from pig organs after all. It\nseems to be a soup that is simmered in bonito broth,\nto enjoy the texture and chewiness of the offal."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なるほどな。",
+    "translation": "I get it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "他にも、変わったところだと\nチーイリチーっていう豚の血を使った料理が\nあるみたいですね。",
+    "translation": "Apparently, there's also a dish that uses pig blood\ncalled 'chiricha.' Seems pretty unusual."
+  },
+  {
+    "character": "らいは",
+    "japanese": "血を食べるの！？",
+    "translation": "BLOOD is edible?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "沖縄じゃ豚は鳴き声以外なんでも食うっていうのは\n本当なんだな。",
+    "translation": "There's an interesting saying in Okinawa:\nthey eat everything from a pig\nexcept its squeal, and it seems to be true."
+  },
+  {
+    "character": "四葉",
+    "japanese": "美味しいみたいですよ？\n機会があれば食べてみたいですね。",
+    "translation": "Chiricha is pretty delicious, they say!\nIf I have the chance, I'd like to try it."
+  },
+  {
+    "character": "二乃",
+    "japanese": "どんな味か気になるわね。\n想像つかない……。",
+    "translation": "I'm curious about the taste.\nI can't imagine..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "とはいえ、中味汁はお土産には向いてないですね。\n配るのが難しいですし。",
+    "translation": "However, nakami-jiru wouldn't be suitable as a souvenir.\nIt'd be difficult to share with others."
+  },
+  {
+    "character": "らいは",
+    "japanese": "むむー、やっぱり冒険よりも定番かなぁ。",
+    "translation": "Mmmhh, maybe sticking to the classics\nis better than taking risks."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、俺からすると食えないものをもらうという\nシチュエーションがわからないが。",
+    "translation": "Well, I've never been in a situation where\nI've received something inedible as a souvenir."
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃんはそうかもだけどー。",
+    "translation": "That might be true for you, big bro."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あ、そうだわ。\n定番品をいくつかとご当地お菓子を買って\nバラして包んであげたら？",
+    "translation": "Oh, I have an idea.\nHow about buying some classic items as well as local sweets,\nand wrap them up separately?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "これなら、色々なお菓子を楽しめるし\n話題にもなるんじゃないかしら。",
+    "translation": "Now, you'd be able to enjoy various sweets\nand it could also be a great conversation topic."
+  },
+  {
+    "character": "らいは",
+    "japanese": "おおっ！　それいいかも！",
+    "translation": "Ohh! Good idea!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "となると、包み紙に凝ってもよさそうです！\n沖縄っぽい模様の紙袋とか、探してみますか？",
+    "translation": "In that case, we could also pay special attention\nto the wrapping paper! Should we look for paper bags\nwith Okinawan patterns?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "別に普通の袋でも、沖縄イメージな柄のマステで\n飾ってみるだけでも違うと思うわ。",
+    "translation": "It doesn't have to be a special bag.\nJust decorating a regular bag with Okinawan-style\nwashi tape could make a difference."
+  },
+  {
+    "character": "らいは",
+    "japanese": "そっか、そういうところで\n沖縄っぽさを出すのもありだね。\nさすが二乃さんだなー。",
+    "translation": "Oh, that's true. This way, it's possible\nto make it look very 'Okinawa-ish.'\nYou would think of that, Nino-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……ん？\n　あれ、よく考えてみれば――）",
+    "translation": "(...Hm?\n Hey, now that I'm thinking about it%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（これは、俺が二乃をリードしていることに\n　なってないよな？）",
+    "translation": "(I'm not really leading Nino, am I?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（くっ、なんてことだ！\n　目の前の出来事に気を取られて、\n　すっかり忘れてた……！）",
+    "translation": "(Damn! What am I doing?!\n I got so caught up in the conversation\n that I completely forgot my intention...!)"
+  }
+]

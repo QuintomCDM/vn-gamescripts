@@ -1,0 +1,472 @@
+[
+  {
+    "character": null,
+    "japanese": "５年後――",
+    "translation": "Five years later%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "いらっしゃ――",
+    "translation": "Welcome%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "って、あんたたちか。",
+    "translation": "Oh, it's you guys."
+  },
+  {
+    "character": "三玖",
+    "japanese": "一花、久しぶり。",
+    "translation": "It's been a while, Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "うんうん。\n２人とも元気そうでよかった。",
+    "translation": "It has, it has.\nIt's good to see both of you looking well."
+  },
+  {
+    "character": "一花",
+    "japanese": "お店も大繁盛のようで。",
+    "translation": "And I see the shop is obviously bursting at the seams with customers. "
+  },
+  {
+    "character": "二乃",
+    "japanese": "へー。\nさすが、アメリカかぶれはジョークがお上手ね。",
+    "translation": "Yeah, yeah, and here I thought you were better at those sarcastic American-style jokes. "
+  },
+  {
+    "character": "三玖",
+    "japanese": "食べてくでしょ？\nいま、用意するね。",
+    "translation": "Are you going to eat?\nI'll prepare something now."
+  },
+  {
+    "character": "一花",
+    "japanese": "やった！",
+    "translation": "Yay!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふんっ！\nアメリカのあんな気取ったカフェに\n行ってる人の口に合うかしら。",
+    "translation": "Hmph! I wonder if we'll suit the taste of someone\nwho goes to pretentious American cafes."
+  },
+  {
+    "character": "一花",
+    "japanese": "あれ？\n私が行ったこと教えたっけ？",
+    "translation": "Huh?\nDid I tell you that I frequent those kinds of cafes."
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃、いつも一花のＳＮＳ見張ってるから。",
+    "translation": "Nino is always keeping an eye your social media, Ichika."
+  },
+  {
+    "character": "二乃",
+    "japanese": "三玖！　言うんじゃないわよ！",
+    "translation": "Miku! Don't say that!"
+  },
+  {
+    "character": "一花",
+    "japanese": "そうだ。\nそれならお礼に、このお店も紹介しちゃって……。",
+    "translation": "That's right.\nIn that case, as thanks,\nI'll introduce this shop too..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "待って。",
+    "translation": "Wait."
+  },
+  {
+    "character": "三玖",
+    "japanese": "一花の人気にあやかればお客さんも絶対増える。\nとっても嬉しいけど、いまはまだ遠慮しとく。",
+    "translation": "If we ride on your popularity, Ichika,\nour customers will definitely increase.\nI'm really happy, but for now, I'll hold back."
+  },
+  {
+    "character": "三玖",
+    "japanese": "最近は常連さんも増えてきたんだ。",
+    "translation": "Recently, there have been more regular customers too."
+  },
+  {
+    "character": "三玖",
+    "japanese": "こんな設備の整った場所を貸してくれた\nお父さんのためにも……。",
+    "translation": "For the sake of my father-in-law,\nwho lent us this well-equipped place..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "もう少しだけ、私たちの力だけでやってみたい。",
+    "translation": "I want to try running things\nwith our own power for a little longer."
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっ！？　な、なに？",
+    "translation": "Huh?! W-what?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うーん、自慢の妹！\nどこに出しても恥ずかしくないよ。",
+    "translation": "Ohh, I'm so proud of my little sister!\nI can take you anywhere without getting embarrassed."
+  },
+  {
+    "character": "一花",
+    "japanese": "また私が体調崩しちゃった時はよろしく。",
+    "translation": "Please take care of me if I get sick again."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あれも……もう遠慮しとく……。",
+    "translation": "About that... I politely decline..."
+  },
+  {
+    "character": "一花",
+    "japanese": "冗談。\nお互い頑張ろうね。",
+    "translation": "Just kidding. Let's both do our best, okay?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。",
+    "translation": "Okay."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんたが売れなくなったら\n働かせてあげてもいいわよ。",
+    "translation": "If your popularity runs dry, I'll allow you to work for us."
+  },
+  {
+    "character": "一花",
+    "japanese": "あっちは可愛くないなー。",
+    "translation": "Now this little sister, she's less cute."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あれはあれで可愛い",
+    "translation": "Nino's cute in her own way."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、変わらないなぁ。\n日本に帰ってきたって感じがする。",
+    "translation": "Well, you guys haven't changed.\nIt feels like I've come back to Japan."
+  },
+  {
+    "character": "五月",
+    "japanese": "一花、アメリカへ旅行に行ってただけでしょ。",
+    "translation": "Ichika, you just went on a trip to America, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "一応、お仕事で行ってたんだからね？",
+    "translation": "It WAS for work, you know?"
+  },
+  {
+    "character": "五月",
+    "japanese": "わかってるって。\nどう？　手応えあった？",
+    "translation": "I know. How was it?\nDid you have any success?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うーん。\nまだイントネーションだけが不安かな。",
+    "translation": "Hmm.\nWell, I'm still worried about my inton-nation."
+  },
+  {
+    "character": "五月",
+    "japanese": "一花。\nイントネーション。",
+    "translation": "Ichika.\nIt's pronounced 'intonation.'"
+  },
+  {
+    "character": "一花",
+    "japanese": "あちゃー。\n厳しいなー。",
+    "translation": "Ahhh.\nYou're so strict."
+  },
+  {
+    "character": "五月",
+    "japanese": "一応、先生だからね。",
+    "translation": "I mean, I am a teacher."
+  },
+  {
+    "character": "五月",
+    "japanese": "あっ、みんな。\n今日の主役の登場だよ。",
+    "translation": "Oh, everyone.\nIt's time for the lead character\nto make an appearance."
+  },
+  {
+    "character": "四葉",
+    "japanese": "どーも、みなさんお集まりで。",
+    "translation": "Thank you all for coming."
+  },
+  {
+    "character": "五月",
+    "japanese": "いよいよ当日だね。",
+    "translation": "It's finally the day, huh?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんで汗だくなのよ。",
+    "translation": "Why are you so sweaty?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "なんだかじっとしてられなくて、\nうちから自転車で走ってきたんだ。",
+    "translation": "I just couldn't sit still,\nso I rode my bike here from home."
+  },
+  {
+    "character": "二乃",
+    "japanese": "走ってきたって……。",
+    "translation": "You rode your bike here?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "えっ！？　自宅から！？\n大事な式の直前になにしてんのよ！？",
+    "translation": "WHAT?! From HOME?!\nWhat are you doing\nright before such an important ceremony?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "元気だねー。\nここからあのマンションって意外と遠いもんね。",
+    "translation": "You're so energetic.\nIt's surprisingly far from here to that apartment."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "一花にはまだ言ってなかったけど……。",
+    "translation": "We haven't told you yet, Ichika..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "四葉、最近引っ越して、\nフータローと一緒に東京で暮らしてるんだ。",
+    "translation": "Yotsuba recently moved,\nand is living in Tokyo with Futaro."
+  },
+  {
+    "character": "一花",
+    "japanese": "え！",
+    "translation": "Whaaa?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "そうなんだ～、へぇ～。\n幸せそうで結構ですな。",
+    "translation": "Oh really, how about that.\nYou look so happy together."
+  },
+  {
+    "character": "四葉",
+    "japanese": "まだ慣れないことだらけでして……。",
+    "translation": "There are still many things we're not used to..."
+  },
+  {
+    "character": "五月",
+    "japanese": "さすがに上杉君は電車だよね？",
+    "translation": "But as expected, Uesugi-kun took the train, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん。\n風太郎は昨日から来てるよ。",
+    "translation": "Yeah. Futaro has been here since yesterday."
+  },
+  {
+    "character": "四葉",
+    "japanese": "だから、まだ寝てるんじゃ――",
+    "translation": "So he's still sleeping, right%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ、なに！？",
+    "translation": "Huh, what?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "なんか、あっさり呼んだね。",
+    "translation": "You called him by his first same so easily."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君のこと、いつから名前呼びにしたの？",
+    "translation": "Since when did you start calling Futaro-kun\nby his name?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ？\n初めて呼んだのは……卒業旅行の時かな。",
+    "translation": "Huh? I think the first time was...\nduring the graduation trip."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あれ、本当だったんだ。",
+    "translation": "Oh, that's true."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あの時は初めてだったから、まだ恥ずかしくってさ。\nなんか誤魔化しちゃったけどね。",
+    "translation": "It was the first time, so I was still embarrassed.\nI tried to play it off, though."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君と２人きりでデートだったものね。\nあの時どこへ行ってたのよ？",
+    "translation": "You two were on a date alone together then.\nWhere did you guys go?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えへへ、それは秘密。",
+    "translation": "Teehee, that's a secret."
+  },
+  {
+    "character": "五月",
+    "japanese": "ふふっ！\n四葉も変わったよね。\n気がつけば敬語もやめてるし。",
+    "translation": "Hehehe! Yotsuba, you've changed a lot too.\nYou've even stopped using polite language."
+  },
+  {
+    "character": "一花",
+    "japanese": "やっぱり一緒に暮らしてると変わるの？",
+    "translation": "Think it's because you started living together?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん、そうなのかも。\nいまは自然と名前で呼ぶようになっちゃってるし。",
+    "translation": "It might be.\nI just naturally call him by his name, now."
+  },
+  {
+    "character": "五月",
+    "japanese": "これは、いよいよ認めざるを得ないね。",
+    "translation": "Well well, this is quite something!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふん。\nだから、こんな朝っぱらから呼んだのよ。",
+    "translation": "Hmph.\nSo she even talks to him like that\nso early in the morning."
+  },
+  {
+    "character": "二乃",
+    "japanese": "一花。",
+    "translation": "Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "つけてきたよ。",
+    "translation": "I wore them here."
+  },
+  {
+    "character": "二乃",
+    "japanese": "私が預かってたほうは、\n結局、しまったままだったわ。",
+    "translation": "The other ones we have\nended up staying in storage."
+  },
+  {
+    "character": "三玖",
+    "japanese": "これが私たちからの結婚祝い。",
+    "translation": "This is our wedding gift to you, Yotsuba."
+  },
+  {
+    "character": "一花",
+    "japanese": "お母さんの、形見のピアス。",
+    "translation": "It's Mom's heirloom earrings."
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "こういうのって、あけてすぐつけていいの？",
+    "translation": "She'll be able to wear these \nright after getting pierced, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "どのみち、今日つけないと間に合わないもんね。",
+    "translation": "Well, we won't make it in time\nunless you wear them today."
+  },
+  {
+    "character": "二乃",
+    "japanese": "四葉、覚悟できてるわよね。",
+    "translation": "Yotsuba, are you ready?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん。\nお願いします。",
+    "translation": "Yeah.\nPlease help me."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃあ、いくわよ、みんな。\nせーの――",
+    "translation": "Alright, here we go, everyone.\nOne, two, three%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉、結婚おめでとう！",
+    "translation": "Yotsuba, congratulations on your wedding!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "――痛った！！！",
+    "translation": "OWW!!!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "な、なんか祝福以外の\n感情を受けた気がするんだけど！",
+    "translation": "I-I feel like I'm getting some other emotions\nbesides congratulations from you guys."
+  },
+  {
+    "character": "二乃",
+    "japanese": "さてね。",
+    "translation": "Hmm...that's odd."
+  },
+  {
+    "character": "二乃",
+    "japanese": "もう片方行くわよ！\n一花、押さえてなさい！",
+    "translation": "Let's do the other side too!\nIchika, hold onto her!"
+  },
+  {
+    "character": "一花",
+    "japanese": "はーい。",
+    "translation": "You got it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そろそろ私たちも会場に行こっか。",
+    "translation": "We should probably head to the venue soon."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、諸々の準備があるもんね。",
+    "translation": "Yes, there are some things that need to be done\nbefore the ceremony."
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、私の担当メイクさん来てくれるって。",
+    "translation": "Oh, my makeup artist will come too."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ほ、本当にやるの！？",
+    "translation": "R-really?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なに怖じ気付いてんのよ。\nあんただって乗り気だったじゃない。",
+    "translation": "What are you so nervous about?\nYou were looking forward to this."
+  },
+  {
+    "character": "五月",
+    "japanese": "だね。\n上杉君には確かめておかないと。",
+    "translation": "That's right.\nWe'll have check in with Uesugi-kun too."
+  },
+  {
+    "character": "二乃",
+    "japanese": "やるわよ、四葉。",
+    "translation": "Here we go, Yotsuba."
+  },
+  {
+    "character": "四葉",
+    "japanese": "せ、せめて一思いに！",
+    "translation": "A-at least make it quick!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "３……２……１……。",
+    "translation": "Three...two...one..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "０！！\nで行くわよ！",
+    "translation": "ZERO!!\nAnd VOILA!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ギャー！！",
+    "translation": "OW-OW-OWWW!!"
+  }
+]

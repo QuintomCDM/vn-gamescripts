@@ -1,0 +1,337 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "らいはたちはここを探しているのか。",
+    "translation": "You guys are searching for souvenirs here, huh?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "あ、お兄ちゃん！\nなにかいいの見つかった？",
+    "translation": "Oh, big bro!\nDid you find something good?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おいおい、気が早いな。\nさすがにまだ目星もついてねぇよ。",
+    "translation": "Hey, hey, slow down, 'kay.\nI haven't even found any fitting souvenirs yet."
+  },
+  {
+    "character": "五月",
+    "japanese": "らいはちゃん、\nすごく張り切ってくれているんですよ。\n良い物が見つかりそうです。",
+    "translation": "Raiha-chan is really enthusiastic.\nIt seems like we might find something good."
+  },
+  {
+    "character": "らいは",
+    "japanese": "この辺は食べ物屋さんが多いねー。",
+    "translation": "There are a lot of food shops around here, huh."
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、そうです。\n疑問に思ったのですが、ちんすこうの味って\n何種類くらいあるんでしょう。",
+    "translation": "Oh, yes.\nI was curious, how many different flavors\nof chinsuko biscuits are there?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ、急に。",
+    "translation": "What now, all of a sudden?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、先ほど入ったお店に\n驚くほどの種類がありまして。\nですよね、らいはちゃん。",
+    "translation": "Well, the shop we went into earlier\nhad an astonishing variety.\nRight, Raiha-chan?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、数えきれなさそうだった。",
+    "translation": "Yeah, there were too many to count."
+  },
+  {
+    "character": "五月",
+    "japanese": "プレーン、塩味、バニラ、黒糖……。\nチョコがかかったものもありましたし。",
+    "translation": "Plain, salty, vanilla, brown sugar...\nThere were even some covered with chocolate."
+  },
+  {
+    "character": "五月",
+    "japanese": "他にも、島とうがらし味なんてものもありましたね。\nあれはどれくらいからいんでしょうか。",
+    "translation": "There was also a flavor with Okinawan peppers.\nI wonder how spicy they are."
+  },
+  {
+    "character": "らいは",
+    "japanese": "私は食べられないかも。\nお土産にもらうなら甘いやつがいいな。",
+    "translation": "I might not be able to eat that.\nIf I'm getting it as a souvenir,\nI prefer something sweet."
+  },
+  {
+    "character": "五月",
+    "japanese": "甘いお菓子だと、ちんすこう以外にも\nお芋のタルトが有名ですね。\nあれも多くの種類があるようです。",
+    "translation": "If you want to get an Okinawan sweet, besides chinsuko,\nthe sweet potato tarts are also famous.\nIt seems like there are many varieties of those too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……記念になるものを探してるんだよな？\nまさか食べ物にするつもりなのか？",
+    "translation": "We're looking for something memorable, right?\nAre we really going to go with food?"
+  },
+  {
+    "character": "五月",
+    "japanese": "しませんよ。\n食べたらなくなってしまいますよ？",
+    "translation": "We won't do that.\nIt'll just disappear after we eat it, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よかった、その辺の分別はあったんだな。",
+    "translation": "Good, at least you're sensible about that."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君は私をなんだと思っているんですか！",
+    "translation": "What do you take me for, Uesugi-kun?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ただ、どのお土産屋さんでも\n食べ物を扱っていますから、目につきやすいだけです。",
+    "translation": "It's just that every souvenir shop sells food,\nso it's more noticeable."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、確かに。\n定番中の定番だからな。",
+    "translation": "Well, that's true.\nIt's a classic souvenir, after all."
+  },
+  {
+    "character": "らいは",
+    "japanese": "思い出に残るお揃いの記念品――\nどんなものがいいんだろう？",
+    "translation": "A matching memento for all of us%p-2;――\n%p;I wonder what would work?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やっぱり実用的なものがいいんじゃないか？",
+    "translation": "Maybe something practical, huh?"
+  },
+  {
+    "character": "五月",
+    "japanese": "実用的なもの、となると\n普段から使うわけですよね？",
+    "translation": "If it's practical,\nthen we'll use it every day, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "それはそれで、\n使っているうちに壊れてしまうのでは？",
+    "translation": "Then, if we use it too much,\nit might break."
+  },
+  {
+    "character": "らいは",
+    "japanese": "そっか、壊れちゃったら悲しいね。",
+    "translation": "Right, that would be sad if it broke."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そう考えると……飾っておける物がいいか？",
+    "translation": "Considering that...\nmaybe some sort of decoration would be better?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "さっき入ったお店に、\nちっちゃなシーサーの置物があったよね。\nああいうのがいいかも。",
+    "translation": "Speaking of which, in the shop we went into earlier,\nthere were small shisa figurines, right?\nMaybe something like that would be good."
+  },
+  {
+    "character": "五月",
+    "japanese": "いいかもしれません。\nあのシーサーは表情が豊かで可愛らしかったですし。",
+    "translation": "That might be a good idea.\nThose shisa had expressive and cute faces."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "表情が違ってたのか？",
+    "translation": "The expressions were different?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、個性豊かでしたよ。\n１つ１つが手作りなのかもしれません。",
+    "translation": "Yes, they were all unique.\nEach one might have been handmade."
+  },
+  {
+    "character": "らいは",
+    "japanese": "気に入った子を連れて帰るのもいいよね。",
+    "translation": "It would be nice to take home the ones we like."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、色々と言ったが、\nなにもここで決める必要はないんだ。\n今日のところは目星をつけるくらいでいいだろ。",
+    "translation": "Well, we've talked about a lot of things,\nbut we don't have to decide on anything right now.\nWe can just keep it in the back of our mind."
+  },
+  {
+    "character": "五月",
+    "japanese": "明日も明後日も、様々な場所に行きますからね。\n驚くような出会いがあるかもしれません。",
+    "translation": "We're going to different places\ntomorrow and the day after.\nWe might stumble upon something good."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "考え始めると難しいな。\n正直、言い出した時はあまり深く考えてなかった。\nなんか、すまん……。",
+    "translation": "It's hard to decide once you start thinking about it.\nHonestly, I hadn't thought it through\nwhen I brought it up. Sorry about that..."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君が謝ることはありませんよ。\n旅の記念品を、というのは、とても素敵な提案です。",
+    "translation": "There's no need for you to apologize, Uesugi-kun.\nThe idea of getting souvenirs from our trip\nis a wonderful suggestion."
+  },
+  {
+    "character": "らいは",
+    "japanese": "そうだよお兄ちゃん！\nロマンチックな提案ができるようになった自分を\n誇ろう！",
+    "translation": "Yeah, that's right, big bro!\nLet's praise ourselves for being able to make thoughtful \nsuggestions!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう。",
+    "translation": "O-okay."
+  },
+  {
+    "character": "五月",
+    "japanese": "この悩む時間も思い出、ということで\n楽しんでいきましょう。",
+    "translation": "This is so much fun! It'll become a great memory too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、そうだな。",
+    "translation": "Ah, you're right."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、色々と言ったが、\nなにもここで決める必要はないんだ。\n今日のところは目星をつけるくらいでいいだろ。",
+    "translation": "Well, we've talked about a lot of things,\nbut we don't have to decide on anything right now.\nWe can just keep it in the back of our mind."
+  },
+  {
+    "character": "五月",
+    "japanese": "明日も明後日も、様々な場所に行きますからね。\n驚くような出会いがあるかもしれません。",
+    "translation": "We're going to different places\ntomorrow and the day after.\nWe might stumble upon something good."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "使うたびに思い出せるって利点もあるぞ。\n飾っておくだけよりも、そのほうがよくないか？",
+    "translation": "It'll remind us of our trip each time we use it.\nIsn't that better than just keeping it on display?"
+  },
+  {
+    "character": "五月",
+    "japanese": "普段から使うものが、\n記憶を呼び起こすきっかけになるわけですか。",
+    "translation": "So, everyday items can trigger your memory, huh?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "いいこと言うね、お兄ちゃん。",
+    "translation": "Good point, big bro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、壊しちまう可能性は否定できないけどな。\nそこは気をつけるしかない。",
+    "translation": "Well, I can't deny the possibility\nof accidentally breaking the souvenir.\nWe just have to be careful."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですね、\nなるべく壊れないものを選びましょうか。",
+    "translation": "That's right,\nlet's try to choose things that won't break easily."
+  },
+  {
+    "character": "五月",
+    "japanese": "どんなものかは、まだ思いつきませんが。",
+    "translation": "I still can't think of what to get, though."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はは、ハードルが上がっちまったかもな。",
+    "translation": "Haha, the bar has been raised, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、色々と言ったが、\nなにもここで決める必要はないんだ。\n今日のところは目星をつけるくらいでいいだろ。",
+    "translation": "Well, we've talked about a lot of things,\nbut we don't have to decide on anything right now.\nWe can just keep it in the back of our mind."
+  },
+  {
+    "character": "五月",
+    "japanese": "明日も明後日も、様々な場所に行きますからね。\n驚くような出会いがあるかもしれません。",
+    "translation": "We're going to different places\ntomorrow and the day after.\nWe might stumble upon something good."
+  },
+  {
+    "character": "らいは",
+    "japanese": "そうだよね、まだまだ旅行は続くんだ。",
+    "translation": "That's right, our trip is far from over."
+  },
+  {
+    "character": "らいは",
+    "japanese": "なんだか夢みたいだなぁ。\nこんなに楽しくていいのかな？",
+    "translation": "It really feels like a dream,\ndoesn't it? Is it really possible to have this much fun?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いいんですよ。\n私たちも、らいはちゃんの喜ぶ顔を見たくて\n招待したんですから。",
+    "translation": "It's all good.\nAfter all, we invited you because we wanted to see\nyou happy, Raiha-chan."
+  },
+  {
+    "character": "らいは",
+    "japanese": "えへへ、ありがとうございます。",
+    "translation": "Ehehe, thank you very much."
+  },
+  {
+    "character": "五月",
+    "japanese": "それに、らいはちゃんは家族も同然ですから。\nですよね、上杉君。",
+    "translation": "Besides, Raiha-chan is like family to us.\nRight, Uesugi-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ま、まあ、その……。",
+    "translation": "W-well, um..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "だよねー、一花さんとお兄ちゃんが\n結婚したら家族だもんね。",
+    "translation": "That's right, when Ichika-san and big bro\nget married, we'll be family anyway."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ら、らいは！？\nそうストレートに言わないでくれ、心臓に悪い！",
+    "translation": "R-Raiha?!\nDon't say that so bluntly,\nit's bad for my heart!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "いっそ、この旅行でプロポーズしちゃうとか。\n沖縄の海をバックに、結婚してください！\nなんて素敵だよ。",
+    "translation": "You know, it would be great if you proposed\nduring this trip. With the Okinawa sea in the background. \nSaying to her 'Please marry me!' How lovely that'll sound."
+  },
+  {
+    "character": "五月",
+    "japanese": "なるほど、名案です。",
+    "translation": "I see, that's a good idea."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月まで……からかうなよ……。",
+    "translation": "Even you, Itsuki... Don't tease me..."
+  },
+  {
+    "character": "五月",
+    "japanese": "あら、私はからかっているつもりはありませんよ？",
+    "translation": "Oh, I didn't intend to tease you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "五月",
+    "japanese": "私たちの大切な姉をさらっていくのなら、\nそのくらいの覚悟はしておいてください。",
+    "translation": "If you plan on taking away our dear big sister,\nthen be prepared for the consequences."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "な、なんて。\nすみません、突然変な話をしてしまいましたね！",
+    "translation": "J-just kidding. I'm sorry for bringing up\nsuch a strange topic out of nowhere!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、変じゃない。\nお前らの気持ちはちゃんと受け止める。",
+    "translation": "No, it's not strange.\nI understand your feelings."
+  },
+  {
+    "character": "五月",
+    "japanese": "……ええ。\nしっかりしてくださいね、上杉君。",
+    "translation": "Yes.\nPlease be strong, Uesugi-kun."
+  }
+]

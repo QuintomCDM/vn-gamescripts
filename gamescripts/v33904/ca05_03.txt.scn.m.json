@@ -1,0 +1,467 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "……えーと、俺はどうすりゃいいんだ？",
+    "translation": "...Uhh, what should I do?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ホテルの部屋ってのは、\n　つまり寝るための部屋だろ？\n　なのに、なんでこんなに広いんだ？）",
+    "translation": "(A hotel room is basically a room for sleeping,\n right? Why is it so big?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（これじゃ落ち着かねぇ！\n　なにかしてねぇと持て余してる感が凄まじい！\n　俺１人ならもっと狭い部屋でいいんだが！？）",
+    "translation": "(I can't relax like this! It's too overwhelming!\n I need to do something! \n A smaller room would have been better since I'm alone!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（デスクと椅子は一応あるし、やっぱ勉強するか？\n　勉強に向いてるとは言えない作りだが）",
+    "translation": "(There is a desk and a chair, so...should I just study then?\n It's not really made for studying though.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ん？　誰だ？）",
+    "translation": "(Hm? Who is it?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はい――",
+    "translation": "Yes%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "って、い、五月っ？",
+    "translation": "Woah, I-Itsuki?"
+  },
+  {
+    "character": "五月",
+    "japanese": "こんばんは。",
+    "translation": "Good evening."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう……。\nどうしたんだよ、急に。",
+    "translation": "H-hey...\nWhat's going on, all of a sudden?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あの、お部屋に……お邪魔してもいいですか？",
+    "translation": "Um, can I...come into your room?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、用ならここで聞く。",
+    "translation": "We can talk right here. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（この時間に部屋の中へ入れるのは、\n　さすがにどうかと思うし）",
+    "translation": "(I think it might not be a good idea to go \n into the room at this hour...)"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、その、特に用はないのです。\nただ上杉君とお話をしたくて。",
+    "translation": "No, it's just...it's nothing in particular.\nI just wanted to talk with you, Uesugi-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "話って、それが用なんじゃないのか？",
+    "translation": "You sure it's nothing more than a chat?"
+  },
+  {
+    "character": "五月",
+    "japanese": "話といっても重要なことではなくて、その……。",
+    "translation": "Well, even though I say talk, it's not \nexactly anything important..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（一緒に過ごしたいってことか……！）",
+    "translation": "(...She wants to spend time with me!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかった、だったら立ち話はあれだよな。\n入ってくれ。",
+    "translation": "Alright, but let's at least talk while standing.\nCome on in."
+  },
+  {
+    "character": "五月",
+    "japanese": "お邪魔します。",
+    "translation": "Pardon the intrusion. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "話があるならラウンジに行くか？\nその、部屋で２人きりは嫌だろ？",
+    "translation": "We could go to the lounge, if you want to talk?\nYou don't want to be alone with me in my room, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（付き合ってるとはいえ、\n　こんな時間に男と２人ってのはさすがにな）",
+    "translation": "(Even though we're dating,\n being alone with me in my room\n at this hour is a bit much.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "あの、気遣ってくださるのは嬉しいのですが、\n少しお話をしたいだけなので。\nあなたがよければ、お部屋で……。",
+    "translation": "Well, I'm glad you're considerate,\nbut I just wanted to talk a little.\nIf it's okay with you, we can talk in your room..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうか。\nじゃあ、入ってくれ。",
+    "translation": "I-I see.\nWell, come on in then."
+  },
+  {
+    "character": "五月",
+    "japanese": "はい、ありがとうございます。",
+    "translation": "Okay, thank you very much."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうぞ入ってくれ。",
+    "translation": "Come on in."
+  },
+  {
+    "character": "五月",
+    "japanese": "あっ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん？　なんだ？",
+    "translation": "Huh? What is it?"
+  },
+  {
+    "character": "五月",
+    "japanese": "い、いえ、その……\n突然、不躾なことを言ってしまってすみません。",
+    "translation": "W-well, um...\nI'm sorry for suddenly saying something so forward."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー……。\n確かに、この時間に異性の部屋に来るのは\nどうかとは思うぞ？",
+    "translation": "Ahhh...\nActually, I guess it is a little much to go\ninto a guy's room at this hour, huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "けど、俺も……お前と過ごしたいって\n思ってるところはあるし。",
+    "translation": "But, I...\nI also wanna spend time with you."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですか……。",
+    "translation": "Is that so..."
+  },
+  {
+    "character": "五月",
+    "japanese": "では、お邪魔します。",
+    "translation": "Well then, pardon the intrusion. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう。",
+    "translation": "Yeah. "
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（まさか、五月から俺の部屋に来るなんて。\n　こんな事態はまったく想定してなかった！）",
+    "translation": "(I never expected Itsuki to come to my room.\n I didn't anticipate this situation at all!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（部屋に２人きりのこの状況、\n　キスをするなら絶好のチャンス――）",
+    "translation": "(Although, this situation of being alone in my room with her\n is a perfect opportunity to kiss her%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（って、がっつくんじゃない俺！\n　まだ旅行は始まったばかりだぞ、\n　もっと慎重に事を運ぶんだ！）",
+    "translation": "(N-no, I shouldn't be too aggressive!\n The trip has only just begun,\n I need to handle things more carefully!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういや、俺の部屋に来るってこと\n他の奴らには言ってきたのか？",
+    "translation": "By the way, did you tell the others\nthat you were coming to my room?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、一花には話してきました。\n二乃や三玖が相手でも、ちゃんと話したと思います。",
+    "translation": "Yes, I told Ichika about it.\nI think it would've gone fine\nwith Nino and Miku as well."
+  },
+  {
+    "character": "五月",
+    "japanese": "みんなは私たちの交際を認めてくれていますから。\n黙っている理由はありませんよね。",
+    "translation": "Everyone approves of our relationship,\nso there's no reason to keep it a secret, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ああ。",
+    "translation": "...Right."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（俺の告白に五月が返事をくれるまで、\n　姉妹でどんなやり取りがあったのかは知らない。\n　あいつらも俺に話そうとはしなかった）",
+    "translation": "(I actually have no idea what kind of interaction took place \n between all the sisters until Itsuki responded to \n my confession. They didn't tell me anything.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ただ、それぞれが\n　納得できる形にはなったのだと思う）",
+    "translation": "(However, I think they each came to an agreement\n that they could accept.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（でなければ、こうして\n　みんな揃って卒業旅行なんてできないはずだ）",
+    "translation": "(Otherwise, we wouldn't have been able\n to go on this graduation trip together.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "とはいえ……\n交際と言っても、私たちは\n特になにが変わったわけでもありませんが。",
+    "translation": "Although...\nDespite the fact that we're in a relationship,\nnothing has actually changed for us."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ま、まあ、お互い受験で忙しかったからな。",
+    "translation": "W-well, we were both busy with exams, after all."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "受験生は勉強第一だ。\n恋愛にうつつを抜かして\n大学に落ちるなんて許されねぇし。",
+    "translation": "And, as students, studying came first. \nWe couldn't afford to get distracted from university prep \njust because we're in a relationship. "
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですね……。",
+    "translation": "I suppose so..."
+  },
+  {
+    "character": "五月",
+    "japanese": "あの、上杉君。\n改めて、ありがとうございました。\n私が合格できたのはあなたのおかげです。",
+    "translation": "Um, Uesugi-kun. Thank you again for everything.\nI was able to pass thanks to you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺は家庭教師として当然の仕事をしただけだ。\nお前が頑張った結果だろ。",
+    "translation": "I just did my job as a tutor.\nYou passed because you worked hard."
+  },
+  {
+    "character": "五月",
+    "japanese": "それでも、です。\nあなたのおかげで、\n自分の夢を追いかけることができるのですから。",
+    "translation": "Even so. Thanks to you, I can now pursue my dream."
+  },
+  {
+    "character": "五月",
+    "japanese": "進学も決まって、これからは……。",
+    "translation": "Now that I've been accepted to university,\nfrom now on..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……これからは？",
+    "translation": "...From now on?"
+  },
+  {
+    "character": "五月",
+    "japanese": "これからは……やっぱり……。",
+    "translation": "From now on... I'm..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうした？",
+    "translation": "What's wrong?"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、五月？",
+    "translation": "Hey, Itsuki?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あの……もう少しここにいていいですか？",
+    "translation": "Um... Can I stay here a little longer?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあっ？\n答えになってないぞ、なにか言おうとしてただろ？",
+    "translation": "Huh?\nThat doesn't really answer my question.\nWas there something you wanted to say?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……なんでもありません。",
+    "translation": "...It's nothing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、なんでもなくはなさそうな――",
+    "translation": "I mean, it doesn't seem like it's nothing%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "言いましたよね？\n一緒にいたいと思ってるって。",
+    "translation": "You said it, right?\nThat you want to be with me."
+  },
+  {
+    "character": "五月",
+    "japanese": "私もです。\n恋人と……一緒にいたいから……。",
+    "translation": "Me too.\nI want to be with you...\nas your significant other..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうか……。",
+    "translation": "O-oh... Really?"
+  },
+  {
+    "character": "五月",
+    "japanese": "こ、恋人と……一緒にいたいと思ってはダメですか？",
+    "translation": "I-is it wrong...to want to be with you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "っ……。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だ……ダメじゃない、と思うぞ。\n俺だって五月と一緒にいたい。",
+    "translation": "I don't...I don't think it's wrong.\nI want to be with you too, Itsuki."
+  },
+  {
+    "character": "五月",
+    "japanese": "……よかった、安心しました。",
+    "translation": "...Oh good. I'm relieved."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（これはまずい。\n　恋人って意識し始めた途端に、\n　なにを話していいかわからなくなってきた！）",
+    "translation": "(Uh oh.\n As soon as I started thinking of her as my lover,\n I don't know what to say anymore!)"
+  },
+  {
+    "character": "五月",
+    "japanese": "きょ、今日はいい天気でしたね。\n明日も晴れてくれるといいのですが。",
+    "translation": "Th-the weather was nice today, wasn't it?\nI hope it stays sunny tomorrow."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "大丈夫だろ。\n天気予報じゃ、しばらくは晴れだったし。",
+    "translation": "It should be fine.\nThe weather forecast said it'll be clear for a while."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですか。",
+    "translation": "I see."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そういや今日の夕飯、\nやっぱり海鮮の美味さはさすがだったな！",
+    "translation": "S-speaking of which, about today's dinner.\nAs expected, the seafood was beyond delicious!"
+  },
+  {
+    "character": "五月",
+    "japanese": "え、ええ。\nお刺身の新鮮さには驚きましたね。",
+    "translation": "Y-yes.\nI was surprised by how fresh the sashimi was."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……世の恋人たちは\n　こういう時、どんな話をするんだ！？\n　まったくわからん！！）",
+    "translation": "(What do lovers usually talk about\n in moments like this?!\n I have no idea!!)"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ……。\nそろそろ戻りますね、時間も時間ですので。",
+    "translation": "Ah...\nIt's about time I head back,\nisn't it? It's getting late."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう。\nその、夜道に気をつけてな。",
+    "translation": "Y-yeah.\nBe careful going back. "
+  },
+  {
+    "character": "五月",
+    "japanese": "ホテルの中を歩くだけなので、\n危ないことなんてありませんよ。",
+    "translation": "I'm just walking around the hotel,\nso there's nothing to worry about."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そりゃそうだ。\nははは……。",
+    "translation": "That's true.\nHahaha..."
+  },
+  {
+    "character": "五月",
+    "japanese": "でも、ありがとうございます。\nおやすみなさい上杉君。",
+    "translation": "But, thanks a lot.\nGood night, Uesugi-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、おやすみ。",
+    "translation": "Yeah, good night."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はああぁぁぁぁ……。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（恋人らしいってなんだ？\n　経験したことなんて当然ねぇし\n　まったくわからねぇ！）",
+    "translation": "(What does it mean to act like a lover?\n I have no experience, so I have no idea!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……まあ、気にしてても仕方ない。",
+    "translation": "Well...there's no point in worrying about it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（上手くはいかなかったが、五月も俺と\n　恋人らしく過ごしたいって思ってくれてることは\n　確認できた。これは収穫だ）",
+    "translation": "(It didn't go smoothly, but I confirmed that Itsuki\n wants to spend time with me as a lover.\n That's progress.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（まだ旅行は始まったばかり、\n　明日からが本番だぜ……！）",
+    "translation": "(The trip has just begun.\n Tomorrow is when things really start!)"
+  }
+]

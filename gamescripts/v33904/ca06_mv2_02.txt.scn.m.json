@@ -1,0 +1,447 @@
+[
+  {
+    "character": "五月",
+    "japanese": "これは由々しき問題ですね。",
+    "translation": "This is a serious problem."
+  },
+  {
+    "character": "四葉",
+    "japanese": "う～ん、なんだろうね？\n同じに見えるんだけど。",
+    "translation": "Hmm, I'm not sure. They look the same to me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あれは五月と四葉か。\n　看板の前でなにを悩んでるんだ）",
+    "translation": "(Is that Itsuki and Yotsuba?\n What are they worrying about\n in front of that signboard?)"
+  },
+  {
+    "character": "五月",
+    "japanese": "あっ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ、上杉さん？",
+    "translation": "Oh? Uesugi-san?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よう、偶然だな。",
+    "translation": "Yo. What a coincidence."
+  },
+  {
+    "character": "五月",
+    "japanese": "どうしてここに？",
+    "translation": "Why did you come here?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一応、自由行動だしな。\nなんだ、俺が声をかけたらまずかったのか？",
+    "translation": "Just taking a stroll.\nWhat? Was it wrong of me to come say hi?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……さすがに、\n１人で過ごすつもりはないようですね。",
+    "translation": "...Seems like you didn't plan on\nspending time alone."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか、その手があったか。",
+    "translation": "So, you played that hand, huh?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いま、なにか言いましたか？",
+    "translation": "Did you say something just now?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、なんでもない！",
+    "translation": "No, nothing!"
+  },
+  {
+    "character": "五月",
+    "japanese": "発言には気をつけてくださいね？",
+    "translation": "Please watch what you say, alright?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……五月のやつ、やっぱ不機嫌だな）",
+    "translation": "(...That Itsuki, she's still in a bad mood.)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、あの！\nそれより、上杉さんに聞きたいことがあるんです。",
+    "translation": "Uh, um!\nMore importantly, I have something to ask you,\nUesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？\n……ああ、なんだ？",
+    "translation": "Wha?\n...Yeah, what is it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ズバリ！　沖縄そば問題です！",
+    "translation": "Tah-dah! The Okinawa soba problem!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "沖縄そば？",
+    "translation": "Okinawa soba?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別に強制されてるわけじゃないんだ。\nどうしようが俺の勝手だろ。",
+    "translation": "I'm not being forced to do anything.\nWhat I do is my own business, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "それは……そうですが。",
+    "translation": "Well... That is true."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、せっかく旅行なんだしな。\n１人で見て回るのももったいないと思っただけだ。",
+    "translation": "You know, since we're on a trip,\nI just thought it would be a waste\nto go around by myself."
+  },
+  {
+    "character": "五月",
+    "japanese": "勝手ですね。",
+    "translation": "That's your decision, though."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ったく。\nお前が面倒くさい提案したからだろ。",
+    "translation": "Gimme a break.\nIt's all because you made a troublesome suggestion."
+  },
+  {
+    "character": "五月",
+    "japanese": "それでも、考えてくれたのですね。",
+    "translation": "Still, you gave it some thought."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、あの！\nそれより、上杉さんに聞きたいことがあるんです。",
+    "translation": "Uh, um!\nMore importantly, I have something to ask you,\nUesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？\n……ああ、なんだ？",
+    "translation": "Wha?\n...Yeah, what is it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ズバリ！　沖縄そば問題です！",
+    "translation": "Tah-dah! The Okinawa soba problem!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "沖縄そば？",
+    "translation": "Okinawa soba?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さすがに、そこまでじゃねぇよ。",
+    "translation": "That's going a bit too far, don't you think?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そうでしょうか？\nあなたは意外と鈍感ですから、少し心配していました。",
+    "translation": "I don't think so?\nYou're surprisingly insensitive,\nso I was a little worried."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いくら俺でも、それくらいは空気を読む。\nなんたって、お前らと一緒に来た\n卒業旅行なんだからな。",
+    "translation": "Even I can read the atmosphere to some extent.\nBesides, this is a graduation trip \nand I'm here with you guys."
+  },
+  {
+    "character": "五月",
+    "japanese": "……そうですね。\nすみません、少し言いすぎました。",
+    "translation": "...You're right.\nI'm sorry, I was a little too harsh."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、あの！\nそれより、上杉さんに聞きたいことがあるんです。",
+    "translation": "Uh, um!\nMore importantly, I have something to ask you,\nUesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？\n……ああ、なんだ？",
+    "translation": "Wha?\n...Yeah, what is it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ズバリ！　沖縄そば問題です！",
+    "translation": "Tah-dah! The Okinawa soba problem!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "沖縄そば？",
+    "translation": "Okinawa soba?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "この『沖縄そば』と『ソーキそば』って、\n一体なにが違うのかわからなくて困ってたんです。\nねっ、五月？",
+    "translation": "I was having trouble figuring out\nwhat the difference is between 'Okinawa soba'\nand 'soki soba.' Right, Itsuki?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ。\n他にも『てびちそば』や『あーさそば』など、\n初めて聞くものが多くて。",
+    "translation": "Yeah. There were so many kinds\nI heard of for the first time,\nlike 'tebichi soba' and 'asa soba.'"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、最初からわかるように説明してくれ。",
+    "translation": "Hold on.\nStart from the beginning, would you?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ほら、これです。\n上杉さんも見てみてください。",
+    "translation": "Here.\nTake a look, Uesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、店のチラシか？",
+    "translation": "What, is it a flyer for a store?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "通りで配っていたのをもらったんですが、\nもうなにがなんやらで。",
+    "translation": "I got one when they were handing them out,\nbut I already don't know what's what."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "料理の写真が載ってるのは\n『沖縄そば』と『ソーキそば』だけなんだな。",
+    "translation": "Only 'Okinawa soba' and 'soki soba'\nhave photos of the dishes."
+  },
+  {
+    "character": "四葉",
+    "japanese": "どちらも美味しそうなお肉がのってますが、\n見た感じでは違いがわからなくて。",
+    "translation": "Both have delicious looking meats,\nbut I can't tell the difference\njust by looking at them."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺も食い物関係は得意じゃないからな。\nスマホで調べたほうが早くないか？",
+    "translation": "I'm not good at food-related stuff either.\nShouldn't we just search on our smartphones?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうなんですけど、その前に少し考えてみようって\n五月と話してたところだったんです。",
+    "translation": "That's true,\nbut we were just talking about thinking about it\non our own a little bit first, Itsuki and I."
+  },
+  {
+    "character": "五月",
+    "japanese": "最初は、ラーメンとチャーシューメンのような\n関係かと思ったのですが、\nどちらもお肉がのっていますし。",
+    "translation": "At first, I thought it was like ramen and chashu-men \nnoodles, since both have meat in them."
+  },
+  {
+    "character": "四葉",
+    "japanese": "この『てびちそば』や『あーさそば』も謎です！",
+    "translation": "But, these 'tebichi soba' and 'asa soba' dishes\nremain mysteries!"
+  },
+  {
+    "character": "五月",
+    "japanese": "せめて、もう少し写真が載っていれば\n想像もできるのですが。",
+    "translation": "At least if there were a few more photos,\nI could imagine it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、意外と名前にヒントがあるのかもしれないぞ。",
+    "translation": "No, there might be hints in the names."
+  },
+  {
+    "character": "四葉",
+    "japanese": "おお、上杉さんの推理タイム突入ですね！",
+    "translation": "Oh, it's time for some Uesugi-san deduction!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ヒントですか？\n例えば？",
+    "translation": "Hints? Like what?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さっき、お前が言っていたラーメンと一緒だ。",
+    "translation": "It's like the comparison you just made with ramen."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "チャーシューじゃなくて\n味噌や醤油で考えるとわかりやすいんじゃないか？",
+    "translation": "If you think of it in terms of miso or soy sauce\ninstead of chashu, it's easier to understand, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ん？　味付けが違うってことですか？",
+    "translation": "Huh? Are you saying the seasoning is different?"
+  },
+  {
+    "character": "五月",
+    "japanese": "なるほど。\nこの場合、共通しているのは\nどれも『そば』だということですね？",
+    "translation": "I see. In this case,\nwhat they all have in common\nis that they are all 'soba,' right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それを外して考えれば、残るのは\n『沖縄』『ソーキ』『てびち』『あーさ』だな。",
+    "translation": "If you remove that, what's left is 'Okinawa,'\n'soki,' 'tebichi,' and 'asa.'"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふんふん……。",
+    "translation": "Hm, hm..."
+  },
+  {
+    "character": "五月",
+    "japanese": "なら、恐らく『てびち』は豚足料理のことです。",
+    "translation": "Then, 'tebichi' is probably a pig's feet type dish."
+  },
+  {
+    "character": "四葉",
+    "japanese": "とんそく……。",
+    "translation": "Pig..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、豚の足？",
+    "translation": "Wow, feet of a pig?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ。\n煮付けや唐揚げにして頂くようです。",
+    "translation": "It seems like it could be boiled or fried and then eaten."
+  },
+  {
+    "character": "五月",
+    "japanese": "とても美味しいうえにコラーゲンたっぷりで、\n美容にも効果があるそうですよ！",
+    "translation": "It's very delicious and full of collagen.\nIt's also said to have an effect on your beauty!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう……。",
+    "translation": "O-okay..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、『てびちそば』は\n豚足をトッピングした『そば』？",
+    "translation": "Then, is 'tebichi soba'\na soba topped with pig's feet?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それなら、残った『ソーキ』と『あーさ』も\nトッピングのことだろうな。",
+    "translation": "If that's the case, 'soki' and 'asa'\nmust also be toppings."
+  },
+  {
+    "character": "四葉",
+    "japanese": "んん？\nこのチラシの写真だと\n『沖縄そば』にも角煮みたいのがのってますね。",
+    "translation": "Hmm? In the photo of this flyer,\n'Okinawa soba' also has something\nthat looks like braised pork on it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうなると、\nこの『角煮』が『沖縄』ってことですか！？",
+    "translation": "In that case, does 'Okinawa' mean 'braised pork'?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、普通に考えて地名だろ。",
+    "translation": "No, that's just the name of where we're at, Yotsuba."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "『沖縄そば』がベースで、\nのっているトッピングによって名前が変わる。\nここまでは正しいと思うが。",
+    "translation": "'Okinawa soba' is the base, and the name changes\ndepending on the toppings. I think that much is correct."
+  },
+  {
+    "character": "五月",
+    "japanese": "『ソーキ』と『あーさ』がわかりません。",
+    "translation": "I don't know about 'soki' and 'asa,' though."
+  },
+  {
+    "character": "四葉",
+    "japanese": "沖縄の言葉は独特なものが多いしね。",
+    "translation": "The Okinawan language has many unique words."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、さすがにギブアップだな。",
+    "translation": "Yeah, I'm definitely giving up."
+  },
+  {
+    "character": "四葉",
+    "japanese": "仕方ありません。\nじゃあ、調べちゃいますか。",
+    "translation": "It can't be helped.\nShall we look it up then?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "なんと……そんな違いがあったとは！",
+    "translation": "What... I can't believe\nthere's such a difference!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？\nもったいぶらずに教えてくれよ。",
+    "translation": "What's up?\nJust tell me without putting on airs."
+  },
+  {
+    "character": "四葉",
+    "japanese": "実はですね、『ソーキそば』にのっているのは\nただのお肉じゃなく……。",
+    "translation": "Well, you see, the meat on the 'soki soba'\nis not just any meat..."
+  },
+  {
+    "character": "五月",
+    "japanese": "ゴクリ……。",
+    "translation": "Gulp..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "スペアリブだそうです！",
+    "translation": "It seems to be spare ribs!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ、そうなのか。",
+    "translation": "Oh, really?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ？\nあんまり驚いてないですね。\nちなみに『沖縄そば』のお肉は三枚肉だそうですよ。",
+    "translation": "Huh?\nYou don't seem too surprised. By the way,\nthe meat in 'Okinawa soba' is said to be pork belly."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "驚こうにも肉の種類がよくわからん。",
+    "translation": "Even if I wanted to be surprised,\nI'm not sure what type of meat that is."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ああ、そういうことでしたか。",
+    "translation": "Ah, that's what's going on here."
+  },
+  {
+    "character": "五月",
+    "japanese": "スペアリブは骨付き肉の料理です。\n確かに、よく見れば違いがわかりますね。",
+    "translation": "Spare ribs are a dish made with bone-in meat.\nCertainly, if you look closely,\nyou can tell the difference."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "つまり『ソーキ』は\n『スペアリブ』の沖縄での言い方ってことか。\nじゃあ、『あーさ』もなにかの肉なのか？",
+    "translation": "So, 'soki' is the Okinawan way of saying\n'spare ribs.'\nThen, is 'asa' also some kind of meat?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃなくて、『あーさ』は海藻の『あおさ』です。",
+    "translation": "No, 'asa' comes from the seaweed 'aosa.'"
+  },
+  {
+    "character": "五月",
+    "japanese": "それは……残念です。",
+    "translation": "That's...unfortunate."
+  },
+  {
+    "character": "四葉",
+    "japanese": "面白いですねー。\n明日から使っていきたい沖縄豆知識を\nゲットできました！",
+    "translation": "Interesting, riiight?\nI got some Okinawan trivia\nthat I get to use from tomorrow!"
+  },
+  {
+    "character": "五月",
+    "japanese": "……どういう機会で使うのでしょう？",
+    "translation": "...In what occasion would you use it?"
+  }
+]

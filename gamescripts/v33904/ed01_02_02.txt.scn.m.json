@@ -1,0 +1,332 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "ふう……。",
+    "translation": "Whew..."
+  },
+  {
+    "character": "式場職員",
+    "japanese": "お疲れ様でございました。\n披露宴開始まで、しばらくおくつろぎください。",
+    "translation": "You must be worn out.\nPlease relax for a while until the reception starts."
+  },
+  {
+    "character": "式場職員",
+    "japanese": "新婦様のお色直しがすみましたら\nまた、お声がけさせていただきます。",
+    "translation": "After the bride has finished changing,\nI will let you know."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、あの。\n新婦の……姉妹を見ませんでしたか？",
+    "translation": "E-excuse me.\nHave you by any chance...seen the bride's sisters?"
+  },
+  {
+    "character": "式場職員",
+    "japanese": "はい。\nお早いうちから、いらしていましたよ。",
+    "translation": "Yes.\nThey have been here since early on."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうですか。",
+    "translation": "Is that so."
+  },
+  {
+    "character": "式場職員",
+    "japanese": "では、失礼いたします。",
+    "translation": "Well then, please excuse me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、はい。",
+    "translation": "Ah, yes?"
+  },
+  {
+    "character": "式場職員",
+    "japanese": "新郎様。\n新婦のご親族様がお越しくださいました。",
+    "translation": "Dear groom.\nThe bride's family has arrived."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、そうですか！",
+    "translation": "Ah, really?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よかった！\n来てないかと思ったぞ。\nなんで式に出てくれなかったんだ？",
+    "translation": "Great!\nI was starting to think they wouldn't come.\nWhy didn't they show up for the ceremony?"
+  },
+  {
+    "character": "マルオ",
+    "japanese": "すまないね。",
+    "translation": "I apologize."
+  },
+  {
+    "character": "マルオ",
+    "japanese": "来るべきか否か、直前まで思案していたんだ。",
+    "translation": "I was considering whether to attend the ceremony or not\nuntil the last minute."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おっ、お父さん！！",
+    "translation": "D-Dad!"
+  },
+  {
+    "character": "マルオ",
+    "japanese": "君にお父さんと呼ばれる筋合いはない。",
+    "translation": "You have no reason to call me 'Dad.'"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お越しくださって、ありがとうございます！",
+    "translation": "Thank you so much for coming!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "てっきり僕とは会ってくれないものかと……。\n昔は若さゆえの数々のご無礼を……！",
+    "translation": "I thought you might not want to see me...\nI was quite rude when I was younger!"
+  },
+  {
+    "character": "マルオ",
+    "japanese": "上杉君。",
+    "translation": "Uesugi-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は、はいっ！",
+    "translation": "Y-yes, sir?!"
+  },
+  {
+    "character": "マルオ",
+    "japanese": "単刀直入に聞く。",
+    "translation": "I shall ask you straight out."
+  },
+  {
+    "character": "マルオ",
+    "japanese": "一花は心から喜んでいるかい？",
+    "translation": "Is Ichika truly happy, from the bottom of her heart?"
+  },
+  {
+    "character": "マルオ",
+    "japanese": "二乃は心から喜んでいるかい？",
+    "translation": "Is Nino truly happy, from the bottom of her heart?"
+  },
+  {
+    "character": "マルオ",
+    "japanese": "三玖は心から喜んでいるかい？",
+    "translation": "Is Miku truly happy, from the bottom of her heart?"
+  },
+  {
+    "character": "マルオ",
+    "japanese": "四葉は心から喜んでいるかい？",
+    "translation": "Is Yotsuba truly happy, from the bottom of her heart?"
+  },
+  {
+    "character": "マルオ",
+    "japanese": "五月は心から喜んでいるかい？",
+    "translation": "Is Itsuki truly happy, from the bottom of her heart?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "！",
+    "translation": "!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はい。\n僕も同じく。",
+    "translation": "Yes.\nAs am I."
+  },
+  {
+    "character": "マルオ",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "マルオ",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、あの……？",
+    "translation": "Uuh, uumm…?"
+  },
+  {
+    "character": "マルオ",
+    "japanese": "ワインを頂こう。",
+    "translation": "I'll have some wine."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？\nあ……。",
+    "translation": "Huh?\nAlright..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はい、ただいま。",
+    "translation": "Here you are, sir."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……母が死んだのは１０年以上前のことです。",
+    "translation": "...It's been over ten years\nsince my mother passed away."
+  },
+  {
+    "character": "マルオ",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "事故が起きたのは、\n母の夢であった自分の料理店を出した直後でした。",
+    "translation": "The accident happened\njust after she opened her dream restaurant."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うちに残されたのは、\n開業資金のために借りた多額の借金だけ。",
+    "translation": "All that was left to our family\nwas a large amount of debt\nborrowed for the startup capital."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "親父が二乃と三玖にあの空き店舗を貸したのも、\n半分はあいつらを助けるため――",
+    "translation": "Perhaps half of the reason my Dad\nrented that empty store to Nino and Miku\nwas to help them%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そして半分は\n母の夢を託すためだったのかもしれません。",
+    "translation": "And perhaps the other half\nwas to entrust my mother's dream to them."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "１人の女性を一生かけて愛する。\n俺は……そんな男になりたい。",
+    "translation": "I want to be a man\nwho loves one woman for his entire life."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "２人の父のように。",
+    "translation": "Like both of the dads I know."
+  },
+  {
+    "character": "マルオ",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "マルオ",
+    "japanese": "よしてくれ。",
+    "translation": "Stop it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あっ、すみません。",
+    "translation": "Ah, I'm sorry."
+  },
+  {
+    "character": "マルオ",
+    "japanese": "慣れていないんだ。\n父と呼ばれることにはね。",
+    "translation": "I'm not used to you calling me 'Dad.'"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "式場職員",
+    "japanese": "新郎様。\n新婦様がお呼びですのでお越しください。",
+    "translation": "Dear groom.\nThe bride is calling for you. This way, please. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ……。\nえっと……。",
+    "translation": "Ah...\nUm..."
+  },
+  {
+    "character": "マルオ",
+    "japanese": "行きたまえ。",
+    "translation": "Go."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "マルオ",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "勇也",
+    "japanese": "けっけっけ。",
+    "translation": "Heh-heh-heh."
+  },
+  {
+    "character": "マルオ",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "勇也",
+    "japanese": "マルオよぉ。\n俺らも老けたもんだな。",
+    "translation": "Maruo, my man.\nWe've gotten old."
+  },
+  {
+    "character": "マルオ",
+    "japanese": "一緒にするな。\n僕のほうが見た目年齢が５歳は若い。",
+    "translation": "Don't associate me with you.\nI look five years younger than you."
+  },
+  {
+    "character": "勇也",
+    "japanese": "んだと！\n俺だってお肌ピチピチじゃい！！",
+    "translation": "What'd you say?!\nMy skin is still tight!!"
+  },
+  {
+    "character": "マルオ",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "勇也",
+    "japanese": "お前、酒は祝い事にしか\n飲まないんじゃなかったのか？",
+    "translation": "You only drink on celebratory occasions, right?"
+  },
+  {
+    "character": "マルオ",
+    "japanese": "そうだ。\nだから飲んでいる。",
+    "translation": "That's right. That's why I'm drinking now."
+  },
+  {
+    "character": "勇也",
+    "japanese": "ッハ！\nそうかそうか！\n苦手なんだろ、酔っ払うなよ？",
+    "translation": "HA!\nI see, I see!\nYou're a lightweight, eh? Don't get drunk."
+  },
+  {
+    "character": "マルオ",
+    "japanese": "言われるまでもない。",
+    "translation": "There's no need to say that."
+  },
+  {
+    "character": "勇也",
+    "japanese": "……なあ。\nあいつら、うまくいくと思うか？",
+    "translation": "...Hey.\nDo you think they'll be happy?"
+  },
+  {
+    "character": "マルオ",
+    "japanese": "そんなもの、親が判断できる事柄ではないだろう。",
+    "translation": "Such matters cannot be judged by parents alone."
+  },
+  {
+    "character": "マルオ",
+    "japanese": "ただし、一筋縄ではいかないことは確かだ。\nなにしろ相手は僕の娘だからね。",
+    "translation": "However, it's certain that it won't be easy.\nAfter all, your son is marrying into OUR family."
+  }
+]

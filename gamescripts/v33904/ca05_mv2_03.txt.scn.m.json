@@ -1,0 +1,382 @@
+[
+  {
+    "character": "三玖",
+    "japanese": "これ、さっき行った首里城だ。",
+    "translation": "This is that Shurijo Castle we went to earlier."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あ！　ウミカジテラスの絵もあるのね！",
+    "translation": "Ah! There's also a picture of Umikaji Terrace!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "気持ちはわかるわ。\nやっぱり、この場所の景色は描きたくなるわよ。",
+    "translation": "I understand how the artist feels.\nThe scenery of this place makes you want to draw it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、私も同じとこで写真撮ったし。",
+    "translation": "Yeah, I took a photo at the same spot."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "二乃に三玖か？\nなにを見てるんだ？",
+    "translation": "Nino and Miku, eh.\nWhat are you looking at?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、２人とも。",
+    "translation": "Ah, it's you two."
+  },
+  {
+    "character": "二乃",
+    "japanese": "手書きのポストカードよ。\nほら、沖縄の風景が描かれてるの。",
+    "translation": "Oh, we're looking at hand-drawn postcards.\nLook, they have illustrations of Okinawa's scenery."
+  },
+  {
+    "character": "五月",
+    "japanese": "わあ……。\nすごく丁寧なイラストですね。",
+    "translation": "Wow...\nThe illustrations are really detailed."
+  },
+  {
+    "character": "二乃",
+    "japanese": "地元のアーティストが描いてるみたい。\nよく知る景色だからこそって感じよね。",
+    "translation": "It seems like a local artist drew them.\nIt's because they're familiar with the scenery."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、どれもその場所の情景が浮かんできます。",
+    "translation": "Yes, all of them evoke the scenery of each place."
+  },
+  {
+    "character": "三玖",
+    "japanese": "この大きな橋の絵は……\n名前が書いてあるけど、なんて読むんだろ？",
+    "translation": "What about this big bridge...\nThe name's written, but how do you read it?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ああ、それは古宇利（こうり）大橋よ。",
+    "translation": "Oh, that's Kouri Bridge."
+  },
+  {
+    "character": "三玖",
+    "japanese": "よく知ってるね。",
+    "translation": "You know your stuff."
+  },
+  {
+    "character": "二乃",
+    "japanese": "古宇利島に行ってみたくて、ちょっと調べたの。\nまあ、今回は機会がなさそうだけど。",
+    "translation": "I wanted to visit Kouri Island,\nso I did some research. Well, it doesn't seem\nlike we'll have the chance this time."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確か、海の上を貫く橋で\n沖縄でも有数の絶景として有名なんだよな。\n確かに、この絵を見ただけでも納得だ。",
+    "translation": "I heard it's a famous scenic spot in Okinawa,\nwith a bridge that spans over the sea.\nI can understand why just by looking at this picture."
+  },
+  {
+    "character": "五月",
+    "japanese": "こちらの絵は……青の洞窟？",
+    "translation": "What about this one... Is it the Blue Cave?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それも聞いたことがあるな。\n有名なダイビングスポットじゃなかったか？",
+    "translation": "I've heard of that too. Isn't it a famous diving spot?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "こっちの森みたいな絵も綺麗よ。",
+    "translation": "This forest-like illustration over here is beautiful too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その絵はどこだろうな――",
+    "translation": "I wonder where it is%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "本当に、沖縄って名所がたくさんあるんだ。\n見たことない景色がいっぱい。",
+    "translation": "There really are so many famous places in Okinawa.\nWith so many views I've never seen before."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここのポストカードに描かれているのが\n全部ってわけでもないだろうしな。",
+    "translation": "But I don't think everything in Okinawa\nis illustrated in these postcards."
+  },
+  {
+    "character": "五月",
+    "japanese": "沖縄のすべてを楽しもうと思ったら、\n数日では足りませんね。",
+    "translation": "If we want to fully enjoy Okinawa,\nwe'll need more than just a few days."
+  },
+  {
+    "character": "三玖",
+    "japanese": "もっと長く日程を取ればよかったかな。\nそうすれば色々な場所へ行けたのに。",
+    "translation": "Maybe we should have taken a longer trip.\nThen we could have gone to more places."
+  },
+  {
+    "character": "二乃",
+    "japanese": "いっそのこと、貸別荘を借りて\n１か月くらい滞在するのもありじゃないかしら。",
+    "translation": "Well, why don't we rent a villa\nand stay for about a month?\nThat would be a great way to fully enjoy Okinawa."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それいいかも。\n沖縄を楽しみ尽くせる旅になるよ。",
+    "translation": "That's a great idea.\nIt would be the ultimate trip to enjoy Okinawa."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（貸別荘で１ヶ月……。\n　庶民の俺には想像できない旅だ……）",
+    "translation": "(Renting a villa for a month...\n That's a trip I can't even imagine as a commoner...)"
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、それはいけませんよ！？",
+    "translation": "Th-that's not good, is it?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "え？　どうして？",
+    "translation": "Huh? Why?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "楽しいと思うけど。",
+    "translation": "I think it'd be fun."
+  },
+  {
+    "character": "五月",
+    "japanese": "だ、だって！\n男性と１つ屋根の下だなんて……\nさすがにそれはどうかと思いますっ！",
+    "translation": "B-because! Living under one roof with a man...\nthat's not appropriate, is it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあっ！？",
+    "translation": "WHAAA?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ああ、そういう意味ね。",
+    "translation": "Oh, I see what you mean."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローとは無人島で暮らしたこともあるのに。\n今更だよ。",
+    "translation": "You've lived on a deserted island with Futaro before,\nso it's too late to be worried about that now."
+  },
+  {
+    "character": "五月",
+    "japanese": "う……。\nそれはそうですけど……。",
+    "translation": "Ooh...\nWell, that's true..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "それにあんた、そんなことで照れてる場合？",
+    "translation": "Besides, you're blushing over something like this?"
+  },
+  {
+    "character": "五月",
+    "japanese": "え？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "どうせ将来はフー君と同棲するんでしょ？",
+    "translation": "In the end, you're going to live with Fu-kun, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "五月",
+    "japanese": "ど、ど、同棲……！",
+    "translation": "L-living together!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なにを真っ赤になってるんだ。\n変な想像すんなって。",
+    "translation": "What are you getting all red for?\nDon't imagine weird things."
+  },
+  {
+    "character": "五月",
+    "japanese": "へへへ、変な想像なんてしてませんよ！？\n普通の想像をしていただけです！",
+    "translation": "I-I-I, I wasn't imagining anything weird!\nI was just imagining normal things!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "普通の想像って、なんだそりゃ。",
+    "translation": "What exactly do you mean by 'normal'?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（でもまあ、二乃の言う通り……\n　いつかはそういう日も来るよな）",
+    "translation": "(But, well, as Nino said...\n that day might come eventually.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "とは言っても\nまだそんな先のこと、想像もできないよな。",
+    "translation": "Even so, it's hard to imagine\nsomething so far off in the future."
+  },
+  {
+    "character": "五月",
+    "japanese": "想像は確かに難しいですが――",
+    "translation": "Imagining it is certainly difficult, but%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、いずれはな。\nそういう時も来るかもしれんが。",
+    "translation": "Well, eventually.\nThat time might come too."
+  },
+  {
+    "character": "三玖",
+    "japanese": "否定しないんだ。",
+    "translation": "You're not denying it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "否定することじゃないだろ？\nこれから先を考えれば。",
+    "translation": "There's no need to deny it, right?\nIf you think about the future."
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、そうですね……。",
+    "translation": "Y-yeah..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "とは言っても\nまだそんな先のこと、想像もできないよな。",
+    "translation": "Even so, it's hard to imagine\nsomething so far off in the future."
+  },
+  {
+    "character": "五月",
+    "japanese": "想像は確かに難しいですが――",
+    "translation": "Imagining it is certainly difficult, but%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "同棲というか家族に……。",
+    "translation": "Living together, like a family..."
+  },
+  {
+    "character": "五月",
+    "japanese": "かっ、家族！？",
+    "translation": "A f-family?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、五月は、その……\n結婚のことまで考えて返事をしてくれたんだろ？",
+    "translation": "I mean, Itsuki, um...\nYou did say you were considering marriage, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ええ、確かに言ってたわ。",
+    "translation": "Yeah, she did say that."
+  },
+  {
+    "character": "五月",
+    "japanese": "か、家族……。",
+    "translation": "F-family..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……五月？",
+    "translation": "...Itsuki?"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フリーズしてる。",
+    "translation": "She's frozen."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おい、大丈夫か？",
+    "translation": "H-hey, are you alright?"
+  },
+  {
+    "character": "五月",
+    "japanese": "はっ！！",
+    "translation": "WHAAA!!"
+  },
+  {
+    "character": "五月",
+    "japanese": "す、すみません、大丈夫です。\nちゃんと正気に戻りました。",
+    "translation": "E-excuse me, I'm alright.\nI'm back to my senses."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですよね、いつかは本当に上杉く――\n風太郎と一緒に暮らす日が……。",
+    "translation": "Yes, some day when I actually live with you, Uesu%p-2;――\n%p;Futaro..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "とは言っても\nまだそんな先のこと、想像もできないよな。",
+    "translation": "Even so, it's hard to imagine\nsomething so far off in the future."
+  },
+  {
+    "character": "五月",
+    "japanese": "想像は確かに難しいですが――",
+    "translation": "Imagining it is certainly difficult, but%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "きっと楽しい暮らしになります。\nいえ、絶対にしてみせますっ！",
+    "translation": "I'm sure it will be a fun life together.\nNo, I'll definitely make it happen!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう、そうだな。",
+    "translation": "Y-yeah, I think so too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（どうなるかは想像できないとはいえ、\n　五月の言う通り、楽しいのは間違いないか）",
+    "translation": "(I can't imagine what it will be like,\n but as Itsuki said, it's definitely going to be fun.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "ど、どうでしょう？\nいまのうちから家具を考えておきませんか？\nほら、どんなソファがいいとか！",
+    "translation": "W-what do you think?\nWhy not start thinking about furniture now?\nLike what kind of sofa we want!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いくらなんでも気が早いと思うが……\nまあ、俺は座り心地がよければなんでもいい。",
+    "translation": "I think it's a bit too early for that...\nBut as long as it's comfortable to sit on,\nI don't really mind."
+  },
+  {
+    "character": "五月",
+    "japanese": "それは範囲が広すぎません！？",
+    "translation": "Isn't that too broad of a range?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……２人の空間になってる。",
+    "translation": "...It's becoming their own little space, isn't it."
+  },
+  {
+    "character": "二乃",
+    "japanese": "まったく。\nちょっと茶化そうと思っただけなのに\n見せつけてくれちゃって。",
+    "translation": "Geez.\nI was just trying to tease them a little,\nand they had to go and show me up like this."
+  },
+  {
+    "character": "三玖",
+    "japanese": "けど、さっきも話したけど、\n五月がここまで積極的になるのはやっぱり意外。",
+    "translation": "But, as I mentioned earlier,\nit's surprising how proactive Itsuki has become."
+  },
+  {
+    "character": "三玖",
+    "japanese": "沖縄に来てから変わった気がする。\n理由はわからないけど。",
+    "translation": "I feel like she's changed since coming to Okinawa.\nI don't know why, though."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんにせよ、時と場合を考えて欲しいわねぇ。",
+    "translation": "In any case, I want her to consider\nthe timing and situation."
+  }
+]

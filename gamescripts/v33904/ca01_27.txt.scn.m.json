@@ -1,0 +1,327 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "さあ、ついに卒業旅行最終日です！\n張り切っていきましょーう！",
+    "translation": "Alright then,\nit's finally the last day of our graduation trip!\nLet's give it our all!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ここ、綺麗なところだね。\n日本じゃないみたい。",
+    "translation": "This place is so beautiful.\nIt doesn't feel like Japan."
+  },
+  {
+    "character": "二乃",
+    "japanese": "白い建物と青い海のコントラスト……。",
+    "translation": "The contrast between the white buildings\nand the blue sea..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "まさにリゾートに来たって感じだわ！\nウミカジテラス、いい場所じゃない。",
+    "translation": "It really feels like we're at a resort!\nUmikaji Terrace is such a great spot."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、ここも海外っぽいが\nアメリカンビレッジとはまた違った趣だな。",
+    "translation": "Yeah, this place also feels like we're overseas!\nBut it has a different atmosphere from\nAmerican Village."
+  },
+  {
+    "character": "三玖",
+    "japanese": "沖縄って、本当に色々な楽しみ方があるんだ。",
+    "translation": "There are so many different ways to enjoy Okinawa."
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ、みんな？\n本当に良かったの？\n今日は海水浴とバーベキューの予定だったのに。",
+    "translation": "Hey, everyone?\nAre you really okay with this?\nToday was supposed to be for beach-going and barbecuing."
+  },
+  {
+    "character": "五月",
+    "japanese": "いいんですよ。\n一花はまだ大事を取ったほうがいいでしょうし、\nみんなで決めたことなんですから。",
+    "translation": "It's fine. You should still take care,\nand we all agreed on this plan."
+  },
+  {
+    "character": "二乃",
+    "japanese": "一花は気にしすぎなのよ。",
+    "translation": "You're worrying too much."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "つーか、別に一花に気を遣っただけで\nここに来たわけじゃないぞ？",
+    "translation": "And we didn't come here\njust to accommodate you, Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "え？　そうなの？",
+    "translation": "Huh? You didn't?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、俺たちはまだ\nこの旅行でやり残してることがあるからな！",
+    "translation": "Yeah, there are still things\nwe haven't done on this trip."
+  },
+  {
+    "character": "一花",
+    "japanese": "やり残してること……。",
+    "translation": "Things we haven't done..."
+  },
+  {
+    "character": "一花",
+    "japanese": "あっ、記念品探し！",
+    "translation": "Ah, our souvenir search!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだ！\nお揃いの記念品、まだ見つけられてないだろ？",
+    "translation": "That's right!\nWe still haven't found matching souvenirs for us yet."
+  },
+  {
+    "character": "一花",
+    "japanese": "そっか、そうだった。\n確かにバーベキューどころじゃなかったよ。",
+    "translation": "That's true.\nWe don't have time for a barbecue anyway."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そういうこと。",
+    "translation": "That's right."
+  },
+  {
+    "character": "五月",
+    "japanese": "ここは様々なお店がありますから、\n記念品探しにはうってつけです。",
+    "translation": "This place has a variety of shops,\nso it's perfect for a souvenir search."
+  },
+  {
+    "character": "三玖",
+    "japanese": "というか、今日中に見つけないと。\n明日の午前中には飛行機に乗るんだから。",
+    "translation": "Plus, we have to find them today.\nWe're flying out tomorrow morning."
+  },
+  {
+    "character": "一花",
+    "japanese": "だね！\nよーし、気合い入れて探すぞー！",
+    "translation": "Exactly! Right,\nlet's put some effort into finding them!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふわぁ～、どこからでも海が見える！\n景色を眺めてるだけで楽しいね。",
+    "translation": "Wow, you can see the ocean from anywhere you look!\nIt's fun just to gaze at the scenery."
+  },
+  {
+    "character": "二乃",
+    "japanese": "遠くを見ながら歩いてると迷子になるわよ？",
+    "translation": "If you walk while looking into the distance,\nyou'll get lost, you know?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はっ、確かに気をつけないと。\nらいはちゃん、手を繋ぎましょうか？",
+    "translation": "Ah, you're right, I have to be careful.\nRaiha-chan, should we hold hands?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "大丈夫だよ、そこまで子どもじゃないからね。",
+    "translation": "No thanks, I'm not a kid anymore."
+  },
+  {
+    "character": "五月",
+    "japanese": "……あら？　上杉君は？",
+    "translation": "...Oh? Where's Uesugi-kun?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ、いない！？\nまさか上杉さんが迷子に？",
+    "translation": "Huh? He's not here?!\nCould it be that Uesugi-san got lost?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "捜しに行く？",
+    "translation": "Shall we go look for him?"
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君なら大丈夫でしょ。\nふらっと戻ってくるって。",
+    "translation": "Futaro-kun will be fine.\nHe'll come back on his own."
+  },
+  {
+    "character": "五月",
+    "japanese": "……ふふっ。",
+    "translation": "...Hehe."
+  },
+  {
+    "character": "一花",
+    "japanese": "ん？　なに、五月ちゃん。",
+    "translation": "Hmm? Do you have anything to say, Itsuki-chan?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、一花は上杉君のことを\n心から信頼しているのだな、と思いまして。",
+    "translation": "No, I was just thinking that\nyou really trust Uesugi-kun, Ichika."
+  },
+  {
+    "character": "二乃",
+    "japanese": "確かにそんな顔してたわねぇ。\n彼はちゃんと私のとこに帰ってくるって余裕な顔。",
+    "translation": "Yeah, you had that look on your face.\nYou looked so calm and confident\nthat he would come back to you."
+  },
+  {
+    "character": "一花",
+    "japanese": "わ、私、そんな顔してた？\nなんか恥ずかしい……。",
+    "translation": "D-did I have that look on my face?\nThat's embarrassing..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ねえ、一花。\nフータローとの生活はどうだった？",
+    "translation": "Hey, Ichika, how is it living with Futaro?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そ、そうだね……。",
+    "translation": "W-well..."
+  },
+  {
+    "character": "一花",
+    "japanese": "楽しかった、かな。\nそれが一番。\nやっぱり傍にいられるだけで嬉しい。",
+    "translation": "It was fun, after all.\nThat's the most important thing.\nI'm just happy being by his side."
+  },
+  {
+    "character": "二乃",
+    "japanese": "一応、同棲のシミュレーションをするって理由で\n部屋替えしたはずなんだけど？",
+    "translation": "We changed rooms\nbecause you wanted to simulate living together, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "もちろん、それもちゃんとできたよ。\n同じ部屋で過ごしてわかったこともあった。",
+    "translation": "Of course, and we did that too.\nI learned some things\nby spending time in the same room as him."
+  },
+  {
+    "character": "一花",
+    "japanese": "みんなのおかげで、\nすごく有意義な時間を過ごせたと思う。",
+    "translation": "Thanks to everyone,\nI think I had a really meaningful time."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そっか！\nよかったね、一花。",
+    "translation": "Is that so!\nThat's great, Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、まだまだ勉強しないといけないことも多いなぁ。",
+    "translation": "But there are still a lot of things I need to learn."
+  },
+  {
+    "character": "五月",
+    "japanese": "勉強ですか？",
+    "translation": "Learn?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うん。\n実際に同棲することになったら\nフータロー君に料理作ってあげたいな、とか。",
+    "translation": "Yes. Like cooking for Futaro-kun\nwhen we actually start living together."
+  },
+  {
+    "character": "一花",
+    "japanese": "なんて言えばいいのかな。\n傍にいられるだけで嬉しいのも本当だけど――",
+    "translation": "I don't know what to say. I'm just happy\nbeing by his side%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "傍にいて、お互いにお互いの気持ちを重ねて、\n埋め合っていけたら、もっともっと先に進める。",
+    "translation": "But, if we can be together, \nunderstand and support each other,\nwe can move forward even more."
+  },
+  {
+    "character": "一花",
+    "japanese": "嬉しいからって、\nそこで立ち止まっていちゃダメなんだ。",
+    "translation": "We can't just stand still because we're happy now."
+  },
+  {
+    "character": "一花",
+    "japanese": "というわけだからさ。\n二乃、今度、料理教えて。",
+    "translation": "So, Nino, can you teach me how to cook next time?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "いいけど、授業料は高いわよ？",
+    "translation": "Sure, but my tuition fee is high, you know?"
+  },
+  {
+    "character": "一花",
+    "japanese": "おおっと、そうきますか。\nじゃあ、もっと女優の仕事頑張らないと。",
+    "translation": "Oh, is that so?\nThen I have to work harder as an actress."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、いたいた！\nお前ら、どこ行ってたんだ。",
+    "translation": "Hey, there you are!\nYou guys went somewhere, didn't you?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "えー？\nお兄ちゃんがどっか行っちゃったんだよ。",
+    "translation": "Eh? Big bro,\nyou're the one who went somewhere."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、記念品によさそうなものを見かけて\nチェックしてたら、お前らが先に\n行っちまってたんだよ。",
+    "translation": "No, I was checking out some souvenirs\nthat looked great\nand you guys had gone ahead without me."
+  },
+  {
+    "character": "一花",
+    "japanese": "え？　いいもの？\nなにを見つけたの？",
+    "translation": "Huh? Did you find something good?\nWhat did you find?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それは見てのお楽しみだ。",
+    "translation": "That's a surprise. You'll have to wait and see."
+  },
+  {
+    "character": "一花",
+    "japanese": "お、焦らすね。\nハードル上がったよ？",
+    "translation": "Oh, you're teasing us.\nThe bar has been raised, I see."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くっくっく、そのハードルを越える自信はあるぞ！\nお前ら、ついてこい！",
+    "translation": "Hehehe, I'm confident I can clear that bar.\nCome on, follow me!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "はーい！",
+    "translation": "Okay!"
+  },
+  {
+    "character": "一花",
+    "japanese": "よーし、お手並み拝見だ！",
+    "translation": "Alright, let's see what you've got!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "一花、楽しそう。",
+    "translation": "Ichika looks like she's having fun."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、いまの一花の笑顔は\nどんなドラマで見るものよりも輝いています。",
+    "translation": "Yes, her smile just now\nis shining brighter\nthan anything I've seen in dramas."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうさせてるのがフー君なのは、\nもう疑いようもないわね。",
+    "translation": "It's definitely because of Fu-kun,\nthere's no doubt about that."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん……。",
+    "translation": "Yeah..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、一花がお姉さんなことまでは\nフータローには譲らないけど。",
+    "translation": "But, I won't let Futaro\nsteal our sisterly relationship away."
+  },
+  {
+    "character": "二乃",
+    "japanese": "当然よ。\n私たちが五つ子であることは、\nこれからも変わらないもの。",
+    "translation": "Of course not. Being quintuplets\nis something that will never change for us."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん！\n一花はずっと、私たちのお姉ちゃんだもんね。",
+    "translation": "Yeah! Ichika will always be our big sister,\nforever and ever."
+  }
+]

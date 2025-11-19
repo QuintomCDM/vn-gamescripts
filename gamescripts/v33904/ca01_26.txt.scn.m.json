@@ -1,0 +1,612 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "よかった、熱も下がったな。",
+    "translation": "Your fever has gone down. Good."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、ぐっすり眠らせてもらったし、\nもう元気いっぱいだよ。",
+    "translation": "Yeah, I slept really well,\nand I feel completely fine now."
+  },
+  {
+    "character": "一花",
+    "japanese": "君がずっと看病してくれたおかげ。\n本当にありがとう。",
+    "translation": "Thanks for taking care of me all this time.\nI couldn't have done it without you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺は別になにもしてないけどな。\nただ、ここに座ってただけだ。",
+    "translation": "Oh, don't say that.\nI didn't do anything special.\nI just sat here with you."
+  },
+  {
+    "character": "一花",
+    "japanese": "そんなことないよ。\nすぐに良くなったのは、\n君がずっと手を握ってくれてたからだもん。",
+    "translation": "No, that's not true.\nYou helped me a lot by holding my hand the whole time."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー……。\nつ、つまり、お前のお母さんのおまじないは\n効果てきめんってことだな。",
+    "translation": "Ah... I guess your mother's charm really worked"
+  },
+  {
+    "character": "一花",
+    "japanese": "ふふっ、そうだね。",
+    "translation": "Teehee, yeah, it seems so."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "とはいえ、完全に治るまで油断は禁物だ。\nもうしばらく安静にして、して欲しいことが\nあったら遠慮なく言ってくれ。",
+    "translation": "However, you still need to be careful\nand take it easy until you're completely better.\nIf there's anything you need, just let me know."
+  },
+  {
+    "character": "一花",
+    "japanese": "はーい。",
+    "translation": "Okay."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、なにか食べたいかな。\n体調が良くなって食欲が戻ってきたみたい。",
+    "translation": "So, do you want something to eat?\nIt seems like your appetite has come back\nnow that you're feeling better."
+  },
+  {
+    "character": "一花",
+    "japanese": "まあ、ルームサービスでもいいんだけど……。",
+    "translation": "Well, I'm fine with room service..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、俺が買ってきてやるよ。\n食いたいものはあるか？",
+    "translation": "Nah, I'll go buy something.\nIs there something you want?"
+  },
+  {
+    "character": "一花",
+    "japanese": "パッとは思いつかないから、君に任せる。",
+    "translation": "I don't have anything specific in mind,\nso it's up to you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかった、適当に見繕ってみる。\nもしなんかあったらすぐ連絡しろよ？",
+    "translation": "Alright, I'll pick something out.\nContact me if something happens, okay?"
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃ、お願いします。\nフータロー君のチョイス、楽しみにしてるね。",
+    "translation": "Thanks, I'm looking forward to see \nwhat you'll end up getting me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "試されてるみたいで緊張するな。",
+    "translation": "I'm a little nervous.\nI feel like I'm being tested."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さて。",
+    "translation": "Let's see."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（なにを買ってくればいいんだろうな。\n　大分元気になってきてるとはいえ病人だし、\n　消化にいいものが定番か――）",
+    "translation": "(Hmm, I should probably get\n something easy to digest\n since she's still recovering%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ん？　メール？\n　……らいはか）",
+    "translation": "(Hmm? A text message?\n From Raiha, eh.)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "おきなわワールドの次にガンガラーの谷へ\n行く予定だったんだけど、やめにしちゃった。\nやっぱり一花さんのことが心配だから。",
+    "translation": "We were supposed to go to the Valley of Gangala\nafter Okinawa World, but we cancelled it\nbecause we're still worried about Ichika-san."
+  },
+  {
+    "character": "らいは",
+    "japanese": "これから国際通りでお見舞いをいっぱい買って\nホテルに戻ります。",
+    "translation": "We're going to buy a lot of souvenirs on Kokusai dori\nand then head back to the hotel."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あいつら、結局、戻ってくるのか。\n　……まあそりゃ心配だよな）",
+    "translation": "(I guess they're coming back after all.\n ...Well, I can understand their concern.)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "いろんなお店でご飯を買って帰るから、\nまだ食べないで待っててね！",
+    "translation": "We're gonna buy a lot of food and come back,\nso don't eat, and wait for us!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（そういうことなら、買い出しは必要なさそうだな。\n　あいつらの好意に甘えるか）",
+    "translation": "(If that's the case,\n it seems like I don't need to go shopping.\n Should I take advantage of their kindness?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ただいま。\n一花、飯のことなんだが――",
+    "translation": "I'm home.\nIchika, about dinner%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "へ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "一花",
+    "japanese": "えええええっ！？\nちょ、ちょ、なんで戻ってくるのさ！？",
+    "translation": "WHAAAAA?!\nWh-h-wh-wh-why did you come back?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なんでってここは俺の部屋だし！？\nじゃ、じゃなくて、すまんっ！！",
+    "translation": "Wh-why? Because this is my room!\nI-I mean, I'm sorry!"
+  },
+  {
+    "character": "一花",
+    "japanese": "こっち見ない！　回れ右っ！\nとりあえずバスルームへ行って！",
+    "translation": "Don't look at me!\nTurn right! Just go to the bathroom for now!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わ、わかった！",
+    "translation": "G-got it!"
+  },
+  {
+    "character": "一花",
+    "japanese": "はぁぁぁぁ……。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "一花",
+    "japanese": "やっぱりバスルームで着替えればよかったぁ。\n油断しちゃった……。",
+    "translation": "I should have changed in the bathroom after all.\nI let my guard down..."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君。\nもう出てきてもいいよ。",
+    "translation": "Futaro-kun, you can come out now."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう。",
+    "translation": "O-okay."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一花すまんっ！！　この通りだ！\nまさか着替えてるとは思ってなくて！！",
+    "translation": "I'm sorry, Ichika!! \nI didn't think you'd be changing!"
+  },
+  {
+    "character": "一花",
+    "japanese": "だ、大丈夫。\nそんなに必死に頭下げなくていいから。",
+    "translation": "I-it's okay. You don't have to bow so much."
+  },
+  {
+    "character": "一花",
+    "japanese": "こっちも、私だけじゃなくて\n君とらいはちゃんの部屋でもあるのに\n堂々と着替えちゃってたし、おあいこだよ。",
+    "translation": "I'm in the wrong too. I started changing in \nyou and Raiha-chan's room,\nwithout asking. It's all good."
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは……。\nなんていうか、あるあるなハプニングだなぁ。",
+    "translation": "Ahaha...\nThis is such a typical thing \nyou would imagine happening, huh."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あるあるか？\nつか、あっちゃダメだろ。",
+    "translation": "Typical?\nBut it's better not to have such an accident, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、ああ、そうだね。",
+    "translation": "R-right. Sorry."
+  },
+  {
+    "character": "一花",
+    "japanese": "なんていうか、将来的にありそうだから\n早めに体験できて良かったかなーなんて……。",
+    "translation": "What I meant was, it might happen in the future,\nso it's good to experience it earlier...\nor something like that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？　なんの話だ？",
+    "translation": "Huh? What are you talking about?"
+  },
+  {
+    "character": "一花",
+    "japanese": "へっ！？\n私、なんか言ってた？",
+    "translation": "Wha?!\nDid I say something?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "将来的にあるとかなんとか言ってなかったか？\nよく聞こえなかったが。",
+    "translation": "Didn't you say something\nabout it happening in the future?\nI didn't hear you clearly."
+  },
+  {
+    "character": "一花",
+    "japanese": "ち、違うよ！",
+    "translation": "N-no!"
+  },
+  {
+    "character": "一花",
+    "japanese": "（やば、声に出しちゃってた。\n　同棲したいって話、まだできてないのに）",
+    "translation": "(Oh no, I said it out loud.\n We haven't even talked about moving in together yet.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だからなんだよ、さっきから。\n言いたいことがあるならはっきり言えって。",
+    "translation": "What's your matter?\nYou've been acting weird for a while now.\nIf you have something to say, just say it clearly."
+  },
+  {
+    "character": "一花",
+    "japanese": "それは、そのぅ……。",
+    "translation": "Well, umm..."
+  },
+  {
+    "character": "一花",
+    "japanese": "えっ！？\nだ、誰か来た？",
+    "translation": "Huh?!\nI-is someone coming?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、ああ、多分らいは達だ。",
+    "translation": "Y-yeah, it's probably Raiha and your sisters."
+  },
+  {
+    "character": "らいは",
+    "japanese": "ただいまー！",
+    "translation": "We're back!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう、おかえり。",
+    "translation": "Ah, welcome back."
+  },
+  {
+    "character": "五月",
+    "japanese": "ただいま戻りました。\n一花、調子はどうですか？",
+    "translation": "We're back.\nHow are you feeling, Ichika?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あれ？　なんでみんな……。",
+    "translation": "Huh? Why is everyone...?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "よかった、元気そうだね一花さん。",
+    "translation": "You seem better now, Ichika-san. Good."
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、うん。\nフータロー君がずっと看病してくれたおかげで、\nもう元気だよ。",
+    "translation": "Ah, yes.\nThanks to Futaro-kun taking care of me the whole time,\nI'm feeling much better."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "熱も下がったしな。",
+    "translation": "Her fever went down, too."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですか、安心しました。",
+    "translation": "I'm glad to hear that."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふぅん？　もう元気ねぇ。\nまだ顔が赤いけど？",
+    "translation": "Hmm? Are you really feeling better?\nBut your face is still red?"
+  },
+  {
+    "character": "一花",
+    "japanese": "えっ！？\nそ、そんなこと……。",
+    "translation": "Huh?!\nTh-that's..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローも顔が赤い。",
+    "translation": "Your face is red too, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "気のせいじゃないか？\nはははは……。",
+    "translation": "Maybe it's just your imagination.\nHahahaha..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なにがあったのかしら？\n正直に言ってごらんなさい？",
+    "translation": "What happened? Tell us honestly, would you?"
+  },
+  {
+    "character": "一花",
+    "japanese": "なにもなかったよ！\nねえ、フータロー君？",
+    "translation": "Nothing happened!\nRight, Futaro-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう、なにもないぞ！",
+    "translation": "Yeah, nothing happened!"
+  },
+  {
+    "character": "一花",
+    "japanese": "そ、それより！\nなんでみんな帰ってきてるの？\n予定だとまだ観光中だよね？",
+    "translation": "A-anyway, why is everyone back already?\nWeren't you all still sightseeing?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ？　上杉さんから聞いてない？",
+    "translation": "Huh? Didn't you hear from Uesugi-san?"
+  },
+  {
+    "character": "五月",
+    "japanese": "やはり一花のことが心配で、\n途中で切り上げてきたんです。",
+    "translation": "We were worried about you, Ichika,\nso we decided to cut the trip short."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その話をする前に、お前らが帰ってきたんだ。",
+    "translation": "Well, before we could talk about that,\nyou all came back."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ！　でもちゃんと観光、楽しんできたからね？",
+    "translation": "Ah! But anyway, we enjoyed our sightseeing, you know?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "それに、沖縄ならここでも楽しめる。",
+    "translation": "Yeah, we did!\nAlso, we can enjoy Okinawa in this room, too."
+  },
+  {
+    "character": "一花",
+    "japanese": "ここで？",
+    "translation": "In this room?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃじゃーん、こういうこと！\n国際通りで食べ物をいっぱい\nテイクアウトしてきたんだ！",
+    "translation": "Ta-dah! THIS is what we mean!\nWe bought a lot of food from Kokusai dori!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "今日は予定を変更して、\n部屋でゆっくり沖縄グルメを堪能しよう。",
+    "translation": "Today, we changed our plans\nand decided to enjoy Okinawan cuisine in the room."
+  },
+  {
+    "character": "一花",
+    "japanese": "え……！",
+    "translation": "Wha...!"
+  },
+  {
+    "character": "五月",
+    "japanese": "食欲はありますか？\nもしまだないようなら、\n軽く食べられそうなものも買ってきていますから。",
+    "translation": "How's your appetite?\nIf it's still a little weak,\nwe also bought some light snacks."
+  },
+  {
+    "character": "一花",
+    "japanese": "ううん！　むしろ、めっちゃお腹空いてる！\n景気づけにがっつり食べちゃうから！",
+    "translation": "No way! Actually, I'm super hungry!\nI'm going to eat a lot to cheer myself up!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "一応、病み上がりでしょ？\nさすがにガッツリはやめときなさい。",
+    "translation": "But you're still recovering from your illness, right?\nYou should probably avoid eating too much."
+  },
+  {
+    "character": "三玖",
+    "japanese": "これなんていいんじゃないかな？\nポークたまごおにぎり。\n沖縄では朝ご飯に食べるみたい。",
+    "translation": "How about this? Pork and egg rice balls.\nThey're apparently eaten for breakfast in Okinawa."
+  },
+  {
+    "character": "一花",
+    "japanese": "おー！　ご当地感があっていいね。",
+    "translation": "Oh! It has a local feel to it. Nice!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フルーツとか生タルトとか、デザートも買ってきたわ。\n飲み物も、さんぴん茶やジュースがあるから。",
+    "translation": "We also bought some fruits, fresh tarts,\nand drinks like sanpin-cha and juice."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なかなかの量だな。\n食いきれるか？",
+    "translation": "Th-that's a lot of food.\nCan we finish it all?"
+  },
+  {
+    "character": "五月",
+    "japanese": "問題ありません！",
+    "translation": "No problem!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……たった一言なのにすごい説得力だ）",
+    "translation": "(...Even though Itsuki said a couple words,\n they were very convincing.)"
+  },
+  {
+    "character": "一花",
+    "japanese": "二乃が食べてるやつ、美味しそー！\n１個、もらっちゃいまーす。",
+    "translation": "Wow, what Nino's eating looks delicious!\nI'm gonna take one."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ああっ！？\nたくさん買ってきたんだから、\nちゃんと自分のを食べなさいよ！",
+    "translation": "Oh, come on!\nWe bought plenty, you can eat your own!"
+  },
+  {
+    "character": "一花",
+    "japanese": "だって美味しそうだったんだもん。\nさーて、次はどれをいっちゃおっかな？",
+    "translation": "But it looked so tasty! Now, what should I eat next?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "そういえば四葉さん、かき氷も買ってたよね？\n早く食べないと溶けちゃうよ？",
+    "translation": "Oh, right! Yotsuba-san, didn't you buy shaved ice?\nYou need to eat it quickly before it melts."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あーーー！　そうでしたっ！",
+    "translation": "Ah! That's right!"
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは！\nもう水になっちゃってるんじゃない？",
+    "translation": "Ahaha! It's probably turned into water by now, huh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "やめたほうがいいって言ったのに。",
+    "translation": "I told you not to get it."
+  },
+  {
+    "character": "五月",
+    "japanese": "せめて凍らせたフルーツにすればよかったのでは？",
+    "translation": "We should have bought frozen fruit instead, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "へー、そんなのも売ってるんだ。\n沖縄ってフルーツが豊富だもんね。",
+    "translation": "Wow, they sell that here too?\nOkinawa has such an abundance of fruits."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（一花もみんなも楽しそうだな。\n　一時はどうなるかと思ったけど、安心だ）",
+    "translation": "(Ichika and everyone seem to be having fun.\n I was worried for a moment, but I'm relieved now.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君？\nなにをニヤニヤしているんですか？",
+    "translation": "Uesugi-kun?\nWhy are you grinning like that?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、美味しそうだと思って。",
+    "translation": "Nah, I just thought it looked delicious."
+  },
+  {
+    "character": "五月",
+    "japanese": "でしたら遠慮なくどうぞ。",
+    "translation": "Then, please help yourself."
+  },
+  {
+    "character": "五月",
+    "japanese": "ここにある食べ物は、一花のお見舞いと\n上杉君への感謝の気持ちですから。",
+    "translation": "The food here serves as Ichika's get-well present,\nand is also our way to thank you, Uesugi-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう、いただくよ。",
+    "translation": "Yep, I'll dive in."
+  },
+  {
+    "character": "四葉",
+    "japanese": "足りないようでしたら言ってくださいね。\nひとっ走り、買いに行ってきます！",
+    "translation": "If you need more, please let me know.\nI'll go and buy some for you!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一花が元気になってよかったって、\nそう思ってただけだ。",
+    "translation": "I'm really glad Ichika is feeling better."
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは、ご心配おかけしました。",
+    "translation": "Ahaha, sorry for making you worry."
+  },
+  {
+    "character": "五月",
+    "japanese": "大きな病気でなくて、本当に良かったです。",
+    "translation": "I'm so relieved that it wasn't a serious illness."
+  },
+  {
+    "character": "三玖",
+    "japanese": "こうしてちゃんと食べられてるのなら安心。",
+    "translation": "It's good to see you eating properly."
+  },
+  {
+    "character": "二乃",
+    "japanese": "むしろ今度は食べすぎで倒れたりしてね。",
+    "translation": "Just be careful not to overdo it and get sick yourself."
+  },
+  {
+    "character": "一花",
+    "japanese": "気をつけまーす。",
+    "translation": "I'll be careful."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君も、遠慮せずにどうぞ。",
+    "translation": "Uesugi-kun, don't hesitate to take more if you want to."
+  },
+  {
+    "character": "四葉",
+    "japanese": "もたもたしてると\n一花に全部食べられちゃいますよー？",
+    "translation": "If you take too long, Ichika will eat it all!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう、いただくよ。",
+    "translation": "Yep, I'll dive in."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんつーか、いい光景だと思ってさ。",
+    "translation": "I was thinking how nice of a scene this is."
+  },
+  {
+    "character": "五月",
+    "japanese": "え……？",
+    "translation": "Huh...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前らがこうして揃って、笑い合ってる。\n見慣れちまってたけど、決して当たり前なんかじゃ\nないんだよな、これは。",
+    "translation": "When you're all together, laughing and having fun.\nI guess I've gotten used to it,\nbut it's not something that's always guaranteed."
+  },
+  {
+    "character": "五月",
+    "japanese": "……今度は上杉君が体調を崩してます？",
+    "translation": "...Now is it YOU who's sick, Uesugi-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "う……。",
+    "translation": "Ooh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（た、確かに、ついキザなことを言ってしまった。\n　これも旅行のテンションってやつか？）",
+    "translation": "(Yeah, I guess I said something corny just now.\n Is it because of the trip's mood?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いまのは聞かなかったことにしてくれ……。",
+    "translation": "Please pretend you didn't hear that..."
+  },
+  {
+    "character": "一花",
+    "japanese": "聞いちゃったもんねー。",
+    "translation": "But I did hear it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一花っ！？",
+    "translation": "Ichika?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "別に恥ずかしがることないよ。\nだって、私も君と同じことを感じたから。",
+    "translation": "I don't see why you should be embarrassed about it.\nAfter all, I felt the same way as you did."
+  },
+  {
+    "character": "一花",
+    "japanese": "当たり前なんかじゃない。\nだから、大切にしていかなくちゃ。",
+    "translation": "It's not something that's always guaranteed.\nThat's why we have to cherish it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ああ。",
+    "translation": "...Yeah."
+  }
+]

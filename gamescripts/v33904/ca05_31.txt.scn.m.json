@@ -1,0 +1,337 @@
+[
+  {
+    "character": "五月",
+    "japanese": "着きました、ここです。",
+    "translation": "We've arrived. This is it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おおー……。\nもう綺麗だな。\nまだ本格的に沈んでるわけじゃないってのに。",
+    "translation": "Wow...\nIt's already so beautiful,\neven though the sun isn't fully set yet."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、もっと美しい景色になるのでしょうね。",
+    "translation": "Yes, the view will get even more beautiful."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さすが、サンセットビーチと\n名付けられただけはあるってことか。",
+    "translation": "As expected, it's been named 'Sunset Beach' for a reason."
+  },
+  {
+    "character": "五月",
+    "japanese": "いまのうちに見やすい場所へ移動しましょう。\n日が沈む瞬間を見逃さないように。",
+    "translation": "Let's move to a better viewing spot now,\nso we don't miss the moment the sun sets."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、そうだな――",
+    "translation": "Ah, right%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "きゃっ！？",
+    "translation": "Eeeep!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "っと！",
+    "translation": "Woah!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "大丈夫か？",
+    "translation": "You alright?"
+  },
+  {
+    "character": "五月",
+    "japanese": "すみません。\n夕焼けに見惚れて、\n足元がおろそかになってしまって。",
+    "translation": "Sorry, I was lost in the sunset,\nand wasn't paying attention to where I was stepping."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……なら、こうするか。",
+    "translation": "...Then, should we do this?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あっ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "嫌か？\n転ばないように手をつなぐなんて、\n子どもみたいだし。",
+    "translation": "Is this okay?\nMaybe holding hands to avoid falling seems childish."
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ……。\n子どもでなくても、\n転んでしまいそうになる時はあります。",
+    "translation": "No...\nEven if you're not a child, you can sometimes risk falling. "
+  },
+  {
+    "character": "五月",
+    "japanese": "私も、あなたが転びそうになったら\nちゃんと支えますね。",
+    "translation": "I'll support you too, if you need it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう、頼む。",
+    "translation": "Sure, thank you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……手を繋ぐのって\n　こんなに簡単にできるもんなんだな。\n　初日じゃ考えられなかった）",
+    "translation": "(...Holding hands is so easy.\n And yet, I couldn't have imagined doing this on the first day.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いや、簡単なんじゃない。\n　俺と五月の関係が\n　それを許すだけのものになったってことか）",
+    "translation": "(No, it's not just easy.\n Our relationship has become something more.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここからなら夕日がはっきり見えるな。",
+    "translation": "From here, the sunset is clearly visible."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ……。",
+    "translation": "Yeah..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ゆっくりと動く太陽、茜色に染まっていく空。\n　波の音も、いつもよりも遠くから\n　聞こえるような気がする――）",
+    "translation": "(The slowly moving sun, the sky tinted with crimson.\n It seems like I can even hear the sound of the waves\n from further away than usual%p-2;――%p;)"
+  },
+  {
+    "character": "五月",
+    "japanese": "夕暮れって、こんなに幻想的なんですね。",
+    "translation": "The evening twilight is so enchanting, isn't it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺も知らなかった。\n夕空なんて、時間になって見上げりゃ\nどこでだって見えるってのに。",
+    "translation": "I didn't know it could be like this.\nEven though the night sky can be seen from anywhere,\nif you just look up at the right time, there it is."
+  },
+  {
+    "character": "五月",
+    "japanese": "水平線へ沈む夕日、だからでしょうか。",
+    "translation": "Perhaps it's because the sun\nsinks down towards the horizon."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それもそうか。\n俺たちの街じゃ建物に隠れて見えないもんな。",
+    "translation": "That's right. In our city,\nit's often hidden behind buildings and isn't visible."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、なんと言えばいいのか……。",
+    "translation": "Yes, I don't know what to say..."
+  },
+  {
+    "character": "五月",
+    "japanese": "知っているけれど、知らなかったのでしょうね。\n太陽はこうして大地に隠れてしまうものなのだと。",
+    "translation": "I knew it, but I didn't really know.\nThat the sun hides behind the earth like this."
+  },
+  {
+    "character": "五月",
+    "japanese": "けれど明日になれば、また空に昇ってくる。\nそれは毎日繰り返される、\n特別でない出来事なのでしょう。",
+    "translation": "However, it will rise up into the sky again tomorrow.\nIt's an event that repeats itself every day,\nand it's not a special one."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが――",
+    "translation": "But%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "私たちにとっては、\nここへ来たから見ることができた、\n特別な景色なんですね。",
+    "translation": "For us, it's a special view\nthat we were able to see because we came here."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "特別、か。",
+    "translation": "Special, huh."
+  },
+  {
+    "character": "五月",
+    "japanese": "この夕日も、あのステンドグラスも。\n私にとってはすべてが特別なものです。",
+    "translation": "This sunset, and that stained glass.\nTo me, everything is something special."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺にとっても、この旅は全部、特別だな。\nお前と過ごした時間も、みんなとの時間も。",
+    "translation": "Even for me, this journey has all been special.\nThe time spent with you,\nand spending it with everyone else."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ……。\n最初こそ、うまくいきませんでしたが――",
+    "translation": "Yes...\nAt first, things didn't go smoothly, but%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたとの思い出もみんなとの思い出も\nたくさんできて、最高の旅になりました。",
+    "translation": "I made a lot of memories with you\nand with everyone else,\nand it turned out to be the best trip."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ。\nずっと忘れない、生涯記憶に残る最高の旅だ。",
+    "translation": "Yeah.\nI'll never forget it. It's a trip\nthat will remain in my memory for a lifetime."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（大人になっても、夕日を見るたび思い出すだろう。\n　五月と並んで見たこの海を……）",
+    "translation": "(Even when I become an adult,\n I'll remember this sunset\n and the sea I saw with Itsuki...)"
+  },
+  {
+    "character": "五月",
+    "japanese": "……上杉君。",
+    "translation": "...Uesugi-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？",
+    "translation": "What is it?"
+  },
+  {
+    "character": "五月",
+    "japanese": "私、あなたに出会えてよかった。",
+    "translation": "I'm really glad I met you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "五月",
+    "japanese": "この旅で、いままでよりも近くで過ごして、\nあなたのことをより深く感じて――",
+    "translation": "During this trip,\nbeing closer to you than ever before,\nI felt your presence even more deeply%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたの隣にいられる。\nそれだけのことが、たまらなく嬉しくて。",
+    "translation": "Being able to be by your side,\nalone, makes me incredibly happy."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月……。",
+    "translation": "Itsuki..."
+  },
+  {
+    "character": "五月",
+    "japanese": "……風太郎。",
+    "translation": "...Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……キス、してもいいか。",
+    "translation": "...Can I kiss you?"
+  },
+  {
+    "character": "五月",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "五月",
+    "japanese": "はい……。",
+    "translation": "Yes..."
+  },
+  {
+    "character": "五月",
+    "japanese": "んっ……。",
+    "translation": "Nnn..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（なんだろう……\n　いま、五月と気持ちが繋がった気がする）",
+    "translation": "(What is this feeling?\n It's like my emotions\n are connected with Itsuki's right now.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ウミカジテラスの時とは違う。\n　お互いの気持ちが１つになったような――）",
+    "translation": "(It's different from when we were at Umikaji Terrace.\n It feels like our feelings have become one%p-2;――%p;)"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……五月？",
+    "translation": "...Itsuki?"
+  },
+  {
+    "character": "五月",
+    "japanese": "～～～～～！！",
+    "translation": "~~~~~!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うおっ！",
+    "translation": "WOAH!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月？　どうした？",
+    "translation": "Itsuki? What's wrong?"
+  },
+  {
+    "character": "五月",
+    "japanese": "さっき、あなたの瞳を見た瞬間、\nキスして欲しいって思ったんです……。",
+    "translation": "When I looked into your eyes earlier,\nI wanted you to kiss me..."
+  },
+  {
+    "character": "五月",
+    "japanese": "でも、まるで私の気持ちが伝わったように、\nあなたから言ってくれて……！",
+    "translation": "But, as if my feelings\nwere conveyed to you, you said it first!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺も同じだ。\nお前と俺の気持ちが繋がった気がする。",
+    "translation": "Same here. I feel like our feelings are connected."
+  },
+  {
+    "character": "五月",
+    "japanese": "まるで、奇跡のようです。",
+    "translation": "It's like a miracle."
+  },
+  {
+    "character": "五月",
+    "japanese": "同じ景色を見て、同じ気持ちになって……\n言葉にしなくても想いを共にできる。",
+    "translation": "We saw the same scenery, and we feel the same way...\nEven without words, we can share our feelings."
+  },
+  {
+    "character": "五月",
+    "japanese": "やっとわかりました。\nこの気持ちが、恋なんですね。",
+    "translation": "I finally understand.\nThis feeling is love, isn't it."
+  },
+  {
+    "character": "五月",
+    "japanese": "間違えたり遠回りもしたけれど、\nそれが私の――私だけの気持ちなんです。",
+    "translation": "I made mistakes and took detours,\nbut these feelings%p-2;――%p; are truly mine."
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたが好き。\nあなたに、恋をしている。",
+    "translation": "I love you.\nI've fallen in love with you."
+  },
+  {
+    "character": "五月",
+    "japanese": "だから、これからもずっと……\nずっと一緒にいて、風太郎。",
+    "translation": "So, let's stay together...\nforever, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、ずっと一緒だ。",
+    "translation": "Yes. Let's be together forever, Itsuki."
+  }
+]

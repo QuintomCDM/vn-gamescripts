@@ -1,0 +1,772 @@
+[
+  {
+    "character": "司会者",
+    "japanese": "お待たせしましたー！\nただいまより、本日のカップルコンテストを\n開催いたしまーす！",
+    "translation": "Thank you all very much for waiting!\nWe will now begin today's couple contest!"
+  },
+  {
+    "character": "司会者",
+    "japanese": "さあ、参加者の皆さん！\nステージにどうぞ！",
+    "translation": "Alright, all participants,\nplease come up to the stage!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "思ったよりも大事じゃないか？\nもっとこじんまりしたイベントかと思ったんだが。",
+    "translation": "It looks a lot more serious than we imagined?\nI thought it was going to be a smaller event."
+  },
+  {
+    "character": "三玖",
+    "japanese": "う、うん。\n結構、参加してる人も多いね。",
+    "translation": "Y-yeah,\nthere are quite a lot of people participating."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "観客もかなり集まってるし……。",
+    "translation": "And quite a large audience as well..."
+  },
+  {
+    "character": "男性観客Ａ",
+    "japanese": "あ！　あの子じゃね？\nＡチームの子！",
+    "translation": "Ah! Isn't that her?\nThe one from team A!"
+  },
+  {
+    "character": "男性観客Ｂ",
+    "japanese": "うっわ！\nめちゃくちゃ可愛い子がいるってマジじゃん！",
+    "translation": "WAAA!\nThat girl is SUPER cute!"
+  },
+  {
+    "character": "女性観客Ａ",
+    "japanese": "んー？\nアタシ、あの子見たことある気するんだけど。",
+    "translation": "Hmmm?\nI feel like I've seen that girl somewhere before."
+  },
+  {
+    "character": "女性観客Ｂ",
+    "japanese": "私もー。\n誰かに似てるような？",
+    "translation": "Me too.\nDoes she look like someone else?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うう……。",
+    "translation": "Ooohh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なあ、この状況で観客の中に一花がいるってバレたら\n騒ぎにならないか？",
+    "translation": "Hey, wouldn't it cause a commotion\nif it's revealed that Ichika\nis in the audience, in a situation like this?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "さっき、眼鏡かけたりして\n変装してたから平気だとは思うけど……。",
+    "translation": "Well, she disguised herself earlier with glasses,\nso I think it's fine..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（まあ、一花にだって\n　心得はあるだろうし大丈夫か）",
+    "translation": "(Well, Ichika should know how to behave\n in this kind of situation, so it should be okay.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それにしても、どうする？\n手を抜いてすぐに負けてもいいが――",
+    "translation": "But anyway, what should we do?\nWe could just slack off and lose right away%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うっえすっぎさーん！　三玖ー！\n頑張ってー！",
+    "translation": "U-e-su-gi-saaan!\nMikuuu! Do your best!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "と、まあ、あんな風に応援されてるし、\n適当にやって負けるのもな？",
+    "translation": "So, well, since we're being cheered on like that,\nI guess we can't just lose on purpose now."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……うん。\nあと、私……みんなに言っちゃったし。",
+    "translation": "...Okay.\nAnd, I...told everyone, too."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローは私のだって。",
+    "translation": "That Futaro's mine."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "だから、みんなの前で\nあっさり負けるのは、ちょっとね。",
+    "translation": "So, losing in front of everyone\nwould be a bit too much."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう。\nんじゃ勝ちに行くか。",
+    "translation": "Okay.\nSo, let's win."
+  },
+  {
+    "character": "司会者",
+    "japanese": "では、ルールを説明します。",
+    "translation": "Alright, then, now I'll explain the rules."
+  },
+  {
+    "character": "司会者",
+    "japanese": "各チームには３つのゲームに挑戦してもらい、\nそのうち２つを成功させればクリアとなります。",
+    "translation": "Each team will attempt three games,\nand if they successfully complete two of them,\nthey will pass the challenge."
+  },
+  {
+    "character": "司会者",
+    "japanese": "クリアしたチームの中で、\n最もラブラブっぷりを見せつけてくれた２人を、\n観客の皆さんに投票していただきます。",
+    "translation": "The couples who have passed the challenge\nand demonstrated the most lovey-dovey attitude\nwill be voted on by the audience."
+  },
+  {
+    "character": "司会者",
+    "japanese": "投票で１位になった２人を、\n本日のベストカップルと認定しまーす！",
+    "translation": "The couple who receives the most votes\nwill be recognized as today's best couple!"
+  },
+  {
+    "character": "司会者",
+    "japanese": "最初のゲームは『見つめ合う時間はいつまでも』！\nでは、さっそく準備させていただきますね！",
+    "translation": "The first game is 'Eye Contact for Eternity'!\nWe'll commence the contest immediately!"
+  },
+  {
+    "character": "司会者",
+    "japanese": "はい！　見ての通り、\n砂浜に向かい合って寝そべる２人の間に\n特製ジュースが置かれております！",
+    "translation": "Now! As you can see, a special juice is placed\nbetween the two lovebirds,\nlying facing each other on the sandy beach!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー……。\nこのコップ、ストローが２本なんだけど……。",
+    "translation": "Futaro...\nThis cup has two straws in it..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まさか……。",
+    "translation": "No way..."
+  },
+  {
+    "character": "司会者",
+    "japanese": "このジュースを、お互い見つめ合ったまま\n飲み干していただきまーす！",
+    "translation": "The couples will have to drink all of this juice\nwhile looking at each other!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やっぱりか……！",
+    "translation": "I knew it...!"
+  },
+  {
+    "character": "司会者",
+    "japanese": "制限時間中に飲み切れなければアウト。\nお互いから視線を逸らしてもアウトです。",
+    "translation": "If you don't drink all the juice in time, you're out.\nAnd if you lose eye contact with your partner,\nyou'll be disqualified."
+  },
+  {
+    "character": "司会者",
+    "japanese": "準備はいいですか？\nそれでは、スタート！",
+    "translation": "Are you ready?\nNow, let's START!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（うううっ！？\n　ストローをくわえると、\n　やたらと三玖の顔が近い！！）",
+    "translation": "(Oooohh?!\n When I put the straw in my mouth,\n Miku's face is so close to mine!!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こんな至近距離は、さすがに……）",
+    "translation": "(Such close range is indeed...)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "～～～～～っ！",
+    "translation": "~~~~~!"
+  },
+  {
+    "character": "司会者",
+    "japanese": "おやぁ？　Ａチーム、どうしました？\n早く飲まないと失格になっちゃいますよ！",
+    "translation": "Oh? What's wrong with Team A?\nIf you don't drink it quickly,\nyou'll be disqualified!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "んんんんん～！",
+    "translation": "Nnnnn!"
+  },
+  {
+    "character": "司会者",
+    "japanese": "おっ！　いい気合いですねー！\nほらほら彼氏さん、負けてられませんよ！",
+    "translation": "Oh! What vigor!\nCome on, Mr. Boyfriend, you can't be losing now!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（言われなくてもわかってるわ！）",
+    "translation": "(I get that, you don't need to say anything!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "んんんんんんー！",
+    "translation": "NNNNNN!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ん、んんんん……。",
+    "translation": "Nn-nnnn..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "んんんんっ！？",
+    "translation": "NNNNNN?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（三玖！？）",
+    "translation": "(Miku?!)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ん、んんんん……。",
+    "translation": "Nn-nnnn..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（き、気持ちはわかる……！\n　この至近距離で見つめ合うのはかなり恥ずかしい！\n　逸らしたくもなるよな！）",
+    "translation": "(I-I understand how she feels!\n It's quite embarrassing to stare at each other\n at such close range! I wanna look away!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（だったら、三玖が目を逸らす前に飲み干す！）",
+    "translation": "(Then, I've gotta drink it all before Miku looks away!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖、俺だけ見てろ！",
+    "translation": "Miku, look ONLY at me!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっ、フータロー？\n私の分まで……！",
+    "translation": "Huh, Futaro?\nYou're gonna drink all of it?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "う、ううう……。",
+    "translation": "Oo-ooohh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（腹がタプタプだ……。\n　色々とギリギリだったな……）",
+    "translation": "(My stomach is bloated...\n That was really close...)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、大丈夫？",
+    "translation": "Futaro, are you alright?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なんてことはないぞぉ！\nこれくらい軽いもんだ、はははははは！",
+    "translation": "O-of course! This is nothing!\nHahahahahaha!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖こそ、よく頑張ったな！\nお前が目を逸らさなかったおかげで、\n俺も最後までやり切れた――",
+    "translation": "Great job, Miku!\nThanks to you not looking away,\nI was able to finish until the end%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うっ！\nすまん、ちょっと休憩で。",
+    "translation": "Oooh!\nSorry, let me take a break."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……俺だけ見てろ……だって。",
+    "translation": "...You told me...to ONLY look at you."
+  },
+  {
+    "character": "司会者",
+    "japanese": "お次のゲームは『君を抱いてどこまでも』！",
+    "translation": "The next game is 'Princess in Arms'!"
+  },
+  {
+    "character": "司会者",
+    "japanese": "男性が女性をお姫様抱っこして制限時間まで耐える！\n女性の体が地面についたらアウトです。",
+    "translation": "The men will have to princess carry their partner and hold that\nposition until time's up! If your partner's body\ntouches the ground, it's game over."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、無理しないで。",
+    "translation": "Futaro, don't try too hard."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "い、いや！\nこのくらいできるともっ！",
+    "translation": "N-no!\nI can definitely do this!"
+  },
+  {
+    "character": "司会者",
+    "japanese": "スタートです！",
+    "translation": "And, START!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ふんっ！！",
+    "translation": "HHNGH!!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "わっ、わわっ！？",
+    "translation": "W-WAWA?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（よ、よしっ！\n　俺だって、このくらいはっ！）",
+    "translation": "(A-alright!\n I can do this!)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "すごい、フータロー。",
+    "translation": "Amazing, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は、ははは！\nあた、りま、え、だ……っ！",
+    "translation": "Ha-hahaha!\nTh-this, a-ain't, n-nothing!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも無理は……。",
+    "translation": "But, don't strain yourself..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "む、無理じゃねぇぞ！\nあと、少し、くらいなら――",
+    "translation": "I-I'm not straining myself!\nJust, a little, more%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ダメだー！\nすまん、下ろす！",
+    "translation": "I can't hold it!\nI'm sorry, I gotta put you down!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "って、おわっ！？",
+    "translation": "W-WOAH?!"
+  },
+  {
+    "character": "司会者",
+    "japanese": "おおっと！\n彼氏さんが砂に足を取られて倒れ込むも、\n自分が下敷きになって彼女さんを守りましたー！",
+    "translation": "Oh, wow!\nThe boyfriend got his foot caught in the sand and fell down,\nbut managed to get underneath her in time and protected her from the impact!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いってぇ……。",
+    "translation": "Owww..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、大丈夫！？\n怪我してない！？",
+    "translation": "Are you okay, Futaro?!\nAre you injured?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なんともない。\n思ってたより衝撃が少なかったからな。",
+    "translation": "I-I'm fine.\nThe impact wasn't as bad as I thought."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……それって、\n私がもっと重いと思ってたってこと？",
+    "translation": "...Does that mean,\nyou thought I was heavier than I actually am?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "思ってたんだ。",
+    "translation": "You did think that, huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、そういう意味じゃない！\n受け身を上手く取れたというだけで――",
+    "translation": "No, that's not what I meant!\nI just meant that I was able to take the fall properly%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "司会者",
+    "japanese": "これはこれは！\n倒れた後もラブラブっぷりを見せつけてくれるとは、\nとっても仲良しですねぇ。",
+    "translation": "Wow, take a look at this!\nEven after falling, they're still so lovey-dovey!\nYou guys are such a great couple!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっ！？",
+    "translation": "HUH?!"
+  },
+  {
+    "character": "司会者",
+    "japanese": "残念ながらクリアならずでしたが、\n会場が笑顔でいっぱいです！\nいやー、幸せのお裾分け、ありがとうございます！",
+    "translation": "Unfortunately, you didn't pass this round,\nbut the venue is full of smiles!\nThank you for sharing your happiness with us!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あうう……。",
+    "translation": "Auuuhh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ここまでで１勝１敗か。\n　次が勝負だな）",
+    "translation": "(It's one win and one loss so far.\n The next game is the deciding round.)"
+  },
+  {
+    "character": "司会者",
+    "japanese": "いよいよラストです！\n３つめのゲームは『愛してるを何度でも』！",
+    "translation": "Finally, it's the last game!\nThe third game is 'I Love You, Over and Over Again'!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……いままでで一番嫌な予感のする題名だな）",
+    "translation": "(...This is the most unpleasant title so far.)"
+  },
+  {
+    "character": "司会者",
+    "japanese": "お２人には、交互に愛してると告げてもらいます。\n照れたり笑ったりしたらアウト！",
+    "translation": "Both of you will take turns saying 'I love you.'\nIf you blush or laugh, you lose!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（嫌な予感の通りだった！\n　人前で愛の告白だと！？）",
+    "translation": "(Just as I suspected!\n A public love confession?!)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "む、無理……！",
+    "translation": "I-impossible!"
+  },
+  {
+    "character": "司会者",
+    "japanese": "さっそく行きましょう、スタートでーす！",
+    "translation": "Let's get started,\nhere we gooo!"
+  },
+  {
+    "character": "男性参加者",
+    "japanese": "愛してるよ！",
+    "translation": "I LOVE you!"
+  },
+  {
+    "character": "女性参加者",
+    "japanese": "私も！　愛してるっ！",
+    "translation": "Me too! I love you so much!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（嘘だろ……。\n　周りで愛してるが大合唱になってる……）",
+    "translation": "(No way...\n Everyone around us is chanting\n 'I love you' in chorus...)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ぁ……ぁ……。",
+    "translation": "I-... I-..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ……あっ、あいっ！",
+    "translation": "I-... I, lo%p-2;――%p;!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ぁ……ぁぃ……！\nううう……。",
+    "translation": "I-... I lo%p-2;――%p;!\nOoohh..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ねえ、フータロー。",
+    "translation": "Hey, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なんだ？",
+    "translation": "Wh-what is it?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "これ、なんだか、あの時みたい。\n学園祭の……。",
+    "translation": "This is like, that time, kinda.\nAt the school festival..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……俺が告白した時か）",
+    "translation": "(...When I confessed.)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あの時、私も気持ちを伝えたかったのに、\n言葉にできなくて、泣いちゃって……\nフータローを困らせた。",
+    "translation": "I wanted to convey my feelings to you back then,\nbut I couldn't put it into words,\nand ended up crying...causing trouble to you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "困ってねぇよ。\n言ったよな、三玖に困らされたことなんてない。",
+    "translation": "I wasn't troubled by that.\nI told you before,\nI've never been troubled by you, Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん……。",
+    "translation": "Yeah..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私――",
+    "translation": "I%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あの時よりもっと、フータローが好き。",
+    "translation": "I like you, now more than I did back then, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、俺も、だ。\nいまのほうが……もっと三玖が好きだ。",
+    "translation": "M-me, too.\nI like you...now more than I did back then, too, Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私のほうが好きだよ。",
+    "translation": "I like you more."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いいや、俺だ。",
+    "translation": "No, I do."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ううん、私が――",
+    "translation": "No, it's me%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふふっ！",
+    "translation": "Teehee!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……はははっ！",
+    "translation": "...Hahaha!"
+  },
+  {
+    "character": "司会者",
+    "japanese": "Ａチーム、残念！\n笑ってしまったのでアウトでーす！",
+    "translation": "Team A, I'm so sorry!\nYou've laughed, so you're out!"
+  },
+  {
+    "character": "司会者",
+    "japanese": "お待たせしました！\n観客投票の集計が終わりましたので、\nいよいよ結果発表です！",
+    "translation": "Thank you for waiting!\nThe audience votes have been tallied,\nand now it's time for the results!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私たちは選ばれないよね？",
+    "translation": "We won't be chosen, will we?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、１個しかクリアしてないしな。",
+    "translation": "Yeah, we only cleared one game."
+  },
+  {
+    "character": "司会者",
+    "japanese": "優勝は――",
+    "translation": "The winner is%p-2;――"
+  },
+  {
+    "character": "司会者",
+    "japanese": "Ａチームのお２人でーす！",
+    "translation": "The couple from Teeeam A!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "な、なんで……？",
+    "translation": "Wh-why...?"
+  },
+  {
+    "character": "司会者",
+    "japanese": "さあさあ、お２人とも！\nこちら正面にどうぞ！",
+    "translation": "Alright, you two!\nCome on up to the front!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "え、え……。",
+    "translation": "H-huh..."
+  },
+  {
+    "character": "司会者",
+    "japanese": "えー、この通り、\nご本人たちもビックリのご様子ですが……。",
+    "translation": "Well-as you can see,\neven the winners themselves are surprised\nby this turn of events..."
+  },
+  {
+    "character": "司会者",
+    "japanese": "実はですね、本来お２人は投票対象外なのですが、\nなんとぶっちぎりの１位だったのです！",
+    "translation": "Actually, the two of you were not originally\nincluded in the voting,\nbut you clearly deserved the first place!"
+  },
+  {
+    "character": "司会者",
+    "japanese": "ちょっと調査したところ――",
+    "translation": "After conducting a brief evaluation%p-2;――"
+  },
+  {
+    "character": "司会者",
+    "japanese": "男の子が転んだ時、\n自分から下敷きになったのがかっこよかった。",
+    "translation": "When the boyfriend fell, he made himself the cushion,\nwhich was cool."
+  },
+  {
+    "character": "司会者",
+    "japanese": "最後のゲームでの様子が青春すぎて眩しくて、\n２人以外にないと思った。",
+    "translation": "Their performance in the last round\nwas so youthful and dazzling, to the point\nthe people have decided that there is no one else worthy of first place but them."
+  },
+  {
+    "character": "司会者",
+    "japanese": "などなど、多くのご意見をいただきまして、\nここは特例として優勝ということにいたします！",
+    "translation": "We received many such comments,\nand we have decided to make an exception\nand declare Team A the winners!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "い、いいのかな？",
+    "translation": "I-is that really okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、いいんじゃないか？\n祭りだしな。",
+    "translation": "Well, I think it's fine.\nIt's a festival after all."
+  },
+  {
+    "character": "司会者",
+    "japanese": "では！\nコンテストの締めとして、優勝したカップルには\nここでキスをしていただきましょう！",
+    "translation": "Now then!\nAs for the finale of the contest,\nlet's have the winning couple share a kiss right here!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "え。",
+    "translation": "Eh."
+  },
+  {
+    "character": "三玖",
+    "japanese": "え。",
+    "translation": "Eh."
+  },
+  {
+    "character": "三玖",
+    "japanese": "えええええ！？",
+    "translation": "EHHHHHH?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "き、キス？　ここで！？",
+    "translation": "A-a kiss? HERE?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そんなの聞いてないぞ！",
+    "translation": "N-no one told me you had to kiss!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ？\nもしかして三玖たちに言ってなかった！？",
+    "translation": "Huh?\nDid I not tell Miku and the others?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "四葉、言ったんじゃないの？",
+    "translation": "Yotsuba, didn't you tell them?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "二乃が言ったと思ってた。",
+    "translation": "I thought you did, Nino?"
+  },
+  {
+    "character": "五月",
+    "japanese": "これは、誰かが伝えたと\n思い込んでいたということでは……。",
+    "translation": "Well, it seems like everyone just assumed\nthat someone else had told them..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ど、どうしよう！",
+    "translation": "Wh-what're we gonna do?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、でも、フータローはキスしたいんだった。\nじゃあ、ここで……？",
+    "translation": "Ah, but wait, didn't you say you wanted\nto kiss me?\nSo, how about here and now...?"
+  },
+  {
+    "character": "司会者",
+    "japanese": "さあ、バチっと行っちゃいましょう！",
+    "translation": "Alright, now just go ahead and do it!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖、来い！",
+    "translation": "Miku, c'mon!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー！？　で、でもっ！",
+    "translation": "Futaro?! B-but?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "逃げるぞ！",
+    "translation": "Let's get out of here!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "え！？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "司会者",
+    "japanese": "あれ？　ちょっと！？",
+    "translation": "What the%p-2;――%p;? Hey?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前とのキスを\n見世物にするつもりはないからな！",
+    "translation": "I'm not gonna make a spectacle out of kissing you!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "司会者",
+    "japanese": "行っちゃいましたね……。",
+    "translation": "They ran away..."
+  },
+  {
+    "character": "司会者",
+    "japanese": "えー、では！\n初々しいカップルに大きな拍手を～！",
+    "translation": "Well then,\nlet's give a big round of applause\nto the innocent couple!"
+  }
+]

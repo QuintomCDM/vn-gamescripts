@@ -1,0 +1,332 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（朝食を終え、タクシーに乗り込んだ俺たちは\n　古宇利島へと出発した）",
+    "translation": "(We finished breakfast and got into a taxi,\n then left for Kouri Island.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（正確に言うと、\n　沖縄本島と屋我地島（やがじしま）が\n　屋我地大橋で結ばれており――）",
+    "translation": "(To be precise, Okinawa and Yagaji Island\n are connected by the Yagaji Bridge%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（さらに屋我地島と古宇利島が\n　古宇利大橋で繋がっているのだそうだ）",
+    "translation": "(Furthermore, Yagaji Island and Kouri Island\n are connected by Kouri Bridge.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（海の上を貫く古宇利大橋からの景観を楽しみつつ、\n　俺たちは無事、古宇利オーシャンタワーという\n　建物の前に到着した）",
+    "translation": "(While enjoying the view from the Kouri Bridge\n that stretches over the sea, we safely arrived\n at the front of a building called Kouri Ocean Tower.)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんっ！\n見ましたか、橋からの眺め！",
+    "translation": "Uesugi-san! Did you see it? The view from the bridge!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、バッチリ見たぞ！",
+    "translation": "Oh yeah, it was astounding!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "青い空、白い砂浜、エメラルドグリーンの海、\nそして照りつける太陽……。",
+    "translation": "Blue sky, white sandy beach, emerald green sea,\nand the bright sun..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "評判通りの絶景だったな！\n一気に沖縄気分が盛り上がってきたぜっ！",
+    "translation": "It truly was a breathtaking view,\njust as the rumors say.\nI'm getting excited about being in Okinawa!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん！\nあんな風景見たことないから、びっくりしちゃった。",
+    "translation": "Yeah! I was really surprised because I've never seen\nsuch a beautiful landscape before."
+  },
+  {
+    "character": "二乃",
+    "japanese": "風太郎、タクシーの中でも\nすごくはしゃいじゃって大変だったわ。",
+    "translation": "Futaro was so excited even in the taxi,\nit was quite a handful."
+  },
+  {
+    "character": "二乃",
+    "japanese": "まあ、気持ちはわかるけど。\n期待以上だったもの。",
+    "translation": "Well, I can understand how he feels.\nIt exceeded our expectations."
+  },
+  {
+    "character": "三玖",
+    "japanese": "綺麗すぎて、写真みたいな景色だった。",
+    "translation": "The view was so beautiful, it looked like a photograph."
+  },
+  {
+    "character": "四葉",
+    "japanese": "わかるっ！　現実味がない！",
+    "translation": "I know, right! It was so unreal!"
+  },
+  {
+    "character": "一花",
+    "japanese": "天気が良いおかげでもあるよね。\n絶好の観光日和だ。",
+    "translation": "The weather is great.\nIt's a perfect day for sightseeing."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あの橋、自転車で走ってみたいなぁ。\n車から見るのもいいけど、風を感じて走り抜けたら\n絶対に気持ちいいよ！",
+    "translation": "I'd love to ride a bike on that bridge. Seeing the landscape \nfrom inside the car is great, but it'd be even more satisfying\nto feel the wind while riding on it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "自転車は知らんが、あそこの橋は\nバイクの人気ツーリングスポットらしいぞ。\nタクシーの運転手が言ってた。",
+    "translation": "I don't know about bikes, but that bridge\nseems to be a popular touring spot for motorcycles,\naccording to our taxi driver."
+  },
+  {
+    "character": "四葉",
+    "japanese": "おお！　やっぱり人気なんですね！",
+    "translation": "Oh! It IS a popular spot!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ツーリング……。",
+    "translation": "Touring, eh..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "バイクの免許は\n勉強すれば１日で取れるって聞いた。",
+    "translation": "I heard you can get a motorcycle license in one day\nif you study for it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、待て。\n一夜漬けでも取れはするが、まがりなりにも\n公道を走ることになるんだぞ、きちんと勉強しろ。",
+    "translation": "Hey, hold on. You might be able to get it in one day,\nbut you still have to ride on public roads,\nso you should practice properly."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、家庭教師気分が抜けてない。",
+    "translation": "Futaro, you're still tutoring us."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういう問題じゃねぇよ！",
+    "translation": "That's not the issue here!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえねえ！\n風太郎はバイクの免許、持ってるわよね。",
+    "translation": "Wait a minute!\nFutaro, you have a motorcycle license, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一応持ってるが、\nさすがにこの状況で１人でツーリング行くのはなぁ。\nせっかくの卒業旅行で個人行動はもったいない。",
+    "translation": "Well, I have one, but it's not a good idea to go on a solo tour\nin this situation. It would be a shame to go touring\nalone on our graduation trip, when we're all together."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、みんなで来ているわけですし、\nみんなでできることをしましょうか。",
+    "translation": "Yeah, since we came all the way,\nwe should be hanging out together."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……そうね。",
+    "translation": "...You're right."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……ん？\n　なんだ、二乃が妙に不満そうだが）",
+    "translation": "(Hm?\n What's wrong? Nino seems oddly dissatisfied.)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい――",
+    "translation": "Hey%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "まあ、いいわ。\nせっかく古宇利島まで来たんだから、\nたっぷり楽しむわよ。",
+    "translation": "Well, never mind. We came all the way to Kouri Island,\nso let's enjoy it to the fullest."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、ああ。",
+    "translation": "O-okay."
+  },
+  {
+    "character": "五月",
+    "japanese": "二乃、行き先が沖縄に決まってから、\n古宇利島に行きたいと何度も言っていましたね。",
+    "translation": "Nino, you mentioned several times\nthat you wanted to go to Kouri Island\nafter our destination was set to Okinawa, right?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "そうなんだ。\nここってどんなものがあるの？",
+    "translation": "That's right.\nWhat kind of places are there on Kouri Island?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "古宇利島にはたくさんのパワースポットがあるの！\nティーヌ浜のハートロックもその１つね。",
+    "translation": "There are many power spots on Kouri Island!\nThe Heart Rock at Tinu Beach is one of them."
+  },
+  {
+    "character": "らいは",
+    "japanese": "ハートロック？",
+    "translation": "Heart Rock?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ハート型に見える岩よ。",
+    "translation": "A rock that looks like a heart."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんてったって、古宇利島は恋の島。\n古宇利島の語源は恋島（くいじま）と\n言われているんだから！",
+    "translation": "After all, Kouri Island is the Island of Love.\nIt was originally called 'Kuijima.'"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くいじま？",
+    "translation": "Kuijima?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "恋の島と書いて、くいじまって読むの。",
+    "translation": "The kanji is written as 'Island of Love,'\nbut it's read as 'Kuijima.'"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ここには、沖縄版アダムとイブのような\n言い伝えが残っていて――",
+    "translation": "There's a legend,\nthat's like the Okinawan version of Adam and Eve%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "天の神様が初めて\n人間の男女を降ろした場所なんですって。",
+    "translation": "It's said that this is the place\nwhere the heavenly gods\nfirst brought down a man and a woman."
+  },
+  {
+    "character": "五月",
+    "japanese": "確かに、それはアダムとイブの伝説に\n通じるものがありますね。",
+    "translation": "Certainly, there are similarities\nto the Adam and Eve story."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ティーヌ浜の他にも、２人が住んでいた\n伝説の舞台と言われているチグヌ浜とか、\n見所がたくさんあるのよ。",
+    "translation": "In addition to Tinu Beach, there are many other\nplaces of interest, such as Chigunu Beach, which is\nsaid to be the legendary place where the two lived."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "二乃、詳しいな。",
+    "translation": "You know a lot about it, Nino."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふーん、この旅行のために調べたのよ。\n古宇利島のことなら任せてちょうだい。",
+    "translation": "Hm-hmm, I researched it for this trip.\nLeave everything about Kouri Island to me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その意欲を勉強にも反映させて欲しかった……。",
+    "translation": "I wish you could reflect\nthat enthusiasm in you studies..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "もう、そういうこと言わないでよ。\n意地悪ね。",
+    "translation": "Don't say things like that anymore.\nYou're mean."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ねえねえ、パワースポットに行く前に\nそこに見えるタワーに登ってみよう！",
+    "translation": "Hey, hey, before we go to the power spot,\nlet's climb the tower over there and take a look at it!"
+  },
+  {
+    "character": "一花",
+    "japanese": "私も気になってる。\n登れば、橋から見た以上の景色が見えるんじゃない？",
+    "translation": "I'm curious too.\nIf we climb up, will we see more than we did from the bridge?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "もちろんそのつもりよ！\nここは古宇利大橋を一望できる\n絶景スポットなんですって。",
+    "translation": "Of course! That is a scenic spot\nwhere we'll be able to see the whole Kouri Bridge."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほう！　そいつは楽しみだ！",
+    "translation": "Oh, that sounds exciting!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "橋の上から見た景色も素晴らしかったが\nあそこが一望できるとなると\nさぞや見事な眺めに違いない！",
+    "translation": "The view from the bridge was already amazing,\nbut if we can see it all from there\nit must be an incredible sight!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "それに、ここの屋上にも\n外せない観光スポットがあるの。",
+    "translation": "And there's also a must-see tourist spot\non the rooftop there."
+  },
+  {
+    "character": "一花",
+    "japanese": "そうなの？　なに？",
+    "translation": "Really? What is it?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "それは行ってのお楽しみよ。",
+    "translation": "That's a surprise for when we get there."
+  },
+  {
+    "character": "二乃",
+    "japanese": "入り口から展望台までは自動カートがあるはず。\n乗って行きましょ！",
+    "translation": "There should be an automatic cart\nfrom the entrance to the observation deck.\nLet's go for it!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "カート？　面白そう！\n乗ろう乗ろう！",
+    "translation": "A cart? Sounds fun!\nLet's ride, let's ride!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "さあ風太郎、行くわよ！\n早く早く！",
+    "translation": "Come on, Futaro!\nHurry up!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おい二乃！\nわかったから引っ張るな！",
+    "translation": "H-hey, Nino! You don't have to pull me like that!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……二乃、言えばいいのに。",
+    "translation": "...Nino, why don't you just say it?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ああ、バイクのこと？",
+    "translation": "Oh, is it about the motorcycle?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "きっと２人で乗りたかったんだ。",
+    "translation": "She must have wanted to ride together."
+  },
+  {
+    "character": "一花",
+    "japanese": "なんだかんだ言っても、二乃はそこで\nわがままを言い出せるような子じゃないんだよねー。",
+    "translation": "No matter what we say,\nNino isn't the kind of girl\nwho could be that selfish."
+  },
+  {
+    "character": "一花",
+    "japanese": "だからここは、\nフータロー君に気がついてほしかったんだけど。",
+    "translation": "That's why she wanted Futaro-kun to understand her."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でもフータローだから。",
+    "translation": "But, it's Futaro, after all."
+  },
+  {
+    "character": "一花",
+    "japanese": "だね、フータロー君だもんね。",
+    "translation": "Yeah, it IS Futaro-kun."
+  }
+]

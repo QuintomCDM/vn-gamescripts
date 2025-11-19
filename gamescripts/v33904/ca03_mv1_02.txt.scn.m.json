@@ -1,0 +1,367 @@
+[
+  {
+    "character": "二乃",
+    "japanese": "そんな展示あったかしら？\n気づかなかったわ。",
+    "translation": "Was there really that kind of exhibit?\nI didn't notice it."
+  },
+  {
+    "character": "五月",
+    "japanese": "ありましたよ、確かに見たんです。",
+    "translation": "There was, I definitely saw it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なにがあったって？",
+    "translation": "What was it?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あ、フー君。\nねえ、ここに入って来る通路、\n床がガラス張りになってたわよね？",
+    "translation": "Ah, Fu-kun.\nYou know the corridor we entered from,\nwith the glass floor?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "両側の壁に海が描いてあった通路か。\nああ、なってたな。",
+    "translation": "Ah, yeah, the one with the ocean paintings on both walls.\nYeah, I remember."
+  },
+  {
+    "character": "二乃",
+    "japanese": "五月が、あのガラスの床の下に\n海の生き物がいたって言うんだけど、\nそれ、気付いた？",
+    "translation": "Itsuki said there were living sea creatures\nunder the glass floor. Did you notice?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うん？　そうだったか？",
+    "translation": "Oh? Really? I didn't notice."
+  },
+  {
+    "character": "五月",
+    "japanese": "もう、せっかくの博物館見学だというのに。\n２人とも、もっと集中して見ましょう。",
+    "translation": "Oh, my. What a shame we have this opportunity\nto visit the museum.\nBoth of you need to concentrate more on observing your surroundings."
+  },
+  {
+    "character": "二乃",
+    "japanese": "足元まで集中するのは難しいわよ。\n普通はただの床だもの。",
+    "translation": "It's hard to notice the things beneath you.\nIt's not often you look at the floor, after all."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちなみに海の生き物ってなにがいたんだ？",
+    "translation": "By the way, what kind of sea creatures were there?"
+  },
+  {
+    "character": "五月",
+    "japanese": "海の底に広がるサンゴと、\nサンゴに集まる魚たちがジオラマになっていました。\nとても綺麗でしたよ。",
+    "translation": "The coral spread on the seabed and the fish\nthat gather around the coral\nwere made into a diorama. It was really beautiful."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふーん、あとで見てみようかしら。",
+    "translation": "Hmm, I'll have to check it out later."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういや、２人とも知ってるか？\nサンゴは植物と思われがちだが、実は動物なんだ。",
+    "translation": "By the way, did you both know?\nCoral is often mistaken for a plant,\nbut it's actually an animal."
+  },
+  {
+    "character": "二乃",
+    "japanese": "サンゴが？\nどう見ても植物じゃない？",
+    "translation": "Coral?\nIt definitely doesn't look like a plant to me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "刺胞（しほう）動物と言って、\nイソギンチャクやクラゲの仲間だ。",
+    "translation": "It's called a cnidarian,\nrelated to jellyfish and anemones."
+  },
+  {
+    "character": "五月",
+    "japanese": "私は知っていましたよ？\nサンゴの産卵なんてニュースになりますし。",
+    "translation": "Really? Even I knew that.\nCoral spawning is even on the news."
+  },
+  {
+    "character": "五月",
+    "japanese": "小さな卵が海に広がっていく様は、\n生命の奇跡という言葉そのものでしたね。",
+    "translation": "The way the small eggs spread throughout the ocean,\nit was like a miracle of life itself."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あ、私も見たことある。",
+    "translation": "Oh, I've seen that too."
+  },
+  {
+    "character": "二乃",
+    "japanese": "確かに、卵を産むなら植物じゃないわね。\n完全に見た目に引っ張られてたみたい。",
+    "translation": "Indeed, if it lays eggs, it's not a plant.\nI was completely fooled by its appearance."
+  },
+  {
+    "character": "五月",
+    "japanese": "ああ見えて口もあるし、骨だってあるんですよ。\n立派な動物です。",
+    "translation": "Despite how it looks,\nit has a mouth and even bones.\nIt's a magnificent animal."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あー、ところで？\nお前ら、三玖を見ていないか？",
+    "translation": "...Ah%p-2;――%p; by the way?\nHave you two seen Miku?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんだ、本命はそっちなのね。",
+    "translation": "Ah, so that was your plan, to ask about Miku all along."
+  },
+  {
+    "character": "五月",
+    "japanese": "私は見かけませんでしたよ。",
+    "translation": "I haven't seen her."
+  },
+  {
+    "character": "二乃",
+    "japanese": "私も見てないわ。\nこっちには来てないと思うけど。",
+    "translation": "I haven't either.\nI don't think she came this way."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか。",
+    "translation": "I see."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なあ、三玖についてなんだが、\n逆にお前らになにか気になることはないか？",
+    "translation": "Hey, about her, do you guys notice anything\nthat might be causing her to act strange?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その……三玖の様子が変になってる\n原因になりそうなこととか。",
+    "translation": "I mean...\nIt could be anything you've noticed,\npossibly a reason?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あのねぇ？\n普通に考えて、あんた以外にないわよ？",
+    "translation": "Listen, okay?\nIt's probably just you,\nI mean, who else could it be but you, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だから心当たりがないんだって。\nさっきも言ったろ。",
+    "translation": "I'm telling you, I have no idea.\nI already told you earlier."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうは言っても、ねえ？",
+    "translation": "That's hard to believe, don't you think?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、そうですね。",
+    "translation": "Yes, I agree."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ、２人して。",
+    "translation": "What's up with you two?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたは自覚なく\nノーデリカシーなことをやりますから。",
+    "translation": "It's because you sometimes say things unconsciously\nthat lack delicacy."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ま、ある意味では\nそこがフー君の魅力でもあるけどね。",
+    "translation": "Well, in a way, that's also\npart of Fu-kun's charm, you know."
+  },
+  {
+    "character": "五月",
+    "japanese": "……その点は同意しかねます。",
+    "translation": "...I'm not sure I agree with that."
+  },
+  {
+    "character": "二乃",
+    "japanese": "つまり、フー君は三玖のことで頭がいっぱいで、\n足元の展示を見逃したってわけね？",
+    "translation": "In other words, you were so preoccupied with Miku,\nthat you missed the exhibit on the ground, hm?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そういうわけじゃ……。",
+    "translation": "Th-that's not the case..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふっ、本当に三玖はいいわね。\nこんなにフー君に思ってもらえて。",
+    "translation": "Teehee, Miku is really lucky, isn't she?\nTo be thought of so much by you, Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うっ……。",
+    "translation": "Ooh..."
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたなりに\n努力してくださっていることはわかります。\nそれが足りないとは言いません。",
+    "translation": "I understand that you're\nmaking an effort in your own way.\nI'm not saying that it's not enough."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "他にもあるだろ。",
+    "translation": "There's gotta be something else."
+  },
+  {
+    "character": "五月",
+    "japanese": "例えば、どういうことでしょう？",
+    "translation": "For example, what, then?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "将来について悩んでるとか。\nだったら相談に乗ってやらないと。",
+    "translation": "She could be worried about the future.\nIf that's the case,\nI'll listen to her, and give her advice."
+  },
+  {
+    "character": "五月",
+    "japanese": "そういう悩みなら、\n少なくとも二乃には話すと思います。\n同じ進路ですし。",
+    "translation": "If it's that kind of worry,\nI think she would've at least talked to Nino about it.\nSince, they're on the same path."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、仲のいい姉妹だからこそ\n話しにくいこともあるんじゃないか？",
+    "translation": "Well, maybe there are things that are hard to talk about\nbetween close sisters."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……ふふっ。",
+    "translation": "...Teehee."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ。",
+    "translation": "What the hell."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君はもう家庭教師じゃないのに、\nすっかり先生役が板についてるわね？",
+    "translation": "Fu-kun, even though you're not our tutor anymore,\nyou still have a knack for playing teacher, huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "からかうなよ……。",
+    "translation": "Don't make fun of me..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "つまり、フー君は三玖のことで頭がいっぱいで、\n足元の展示を見逃したってわけね？",
+    "translation": "In other words, you were so preoccupied with Miku,\nthat you missed the exhibit on the ground, hm?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そういうわけじゃ……。",
+    "translation": "Th-that's not the case..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふっ、本当に三玖はいいわね。\nこんなにフー君に思ってもらえて。",
+    "translation": "Teehee, Miku is really lucky, isn't she?\nTo be thought of so much by you, Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うっ……。",
+    "translation": "Ooh..."
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたなりに\n努力してくださっていることはわかります。\nそれが足りないとは言いません。",
+    "translation": "I understand that you're\nmaking an effort in your own way.\nI'm not saying that it's not enough."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、そうかもしれないが……。",
+    "translation": "Well, that might be the case..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "へえ、自覚あるんだ。\nいいこと聞いちゃったわ。",
+    "translation": "Oh, I see you're aware of it.\nThat's good to hear."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですね。\n素直に認めるとは意外です。",
+    "translation": "Yes, it's surprising\nthat you're so quick to admitting you're wrong."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "意外？　なんのことだ？",
+    "translation": "Surprising? What do you mean?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "だって、それ、私たちよりフー君のほうが\n三玖に影響を与えてる存在だってことでしょ？",
+    "translation": "Well, it means that you have more influence over Miku\nthan we do."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なっ！？\nそういうことになる……のか？",
+    "translation": "Wha%p-2;――%p;?!\nIs that...so?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あ、そっちは自覚なかったのね。",
+    "translation": "Ah, you still haven't realized that yet."
+  },
+  {
+    "character": "五月",
+    "japanese": "だとすれば、いまのは\nただののろけだったというわけですね。",
+    "translation": "If that's the case,\nthen what you said earlier was just a boast, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、そんなつもりはなくてだな！？",
+    "translation": "No, that wasn't my intention, you know?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "博物館の中ではお静かに。",
+    "translation": "Keep your voice down in the museum."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わ、わかってる……。",
+    "translation": "Y-Yes I know..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "つまり、フー君は三玖のことで頭がいっぱいで、\n足元の展示を見逃したってわけね？",
+    "translation": "In other words, you were so preoccupied with Miku,\nthat you missed the exhibit on the ground, hm?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そういうわけじゃ……。",
+    "translation": "Th-that's not the case..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふっ、本当に三玖はいいわね。\nこんなにフー君に思ってもらえて。",
+    "translation": "Teehee, Miku is really lucky, isn't she?\nTo be thought of so much by you, Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うっ……。",
+    "translation": "Ooh..."
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたなりに\n努力してくださっていることはわかります。\nそれが足りないとは言いません。",
+    "translation": "I understand that you're\nmaking an effort in your own way.\nI'm not saying that it's not enough."
+  },
+  {
+    "character": "二乃",
+    "japanese": "それでも難しいものなのよね、恋って。",
+    "translation": "Even then, your efforts might not be enough, love is quite complex."
+  },
+  {
+    "character": "五月",
+    "japanese": "三玖のこと、ちゃんと考えてくださいね。",
+    "translation": "Please give Miku all of your attention, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ。",
+    "translation": "I will."
+  }
+]

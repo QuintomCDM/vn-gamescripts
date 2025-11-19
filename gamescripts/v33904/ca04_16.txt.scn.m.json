@@ -1,0 +1,317 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "よし、時間前に到着～！",
+    "translation": "Alright, I got here early!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "って、あれ。\nまだ誰も来てない？",
+    "translation": "Huh, wait a minute.\nNobody else has arrived yet?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "（上杉さんなら早めに来てると思ったんだけどな。\n　時間までもうちょっとあるし\n　捜しにいったほうが……）",
+    "translation": "(I thought Uesugi-san would come early.\n I still have some time left,\n so maybe I should go look for him...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "（ううん、ダメダメ。\n　もし行き違いになったら、また――）",
+    "translation": "(No, no, that's not a good idea.\n If we miss each other, then again%p-2;――%p;)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "……また？",
+    "translation": "...Again?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "（ん～？\n　なんで私、こんなに早く集合場所に来てるんだろ）",
+    "translation": "(Hmm?\n Why did I come to the meeting place so early?)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "（なぜか早く行かなきゃって思って……。\n　上杉さんが先に来てるかもしれないから？）",
+    "translation": "(I had a feeling that I needed to come early...\n Maybe, because Uesugi-san might come here first.)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "んんん～！",
+    "translation": "Nnnnnhh!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "（さっきの私、どうしちゃったんだろ。\n　みんなにも気を遣わせちゃったし、\n　思い出しただけでも顔から火が出る～！）",
+    "translation": "(What's wrong with me?\n I definitely made everyone worried,\n and just thinking about it makes me blush!)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "（ただ、上杉さんが\n　二乃や三玖と話してただけ……）",
+    "translation": "(But, just by Nino and Miku talking to Uesugi-san...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ん～……。",
+    "translation": "Hm..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "（二乃と三玖もなんか変だよね。\n　２人とも急にどうしちゃたんだろ）",
+    "translation": "(Nino and Miku are acting weird too.\n I wonder what's going on with them.)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あー、なんかモヤモヤする～。",
+    "translation": "Ah, I feel so frustrated."
+  },
+  {
+    "character": "一花",
+    "japanese": "なにがモヤモヤしてるの？",
+    "translation": "What's frustrating you?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うひゃっ！？",
+    "translation": "UHYAA?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "い、い、一花！？\nいつからそこにいたの！？",
+    "translation": "I-I-Ichika?!\nHow long have you been there?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "いま来たとこ。",
+    "translation": "I just got here."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そ、そっか。\nビックリしたぁ。",
+    "translation": "I-is that so.\nYou really surprised me."
+  },
+  {
+    "character": "一花",
+    "japanese": "みんなはまだなんだ。\nちょっと早く来すぎたかな。",
+    "translation": "No one else is here, huh.\nMaybe we came too early."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、おかげで四葉のモヤモヤについて\n話が聞けそうだ。",
+    "translation": "But, thanks to that,\nI might be able to hear about how frustrated\nyou are, Yotsuba."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あう……。",
+    "translation": "Aww..."
+  },
+  {
+    "character": "一花",
+    "japanese": "二乃と三玖のこと？",
+    "translation": "Is it about Nino and Miku?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ……？",
+    "translation": "Eh...?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ち、違うよ？\nちょっと、はしゃぎすぎて疲れちゃっただけだから。\n心配しないで！",
+    "translation": "I-it's not.\nI just got a little too excited, and tired myself out.\nDon't worry!"
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉？",
+    "translation": "Yotsuba?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "やっぱり誤魔化せないよね。",
+    "translation": "I guess I can't hide it after all."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ねえ、一花。\n私、二乃や三玖を怒らせちゃった？",
+    "translation": "Hey, Ichika.\nDid I make Nino and Miku angry?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うんうん、偉い偉い。\nそれをちゃんと聞けるようになったなんて、\n四葉も成長したね。",
+    "translation": "Nice, nice, good job.\nYou've grown up enough to ask that question, Yotsuba."
+  },
+  {
+    "character": "四葉",
+    "japanese": "一花はわかるの？\n私、よくわかんなくて焦っちゃって。",
+    "translation": "Do you understand what's going on, Ichika?\nI don't really get it,\nand it's making me anxious."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私、変だったかな？\nいつも通りにしてたつもりなんだけど。",
+    "translation": "Was I acting strange?\nI thought I was just being myself."
+  },
+  {
+    "character": "一花",
+    "japanese": "だからじゃないかな？",
+    "translation": "That's probably it, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "へっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "一花",
+    "japanese": "二乃も三玖も、怒ってるわけじゃないよ。",
+    "translation": "Nino and Miku aren't really angry."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうなの？",
+    "translation": "Is that so?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うーん、もしかすると、ちょっとは怒ってたかも。",
+    "translation": "Hmm, well, maybe they were a LITTLE angry."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そこ！　そこ大事なとこだよ！？",
+    "translation": "That! That's important to know, isn't it?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "でも大丈夫。\n怒ってたとしても本気じゃないから。",
+    "translation": "But it's okay.\nEven if they were angry, it wasn't serious."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それって結局は怒ってるんじゃん……。",
+    "translation": "In the end they're still angry though..."
+  },
+  {
+    "character": "一花",
+    "japanese": "だって、この旅行が終わったら\nフータロー君は上京しちゃうから。",
+    "translation": "After all, once this trip is over,\nFutaro-kun will go to Tokyo."
+  },
+  {
+    "character": "一花",
+    "japanese": "やっぱり寂しくなるよ。\nそれはみんな同じ。",
+    "translation": "It's definitely gonna be lonely.\nEveryone feels that way."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君と一緒に遊んで、\n笑ったり怒鳴られたりするもの、あとちょっと。\nいつも通りの日々は、もうおしまいなんだ。",
+    "translation": "Playing with Futaro-kun,\nlaughing and being shouted at by him, it's almost over.\nThe days we're all together are coming to an end."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん……。",
+    "translation": "Yeah..."
+  },
+  {
+    "character": "一花",
+    "japanese": "なにかを変えたいなら、早くしなくっちゃね。",
+    "translation": "If you want to change something,\nyou have to do it quickly."
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "（もしかして……みんなは心配してくれてる？）",
+    "translation": "(Maybe...\n are they all worried about me?)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "（そっか、そうだったんだ……）",
+    "translation": "(Oh, I see...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "わかった。\nありがとう、一花。",
+    "translation": "I understand.\nThank you, Ichika."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私も頑張って、みんなを\n心配させないようにしなくちゃね。",
+    "translation": "I'll do my best not to worry everyone."
+  },
+  {
+    "character": "一花",
+    "japanese": "それは違うよ。\nみんなを心配させてもいいの。",
+    "translation": "That's not it.\nIt's totally FINE to worry everyone."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ？\nでも、それじゃみんなに迷惑が……。",
+    "translation": "Huh?\nBut that would become a hassle for all of you..."
+  },
+  {
+    "character": "一花",
+    "japanese": "迷惑なんかじゃない。\nだって私たちは姉妹なんだから。\nなにかあれば、当然、心配する。",
+    "translation": "It's not a hassle.\nAfter all, we're sisters.\nBut, if something happens, of course we'll worry!"
+  },
+  {
+    "character": "一花",
+    "japanese": "それとも、四葉は私やみんなのことを心配する時、\n迷惑だなぁって思ってるの？",
+    "translation": "Or do you perhaps think\nthat when I worry about myself or everyone else,\nit's a bother, Yotsuba?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ううん！　思ってない！",
+    "translation": "No! I don't!"
+  },
+  {
+    "character": "一花",
+    "japanese": "そういうこと。\nだから四葉も自分のしたいことをすればいい。",
+    "translation": "That's right.\nSo you should do whatever you want, Yotsuba."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……いいのかな？",
+    "translation": "...Is that okay?"
+  },
+  {
+    "character": "一花",
+    "japanese": "いいんだよ。\nそれで間違ったり、\nぶつかったりすることもあるけど――",
+    "translation": "It's okay.\nSometimes you'll make mistakes,\nor bump into things%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "私たちは、そうやって前に進んできたんだ。",
+    "translation": "But, that's how everyone has been progressing\nforward this whole time."
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "一花、本当にありがと。\nいつもお姉ちゃんしてくれて。",
+    "translation": "Thank you so much, Ichika.\nFor always being my big sister."
+  },
+  {
+    "character": "一花",
+    "japanese": "当然だよ。\nだって私はお姉ちゃんだからね。",
+    "translation": "Of course.\nI am the big sister, after all."
+  },
+  {
+    "character": "一花",
+    "japanese": "あとはフータロー君が頑張ってくれたら、かな。",
+    "translation": "Now, all we need is for Futaro-kun to do his best."
+  }
+]

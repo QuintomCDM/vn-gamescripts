@@ -1,0 +1,422 @@
+[
+  {
+    "character": "らいは",
+    "japanese": "はーい、いま開けます！",
+    "translation": "Okay, I'll open it now!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "おはよ、フー君。",
+    "translation": "Good morning, Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、来たのか。",
+    "translation": "Ah, you came."
+  },
+  {
+    "character": "三玖",
+    "japanese": "コンビニまで行って必要そうな物、買ってきた。\n水とか、消化によさそうな食べ物とか。",
+    "translation": "We went to the convenience store\nand bought the necessities.\nLike water, and foods that are good for digestion."
+  },
+  {
+    "character": "四葉",
+    "japanese": "一花の様子はどうですか？",
+    "translation": "How is Ichika doing?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "夕べと同じ状態だな。\n意識ははっきりしてるが……。",
+    "translation": "She's in the same condition as last night.\nHer consciousness is clear, but..."
+  },
+  {
+    "character": "一花",
+    "japanese": "大丈夫だよ。\n熱も高いわけじゃないしさ。",
+    "translation": "I'll be fine.\nMy fever isn't high or anything."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それでも心配だよ！",
+    "translation": "I'm still worried!"
+  },
+  {
+    "character": "五月",
+    "japanese": "やはり、ホテルにお願いして\nお医者様を呼んでもらったほうがいいのでは？",
+    "translation": "Don't you think\nwe should ask the hotel to call a doctor?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ごめん、気持ちは嬉しいんだけど\n大袈裟なことにしたくなくて。",
+    "translation": "Sorry, I appreciate you looking out for me,\nbut I don't want to make a big deal out of this."
+  },
+  {
+    "character": "三玖",
+    "japanese": "けど、なにかの病気だったら……。",
+    "translation": "But what if you got some kind of illness..."
+  },
+  {
+    "character": "一花",
+    "japanese": "ううん、ちょっと\n疲れが出ちゃっただけだと思うんだ。",
+    "translation": "No, I think I'm just exhausted."
+  },
+  {
+    "character": "一花",
+    "japanese": "みんなには黙ってたけど、\nここのところ、お仕事をギリギリまで\n詰め込んじゃってたんだよね。",
+    "translation": "I haven't told everyone,\nbut I've been working really hard recently."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そうだったの？",
+    "translation": "Oh really?"
+  },
+  {
+    "character": "一花",
+    "japanese": "１週間のお休みをもらうのも大変でさ。\nいやぁ、売れっ子はつらいです。",
+    "translation": "It was difficult trying to get this week off.\nBeing successful sure is tough."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（確かに、よく１週間も休暇がもらえたなとは\n　思ってたが……その分、事前に働いてたわけか）",
+    "translation": "(That's true, I couldn't believe she got a week off, but...\n I guess she worked in advance to get it?)"
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、みんなが責任感じることないからね？\n私ができると思ってやった結果なんだから。",
+    "translation": "Ah, no one needs to feel responsible, okay?\nI came here on my own will."
+  },
+  {
+    "character": "一花",
+    "japanese": "というわけで、今日１日くらい\nゆっくりすれば元気になるだろうし、\nホテルで大人しくしておくよ。",
+    "translation": "So, if I take it easy today,\nI'll probably feel better.\nI'll keep quiet at the hotel."
+  },
+  {
+    "character": "一花",
+    "japanese": "みんなは予定通りに観光してきて。",
+    "translation": "Everyone, go sightseeing as planned."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……は？",
+    "translation": "...Huh?"
+  },
+  {
+    "character": "一花",
+    "japanese": "は、じゃなくて。\nガンガラーの谷とか、おきなわワールドとか、\nみんな楽しみにしてたじゃん。",
+    "translation": "Don't say 'huh.'\nYou guys were all looking forward to go to \nthe Valley of Gangala and Okinawa World, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ほら、ここにいる時間ももったいないし、\n早く出発したほうがいいよ。\n行っておいで。",
+    "translation": "Come on, it's a waste of time to stay here,\nyou guys should leave early. Go ahead."
+  },
+  {
+    "character": "二乃",
+    "japanese": "行くわけないでしょ。",
+    "translation": "There's no way we're going."
+  },
+  {
+    "character": "一花",
+    "japanese": "……え？",
+    "translation": "...What?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "一花を置いていけるわけない。",
+    "translation": "We can't just leave you behind, Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "でもさ、倒れちゃったのは私の責任だし。",
+    "translation": "But still, it's my own fault that I collapsed."
+  },
+  {
+    "character": "一花",
+    "japanese": "ちゃんと自己管理ができてたら、\nこんなことにはならなかったんだよ？",
+    "translation": "If I had managed myself better,\nthis wouldn't have happened, you know?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんたが悪いだなんて誰も思ってないわ。",
+    "translation": "No one thinks it's your fault."
+  },
+  {
+    "character": "一花",
+    "japanese": "これは私が悪いよ。",
+    "translation": "I'm at fault here."
+  },
+  {
+    "character": "一花",
+    "japanese": "だから気にしないで、\nせっかく沖縄まで来たんだから、\nみんなは楽しんでおいでよ。",
+    "translation": "So don't worry about it.\nSince we've come all the way to Okinawa,\nyou guys enjoy yourselves."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ううん、一緒にいる。",
+    "translation": "No, we'll stay with you."
+  },
+  {
+    "character": "五月",
+    "japanese": "一花の失敗も、一緒に行けない寂しさも……\nこういう時だって五等分ですよ。",
+    "translation": "Even if it's a mistake on your part, Ichika,\nor the sadness of not being able to go together...\nit's all part of being quintuplets, you know."
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは、困ったなぁ。",
+    "translation": "Haha, what a dilemma."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（行ってほしい一花と心配なこいつら……。\n　どっちの気持ちもわかるが、平行線だな）",
+    "translation": "(I can understand both their feelings,\n but we're at a standstill.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前が心配なんだろ。\nわかってやれよ、一花。",
+    "translation": "We're all worried about you.\nUnderstand that, Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "ちゃんとわかってる。\nもし誰かが倒れたら、\nきっと私だって同じことを言うよ。",
+    "translation": "I understand perfectly.\nIf someone collapsed,\nI would say the same thing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だったら――",
+    "translation": "Then%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、私のせいで\nみんながどこにも行けないのはやっぱり嫌なんだ。\nそれも、わかって欲しいな。",
+    "translation": "But it still bothers me\nthat you guys feel less inclined to go because of me.\nI want you to understand that too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うーん。\nだったら、誰か１人が残るのはどう？",
+    "translation": "Hmm.\nThen how about someone stays behind?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "間を取るなら、そうなるかな。",
+    "translation": "That would be the case if we meet in the middle."
+  },
+  {
+    "character": "五月",
+    "japanese": "このまま言い合いをしていたら\n一花もゆっくり休めませんし……。",
+    "translation": "If we keep arguing like this,\nIchika won't be able to rest..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "だったら私が――",
+    "translation": "Then I'll stay behind%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、俺が残る。",
+    "translation": "No, I'll stay."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君？",
+    "translation": "Fu-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "昨日、一番近くで一花を見ていたのは俺なんだ。\nそれなのに気づけなかった責任を取らせてくれ。",
+    "translation": "I was the one who was closest to Ichika yesterday.\nLet me take responsibility for not noticing."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君……。",
+    "translation": "Uesugi-kun..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "わかった、フータローに任せる。",
+    "translation": "Okay, we'll leave it to you, Futaro."
+  },
+  {
+    "character": "五月",
+    "japanese": "私もそれで構いません。",
+    "translation": "I'm fine with that too."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私も！",
+    "translation": "Me too!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうね、フー君がいてくれるなら安心だわ。",
+    "translation": "Yes, I feel at ease with Fu-kun here."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なら決まりだな。\n俺が残って一花の看病をする。\n悪いが、らいはのことは任せた。",
+    "translation": "Then it's settled.\nI'll stay and take care of Ichika.\nSorry, but take care of Raiha for me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここに全員いても意味はない。\n看病するなら１人でもいいはずだ。",
+    "translation": "There's no point in everyone being here.\nOne person should be enough to take care of Ichika."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが……。",
+    "translation": "But..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "むしろ、一花のプレッシャーになっちまうぞ？\nお前らの看病したいって気持ちが、\nこいつの罪悪感を膨らませちまう。",
+    "translation": "Moreover, it might put pressure on Ichika, you know?\nYour desire to take care of her\ncould increase her guilt."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前らだって旅行中に同じ状況になったら、\n他のみんなには行ってほしいって思うだろ？",
+    "translation": "If you were in the same situation on a trip,\nwouldn't you want everyone else to go?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……うん。",
+    "translation": "...Right."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だったら行って来い。\nここには俺が残る。",
+    "translation": "Then you guys go.\nI'll stay here."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんがですか？",
+    "translation": "Uesugi-san?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、１人残ってれば充分だって言っただろ。",
+    "translation": "Yeah, I said one person staying behind would be enough."
+  },
+  {
+    "character": "五月",
+    "japanese": "……わかりました。\nあなたになら一花を任せられます。",
+    "translation": "...Okay, I understand.\nI can entrust Ichika to you."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうね。\nフー君ならいいわ。",
+    "translation": "That's right.\nFu-kun is fine."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なら決まりだな。\n俺が残って一花の看病をする。\n悪いが、らいはのことは任せた。",
+    "translation": "Then it's settled.\nI'll stay and take care of Ichika.\nSorry, but take care of Raiha for me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一花は俺に任せてくれ。",
+    "translation": "Leave Ichika to me."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも……。",
+    "translation": "But..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "昨日、一番近くで一花を見てたのは俺だ。\nなのに倒れるまで不調に気がつけなかった。\nその責任を取らせてくれ。",
+    "translation": "I was the one who was closest to Ichika yesterday.\nAnd yet, I didn't notice that she was unwell until\nshe collapsed. Let me take responsibility for that."
+  },
+  {
+    "character": "三玖",
+    "japanese": "責任なんて言い出したら、みんな同じ。",
+    "translation": "If you start talking about responsibility,\neveryone is responsible."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……俺は、一花の恋人なんだ。\nこんなんじゃ自分が許せないんだよ。",
+    "translation": "...I'm Ichika's boyfriend.\nI wouldn't be able to forgive myself."
+  },
+  {
+    "character": "五月",
+    "japanese": "こ、恋人……ですか。",
+    "translation": "Her b-boyfriend...you say."
+  },
+  {
+    "character": "二乃",
+    "japanese": "もう……。",
+    "translation": "Come on..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "普段は全然なのに、こういう時に\nさらっと言えちゃうのがフー君のズルいところだわ。\n反論できないじゃない。",
+    "translation": "It's hard to argue back when you say \nthings you don't usually say."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、フータローに任せるしかない。",
+    "translation": "Yeah, we have no choice but to leave it to you,\nFutaro."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんが看ていてくれるなら安心です。",
+    "translation": "I feel relieved\nknowing that you'll be taking care of her, Uesugi-san."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、私もです。",
+    "translation": "Yes, me too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なら決まりだな。\n俺が残って一花の看病をする。\n悪いが、らいはのことは任せた。",
+    "translation": "Then it's settled.\nI'll stay and take care of Ichika.\nSorry, but take care of Raiha for me."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そこはバッチリ任されちゃいます！",
+    "translation": "You can count on me for that!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいは、ちゃんとみんなの言うことを聞くんだぞ。",
+    "translation": "Raiha, make sure you listen to everyone, okay?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "もう、わかってるよ。\nそんなに子どもじゃないんだから。",
+    "translation": "Oh come on, I know already.\nI'm not a child."
+  },
+  {
+    "character": "五月",
+    "japanese": "では、一花のことをお願いします。",
+    "translation": "Then, please take care of Ichika."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なにかあったらすぐ連絡して。\n遠慮なんてしないでよ？",
+    "translation": "If anything happens, contact us immediately.\nDon't hesitate to do so."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、わかった。",
+    "translation": "Okay, got it."
+  },
+  {
+    "character": "一花",
+    "japanese": "みんな、心配かけてごめんね。",
+    "translation": "Sorry for making you all worry."
+  },
+  {
+    "character": "二乃",
+    "japanese": "謝る前に、体をちゃんと休めなさい。\nフー君の言うことを聞いて安静にしてるのよ？",
+    "translation": "Before apologizing, make sure to rest properly.\nListen to what Fu-kun says and rest."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん。\nいってらっしゃい。",
+    "translation": "Yeah.\nTake care."
+  }
+]

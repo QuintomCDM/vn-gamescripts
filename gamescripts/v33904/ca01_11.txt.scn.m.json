@@ -1,0 +1,362 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（その後、アメリカンビレッジ内の\n　あちこちへ行ってみたが、\n　記念品を見つけることはできなかった）",
+    "translation": "(After that, we tried going around various places\n in American Village,\n but we couldn't find any souvenirs.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（代わりというわけではないが、観覧車からの\n　夕日を堪能し、レストランで夕食を楽しんでから\n　ホテルへと向かった）",
+    "translation": "(Although it wasn't a replacement, we enjoyed\n the sunset from the Ferris Wheel and had dinner\n at a restaurant before heading back to the hotel.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ふう、戻ってきたな。",
+    "translation": "Whew, we're back."
+  },
+  {
+    "character": "一花",
+    "japanese": "お疲れ様～。",
+    "translation": "Good work today."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "夕食も済ませたし、今日はあとは寝るだけか。\nこのまま解散でいいよな？",
+    "translation": "Since we've had dinner,\nall we have to do now is sleep.\nIs it okay to split up like this?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、待って。",
+    "translation": "Ah, wait."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？",
+    "translation": "What is it?"
+  },
+  {
+    "character": "一花",
+    "japanese": "え、えっと……。",
+    "translation": "U-um..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はいはい、わかってるわよ。",
+    "translation": "Yeah, yeah, we get it."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、急なんだけど\n今日から部屋割りを変えることになったわ。",
+    "translation": "Fu-kun, there's something urgent.\nWe have to change room assignments starting today."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？\nいつの間にそんな話を……。",
+    "translation": "Wha?\nWhen did that happen...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、さては一花が二乃の手に負えないくらいに\n部屋を散らかしたか？",
+    "translation": "Oh, could it be that Ichika messed up the room so much\nthat you couldn't handle it, Nino?"
+  },
+  {
+    "character": "一花",
+    "japanese": "してないから！",
+    "translation": "I didn't!"
+  },
+  {
+    "character": "五月",
+    "japanese": "少々、事情がありまして、\n一花と上杉君とらいはちゃんが同じ部屋と\nいうことになりました。",
+    "translation": "Well, some things happened,\nso now Ichika, Uesugi-kun, and Raiha-chan\nwill be in the same room from now on."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "――は？",
+    "translation": "%p-2;――%p; Whaa?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私は二乃とで、五月、四葉は１人部屋。\nそういう話になったから。",
+    "translation": "I'll be with Nino, Itsuki and Yotsuba\nwill have their own rooms. That's what we decided."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあぁぁ！？",
+    "translation": "WHAAAAA?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "というわけなので、\n今日からよろしくねフータロー君、らいはちゃん。",
+    "translation": "So, I'm looking forward to rooming with you two,\nFutaro-kun, Raiha-chan."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いやいやいやいや！\nどうしてそんな話になった！？",
+    "translation": "Woah, woah, woah, woah!\nWhy did it have to be like that?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そ、それがですねぇ！\n私って本当に寝相悪くてっ！\nらいはちゃんに迷惑をかけちゃうんですよね～！",
+    "translation": "W-well, you see!\nI'm really bad at sleeping,\nso I'd be a bother to Raiha-chan."
+  },
+  {
+    "character": "らいは",
+    "japanese": "なんだよねー。",
+    "translation": "Yeah, right."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そもそも隣のベッドで寝てんのに\nどうやって寝相で迷惑かけるんだ！",
+    "translation": "You're sleeping in the bed right next to hers.\nHow could you bother her with your sleeping position?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そりゃもう、超のつくアクロバットな寝相です！",
+    "translation": "Well, it's really bad. I do acrobatics in my sleep!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "んなわけあるかっ！",
+    "translation": "That's impossible!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "とにかく、そう決めたからよろしく。",
+    "translation": "Anyway, it's been decided, so let's make the best of it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "厳正な協議の結果だから。",
+    "translation": "It was the result of a strict discussion."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（えええええ……なんだこの展開は……）",
+    "translation": "(Whaaaa... What's with this development...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（俺としては、まあ、一花と過ごす時間が\n　増えるのは悪い話じゃない。\n　キスのチャンスも増えるわけだし……）",
+    "translation": "(As for me, well, it's not a bad thing that I'll be\n spending more time with Ichika.\n It means more chances to kiss her...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いや待て！　だからこそ\n　同じ部屋は色々とまずくないか！？）",
+    "translation": "(No, wait!\n Wouldn't sharing a room lead to various problems?!)"
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君？\nなにを考えているんですか？",
+    "translation": "Uesugi-kun? What are you thinking about?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なにって、なにも！？",
+    "translation": "N-nothing, nothing at all?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "ふーん？\nもしかしてフータロー君、色々と想像しちゃった？\nお姉さんと一緒だと困ることがあるのかな？",
+    "translation": "Hmm? \nWere you picturing all sorts of things, Futaro-kun? \nAre you worried about being with the big sister?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……！",
+    "translation": "...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほ、ほら、男女７歳にしてって言うだろ！",
+    "translation": "H-hey, you know what they say,\nto separate boys and girls at the age of seven!"
+  },
+  {
+    "character": "一花",
+    "japanese": "７歳？　なにそれ？\n二乃知ってる？",
+    "translation": "At age seven? What?\nNino, did you know that?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "さあ？",
+    "translation": "No idea?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私も知らない。",
+    "translation": "I didn't know either."
+  },
+  {
+    "character": "四葉",
+    "japanese": "五月はわかる？",
+    "translation": "Did you know, Itsuki?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええと、ちょっとわかりません。",
+    "translation": "Um, no, not really."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こ、こいつら……！\n　こういうところは相変わらずだな！）",
+    "translation": "(These guys...!\n They never change when it comes to this kind of stuff!)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "とにかく、部屋割りは決まりだから。\nフー君も嫌ではないんでしょ？",
+    "translation": "Anyway, the room assignments have been decided.\nYou don't mind, do you, Fu-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、その、嫌ではないが……。",
+    "translation": "Well, I don't mind, but..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういうのは……\nそうだ、らいはの教育に悪いだろ！",
+    "translation": "That kind of thing...\nit's bad for Raiha's upbringing, isn't it?!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃーん？\n人を小さな子みたいに言わないでよ。\n私はもう中学２年生なんだからね。",
+    "translation": "Big brooo? Don't talk to people\nlike they're little kids. I'm already\na second-year middle school student, ya know."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うっ……。",
+    "translation": "Uuuh..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "というか、フー君は\n教育に悪いことをするつもりなのかしら。",
+    "translation": "Or rather, Fu-kun, you weren't planning on doing \nanything bad to damage that upbringing?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うぐぐっ……。",
+    "translation": "Uuggh..."
+  },
+  {
+    "character": "五月",
+    "japanese": "いまの一連のやり取りを見ている限り、\nあなたのほうが教育に悪いですね。",
+    "translation": "Based on what I've seen so far,\nit's actually you who's had the poor upbringing."
+  },
+  {
+    "character": "三玖",
+    "japanese": "同感。",
+    "translation": "I agree."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ぬぐぐぐっ……。",
+    "translation": "Nnngghh..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "とにかく、部屋割りは決まりだから。\nフー君も嫌ではないんでしょ？",
+    "translation": "Anyway, the room assignments have been decided.\nYou don't mind, do you, Fu-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、その、嫌ではないが……。",
+    "translation": "Well, I don't mind, but..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういうのは止めろって。",
+    "translation": "Stop that kind of talk."
+  },
+  {
+    "character": "一花",
+    "japanese": "え？　なにが？",
+    "translation": "Eh? What do you mean?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だから……冗談にならない時だってあるんだぞ。",
+    "translation": "I'm saying...\nthat there are times when it's not a joke."
+  },
+  {
+    "character": "一花",
+    "japanese": "……ごめんね。\nそんな風に思ってくれてるなんて。",
+    "translation": "...I'm sorry.\nI didn't realize you thought that way about me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、俺だからいいが。",
+    "translation": "Well, it's okay because it's me."
+  },
+  {
+    "character": "一花",
+    "japanese": "私のこと、大事にしてくれてるんだ。",
+    "translation": "You're treating me like I'm something precious."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "当たり前だろ……。",
+    "translation": "Of course you are..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえ、私たち、なにを見せられてるのかしら。",
+    "translation": "Hey, what are we looking at right now?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "のろけ……。",
+    "translation": "Affection..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "とにかく、部屋割りは決まりだから。\nフー君も嫌ではないんでしょ？",
+    "translation": "Anyway, the room assignments have been decided.\nYou don't mind, do you, Fu-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、その、嫌ではないが……。",
+    "translation": "Well, I don't mind, but..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃ、いいじゃない。",
+    "translation": "Alright then, it's settled."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ……。\nわかった、一花がいいなら俺は構わない。",
+    "translation": "*sigh*\nOkay, if Ichika wants it that way, I don't mind."
+  },
+  {
+    "character": "一花",
+    "japanese": "ありがと、フータロー君！\n戻ったらすぐ君のお部屋にお引越ししちゃうね。",
+    "translation": "Thank you, Futaro-kun!\nAs soon as we get back, I'll move to your room!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ねえねえ、五月さん。\nこういう時って私、お邪魔じゃないかな？",
+    "translation": "Um, Itsuki-san, do you think I'd be a bother\nat times like this?"
+  },
+  {
+    "character": "五月",
+    "japanese": "さ、さあ……どうでしょうね？",
+    "translation": "W-well... I'm not sure, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別にお邪魔じゃねえよ！\n変な気使うな！",
+    "translation": "It's no bother at all!\nAnd it won't be weird at all!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "そんなこと言って、\nお兄ちゃんも本当は一花さんと２人きりのほうが――",
+    "translation": "Even though you say that, big bro,\nmaybe you actually prefer being alone\nwith Ichika-san%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やーめーろって！",
+    "translation": "SHUUUT IIIT!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは……。\nらいはちゃんは大人ですねぇ。",
+    "translation": "Ahaha...\nRaiha-chan sure is mature."
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "よう、なにを見てるんだ？",
+    "translation": "Yo, what are you looking at?"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ、その顔は？",
+    "translation": "What's with that expression?"
+  },
+  {
+    "character": "五月",
+    "japanese": "どうして私のところに。\nあなたには、他に行くべき所があるでしょう。",
+    "translation": "Why are you here?\nYou probably have other places to go."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前だって行き先を言ってたしな。\nそれなら条件は平等だろ？",
+    "translation": "You also told me where you're going.\nIn that case, the conditions should be equal, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……そうでしたね。\nでは私はお土産を見ていますので、どうぞご勝手に。",
+    "translation": "...I suppose they are.\nWell, I'm just looking at souvenirs,\nso please feel free to do as you like."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はいはい。",
+    "translation": "Fine then."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（提案の真意を確認しようと思ったが、\n　この様子じゃ相手にしてもらえそうにないな）",
+    "translation": "(I was thinking of confirming what her proposal\n really meant, but it doesn't seem like\n she's interested in talking to me.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……なあ、五月。\nちょっと聞いていいか？",
+    "translation": "...Hey, Itsuki.\nCan I ask you something?"
+  },
+  {
+    "character": "五月",
+    "japanese": "な、なんでしょう！？",
+    "translation": "Wh-what is it?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここってなんの店なんだ？\n並んでるのは手ぬぐいのようだが。",
+    "translation": "What kind of store is this?\nEveryone is lining up for hand towels or something."
+  },
+  {
+    "character": "五月",
+    "japanese": "ここは、布小物の専門店ですが。",
+    "translation": "This is a specialty store for small fabric items."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ、そんな店があるのか。\nどれも色味やデザインが沖縄っぽいな。",
+    "translation": "Oh wow, that kinda store exists, eh?\nThere's something Okinawan\nabout all of these color schemes and designs."
+  },
+  {
+    "character": "五月",
+    "japanese": "これは沖縄の伝統的な染物で、\n紅型（びんがた）というそうです。\nお店のオリジナル商品らしいですよ。",
+    "translation": "These are Okinawan traditional dyeing techniques\ncalled 'bingata.'\nApparently, they're original products of this store."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "綺麗なもんだな。\nだが、手ぬぐいなんて買って使うのか？\nハンカチやタオルならわかるが。",
+    "translation": "They're beautiful. But, would people really buy\nand use hand towels like this? I can understand\nif they were bath towels or handkerchiefs."
+  },
+  {
+    "character": "五月",
+    "japanese": "使い道は色々とありますよ？\nブックカバーにしてみたり、\n持ち手をつけてバッグにしたりもできます。",
+    "translation": "There are many uses for them, you know?\nYou can use them as a book cover\nor attach handles to make them into a bag."
+  },
+  {
+    "character": "五月",
+    "japanese": "このデザインなら、額に入れて\nインテリアとして飾ってもいいですね。",
+    "translation": "With a design like this, you could even frame it\nand use it as interior decoration."
+  },
+  {
+    "character": "五月",
+    "japanese": "部屋にいながら、\n沖縄の雰囲気を感じられると思いませんか？",
+    "translation": "Don't you think it would give off\nan Okinawan atmosphere in your room?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほう……。\n手や汗を拭くくらいの物だと思ってたが、\n考え方次第で色々と使えるんだな。",
+    "translation": "Oh... I thought it was just something to wipe your\nhands or sweat with, but it seems like there are many\ndifferent uses for it, depending on your perspective."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君は、博識な割に\nこういうことに関しては疎いですね。",
+    "translation": "You're quite knowledgeable, Uesugi-kun,\nbut you seem to be a bit lacking in this area."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "以前は、成績に関わらないことには\nあまり興味を持たなかったしな。",
+    "translation": "I didn't use to be interested\nin anything that wasn't related to my grades."
+  },
+  {
+    "character": "五月",
+    "japanese": "いまは違うと？",
+    "translation": "And now?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……お前らと一緒にいると、\n色々と無駄に知識が増えていくんだよ。",
+    "translation": "...Being with you guys,\nI seem to be gaining a lot of useless knowledge."
+  },
+  {
+    "character": "五月",
+    "japanese": "無駄ではありませんよ。\n心を豊かにしてくれる知識です。",
+    "translation": "It's not useless knowledge.\nIt's knowledge that enriches your heart and mind."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この手ぬぐいの用途もその１つってわけか。\nまあ、俺には思いつかないものばかりだったな。",
+    "translation": "So, using this hand towel for various purposes\nis one of those knowledge tokens, eh. Well,\nI couldn't think of anything except for wiping my hands."
+  },
+  {
+    "character": "五月",
+    "japanese": "別に難しく考える必要はありませんよ。",
+    "translation": "You don't need to think too hard about it."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですね。\n例えば、普通にプレゼントを\n包んだりするのに使ってもいいのでは？",
+    "translation": "Let's see.\nFor example, you could use it to wrap a present,\ncouldn't you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なるほど。\nそれくらいなら俺でもできそうだ。",
+    "translation": "I see.\nI could probably do that much myself."
+  },
+  {
+    "character": "五月",
+    "japanese": "あ……。\nこの手ぬぐいで沖縄のお菓子を包めば、\nらいはちゃんへのお土産にちょうどよさそうです。",
+    "translation": "Ah... If I wrap Okinawan sweets\nwith this hand towel, it would make\na perfect souvenir for Raiha-chan, wouldn't it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それは良いアイディアだな。\nよし、まずは手ぬぐいから選ぶか！",
+    "translation": "That's a great idea.\nAlright, let's start by choosing the hand towel first!"
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいははペンギンが好きだから、\nそんな感じのデザインは――",
+    "translation": "Since Raiha likes penguins,\nmaybe a design like that would be%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "ちょ、ちょっと上杉君！\n私の考えたアイディアを盗まないでください！",
+    "translation": "Wa-wait a minute, Uesugi-kun!\nDon't steal my idea!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、ケチなこと言うなよ。",
+    "translation": "Come on, don't be so stingy."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、手ぬぐいは俺が選ぶ。\nお前は包むお菓子をチョイスするってことでどうだ？",
+    "translation": "Alright, I'll choose the hand towel.\nAnd how about you choose the snacks to wrap inside?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここは、らいはのためと思って協力してくれ。",
+    "translation": "Please help me out for Raiha's sake."
+  },
+  {
+    "character": "五月",
+    "japanese": "……仕方ありませんね。\nそれで妥協しましょう。",
+    "translation": "...Well, I guess there's no other choice.\nLet's compromise on that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "良いセンスじゃないか。\nちょっとしたアイディアで特別感倍増だな。",
+    "translation": "You have good sense.\nA little idea can make things feel more special."
+  },
+  {
+    "character": "五月",
+    "japanese": "ふふっ！\n我ながらそう思います。",
+    "translation": "Heheh!\nI think so too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なによりもオシャレだしな。\nきっと、らいはも喜ぶ。",
+    "translation": "It's more stylish than anything else.\nRaiha will definitely be happy."
+  },
+  {
+    "character": "五月",
+    "japanese": "喜んでもらえたら私も嬉しいです。",
+    "translation": "I'll be happy too, if she likes it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺もそうしたいところだが……。\n同じパターンじゃ、ちょっと芸がないか。",
+    "translation": "I'd like to do the same, but...\nUsing the same pattern seems a bit lackluster."
+  },
+  {
+    "character": "五月",
+    "japanese": "では、私がお菓子を選びますから、\n手ぬぐいをあなたが選ぶのはどうですか？",
+    "translation": "Then how about I choose the snacks\nand you choose the hand towel?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ありがとな。",
+    "translation": "Thanks."
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ？",
+    "translation": "Eh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、らいはのことまで気にかけてくれて\n嬉しかったんだよ。",
+    "translation": "I mean, I'm happy\nyou're considering Raiha's feelings, too."
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、別に。\n私が勝手にしていることですから。",
+    "translation": "No, it's nothing, really.\nIt's just something I like doing. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺はそういうところまで\nなかなか気が回らないからな。\nなにか、あいつが喜ぶようなお土産を選ばないと。",
+    "translation": "I don't really think about that kinda stuff.\nI have to choose a souvenir\nthat she'll be happy with."
+  },
+  {
+    "character": "五月",
+    "japanese": "……では、手ぬぐいはあなたが選んでください。",
+    "translation": "...In that case, please choose the hand towel."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？\nそれじゃ、お前はどうするんだ？",
+    "translation": "Huh?\nThen what about you?"
+  },
+  {
+    "character": "五月",
+    "japanese": "私は、中に包むお菓子を選びます。\n美味しい物を選ぶことに関してなら、\n上杉君よりも私のほうが適任でしょう？",
+    "translation": "I'll choose the snacks to wrap inside. When it comes\nto choosing delicious things, I'm more suited\nfor the job than you, Uesugi-kun. Right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "良さそうな手ぬぐいはありましたか？",
+    "translation": "Did you find a good hand towel?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これなんかどうだ？\n青色が沖縄の海っぽくていいだろ？",
+    "translation": "What about this one?\nThe blue color looks like the sea in Okinawa,\ndoesn't it? It's really nice."
+  },
+  {
+    "character": "五月",
+    "japanese": "畳んでも広げても\n模様が綺麗に出ますし、いいですね。",
+    "translation": "That pattern looks beautiful\nfolded or spread out, which is nice. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、これにするか。",
+    "translation": "Okay, I'll go with this one."
+  },
+  {
+    "character": "五月",
+    "japanese": "あとは、お菓子選びですね。",
+    "translation": "Now we just need to choose the sweets."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月がいてくれて助かった。\n俺だけじゃ、こんなの考えつかなかったしな。",
+    "translation": "I'm glad I had you with me, Itsuki.\nI wouldn't have come up\nwith something like this on my own."
+  },
+  {
+    "character": "五月",
+    "japanese": "らいはちゃんのためですから。",
+    "translation": "It's for Raiha-chan's sake."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺たち２人からの土産ってことになるな。\nきっと、らいはも喜んでくれるはずだ。",
+    "translation": "Our souvenir will be from the two of us, right?\nI'm sure Raiha will be happy."
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ、２人の……？",
+    "translation": "Wait, from the two of us?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだろ？\n俺とお前で選んでるんだから。",
+    "translation": "That's right, isn't it?\nWe're both choosing Raiha's souvenir."
+  },
+  {
+    "character": "五月",
+    "japanese": "それはちょっと、悪い気が……。",
+    "translation": "That's a little, awkward..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんでだよ？\n俺たちがらいはの土産を買ったらまずいのか？",
+    "translation": "Why? Is it bad if we both buy Raiha a souvenir?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、そうではなく。",
+    "translation": "No, it's not that."
+  },
+  {
+    "character": "五月",
+    "japanese": "とにかく、このアイディアはなしと言うことで。\n私は別の物を考えますから、失礼します。",
+    "translation": "Anyway, let's forget about this idea.\nI'll think of something else, so excuse me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？\nおい、ちょっと待てって！",
+    "translation": "What?\nHey, wait a minute!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（なんなんだよ、急に……）",
+    "translation": "(What's going on? So sudden...)"
+  }
+]

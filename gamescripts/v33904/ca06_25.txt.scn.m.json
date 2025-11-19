@@ -1,0 +1,172 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "はぁ……。\nマジで疲れた……。",
+    "translation": "*sigh*\nI'm so tired..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（今日こそは変装を見破ってやるつもりだったが、\n　結局、あいつらに振り回されっぱなしだ）",
+    "translation": "(I was planning on exposing their disguises today,\n but in the end,\n I was just thrown for another loop.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（その場では見破れそうなんだが、\n　どうしても確信まで持っていけない……）",
+    "translation": "(I feel like I could see through their disguises\n on the spot, but I just can't be completely sure...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あとちょっとな気もするんだが……\n　なにかが足りないのか？）",
+    "translation": "(I feel like I'm almost there, but...\n is something missing?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（このままじゃ、\n　昨日と変わらない結果になっちまう）",
+    "translation": "(If I keep going like this,\n will I end up with the same results as yesterday?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ん？",
+    "translation": "...Hm?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あっ！　上杉君！",
+    "translation": "Ah! Uesugi-kun!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、やけに慌てて。\nなにかあったのか？",
+    "translation": "What's wrong?\nYou seem flustered.\nDid something happen?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ええと、それが――",
+    "translation": "Um, well, you see%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっと！\n足を止めているとまた見つかりますよ！？",
+    "translation": "Hey! If we stop here,\nthey'll find us again, you know?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "事情は私が説明しておきますから、２人は先に！",
+    "translation": "I'll explain the situation,\nso you two go ahead!"
+  },
+  {
+    "character": "一花",
+    "japanese": "そ、それもそうですね。",
+    "translation": "Y-yes, you're right."
+  },
+  {
+    "character": "二乃",
+    "japanese": "さあ！　早く！",
+    "translation": "Well then! Hurry!"
+  },
+  {
+    "character": "一花",
+    "japanese": "では、また後ほど！",
+    "translation": "Alright, see you later!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう。",
+    "translation": "O-okay."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "で？　なにがあったんだよ？",
+    "translation": "So? What's going on?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……はい。\nそれが、私たちが公園を散策している間に――",
+    "translation": "...Well. While we were taking a stroll\nin the park%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "はぁ、はぁ……はぁ～……。\nもうダメ……限界……。",
+    "translation": "Haah, haah...haahh...\nI can't do this anymore... I've hit my limit..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "もう少しですよ！\n頑張ってください！",
+    "translation": "Just a little bit more! Hang in there!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うう……。",
+    "translation": "Ooohh..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "お先に失礼しますね！",
+    "translation": "We'll be going on ahead, then!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……それで？",
+    "translation": "...Okay, so?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、はい。\nどうも、この公園に中野　一花が来ているという噂が\nＳＮＳで広まってしまったようなんです。",
+    "translation": "Oh, yes.\nIt seems that a rumor had spread on social media\nthat Nakano Ichika has come to this park."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ！？\nマジかよ、水族館での騒ぎのせいか！",
+    "translation": "What?!\nIs it because of the commotion at the aquarium?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "恐らくそうでしょう。\nそれで、聞きつけた一花のファンが\n公園に集まってきていて……。",
+    "translation": "Most likely.\nAs a result, fans who heard about it\nhave gathered in the park..."
+  },
+  {
+    "character": "五月",
+    "japanese": "どこへ行っても、誰かしらから\n声をかけられてしまうのです。",
+    "translation": "And, wherever we go, someone will call out to us."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それで逃げてきたってわけか……。",
+    "translation": "So, you guys escaped here..."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ。\n１人や２人ならいいのですが、\nああも大勢で来られるとかなり怖くて。",
+    "translation": "Yes. It's okay if it's just one or two people,\nbut it's really scary when there are so many."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……じゃあ、もしかして\n向こうからやってくる集団は\n全員一花目当てってことか？",
+    "translation": "...So, does that mean that the group \ncoming towards us are all after Ichika?"
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ！？",
+    "translation": "Eh?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "逃げるか。",
+    "translation": "Let's run."
+  },
+  {
+    "character": "五月",
+    "japanese": "逃げましょう！",
+    "translation": "Absolutely, let's run!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（俺たちは騒ぎに巻き込まれまいと、\n　大急ぎで海洋博公園から脱出した）",
+    "translation": "(We quickly escaped from Ocean Expo Park,\n determined not to get caught up in the commotion.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（その後、全員で相談した結果、\n　騒ぎがこれ以上大きくなる前に\n　別の観光地へと向かうことになったのだった）",
+    "translation": "(Afterwards, we consulted with each other,\n we decided to head to another tourist spot\n before the situation escalated any further.)"
+  }
+]

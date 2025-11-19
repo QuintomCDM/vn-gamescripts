@@ -1,0 +1,397 @@
+[
+  {
+    "character": "二乃",
+    "japanese": "あっ、フー君！\nこっちよ、こっち！",
+    "translation": "Ah, Fu-kun!\nOver here, over here!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "に、二乃。\nそんな大声で呼ぶなよ、目立つだろ。",
+    "translation": "N-Nino.\nDon't call out so loudly, we'll stand out."
+  },
+  {
+    "character": "二乃",
+    "japanese": "照れ隠しなんてしなくていいのよ。\n私に会えて嬉しいんでしょ？",
+    "translation": "You don't need to hide your embarrassment.\nYou're happy to see me, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いかん、これはまずい。\n　また二乃のペースに巻き込まれちまう）",
+    "translation": "(Oh no, this is bad.\n I'm getting caught up in Nino's wild world again.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なにか俺に用か？\n用がないなら――",
+    "translation": "D-do you need something from me, Nino? If not%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、歩き疲れてない？\n私たちと一緒にジェラート食べましょうよ。",
+    "translation": "Fu-kun, aren't you tired from walking?\nHave some gelato with us."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "私たち？",
+    "translation": "Us?"
+  },
+  {
+    "character": "五月",
+    "japanese": "二乃、買ってきましたよ。",
+    "translation": "Nino bought some for us."
+  },
+  {
+    "character": "五月",
+    "japanese": "って、上杉君？\nいつの間に。",
+    "translation": "Oh, Uesugi-kun? When did you get here?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ～……。\nなんだ、五月もいたのか。",
+    "translation": "*sigh*\nOh, Itsuki's here too, huh."
+  },
+  {
+    "character": "五月",
+    "japanese": "なんですか、その言い方は。\n人の顔を見てため息なんて失礼です。",
+    "translation": "What's with that tone?\nIt's rude to sigh right in someone's face."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、安心したんだ。\nお前がいてくれて良かった。",
+    "translation": "No, I'm just relieved. I'm glad you're here."
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ！？\nな、なんですか急に！？",
+    "translation": "Huh?! W-what do you mean?!\nWhat are you talking about all the sudden?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ありがと、五月。\nこっちが私のよね。",
+    "translation": "Thanks, Itsuki. This one's mine, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、はいっ！\nどうぞ、アップルマンゴーです。",
+    "translation": "Ah, yes.\nHere you are, apple mango."
+  },
+  {
+    "character": "二乃",
+    "japanese": "美味しそうじゃない！\nこれは期待しちゃうわね。",
+    "translation": "This looks delicious!\nI'm pretty excited."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（美味そう……なのか？\n　見た目でわかるものなのか？）",
+    "translation": "(It certainly looks...delicious, right?\n Is that something you can tell just by looking?)"
+  },
+  {
+    "character": "五月",
+    "japanese": "ここのジェラートは\n地元産の果物を使っているそうですよ。",
+    "translation": "I heard they use locally grown fruits\nfor the gelato here."
+  },
+  {
+    "character": "五月",
+    "japanese": "こうして、地元の味を楽しむのも\n旅行の醍醐味ですよね。",
+    "translation": "That's one of the joys of traveling,\nenjoying local flavors, isn't it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、確かに。\nじゃあ俺もなにか試してみるか。",
+    "translation": "Well, that's true.\nThen maybe I'll try something new."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（メニューは……\n　パイナップルにマンゴーに、塩ミルク？\n　思ってたより種類があるな）",
+    "translation": "(The menu...\n Pineapple, mango, and salted milk?\n There are more flavors than I thought.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……わからん。\nまあ、バニラでいいか。",
+    "translation": "I have no idea.\nWell, I guess vanilla is fine."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっとフー君。\n五月の話、聞いてなかったの？",
+    "translation": "Hey, Fu-kun. Did you not hear what Itsuki said?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "せっかくなんだから、ここでしか食べられない味を\n試してみればいいじゃない。",
+    "translation": "We should try something\nthat we can only have in Okinawa,\nsince we're here, and all that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そう言われてもな。\nちなみに、お前らのは何味なんだ？",
+    "translation": "You saying that doesn't really help my decision.\nBy the way, what flavors did you guys get?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "私はアップルマンゴーに島苺のフレーバーよ。",
+    "translation": "I got the apple mango and Okinawa strawberry flavors."
+  },
+  {
+    "character": "五月",
+    "japanese": "私は紅芋と島豆腐のダブルに黒蜜トッピングです。",
+    "translation": "I got a scoop of purple sweet potato and Okinawa tofu,\nwith black honey as a topping."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……なにを頼むべきか余計にわからなくなった。",
+    "translation": "Now I have no idea what to order."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、そういうの苦手だものね。\nわからないなら試しに私のを食べてみる？",
+    "translation": "Fu-kun, you're not good with this kind of thing,\nare you?\nIf you're not sure, why don't you try mine?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……は！？",
+    "translation": "...Whaaa?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "に、二乃！？",
+    "translation": "N-Nino?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なに言ってんだよ！？\nそれはお前が……。",
+    "translation": "Wh-what are you saying?!\nThat's gelato that you..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふ、照れちゃって可愛いんだから。",
+    "translation": "Teeehee, you're so cute when you're embarrassed."
+  },
+  {
+    "character": "二乃",
+    "japanese": "私は気にしないわ。\nはい、食べてみて？",
+    "translation": "I don't care.\nCome on, why don't you try it?"
+  },
+  {
+    "character": "五月",
+    "japanese": "気にしてくださいっ！",
+    "translation": "Please, DO care!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "もう、五月は本当に堅物ねぇ。\nちょっとした冗談よ、\nそんなに怒らなくてもいいじゃない。",
+    "translation": "Oh my, you're so uptight, Itsuki.\nIt's just a little joke,\nthere's no need to be so angry."
+  },
+  {
+    "character": "五月",
+    "japanese": "冗談にもほどがあります！",
+    "translation": "There's a limit to jokes you know!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ほら、上杉君も早く決めてください。\n話がややこしくなる前に！",
+    "translation": "Come on, Uesugi-kun, please decide quickly.\nBefore things get more complicated!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？\nじゃあ、バニラ――",
+    "translation": "Huh?\nThen, vanilla%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "ここでしか食べられない味で！",
+    "translation": "Decide, on a flavor that can only be tasted here!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう……。",
+    "translation": "Okay..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、それはちょっと……ダメだろ。",
+    "translation": "Ah, that's...not really appropriate."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんでダメ？\n遠慮なんていらないわよ、食べて。",
+    "translation": "Why not?\nThere's no need to hold back, just eat it."
+  },
+  {
+    "character": "五月",
+    "japanese": "う、上杉君には、その、ちょっと\n複雑すぎる味ではないかと思いますよ！？",
+    "translation": "U-Uesugi-kun, don't you think it's a bit\ntoo complex of a flavor for you to handle?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうかしら？\n五月のに比べればシンプルだと思うけど。",
+    "translation": "Do you think?\nI think it's simpler than your flavor, Itsuki."
+  },
+  {
+    "character": "五月",
+    "japanese": "ほら、上杉君はなにを食べても\n結局は『普通にうまい』しか言いませんから！\nそうですよねっ！？　上杉君！",
+    "translation": "Oh come on, you always ends up saying\nthat it's just 'good,' no matter what you eat!\nIsn't that right, Uesugi-kun?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ、ああ、そうだな。",
+    "translation": "Uh, yeah, I guess so."
+  },
+  {
+    "character": "五月",
+    "japanese": "というわけですから、\n早く決めて買ってきてください！",
+    "translation": "So that's why, you should hurry up and decide,\nand buy some gelato!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "どういうわけよ。",
+    "translation": "Why, again?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それはお前が買ったものだろ。\n自分の分は自分で買ってくる、\n気を遣ってくれてサンキューな。",
+    "translation": "That's yours, isn't it?\nI'll buy my own portion.\nThanks for your consideration though."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふ～ん。\nまあ、いいわ。",
+    "translation": "Hmm.\nWell, fine then."
+  },
+  {
+    "character": "二乃",
+    "japanese": "やっぱりお勧めはフルーツ系ね。\nこのアップルマンゴーも、\nとっても美味しかったわよ？",
+    "translation": "I still recommend the fruity flavors.\nThis apple-mango is REALLY delicious."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "フルーツか。\n沖縄っぽいフルーツとなると……。",
+    "translation": "Fruity flavors, huh.\nIf it's a fruit from Okinawa..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、いいのがあるじゃないか。",
+    "translation": "Oh, there's a good one."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ほら、フー君。\n早く買ってこないと私たちが食べ終わっちゃうわよ？",
+    "translation": "Come on, Fu-kun.\nHurry up and buy it,\nor we'll finish eating without you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へいへい。",
+    "translation": "Alright."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺はシークヮーサー味にしてみた。",
+    "translation": "I tried the Shikuwasa flavor."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あっ！　それも気になってたのよね。\nどんな味？",
+    "translation": "Ah! That's the one I was curious about.\nWhat's it taste like?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "酸っぱいが、普通にうまいな。",
+    "translation": "It's sour, but it's good."
+  },
+  {
+    "character": "二乃",
+    "japanese": "やっぱり『普通にうまい』なのね。\nなんとなくわかってたけど。",
+    "translation": "I knew it, it's just 'good,' like always.\nI had a feeling."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、普通に美味いってのは\nつまり美味いってことだぞ？",
+    "translation": "No, when I say something's good,\nI mean it's delicious, you know?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……もういいです。\n頭が混乱してきました。",
+    "translation": "...That's enough.\nMy head's starting to spin."
+  },
+  {
+    "character": "五月",
+    "japanese": "ちなみにジェラートは\n脂肪分が少なくてヘルシーなんですよ？\n知ってましたか？",
+    "translation": "By the way, did you know that gelato\nhas less fat, and is relatively healthy?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へー。",
+    "translation": "Really!"
+  },
+  {
+    "character": "五月",
+    "japanese": "むっ……。",
+    "translation": "Mmh..."
+  },
+  {
+    "character": "五月",
+    "japanese": "フルーツを使ったジェラートは、\n熱に弱い栄養素、特にビタミンＣを\n美味しく摂取できるんです。",
+    "translation": "Fruit-based gelato, especially, contains nutrients\nwhich allow you to beat the heat, like vitamin C."
+  },
+  {
+    "character": "五月",
+    "japanese": "ヘルシーで美味しいのに美容にも良いのですよ。\nジェラートは素晴らしいですね。",
+    "translation": "It's healthy, delicious, and good for your skin.\nGelato is amazing, isn't it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "素晴らしいと思いませんか！？",
+    "translation": "Don't you think it's amazing, Uesugi-kun?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "落ち着いて食わせてくれ。\nお前はとっくに食い終わってるから\nいいかもしれないが。",
+    "translation": "Calm down and let me eat.\nYou may have finished eating already,\nbut I'm not quite done yet."
+  },
+  {
+    "character": "二乃",
+    "japanese": "五月が食べてたのって、\n紅芋と島豆腐のダブルに黒蜜トッピングよね？",
+    "translation": "Itsuki, you had a double scoop of purple sweet potato\nand Okinawa tofu with black honey topping, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "はい、そうです。",
+    "translation": "Yes, that's right."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フルーツまったく関係ないじゃない。",
+    "translation": "There's no fruit in there at all, is there?"
+  },
+  {
+    "character": "五月",
+    "japanese": "うっ……。",
+    "translation": "Ooh..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "それに、脂肪分やカロリーなんて誤差よ誤差。\nトッピングなんかですぐにひっくり返るわよ？",
+    "translation": "On top of that, there's a difference in\nfat and calories. Quite the difference.\nToppings really add up calories too, you know?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ううっ……。",
+    "translation": "Oooohh..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "結局は食べる量の問題よね。",
+    "translation": "It all comes down to how much you eat."
+  },
+  {
+    "character": "五月",
+    "japanese": "うわーん！\n二乃まで冷たいですぅ～！",
+    "translation": "WAAAAH!\nEven Nino's being so COLD to me!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（確かに容赦ないな……）",
+    "translation": "(Nino really is merciless, isn't she...)"
+  }
+]

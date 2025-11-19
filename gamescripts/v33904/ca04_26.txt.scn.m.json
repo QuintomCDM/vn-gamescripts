@@ -1,0 +1,222 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "卒業旅行も終わりか。\nあっという間だったな。",
+    "translation": "Is the graduation trip over already?\nIt went by so fast."
+  },
+  {
+    "character": "四葉",
+    "japanese": "でも、楽しかったですね。\nらいはちゃんはどうでした？\n楽しめましたか？",
+    "translation": "But it was fun, wasn't it?\nRaiha-chan, did you enjoy it?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、とってもステキな思い出になった。",
+    "translation": "Yes, it became such a wonderful memory."
+  },
+  {
+    "character": "一花",
+    "japanese": "観光にアクティビティにショッピング。\nなんだかんだで盛りだくさんだったね。",
+    "translation": "We did a lot of sightseeing, activities, and shopping."
+  },
+  {
+    "character": "五月",
+    "japanese": "美味しい料理の数々も忘れられません。",
+    "translation": "I also can't forget all the delicious food we had."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でもやっぱり、もう少し時間が欲しかった。\n行けなかった場所もあるし。",
+    "translation": "But still, I wish we had a little more time.\nThere were some places we couldn't go."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうよね、お父さんの件もあって――",
+    "translation": "Yeah, and with what happened with Daddy%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あ、そういえば。\n四葉の試験のこと、お父さんのゴタゴタで\nすっかり忘れてたわ。",
+    "translation": "Oh, speaking of that.\nI completely forgot about Yotsuba's test\nbecause of what happened with him."
+  },
+  {
+    "character": "四葉",
+    "japanese": "試験？　なんの？",
+    "translation": "Test? What test?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あー、ここで思い出しちゃったかー。",
+    "translation": "Ah, now I remember."
+  },
+  {
+    "character": "五月",
+    "japanese": "あえて触れないようにしていたのですが。",
+    "translation": "We've been trying to avoid that all together."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ、まだなんか企んでたのか？\nだったら全部、白状しろ。\nもう大概のことじゃ驚かないぞ。",
+    "translation": "What, are you still plotting something?\nIf so, come clean.\nI won't be surprised by anything anymore."
+  },
+  {
+    "character": "一花",
+    "japanese": "そうだね。\n別に隠すようなことでもないし――",
+    "translation": "Yeah.\nIt's not like it's\nsomething we need to hide or anything%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉に危機感を持ってもらうための作戦は、\n君ももう知ってるよね？",
+    "translation": "You know about the plan\nto make Yotsuba go into crisis mode, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あれって、実は続きがあるんだ。\n作戦をいつまでやるのかって話。",
+    "translation": "Yeah, there's actually more to it.\nIt's about how long we'd continue the plan."
+  },
+  {
+    "character": "五月",
+    "japanese": "この旅行期間中に、\n四葉が上杉君に敬語を使うのをやめる。\nあるいは、名前で呼べるようになったら合格。",
+    "translation": "During this trip, Yotsuba passes the test\nif she stops using polite language with you, Uesugi-kun,\nor if she can call you by your first name."
+  },
+  {
+    "character": "五月",
+    "japanese": "と、まあ、勝手ですが決めていたのです。",
+    "translation": "Well, that's how we kind of\njust arbitrarily decided things."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええええ……。",
+    "translation": "Ehhhhh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前ら、そんなことまで考えてやがったのか。",
+    "translation": "What? You guys were that detailed in your planning?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ま、こうなると合格もなにもないわね。\n言葉遣いなんて些細なことだったわ。",
+    "translation": "Well, like this, passing or not doesn't really matter\nanymore. How someone speaks is trivial."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くっくっく！\n悪いが、その程度のことはこなしたぞ？",
+    "translation": "Ha-ha-ha!\nSorry to say, but we've already passed that test."
+  },
+  {
+    "character": "二乃",
+    "japanese": "えっ！？",
+    "translation": "HUH?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "本当？",
+    "translation": "Really?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、本当だとも！",
+    "translation": "Yes, really!"
+  },
+  {
+    "character": "五月",
+    "japanese": "四葉、本当なのですか？",
+    "translation": "Yotsuba, is that right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっと……あはは……。",
+    "translation": "Umm...ahaha..."
+  },
+  {
+    "character": "一花",
+    "japanese": "わお、いつの間に！？\n教えてよ四葉！",
+    "translation": "Wow, when did that happen?\nTell us, Yotsuba!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "秘密ということで。",
+    "translation": "It's a secret."
+  },
+  {
+    "character": "二乃",
+    "japanese": "秘密って。\n怪しいわねぇ、本当に本当なの？",
+    "translation": "A secret?\nThat's pretty suspicious. Is it really true?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし、ここは論より証拠だな！",
+    "translation": "Alright, let's see some proof then."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さあ、四葉！\nいまここで俺を名前で呼んでくれ！",
+    "translation": "Okay, Yotsuba.\nCall me by my name right now!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ、えええええっ！？\nそんな、いきなりは無理です上杉さん！",
+    "translation": "Wha-whaaaaaaa?!\nNo, I can't do that so suddenly, Uesugi-san!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "あれ？　いつもの感じだよ？",
+    "translation": "Oh? Isn't that how Yotsuba-san\nusually talks to big bro?"
+  },
+  {
+    "character": "五月",
+    "japanese": "やはり上杉君が見栄を張っているのでは？",
+    "translation": "Are you just trying to show off, Uesugi-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "違うっての！",
+    "translation": "No, that's not it!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "でもまあ、そうだよな。\nいきなり変われってのも無理があるよな。",
+    "translation": "Well, I guess it's unrealistic\nto expect an instant change like that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺たちは俺たちなりのペースで行こうぜ、四葉。",
+    "translation": "Let's take it at our own pace, Yotsuba."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい！\nやっぱり、それが一番です。",
+    "translation": "Yeah!\nThat's probably the best way to do it."
+  },
+  {
+    "character": "一花",
+    "japanese": "ふーん？\nフータロー君がムキにならないなんて、\nむしろホントっぽいなぁ。",
+    "translation": "Hmm?\nFutaro-kun's not getting worked up about it.\nThat actually makes it seem more genuine."
+  },
+  {
+    "character": "三玖",
+    "japanese": "むむむ、いつの間に。",
+    "translation": "Mmmhh, when did this happen?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "四葉、教えなさいよ。",
+    "translation": "Yotsuba, tell us."
+  },
+  {
+    "character": "四葉",
+    "japanese": "だから秘密だよー。",
+    "translation": "I told you, it's a secret."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ったく、いらん詮索ばっかしやがって。\nとっとと行くぞ。",
+    "translation": "Ugh, why are you so nosy? Let's just go home."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい！\nみんなでお家に帰りましょう！",
+    "translation": "Yes!\nLet's all go home together!"
+  }
+]

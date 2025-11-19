@@ -1,0 +1,252 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "おおー……。\nこれがメインの建物か？",
+    "translation": "Ohh...\nIs this the main building?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、中にギャラリーやショップがあるようです。",
+    "translation": "Yes, it seems to have galleries and shops inside."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんつーか、独特だなぁ。",
+    "translation": "It's quite unique."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですね。\n沖縄の観光地を巡ってきましたが、\nここはまた違った雰囲気です。",
+    "translation": "I agree.\nWe've been visiting tourist spots in Okinawa,\nbut this place has a different atmosphere."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "全体的にカラフルっつーか。\nしかし、なんでタイル張りなんだ？",
+    "translation": "It's very colorful overall. But why is it all tiled?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……あ！",
+    "translation": "...Ah!"
+  },
+  {
+    "character": "五月",
+    "japanese": "よく見てください。\nあの建物のタイル、少し変わっているような。",
+    "translation": "Look closely.\nThe tiles on that building seem a little different."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "変わってる？",
+    "translation": "Different?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（言われて、柱に近づいてよく見ると――）",
+    "translation": "(Now that you mention it, when you approach \n the pillar and look closely%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これ、もしかしてガラスか？",
+    "translation": "Could this be glass?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……驚きです。\nタイル１枚１枚がガラスでできているのですか。",
+    "translation": "...I'm really surprised.\nEach individual tile is made of glass."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すげぇな。\nガラス村って名前は伊達じゃないわけだ。",
+    "translation": "That's amaaazing.\nThe name, 'Glass Village,' is not just for show."
+  },
+  {
+    "character": "五月",
+    "japanese": "隣にあるのが工房でしょうか？\nなにか作業をしている音が聞こえますね。",
+    "translation": "Is that the workshop next to it?\nI can hear some work being done."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "グラス作りの体験ってのは\nあそこでできるんだろうな。",
+    "translation": "I think they offer glassblowing trial lessons there."
+  },
+  {
+    "character": "五月",
+    "japanese": "そのようですが……\nこうして音を聞くだけでは、\nどんな作業をするのか想像できません。",
+    "translation": "It seems so...\nBut, just listening to the sounds\ndoesn't give us a good idea of what they're doing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お？　他にも色々コースがあるのか。\n案内を見てみろよ。",
+    "translation": "Oh? There are various other courses available.\nLet's take a look at the brochure."
+  },
+  {
+    "character": "五月",
+    "japanese": "本当ですね。\nアクセサリー作りの体験などもできるようです。",
+    "translation": "That's true.\nIt seems they offer\naccessory-making experiences as well."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが、ここはやはり吹きガラスですね！",
+    "translation": "But, this is definitely a glassblowing workshop!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、めちゃくちゃやる気だな。\nじゃあさっそく工房へ行ってみるか？",
+    "translation": "Well, you seem very enthusiastic.\nShall we go to the workshop right away?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、その前に休憩しませんか。\nこの建物の中にレストランがあるようですから。",
+    "translation": "Oh, but how about taking a break first?\nIt looks like there's a restaurant inside this building."
+  },
+  {
+    "character": "五月",
+    "japanese": "甘いものを食べて、\n体験学習への英気を養いましょう！",
+    "translation": "Let's have some sweets\nand gather our energy for the learning experience!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（吹きガラスか。\n　確かに一番それっぽいし、五月がやりたいなら……）",
+    "translation": "(Glassblowing, huh?\n That does seem most likely and since Itsuki \n wants to experience it...)"
+  },
+  {
+    "character": "五月",
+    "japanese": "わあ……！",
+    "translation": "Wow...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ん？　どうかしたのか？）",
+    "translation": "(Hm? What's up?)"
+  },
+  {
+    "character": "五月",
+    "japanese": "見てください、上杉君！\n天井にステンドグラスが……！",
+    "translation": "Look, Uesugi-kun!\nThere's stained glass on the ceiling!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おお！？　これはまたすげぇな！？",
+    "translation": "WOAH!! This is amazing, too!"
+  },
+  {
+    "character": "五月",
+    "japanese": "なんて綺麗……。\nステンドグラスが光を受けると、\nこんな風に輝くんですね。",
+    "translation": "How beautiful...\nWhen the stained glass reflects the light,\nit can shine like this."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ。\nこれも琉球ガラスなんだろうな。",
+    "translation": "Ah.\nThis must be that Ryukyu glass too, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "一体、どれだけの時間や技術、\nそして作り手の情熱が注ぎ込まれて\nいるのでしょう……。",
+    "translation": "I wonder how much time, technique, and passion\nwas poured into all of this..."
+  },
+  {
+    "character": "五月",
+    "japanese": "背筋が伸びる思いがします。\nこれを見られただけでも来た甲斐がありました。",
+    "translation": "Thinking about these things,\nI also need to tighten my own resolve.\nIt was worth it to come just for this. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おいおい、まだ本番はこれからだぞ。",
+    "translation": "Hey, hey. The main event is yet to come."
+  },
+  {
+    "character": "五月",
+    "japanese": "……上杉君。\nここへ誘ってくださって、ありがとうございます。",
+    "translation": "...Uesugi-kun.\nThank you for inviting me here."
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたが提案してくれなければ、\nこの美しさを目にすることはできませんでした。",
+    "translation": "If you hadn't suggested it,\nI wouldn't have been able to see this beauty."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、お前が琉球ガラスに興味津々だったから\n思いついただけだぞ？",
+    "translation": "Well, I just thought of it\nbecause you were so interested in Ryukyu glass."
+  },
+  {
+    "character": "五月",
+    "japanese": "その心遣いに感謝しているのですよ。\nあなたはそうやって、\nいつも私に寄り添おうとしてくれるんです。",
+    "translation": "I'm grateful for your thoughtfulness.\nYou always try to support me like that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうか？",
+    "translation": "I-is that so?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたの心遣いで見れたこの光景は、\n２人だけの思い出ですね。",
+    "translation": "The sight we saw thanks to your thoughtfulness\nis a memory that only the two of us can share."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "っ……！",
+    "translation": "...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（２人だけの……）",
+    "translation": "(Only the two of us...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、ああ、そうだな。\n他の奴らはここへは来ないだろうし。",
+    "translation": "Y-yeah, that's right.\nThe others won't come here anyway."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ。\nみんなは知らないと思います。",
+    "translation": "Yes.\nI don't think anyone else knows about it."
+  },
+  {
+    "character": "五月",
+    "japanese": "みんなは知らない、私たちだけの……\n大切な思い出になりました。",
+    "translation": "It's a precious memory just for us,\nthat no one else knows about."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな……。",
+    "translation": "Yeah..."
+  },
+  {
+    "character": "五月",
+    "japanese": "もうしばらく、見ていてもいいですか？",
+    "translation": "Can we look at it a little longer?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう、気が済むまで見てくれ。",
+    "translation": "Sure, look as long as you like."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（そうしてくれたほうが助かる。\n　きっと俺の顔は真っ赤になってるし……）",
+    "translation": "(It helps that she's looking at that. \n My face must be bright red...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（五月がステンドグラスに夢中で助かった。\n　いまのうちに気持ちを落ち着けるんだ）",
+    "translation": "(I'm glad Itsuki was so into the stained glass.\n I can calm down now.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（２人だけの思い出、か）",
+    "translation": "(A memory just for the two of us, huh?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こういう記憶を\n　これからも２人で積み上げていけたら……\n　いや、積み上げていくんだ）",
+    "translation": "(If we could continue to build these kinds of memories\n together from now on...\n No, we will.)"
+  }
+]

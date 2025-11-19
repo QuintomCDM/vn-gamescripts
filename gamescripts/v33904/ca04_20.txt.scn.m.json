@@ -1,0 +1,577 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（五つ子の父親が沖縄に来ている）",
+    "translation": "(The quintuplets' father is in Okinawa.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（その連絡を一花から受けた俺たちは、\n　すぐさま集合し、緊急対策会議を開いた）",
+    "translation": "(After receiving the news from Ichika,\n we immediately gathered and held an emergency meeting.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（一花の元に来た連絡によると、\n　あの人が沖縄に来た理由は\n　学会に出席するため、らしい）",
+    "translation": "(According to the information that Ichika received,\n it seems that he came to Okinawa\n to attend a conference.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（送られてきたメールには、\n　こちらと合流する予定はない、\n　と書かれていたが……）",
+    "translation": "(Although the email that was sent to us stated\n that he has no plans to meet with us...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（一抹の不安を覚えながら、俺たちは\n　四葉の立てたプラン通り、\n　明日は首里城に見学へ行くことにした）",
+    "translation": "(With a hint of anxiety, we decided\n to follow Yotsuba's plan and go sightseeing\n at Shurijo Castle tomorrow.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（向こうは学会参加だ。\n　そうそう出会うことなんてないだろう）",
+    "translation": "(Their dad's attending the conference,\n so it's unlikely that we'll run into him.)"
+  },
+  {
+    "character": "マルオ",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "どうですか、上杉さん。",
+    "translation": "Well, what do you think, Uesugi-san?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "他人だと思いたいが、無理があるな。",
+    "translation": "I want to believe that it's someone else,\nbut it seems unlikely."
+  },
+  {
+    "character": "四葉",
+    "japanese": "実は上杉さんにしか見えてない\n幻覚だったりしません？\n意識するあまり誰でもお父さんに見えちゃう系の。",
+    "translation": "Could it be that it's just a hallucination that only\nyou can see? Like when you think of something so much\nthat anyone starts looking like our dad."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ちょっと確認しておきましょう。",
+    "translation": "I'll check, just in case."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、四葉！\nリボン！　見えちまうぞ！",
+    "translation": "Hey, Yotsuba! Your ribbon! He might recognize us!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はっ！？",
+    "translation": "HUH?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "とりあえず戻るぞ。",
+    "translation": "Let's head back."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ラジャーです！",
+    "translation": "Roger that!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あの人、正殿前の庭から動こうとしてなかったな。",
+    "translation": "He doesn't seem to be moving\nfrom the front of the Seiden."
+  },
+  {
+    "character": "四葉",
+    "japanese": "誰か待ってるんでしょうか？",
+    "translation": "Is he waiting for someone?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もしかして俺たちだったりしてなー。\nはははー。",
+    "translation": "Maybe it's us?\nHahaha."
+  },
+  {
+    "character": "四葉",
+    "japanese": "まさか、そんなことあるわけないですよー。\nあははー。",
+    "translation": "Oh come on, that's impossible.\nAhahaha."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ……。\nどうすんだこれ……。",
+    "translation": "*sigh*\nWhat are we supposed to do...?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、戻ってきた！\nおーい、ふたりともー！",
+    "translation": "Ah, he's back!\nHey, you two!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しーっ！\n大きな声を出すな！",
+    "translation": "SHHHH!\nDon't speak so loudly!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "大丈夫ですよ上杉さん。\nさすがに聞こえてないと思います。",
+    "translation": "Don't worry, Uesugi-san.\nI don't think he heard us."
+  },
+  {
+    "character": "一花",
+    "japanese": "そのリアクションで答えがわかった。\nいたんだね、お父さん。",
+    "translation": "I can tell from the reaction.\nDad was there."
+  },
+  {
+    "character": "二乃",
+    "japanese": "こういう悪い予感って大抵当たるのよね。",
+    "translation": "The bad feelings about things like this\nusually turn out to be true, huh."
+  },
+  {
+    "character": "三玖",
+    "japanese": "斥候を放って正解だった。",
+    "translation": "Sending out scouts was the right choice."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが、私たちとは合流しない、\nという話だったはずでは？",
+    "translation": "Yet, he said he wouldn't meet up with us, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "実際、向こうから合流はしてないぞ。\nもし俺たちと会ったとしても、\nそれは偶然ってことだ。",
+    "translation": "Actually, he didn't come to meet up with us.\nEven if we do run into him, it'll be a coincidence."
+  },
+  {
+    "character": "らいは",
+    "japanese": "待ち構えてても偶然なの？",
+    "translation": "Is waiting for him also a coincidence?"
+  },
+  {
+    "character": "一花",
+    "japanese": "らいはちゃんはそのまま、素直なままでいてね。",
+    "translation": "Raiha-chan, please stay the way you are,\nhonest and straightforward."
+  },
+  {
+    "character": "らいは",
+    "japanese": "え？　ええ？",
+    "translation": "Huh? Huhhh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "つーかあの人、学会はどうしたんだよ。\nこんな所にいる余裕なんてあるのか？",
+    "translation": "So, what about his academic conference?\nDo they really have the luxury to be here?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ああ、それなんだけど。",
+    "translation": "Oh, about that."
+  },
+  {
+    "character": "一花",
+    "japanese": "さすがに都合がよすぎて気になったし、\n江端さんに確認してみたんだけど――",
+    "translation": "Well, I was suspicious of how convenient this trip was,\nso I asked Ebata-san, and%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "お父さんの予定に、\n沖縄での学会なんて入ってないって。",
+    "translation": "Apparently, there's no academic conference in Okinawa\non Dad's schedule."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "これは間違いなく、\n卒業旅行を見張りに来たってことだね。",
+    "translation": "That means he definitely came here\nto keep an eye on our graduation trip."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "し、しかし、旅行の日程を把握してなけりゃ、\n今日ここには来れないだろ？",
+    "translation": "B-but if he didn't know our itinerary,\nhow could he have known we'd be here?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ。",
+    "translation": "Ah."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……四葉？",
+    "translation": "...Yotsuba?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "今回の旅行のしおり、\nお父さんにも渡しちゃってます。",
+    "translation": "I gave Dad a copy of our trip itinerary."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんでだよ……。",
+    "translation": "Why...?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いくら許可をもらってても、\nお父さんも心配だろうなって思って。",
+    "translation": "Even though we had permission,\nI thought that Dad would still be worried."
+  },
+  {
+    "character": "四葉",
+    "japanese": "危険なことはしませんから\n安心してくださいってつもりで……あはは……。",
+    "translation": "I just wanted to let him know\nthat we won't do anything dangerous\nand he can rest easy... Ahaha..."
+  },
+  {
+    "character": "五月",
+    "japanese": "推測ですが、恐らくお父さんは\n四葉と上杉君の関係を知りたいのだと思います。",
+    "translation": "I'm just guessing, but Dad probably wants to know\nmore about Yotsuba and Uesugi-kun's relationship."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "え……。",
+    "translation": "Huh..."
+  },
+  {
+    "character": "五月",
+    "japanese": "四葉。\n上杉君とのお付き合いについて、\nまだお父さんに報告していませんよね？",
+    "translation": "Yotsuba.\nYou haven't told Dad\nabout your relationship with Uesugi-kun, have you?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "う、うん、してない。",
+    "translation": "N-no, I haven't."
+  },
+  {
+    "character": "五月",
+    "japanese": "お父さんは、私たちの会話や素振りから、\nあなたと四葉が特別な関係であることに\n薄々、気付いているのでしょう。",
+    "translation": "From our conversations and behavior,\nhe probably already had a vague idea that\nsomething special is going on between you and Yotsuba."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……そうなのか？",
+    "translation": "...Is that so?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "半年前の状況なら\n気がつかなかったでしょうけどね。",
+    "translation": "He probably wouldn't have realized it half a year ago."
+  },
+  {
+    "character": "三玖",
+    "japanese": "お父さん、普通にマンションに帰ってくるし、\nご飯を一緒に食べたりもするようになったから。",
+    "translation": "But now, he comes home to our apartment\nand eats meals with us."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ああ、そうだ。\n　卒業旅行を決めた時もそうだったな）",
+    "translation": "(Oh, right.\n That also happened when we decided\n on our graduation trip.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（二乃と五月の家出にも\n　気がつかなかったような頃からは、\n　大きく変わってるってわけか）",
+    "translation": "(And since the time when Nino and Itsuki\n ran away from home,\n it seems like he's become much more attentive.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "そんな時、突然、沖縄旅行の話などされたら\n親としては心配して当然でしょう。",
+    "translation": "At times like these, if someone suddenly starts\ntalking about a trip to Okinawa,\nit's only natural for a parent to worry."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確かに……。",
+    "translation": "That's true..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こっちとしては、\n　もう少し四葉との関係を深めてから\n　正式に報告するつもりだったんだが……）",
+    "translation": "(From my perspective, I was planning to deepen my\n relationship with Yotsuba a bit more\n before making a formal confession...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しかし、わざわざ沖縄まで来るか？",
+    "translation": "But why come all the way to Okinawa?"
+  },
+  {
+    "character": "一花",
+    "japanese": "それだけ四葉のことを心配してるんだよ。\nまあ、色々あったし。",
+    "translation": "Because that's how worried he was about Yotsuba.\nWell, a lot happened."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは……。",
+    "translation": "Ahaha..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "だとしても、お父さんって\nこういうことをするタイプだったのね。\n意外だわ。",
+    "translation": "Even so, Daddy is the type to do things like this, huh.\nIt's surprising."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そうかな？\nご飯の時とか、私たちの話も\n聞いてないようでちゃんと聞いててくれるし。",
+    "translation": "Is that so?\nHe listens to us during meals and such,\neven though it seems like he's not."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……なんだかんだ言ってるが、\n　父親とも上手くやっていけてるんだな）",
+    "translation": "(Though they're saying this and that,\n but it sounds like they're getting along well\n with their dad.)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "でも、これってチャンスじゃないかしら、フー君？\n私たちを安心させてくれるんでしょ？",
+    "translation": "But isn't this a good chance, Fu-kun?\nYou'll reassure us, won't you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "え？　チャンス？\n二乃、どういうこと？",
+    "translation": "Huh? A chance? What do you mean, Nino?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "お父さんも心配してるんだから、\n安心させてあげないと。",
+    "translation": "Our father is also worried,\nso you have to reassure him."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……そうだな。\nここで決めなきゃ、男がすたるってものか。",
+    "translation": "...I see. If I don't make a decision here,\nmy manliness is on the line."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あの、上杉さんまでどうしたんですか？",
+    "translation": "Um, Uesugi-san, what's going on with you, even?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よく聞け、四葉！",
+    "translation": "Listen carefully, Yotsuba!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "は、はい！",
+    "translation": "O-okay!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これから、あの人に\n俺たちが付き合っていることを報告し、\n正式に交際を認めてもらう！",
+    "translation": "From now on, we will report to your dad\nand officially acknowledge our relationship!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええっ！？\nええええええええええっ！？",
+    "translation": "WHAA%p-2;――%p;?!\nWHAAAAAAAAAAAT?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "その言葉を待ってたよ、フータロー君。",
+    "translation": "I was waiting for those words, Futaro-kun."
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、格好いい～！\n恋愛ドラマみたい！",
+    "translation": "Big bro, you're so cool!\nIt's like a romance drama!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "で、でも、そんなこと、いまここでしなくても！？",
+    "translation": "But, but, do we have to do it here and now?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "これも良い機会でしょう。\nいずれは必要になることですから、\n早いか遅いかの違いですよ。",
+    "translation": "This is also a good opportunity, isn't it?\nIt will eventually become necessary, so the only\ndifference is whether we do it sooner or later."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ちょ、ちょっと！\nなんでみんなもそんなに乗り気なの！？",
+    "translation": "H-hey!\nWhy is everyone so excited about this?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "だ、だったら私から言います！\n上杉さんはここで待っていてください！",
+    "translation": "Th-then I'll tell him myself!\nUesugi-san, please wait here!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "四葉、待ちなさい。",
+    "translation": "Yotsuba, wait."
+  },
+  {
+    "character": "四葉",
+    "japanese": "二乃、止めないで～！",
+    "translation": "Nino, don't stop me!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ダメ、行かせない。",
+    "translation": "No. I won't let you go."
+  },
+  {
+    "character": "四葉",
+    "japanese": "三玖まで！？",
+    "translation": "Even you, Miku?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローを困らせるのは許さない。",
+    "translation": "I won't let you do something to trouble Futaro."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君がここまで言ってくれてるのよ？\nあんた、嬉しくないわけ？",
+    "translation": "Fu-kun has come this far for us, right?\nAren't you happy?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そ、それはぁ……。",
+    "translation": "Th-that's..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉、俺に全部任せておけ。",
+    "translation": "Yotsuba, leave everything to me."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん……。",
+    "translation": "Uesugi-san..."
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉。",
+    "translation": "Yotsuba."
+  },
+  {
+    "character": "四葉",
+    "japanese": "一花……。",
+    "translation": "Ichika..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "わかりました。\nよろしくお願いします。",
+    "translation": "I understand.\nI'll leave it to you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "恐らく反対されるだろうけどな。",
+    "translation": "He'll probably be opposed to us though."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは……。\nですよね。",
+    "translation": "Ahaha... That's right."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっと、ここで弱気になってどうするのよ。",
+    "translation": "What the...? Don't get weak-kneed now."
+  },
+  {
+    "character": "一花",
+    "japanese": "さっきの勢いはどこにいっちゃったの？\n大丈夫かなぁ。",
+    "translation": "Where did your momentum go from earlier?\nAre things really okay?"
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、正面から無策でぶつかるのは\nさすがに無謀なんじゃない？\nなんたって相手は、あのお父さんだし。",
+    "translation": "But isn't it reckless to just charge in\nwithout a plan and face him head on?\nThis is our dad we're talking about here."
+  },
+  {
+    "character": "三玖",
+    "japanese": "まずは舞台を整えて、地の利を得ないと。",
+    "translation": "We need to set the stage and gain the advantage."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、いったんホテルに戻って\n作戦を立てるとするか。",
+    "translation": "Okay, let's go back to the hotel\nand plan our strategy."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "任せとけ。\nここで怖じ気付くほど腰抜けじゃない。",
+    "translation": "I've got this.\nI'm not so spineless as to back down now."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私は、上杉さんを\nそんな風に思ったことなんてありませんよ？",
+    "translation": "I've never thought of you that way, Uesugi-san."
+  },
+  {
+    "character": "四葉",
+    "japanese": "自分で言ったことは必ずやり遂げる人だって、\n知ってますから。",
+    "translation": "I know you're someone\nwho always follows through with what you say."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、正面から無策でぶつかるのは\nさすがに無謀なんじゃない？\nなんたって相手は、あのお父さんだし。",
+    "translation": "But isn't it reckless to just charge in\nwithout a plan and face him head on?\nThis is our dad we're talking about here."
+  },
+  {
+    "character": "三玖",
+    "japanese": "まずは舞台を整えて、地の利を得ないと。",
+    "translation": "We need to set the stage and gain the advantage."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、いったんホテルに戻って\n作戦を立てるとするか。",
+    "translation": "Okay, let's go back to the hotel\nand plan our strategy."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ただ事実を告げるだけだ。",
+    "translation": "I just need to state the facts."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前の父親がどんな反応しようが、\n俺とお前の関係に影響なんかない。\nそうだろ？",
+    "translation": "Your father's reaction\nwon't have any impact on our relationship, will it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ……。",
+    "translation": "Wha..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前は違うのか？",
+    "translation": "You think differently?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえ、上杉さんの言うとおりです。",
+    "translation": "No, it's like you said, Uesugi-san."
+  },
+  {
+    "character": "一花",
+    "japanese": "なかなか言うね。\nいまのはちょっと、グッと来ちゃった。",
+    "translation": "You're pretty straightforward.\nWhat you just said really had oomph."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちゃ、茶化すなよ……。",
+    "translation": "D-don't make fun of me...."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、正面から無策でぶつかるのは\nさすがに無謀なんじゃない？\nなんたって相手は、あのお父さんだし。",
+    "translation": "But isn't it reckless to just charge in\nwithout a plan and face him head on?\nThis is our dad we're talking about here."
+  },
+  {
+    "character": "三玖",
+    "japanese": "まずは舞台を整えて、地の利を得ないと。",
+    "translation": "We need to set the stage and gain the advantage."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、いったんホテルに戻って\n作戦を立てるとするか。",
+    "translation": "Okay, let's go back to the hotel\nand plan our strategy."
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "character": "一花",
+    "japanese": "おーい。\nもう朝だよ、起きて。",
+    "translation": "Hey there.\nIt's morning already, wake up."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいはか……？\nすまん、いま起きる……。",
+    "translation": "Raiha...?\nSorry, I'm getting up now..."
+  },
+  {
+    "character": "一花",
+    "japanese": "ふふっ、違うよー。\nほら、起きてくれないと――",
+    "translation": "Heheh, nooope.\nCome on, if you don't wake up%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……！！",
+    "translation": "...!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うわぁっ！？\nい、いち、一花！？",
+    "translation": "UWAAH?!\nI-Ichi-Ichika?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "おはよー、フータロー君。\nなんでそんなに驚いてるのさ。",
+    "translation": "Good morning, Futaro-kun.\nWhy are you so surprised?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんでって、お前こそなんでここに――",
+    "translation": "Why? Why are you here%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、そうだった。\n同じ部屋なんだったな……。",
+    "translation": "Oh, that's right. \nWe're in the same room, aren't we...?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ふふっ！\n寝ぼけてるねぇ。\nほら、シャキッとして。",
+    "translation": "Teehee!\nYou're still half asleep.\nCome on, wake up."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "大丈夫だ、びっくりしたおかげで\n目はしっかり覚めてる。",
+    "translation": "It's okay, I'm wide awake now\nthanks to the surprise."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "つか、お前が俺より早く起きてるのも驚きなんだが。",
+    "translation": "But, I'm surprised you woke up before me."
+  },
+  {
+    "character": "一花",
+    "japanese": "むう、失礼だなぁ。",
+    "translation": "Mmh, how rude."
+  },
+  {
+    "character": "一花",
+    "japanese": "こう見えても私、生活習慣を\n改善するつもりはあるんだからね。\n高校も卒業して、新しい生活が始まるんだからさ。",
+    "translation": "Believe it or not, I plan on improving\nmy daily routine. After all, we're starting\na new life after graduating high school."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだったのか。",
+    "translation": "Oh, really?"
+  },
+  {
+    "character": "一花",
+    "japanese": "どう？　えらい？",
+    "translation": "How's that? Aren't I great?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、いい心がけだと思うぞ。",
+    "translation": "Yeah, I think it's a good idea."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあさ、ご褒美にお願い、１つ聞いて？",
+    "translation": "So, can I ask you for a favor as a reward?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お願い？\nなんだよ、無茶なことは言うなよ？",
+    "translation": "A favor?\nDon't ask for something unreasonable."
+  },
+  {
+    "character": "一花",
+    "japanese": "そんなに警戒しなくても。\nただ、ランニングに付き合って欲しいだけだよ。",
+    "translation": "So cautious, aren't you.\nI just want you to join me for a run."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ランニング？\nなんでいきなり。",
+    "translation": "A run?\nWhy, all of a sudden?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ああ、そっか、君からすればいきなりか。",
+    "translation": "Oh, that's right. \nIt is kinda sudden from your point of view. "
+  },
+  {
+    "character": "一花",
+    "japanese": "実は私、ランニングが日課なんだよね。\n今日の分は朝のうちにやっておこうと思って。",
+    "translation": "Actually, running is part of my daily routine.\nI thought I'd get today's run out of the way\nin the morning."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ……。\n朝から運動か……。",
+    "translation": "*sigh*\nExercising in the morning, huh..."
+  },
+  {
+    "character": "一花",
+    "japanese": "うわ、渋い顔。\n大丈夫だよ、朝からヘトヘトになるほど\n走ったりはしないから。",
+    "translation": "Wow, you're not thrilled.\nDon't worry, I won't run you ragged\nfirst thing in the morning."
+  },
+  {
+    "character": "らいは",
+    "japanese": "行ってきなよ、お兄ちゃん。",
+    "translation": "Go for it, big bro."
+  },
+  {
+    "character": "一花",
+    "japanese": "あっ、らいはちゃん。\nおはよう。",
+    "translation": "Oh, Raiha-chan. Good morning."
+  },
+  {
+    "character": "らいは",
+    "japanese": "おはよう、一花さん。\nお兄ちゃんもおはよう。",
+    "translation": "Good morning, Ichika-san.\nGood morning, big bro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おはよう。\nしかし、行ってこいって言われてもな。",
+    "translation": "Morning.\nBut, this is easier said than done. "
+  },
+  {
+    "character": "らいは",
+    "japanese": "せっかく誘ってくれたんだもん。\nこれも思い出になると思うなー。",
+    "translation": "She invited you out, right?\nI think it'll be a good memory for you guys."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……そうか。\n　これも２人での思い出作りか）",
+    "translation": "(...I see.\n This is also making memories with the two of us.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかったよ。\n着替えるから、ちょっと待ってろ。",
+    "translation": "Got it.\nI'll change, so wait a sec."
+  },
+  {
+    "character": "一花",
+    "japanese": "やったね！\nじゃあ、私も支度するから。",
+    "translation": "Yay!\nThen, I'll get ready too."
+  },
+  {
+    "character": "らいは",
+    "japanese": "頑張ってきてね、２人とも！",
+    "translation": "Good luck, you two!"
+  }
+]

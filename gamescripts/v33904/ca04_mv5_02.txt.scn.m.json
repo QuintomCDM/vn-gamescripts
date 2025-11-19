@@ -1,0 +1,392 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "五月、なにしてるんだ？",
+    "translation": "What are you doing, Itsuki?"
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君？\nあなた１人なんですか？",
+    "translation": "Uesugi-kun?\nAre you alone?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだが？",
+    "translation": "Yes, why?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……確かに、他には誰もいないようですね。",
+    "translation": "...Indeed, it seems like there's no one else here."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あっ、フータロー！",
+    "translation": "Ah, Futaro!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、三玖も――",
+    "translation": "What's up, Miku%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローにどうしても伝えたいことがある。\n聞いて。",
+    "translation": "There's something I really want to tell you.\nListen."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあっ？　ちょ、ちょっと待て、落ち着け！\n近い！　近いだろ！",
+    "translation": "Whaaaa? W-wait a sec, calm down!\nYou're too close!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "マナティーがね、マナティーが――",
+    "translation": "Manatees, those manatees%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "すごく可愛い。\nもう、とにかく可愛い……！",
+    "translation": "They're so cute.\nThey're totally, undeniably cute!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……マナティー？",
+    "translation": "...Manatees?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、マナティー。",
+    "translation": "Yes, manatees."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうか。\nわかったから離れてくれ、頼む。",
+    "translation": "I-I see.\nI get it, just back off, please."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（はあああ……。\n　三玖、いつになくテンション上がってるな。\n　勘違いさせ……いや、俺の自意識過剰だな！）",
+    "translation": "(*sigh* Miku seems unusually excited.\n Am I misunderstanding something...\n No, I'm just being self-conscious!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しかし、そんなに興奮するほど可愛いか？",
+    "translation": "However, are they really cute enough\nto get so excited about?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "可愛い。\n動きが可愛すぎる。",
+    "translation": "They're cute.\nTheir movements are just too cute."
+  },
+  {
+    "character": "五月",
+    "japanese": "私も、最初に見た時はピンときませんでしたが――",
+    "translation": "When I first saw them,\nI didn't get it either%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "ゆらゆら、ゆらゆらと\n手びれや尾びれで水をかいて進む姿は、\nなんとも言えない愛らしさが……！",
+    "translation": "Yet, swimming with a gentle sway, using their flippers\nand tail to move through the water,\ntheir appearance is indescribably adorable!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あの泳ぐ姿、時間を盗まれる。",
+    "translation": "Watching them swim, time flies by."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、いつまでも見ていられます！",
+    "translation": "Yes, I could watch them forever!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前らの言ってるマナティーって、\n人魚伝説の元ネタになった動物だよな。",
+    "translation": "The manatees you guys are talking about\nare the animals that have\nbecome the basis of mermaid legends, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "はい、それもあって三玖と見に行ってみたのです。\n本当に人魚に見えるのか気になりまして。",
+    "translation": "Yes, that's why Miku and I went to see them.\nWe were curious if they really looked like mermaids."
+  },
+  {
+    "character": "三玖",
+    "japanese": "正直、人魚には見えなかった。\n想像よりも大きかったし。",
+    "translation": "To be honest, they didn't really look like mermaids.\nThey were bigger than I imagined."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが、仕草が本当に可愛くて！\nあんな大きな体なのに、手びれをパタパタして\n一生懸命泳ぐんですよ！",
+    "translation": "But their movements were really cute!\nDespite their large bodies,\nthey flap their fins and swam with all their might!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう……。",
+    "translation": "I-I see..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ちょうど餌やりの時間で、\n飼育員さんからご飯をもらってたんだけど。",
+    "translation": "It was just feeding time,\nand they were fed carrots by their trainer."
+  },
+  {
+    "character": "三玖",
+    "japanese": "もらったニンジンを手ビレで抱えてモグモグしてた。\n水中で、立ち泳ぎしながら。",
+    "translation": "They held the carrots in their fins and chomped on them.\nThey even stood on their tails in the water."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、それだ。",
+    "translation": "Ah, that's right."
+  },
+  {
+    "character": "三玖",
+    "japanese": "え？　それって？",
+    "translation": "Huh? That's it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なにかで読んだ覚えがあるんだが――",
+    "translation": "I feel like I read something about that before%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "マナティーが海から顔を出して\n餌を掴んで食べている様子が、\n人と勘違いされたらしいぞ。",
+    "translation": "It seems that the sight of a manatee\nsticking its head out of the water and grabbing food\nwas mistaken for a person."
+  },
+  {
+    "character": "五月",
+    "japanese": "確かに、上から見た時は\n人に見えなくもありませんでしたね。",
+    "translation": "Indeed, when viewed from above,\nit's possible to mistake them for a person."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "上から？\n水槽で見たんじゃないのか。",
+    "translation": "From above?\nDidn't you see them in the tank?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "マナティーのいるプールは、\n１階だと上から、地下だと横から見られるんだ。",
+    "translation": "The pool where the manatees are kept\ncan be viewed from above on the first floor\nand from the side on the basement level."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ、それは面白そうだな。",
+    "translation": "Oh, that sounds interesting."
+  },
+  {
+    "character": "五月",
+    "japanese": "あの様子は、どんな角度からでも\n眺めているだけで笑顔になってしまいます。",
+    "translation": "The way manatees are, they make you smile\nno matter what angle you look at them from."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ、そうなのか。",
+    "translation": "Oh, really?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、反応薄い。\n本当に可愛かったんだよ？",
+    "translation": "Futaro, you're not reacting much.\nThey were SO cute, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、マナティーが可愛いのは\nお前たちの話から充分、伝わったぞ。",
+    "translation": "Well, from how you guys were acting, I could tell\nquite well how cute manatees are."
+  },
+  {
+    "character": "三玖",
+    "japanese": "伝わってたら、もっと反応してくれるはず。",
+    "translation": "If you could tell, you should be more reactive."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そう言われても困るんだが……。",
+    "translation": "What am I supposed to do...?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "飼育員さんにも懐いてるみたいだったし、\nマナティーって人懐っこいのかも。",
+    "translation": "The manatees seemed like they were friendly\nwith the caretaker.\nThey might be easy to tame."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それに、少し武田信玄に似てるかもしれない。\nおじいちゃんのようなヒゲの風貌なのに、\n赤ちゃんのようなつぶらな瞳……。",
+    "translation": "Plus, they might resemble Takeda Shingen a bit.\nDespite having a grandfather-like bearded appearance,\nthey have round, baby-like eyes..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その表現は……かなり伝わりにくいな。",
+    "translation": "That expression... I can't sympathize well."
+  },
+  {
+    "character": "五月",
+    "japanese": "時間に余裕があれば、\nもう一度会いに行きたいくらいです。",
+    "translation": "If I have time, I'd like to visit them again."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "話を聞く限り、\nマナティーはかなり人間っぽいんだな。",
+    "translation": "From what you're telling me,\nmanatees seem pretty human-like."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じっと見てたら、近寄ってきて\n水槽越しに私のことを見つめ返してきたんだ。",
+    "translation": "When I stared at it, it came closer and\nstared back at me through the tank."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あれって、もしかして私の視線に気がついたのかも。",
+    "translation": "Perhaps, it noticed my gaze, and that's why it did that?"
+  },
+  {
+    "character": "五月",
+    "japanese": "見た目は人魚とは言えませんが、\nあのような行動をされたら\n勘違いしてしまうのも納得です。",
+    "translation": "They don't look like mermaids at all,\nbut with that kind of behavior,\nit's easy to get the wrong idea."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "見た目はな。\nそもそも、よくある上半身が女性の姿をした人魚は\n昔の人が想像で描いたものだ。",
+    "translation": "In terms of how they look. In the first place,\nthe typical mermaid with a female upper body\nwas something people imagined in the past."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もっと前は、人の顔に鳥の体だったり、\n牛の顔をした巨大な魚として描かれたんだぞ。",
+    "translation": "Even before that, they were depicted\nas creatures with bird bodies and human faces,\nor as giant fish with the face of a cow."
+  },
+  {
+    "character": "五月",
+    "japanese": "それは……恐らく可愛くないですね。",
+    "translation": "That would...probably not be so cute."
+  },
+  {
+    "character": "三玖",
+    "japanese": "飼育員さんにも懐いてるみたいだったし、\nマナティーって人懐っこいのかも。",
+    "translation": "The manatees seemed like they were friendly\nwith the caretaker.\nThey might be easy to tame."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それに、少し武田信玄に似てるかもしれない。\nおじいちゃんのようなヒゲの風貌なのに、\n赤ちゃんのようなつぶらな瞳……。",
+    "translation": "Plus, they might resemble Takeda Shingen a bit.\nDespite having a grandfather-like bearded appearance,\nthey have round, baby-like eyes..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その表現は……かなり伝わりにくいな。",
+    "translation": "That expression... I can't sympathize well."
+  },
+  {
+    "character": "五月",
+    "japanese": "時間に余裕があれば、\nもう一度会いに行きたいくらいです。",
+    "translation": "If I have time, I'd like to visit them again."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そのマナティー、よっぽど可愛かったんだな。\nはしゃいで話すお前らを見てると、\nしみじみそう思う。",
+    "translation": "Those manatees, they must have been really cute.\nSeeing you get more and more excited watching them\nwas quite the spectacle."
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっ？\n私、そんなにはしゃいでた？",
+    "translation": "Huh?\nWas I that excited?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いやいや、大はしゃぎだったじゃないか。\n最初は何事かと思ったぞ。",
+    "translation": "Woah, woah. You were bouncing off the walls.\nI was wondering what was going on at first."
+  },
+  {
+    "character": "五月",
+    "japanese": "ふふ、普段の三玖は控えめですからね。",
+    "translation": "Hehehe, Miku's usually pretty reserved, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちなみに、お前のはしゃぎっぷりも\n三玖に負けてなかったぞ？",
+    "translation": "By the way, you were just as excited as Miku, you know?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、そうでしたか？\n騒がしかったでしょうか？",
+    "translation": "R-really?\nWas I being too loud?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、気にすんな。\n楽しかったのならなによりだ。",
+    "translation": "Well, don't worry about it.\nAs long as you had fun, that's all that matters."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、楽しかった。",
+    "translation": "Yeah, I had fun."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですね。",
+    "translation": "Definitely."
+  },
+  {
+    "character": "三玖",
+    "japanese": "飼育員さんにも懐いてるみたいだったし、\nマナティーって人懐っこいのかも。",
+    "translation": "The manatees seemed like they were friendly\nwith the caretaker.\nManatees seem to be pretty easy to tame."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それに、少し武田信玄に似てるかもしれない。\nおじいちゃんのようなヒゲの風貌なのに、\n赤ちゃんのようなつぶらな瞳……。",
+    "translation": "Plus, they might resemble Takeda Shingen a bit.\nDespite having a grandfather-like bearded appearance,\nthey have round, baby-like eyes..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その表現は……かなり伝わりにくいな。",
+    "translation": "That expression... I can't sympathize well."
+  },
+  {
+    "character": "五月",
+    "japanese": "時間に余裕があれば、\nもう一度会いに行きたいくらいです。",
+    "translation": "If I have time, I'd like to visit them again."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、自由時間のあいだは\n好きにすればいいんじゃないか？\n俺も、少しこの辺を見て回ってくる。",
+    "translation": "During free time, you can do whatever you want, right?\nI'm going to take a look around here for a bit too."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、どこに行くの？\n私も一緒に行こうかな。",
+    "translation": "Futaro, where are you going?\nMaybe I'll go with you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、ああ、いや、その……。",
+    "translation": "A-ahh, well, um..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "す、水族館の下見に行くつもりなんだ。\nだから１人でいい。",
+    "translation": "I-I'm planning to do some reconnaissance\nat the aquarium, so I'll be fine on my own."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふーん……。",
+    "translation": "Hmmm..."
+  },
+  {
+    "character": "五月",
+    "japanese": "下見ですか？",
+    "translation": "Reconnaissance?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "かなり広いって聞いてるし、ざっと\nどんなものがあるかだけでも把握してくる。\nじゃあな。",
+    "translation": "I've heard it's a very big aquarium,\nso I wanna at least get a rough idea of what's there.\nSee you later."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。\nまた後でね、フータロー。",
+    "translation": "Okay. Bye then, Futaro."
+  }
+]

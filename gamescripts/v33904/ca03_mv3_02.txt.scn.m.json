@@ -1,0 +1,362 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "上杉さん……。\nこれは一体、何事なのでしょうか？",
+    "translation": "Uesugi-san... What on earth is happening here?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "さっきまで海沿いの公園にいたのに、\nいまは見知らぬ村の中を歩いている――",
+    "translation": "Just a moment ago we were at the park by the sea,\nand now we're walking through an unfamiliar village%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "なにかの怪奇現象に巻き込まれたのでは！？",
+    "translation": "ARE WE IN SOME ALTERNATE UNIVERSE?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "小芝居はその辺でいいぞ。",
+    "translation": "Enough with the jokes."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えー！\n少しは合わせてくれてもいいじゃないですか！",
+    "translation": "Wha-?!\nCan't you just play along for a bit?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月、後は頼む。",
+    "translation": "Itsuki, you take over."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええっ！？",
+    "translation": "Huhhh?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ど、どうしましょー？\nここはいつ時代のどこなんでしょうかー？",
+    "translation": "Wh-what shall we dooo?\nI wonder what era we're innn?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……マジでやるとは思わなかった。",
+    "translation": "...I didn't think you'd actually go through with it."
+  },
+  {
+    "character": "五月",
+    "japanese": "振っておいてなんですかその言い方は！",
+    "translation": "What's with that tone,\nafter making me do this?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前らの小芝居は置いておいて。\nここは、琉球王国時代の集落を再現している\nエリアだな。",
+    "translation": "Enough with the jokes, you two.\nThis area is modeled after a village\nfrom the Ryukyu Kingdom era."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふむふむ。\nそんな施設まであるんですか、ここって。",
+    "translation": "Hmm, wow. I didn't know they had a facility like this\nhere as well."
+  },
+  {
+    "character": "五月",
+    "japanese": "村をまるごと作ってしまうなんて、\nスケールが大きいですね。\n本当に、知らない村に迷い込んだようです。",
+    "translation": "The fact that they built\na village of this scale inside a park is very impressive.\nIt's almost as we've stumbled upon an unknown village."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ここに建っている家って、ザ・沖縄って感じですね。\n映画や本で見るような造りをしてます。",
+    "translation": "The houses here all look like ZEE Okinawan houses\nyou would see in movies and books."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、あの屋根の作りなんて特徴的です。",
+    "translation": "Yes, the roofing design particularly stands out."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……正確に言えば『ザ』じゃなく『ジ』なんだが。\n　まあ、ここで言うことでもないよな。\n　つい気になっちまう）",
+    "translation": "(...Strictly speaking, the way Yotsuba's pronouncing\n 'the' is wrong, but that's not really important\n right now. It's just something that's bugging me.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あれは台風対策だな。\n赤瓦の隙間に漆喰（しっくい）を塗って、\n風に飛ばされないようにしたんだ。",
+    "translation": "Oh, that's a measure to protect against typhoons.\nThey apply plaster to the gaps in the red roof tiles\nto keep them from getting blown away by the wind."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "沖縄の民家に石垣や塀が多いのも、\n台風から家を守るためって話だ。",
+    "translation": "It's said that the many stone walls and fences\naround Okinawan houses\nare also meant to protect against typhoons."
+  },
+  {
+    "character": "四葉",
+    "japanese": "なるほど、毎年やってくる台風に立ち向かううちに\nこうなっていったんですか。",
+    "translation": "I see, so this is the aftermath of facing\nthe annual typhoons every year."
+  },
+  {
+    "character": "五月",
+    "japanese": "伝統的な街並みには、ちゃんと理由があるのですね。",
+    "translation": "There's indeed a reason\nbehind the traditional townscape."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ。\n沖縄は石灰岩がよく採れたから、\n石垣とか石畳が作りやすかったらしいぞ。",
+    "translation": "Yeah. Okinawa has abundant limestone deposits,\nwhich made it easy to create stone walls\nand stone-paved roads."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういや、首里城の近くに\n当時の石畳が残った通りがあるって話だが。",
+    "translation": "Come to think of it,\nI heard there's a street near Shurijo Castle\nthat still has the original stone paving from that time."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうなんですか？\n気になりますね、ちょっとスマホで検索してみます。",
+    "translation": "Is that so? I'm curious.\nI'm gonna look it up on my phone real quick."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええと……首里城近くで……。",
+    "translation": "Let's see... Near Shurijo Castle..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "おお、これですね！\n首里金城町（きんじょうちょう）石畳道って\n名前だそうです。",
+    "translation": "Oh, this is it!\nIt's apparently called the Kinjo Stone Road."
+  },
+  {
+    "character": "四葉",
+    "japanese": "見てください、これもザ・沖縄ですよ！\n通りの民家も石垣で、赤い瓦を使ってます。",
+    "translation": "Look, the houses along the road have stone walls\nand red roof tiles too. This is really 'ZEE Okinawa!'"
+  },
+  {
+    "character": "五月",
+    "japanese": "まあ……！\n素敵な道ですね。",
+    "translation": "Well!\nWhat a gorgeous street."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確かに、昔ながらの沖縄って感じだな。\n行ってみるか？",
+    "translation": "Yes, it really gives off\nan old-fashioned Okinawan vibe.\nDo you want to go check it out?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、待ってください。\n行った人の感想を見ると――",
+    "translation": "Oh, wait a minute. According to people\nwho have been there%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "結構たくさんの人が、坂がキツくて\n登るのが大変って言ってますよ。",
+    "translation": "The slopes are very steep\nand it's difficult to climb."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……上杉さん、大丈夫ですか？",
+    "translation": "...Uesugi-san, you gonna be alright?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いざとなればお前がいる！",
+    "translation": "I always have you, if things go south!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "もちろんです！　お任せください！",
+    "translation": "Of course! Leave it to me!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "たとえ上杉さんが疲れ果てて動けなくなっても、\n私が肩車して坂の上までお運びしましょう！",
+    "translation": "Even if you're exhausted and can't move, Uesugi-san,\nI'll carry you on my shoulders\nand take you up the hill!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "見ろ五月、この四葉の頼もしい言葉と\n溢れる笑顔を！",
+    "translation": "Itsuki, take notes of these words of encouragement\nand overflowing smiles from Yotsuba!"
+  },
+  {
+    "character": "五月",
+    "japanese": "……言っていて情けなくならないんですか、あなたは。",
+    "translation": "...Aren't you embarrassed saying that?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ところで、上杉さん。",
+    "translation": "By the way, Uesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？",
+    "translation": "What's up?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "今日、行き先を変更したのは、\n夕べ作戦を思いついたからですよね？",
+    "translation": "Did you change our destination today\nbecause you came up with a strategy last night?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、そういうことだ。",
+    "translation": "Well, that's the idea."
+  },
+  {
+    "character": "五月",
+    "japanese": "ここが、あなたと三玖の思い出の場所……\nとは思えないのですが。",
+    "translation": "I can't imagine this...\nbeing a place of memories for you and Miku, though."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どういう意味だ？\n俺が坂道程度でへばると？",
+    "translation": "What do you mean?\nDo you think I'm going to be dinged up by a hill?"
+  },
+  {
+    "character": "五月",
+    "japanese": "正直に言わせてもらえば、可能性はあるのでは。",
+    "translation": "To be honest,\nthere's a possibility that you might."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ま、まあ、なにかあったら私が担いで、\n見事に無酸素登頂を達成してみせます！",
+    "translation": "W-well, if something happens, I'll carry you\nand make it to the summit without oxygen!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前はどこの雪山に登るつもりなんだ。",
+    "translation": "What snowy mountain are you planning on climbing?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（しかし、観光するだけなのに\n　体力の心配があるのは我ながら情けない。\n　少しは改善しないとな……）",
+    "translation": "(But it's embarrassing that I have to worry\n about my stamina even though I'm just sightseeing.\n I've gotta improve my fitness...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ところで、上杉さん。",
+    "translation": "By the way, Uesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？",
+    "translation": "What's up?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "今日、行き先を変更したのは、\n夕べ作戦を思いついたからですよね？",
+    "translation": "Did you change our destination today\nbecause you came up with a strategy last night?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、そういうことだ。",
+    "translation": "Well, that's the idea."
+  },
+  {
+    "character": "五月",
+    "japanese": "ここが、あなたと三玖の思い出の場所……\nとは思えないのですが。",
+    "translation": "I can't imagine this...\nbeing a place of memories for you and Miku, though."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖が大変かもしれないな。",
+    "translation": "Miku might have a tough time."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あいつも体力がないんだ。\n　一般人でもキツいとなると……）",
+    "translation": "(She's got little stamina.\n If it's tough for ordinary folk...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ほほーう。",
+    "translation": "Ho-ho."
+  },
+  {
+    "character": "五月",
+    "japanese": "なるほど、そちらの心配ですか。",
+    "translation": "I see, that's what you're worried about."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "自分より先に三玖を心配！\nさすが彼氏です！",
+    "translation": "You're worrying about Miku more than yourself!\nThat's what a boyfriend should do!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なっ！？\nいや、これはだな！？",
+    "translation": "WHA?! No, this is different, you know?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "照れなくていいんですよ。\n恋人なら当然のことです。",
+    "translation": "You don't have to be embarrassed.\nIt's natural for lovers to worry about each other."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、このくらいののろけは許容範囲です。",
+    "translation": "Yes, this level of sweetness is acceptable."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ところで、上杉さん。",
+    "translation": "By the way, Uesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？",
+    "translation": "What's up?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "今日、行き先を変更したのは、\n夕べ作戦を思いついたからですよね？",
+    "translation": "Did you change our destination today\nbecause you came up with a strategy last night?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、そういうことだ。",
+    "translation": "Well, that's the idea."
+  },
+  {
+    "character": "五月",
+    "japanese": "ここが、あなたと三玖の思い出の場所……\nとは思えないのですが。",
+    "translation": "I can't imagine this...\nbeing a place of memories for you and Miku, though."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そりゃな。\n来たのは今日が初めてだ。",
+    "translation": "No doubt. Today is our first time coming here."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、どうしてここに？",
+    "translation": "Then, why here?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そう聞きたくなるのはわかるが、\nここなら上手くいくはずなんだ。",
+    "translation": "I know you want to ask that,\nbut I'm sure this is the right time and place."
+  },
+  {
+    "character": "五月",
+    "japanese": "なるほど。\nその表情、自信があるのですね。",
+    "translation": "I see. You seem confident about it."
+  },
+  {
+    "character": "五月",
+    "japanese": "では、これ以上は聞きません。\n頑張ってください、上杉君。",
+    "translation": "Alright, I won't ask any further.\nGood luck, Uesugi-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう。",
+    "translation": "Thanks."
+  }
+]

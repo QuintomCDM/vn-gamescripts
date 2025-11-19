@@ -1,0 +1,337 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "あっ、上杉さーん！\nちょうどいいところに！",
+    "translation": "Ah, Uesugi-san!\nGood timing!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ四葉、俺に用か？",
+    "translation": "What's up Yotsuba, you need something from me?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "これから泳ぎに行きませんか？\nせっかく沖縄に来たんです、海を堪能しましょう！",
+    "translation": "How about going swimming now?\nWe've come all the way to Okinawa,\nlet's enjoy the ocean!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……お前、さっきまで\nらいはたちと一緒に泳いでたよな？",
+    "translation": "...Didn't you just swim with Raiha\na little while ago?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれだけじゃ泳ぎ足りないですよ！\n海がおいでおいでと手招きしてます！",
+    "translation": "I was just warming up!\nThe sea is beckoning me to come back!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その言い方は怖いぞ。",
+    "translation": "That's a scary way to put it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（せっかくの誘いだが、\n　俺が四葉の体力についていけるとは思えん）",
+    "translation": "(It's nice of her to invite me,\n but I don't think I can keep up\n with Yotsuba's stamina.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（運動にかけては、こいつの能力は\n　他の追随を許さない域にあるからな……）",
+    "translation": "(When it comes to endurance,\n Yotsuba is in a league of her own...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "悪いが俺は止めておく。",
+    "translation": "Thanks for the invite, but I'll pass."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええー、上杉さんもですか。\n三玖も嫌だって言うし。",
+    "translation": "Aww, Uesugi-san too?\nMiku also said she doesn't want to join me."
+  },
+  {
+    "character": "三玖",
+    "japanese": "泳ぐのが嫌なんじゃなくて、\n四葉の体力についていけないから無理。",
+    "translation": "It's not that we hate swimming,\nit's just that we can't keep up with your stamina, Yotsuba."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だな、三玖の言うとおりだ。",
+    "translation": "Yeah, Miku's right."
+  },
+  {
+    "character": "四葉",
+    "japanese": "でーもー。\nみんな、もっと海を堪能したほうがいいですよぉ。\nせっかくなのに。",
+    "translation": "Come on guys!\nTry to enjoy the ocean as long as we're in Okinawa.\nIt's such a waste not to."
+  },
+  {
+    "character": "三玖",
+    "japanese": "四葉はレベルが違うから。\nさっきまで一緒に泳いでた五月、ぐったりしてたよ。",
+    "translation": "You're on a different level, Yotsuba.\nItsuki was swimming with you earlier\nand she was exhausted."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もうやらかしてたか……。",
+    "translation": "Did you overdo it again...?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "で、でも、らいはちゃんもいたから\nちゃんとペースは落としましたよ？",
+    "translation": "B-but, I did slow down my pace\nsince Raiha-chan accompanied us."
+  },
+  {
+    "character": "四葉",
+    "japanese": "だから、五月もらいはちゃんも\n平気だったんじゃないかなぁと……。",
+    "translation": "I thought that Itsuki and Raiha-chan\nwere doing just fine..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あのな、お前は体力馬鹿なんだから自重しろ。\nお前の普通は、他の奴らにとっては普通じゃないんだ。",
+    "translation": "Listen, you're like a dolphin and your stamina level is off the \ncharts. What's slow for you might be way too fast for others."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うう、すみません。\n海が綺麗だから、テンションが\n上がっちゃってたかもしれません。",
+    "translation": "Ooohh, I'm sorry, I got carried away.\nBut the ocean was just too beautiful."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、こんなところで泳げる機会なんて\nそうそうないし、はしゃいじまう気持ちは\nわかるけどな。",
+    "translation": "I understand why you got so excited swimming through the \nOkinawan ocean. We don't come here very often. "
+  },
+  {
+    "character": "三玖",
+    "japanese": "確かに。\n沖縄に着いた時の\nフータローのテンション、すごかった。",
+    "translation": "Indeed. I remember how excited you were\nwhen we first arrived in Okinawa, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うっ……。",
+    "translation": "Oooh..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "やっぱり、私は\n泳ぐよりも綺麗な海を眺めていたいかな。",
+    "translation": "But, personally,\nI prefer admiring the beauty of the ocean\ninstead of swimming in it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "見てるだけなんてもったいないよ。\nせっかく沖縄に来たんだから泳ごう！",
+    "translation": "Just looking is a waste.\nWe came all the way to Okinawa, so let's swim!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、私はそれで充分楽しめるから。",
+    "translation": "Enjoy yourself. I'll be admiring the ocean."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しかし、眺めるだけはどうなんだ？\nせっかく沖縄まで来たんだから\n少しくらい泳いでおかないと損だろ。",
+    "translation": "But, is admiring the view really good enough?\nWe've come all the way to Okinawa,\nwe should at least swim a little."
+  },
+  {
+    "character": "三玖",
+    "japanese": "人それぞれの楽しみ方がある。\nフータローに私の楽しみ方を否定されたくない。",
+    "translation": "Everyone has their own way of enjoying themselves.\nI don't want you to deny my way of having fun."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、えっと、海を眺めるのもいいよね！\nここで見える景色、絵みたいに綺麗だし！",
+    "translation": "Ah, uh, it's also nice to just admire the ocean!\nThe view from here is as beautiful as a painting!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "海の楽しみ方にだって色々あるもんね。",
+    "translation": "So there are various ways to enjoy the ocean, huh."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、そういうこと。",
+    "translation": "You bet!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、今日は夕方までここにいる予定だし\n海を楽しもうぜ。",
+    "translation": "Well, we're here until the sun goes down. Which means\nwe have plenty of time to enjoy the ocean."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それじゃ、私はさっそく泳ぎに行ってきます！",
+    "translation": "In that case, I'll go swimming now!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "少しセーブして泳げよ？\n気がついたら沖の遊泳禁止区域まで\n行ってそうだからな、お前は。",
+    "translation": "Just don't overdo it.\nYou're the type to end up\nin the no-swim zone before you know it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうせなら、どっちも楽しもうぜ。\n思いっきり泳ぐのものんびり海を眺めるのも\n一緒にやればいい。",
+    "translation": "How about doing both activities together?\nWe can swim to our heart's content, and afterwards relax\non the floater and gaze out at the sea. "
+  },
+  {
+    "character": "四葉",
+    "japanese": "ですよね！",
+    "translation": "Good idea!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、四葉とはちょっと。\nついていける自信がないし。",
+    "translation": "But, I'm not sure I can keep up with you, Yotsuba."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そんなハードに泳いだりしないよ！\nちゃんとペース調節するし。",
+    "translation": "Don't worry, I won't swim too fast!\nI'll pace myself."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも五月が。",
+    "translation": "But, Itsuki got annihilated."
+  },
+  {
+    "character": "四葉",
+    "japanese": "こ、今度はちゃんとするから！",
+    "translation": "I-I'll behave myself better this time!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、今日は夕方までここにいる予定だし\n海を楽しもうぜ。",
+    "translation": "Well, we're here until the sun goes down. Which means\nwe have plenty of time to enjoy the ocean."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それじゃ、私はさっそく泳ぎに行ってきます！",
+    "translation": "In that case, I'll go swimming now!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "少しセーブして泳げよ？\n気がついたら沖の遊泳禁止区域まで\n行ってそうだからな、お前は。",
+    "translation": "Just don't overdo it.\nYou're the type to end up\nin the no-swim zone before you know it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "海の楽しみ方も色々だな。\n泳ぐのも眺めるのも、それぞれいいところがある。",
+    "translation": "There are several ways to enjoy the ocean.\nSwimming and gazing out at the sea\nboth have their merits."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さっきの浮き輪みたいに、\nのんびりできる手段も用意してくれてるのは\nありがたい話だ。",
+    "translation": "I appreciate that they provided us with\nthe floater earlier. It was so relaxing."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私は、あまりハードに動きたくないから\n浮き輪でのんびりするくらいがちょうどいい。",
+    "translation": "I don't really feel like doing anything too strenuous.\nRight now relaxing on the floater sounds good to me."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ、確かに気持ちよさそうだったね。\n泳ぎ疲れたら、浮き輪に乗ってみようかな。",
+    "translation": "Oh, it did look very relaxing.\nIf we get tired of swimming,\nwe should try to rest on the floater."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、なかなか楽しめたぞ。\n自然を全身で感じると言えばいいのか……\n経験して損はない。",
+    "translation": "Yeah, it was really enjoyable. I guess you could say\nthat you become one with nature...\nIt's an experience worth having."
+  },
+  {
+    "character": "四葉",
+    "japanese": "自然に親しむ方法も人それぞれですもんね。",
+    "translation": "People have their own ways of getting close to nature,\ndon't they."
+  },
+  {
+    "character": "三玖",
+    "japanese": "たまに聞く多様性ってそういうことかな。",
+    "translation": "That's diversity, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それ、意味わかって言ってるか？",
+    "translation": "Do you know what you're talking about?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "色々あるってことじゃないの？",
+    "translation": "You can have different perspectives on the same subject, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "正確には、幅広く似た性質のものがあるって\nことなんだが。",
+    "translation": "Well, actually, it means\nthat there are many things that are similar in nature,\nbut have a wide range."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……？",
+    "translation": "...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、いい。\nここで説明するのも野暮だろ。",
+    "translation": "Nah, it's okay.\nIt's not really necessary to explain it here, is it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、今日は夕方までここにいる予定だし\n海を楽しもうぜ。",
+    "translation": "Well, we're here until the sun goes down. Which means\nwe have plenty of time to enjoy the ocean."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それじゃ、私はさっそく泳ぎに行ってきます！",
+    "translation": "In that case, I'll go swimming now!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "少しセーブして泳げよ？\n気がついたら沖の遊泳禁止区域まで\n行ってそうだからな、お前は。",
+    "translation": "Just don't overdo it.\nYou're the type to end up\nin the no-swim zone before you know it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは、さすがにそんなことしませんって。",
+    "translation": "Ahaha, c'mon, I wouldn't do that."
+  },
+  {
+    "character": "四葉",
+    "japanese": "もし気が変わったら言ってください。\n一緒に泳ぎましょうね！",
+    "translation": "If you change your mind, let me know.\nLet's go swimming!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そういえば、フータローは二乃と一緒じゃないんだ。",
+    "translation": "Come to think of it,\nyou aren't here with Nino, huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、ああ、まあな。",
+    "translation": "W-well, I guess."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローは、もうちょっと二乃のこと……。",
+    "translation": "Futaro, you should focus a little more on Nino..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "え？　なんだ？",
+    "translation": "Huh? What do you mean?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ううん、やっぱりなんでもない。\nわざわざ言ってあげることじゃなかった。",
+    "translation": "Uh, nothing. Nevermind."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私たちはライバルだからね、二乃。",
+    "translation": "Cause we're rivals, me and Nino."
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "う～ん、どうしましょうか。",
+    "translation": "Hmm, what should we do?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "候補が多くて困っちゃうよね。",
+    "translation": "There are so many options, it's tough to decide."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、２人揃って困った顔して。\nなんかあったのか？",
+    "translation": "Oh, what's wrong with you two?\nLooks like you're having trouble.\nDid something happen?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ、上杉さん。",
+    "translation": "Ah, Uesugi-san."
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、ちょうど良かった！",
+    "translation": "Big bro, perfect timing!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "いま、四葉さんとどこに行こうか話してたんだ。\nお兄ちゃんも一緒にどう？",
+    "translation": "We were talking about where to go.\nHow about you join us?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、構わないぞ。\n一緒に見て回るか。",
+    "translation": "Oh, sure, I don't mind.\nShall we go around together?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "は、はいっ！",
+    "translation": "O-okay!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ただ、行き先がなかなか決められなくて、\n困っちゃって。",
+    "translation": "But, we can't quite decide on a destination,\nso we're having a tough time."
+  },
+  {
+    "character": "らいは",
+    "japanese": "あっちにあるドリームセンターは\n珍しいお花がいっぱい見られるんだって。",
+    "translation": "I heard the Dream Center over there\nhas lots of rare flowers to see."
+  },
+  {
+    "character": "四葉",
+    "japanese": "熱帯植物の植物園ですね！\nいいんじゃないですか？",
+    "translation": "That's a botanical garden with tropical plants, right!\nSounds good, doesn't it?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "海洋文化館にはプラネタリウムがあって、\n沖縄の星空が見られるんだ。",
+    "translation": "The Oceanic Culture Museum has a planetarium,\nwhere you can see the Okinawan starry sky."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それもいいですね。\nなかなかロマンチックだと思います。",
+    "translation": "That sounds good too.\nIt's quite romantic, don't you think?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺も悪くないと思うぞ。\n沖縄の星空は地元とはまったく違うからな。",
+    "translation": "I don't mind that either.\nOkinawa's starry sky\nis totally different from our hometown's."
+  },
+  {
+    "character": "らいは",
+    "japanese": "む～……。",
+    "translation": "Mmhh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいは？　どうかしたのか？",
+    "translation": "What's wrong, Raiha? Did something happen?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "あとは、近くのエメラルドビーチで\nキレイな景色を見るのもいいかもしれないよね。",
+    "translation": "Also, it might be nice to see the beautiful view\nat the nearby Emerald Beach."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そこもいいな。\n美しさには定評のあるビーチなんだろ？",
+    "translation": "That's a good idea too.\nThat beach is known for its beauty, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ、エメラルドビーチ……。",
+    "translation": "Oh, Emerald Beach..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……ん？）",
+    "translation": "(...Hm?)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "もー！\nさっきから言ってるの、私ばっかりだよ？",
+    "translation": "Oh, come on!\nI've been the only one suggesting places the whole time,\nyou know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？\nいや、それはらいはの行きたい場所が\n最優先だからで……。",
+    "translation": "Huh? Well,\nwherever you want to go takes top priority\nover what we say..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "私はいいの！\nここは２人で決めてください！",
+    "translation": "Don't worry about me!\nPlease decide on a place just between you two!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まいった。\n四葉、どうする？",
+    "translation": "Oh dear.\nWhat do you think, Yotsuba?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええと……。",
+    "translation": "Umm..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "もしよければ、エメラルドビーチにしませんか？",
+    "translation": "If it's alright, how about we go to Emerald Beach?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ビーチは充分見てないか？\n昨日、海水浴にも行ったし。",
+    "translation": "Haven't gotten enough beaches yet, eh?\nWe went swimming there yesterday."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それはそうなんですが。\nここのビーチは特に綺麗だって話ですし、\nできれば行ってみたいなーって。",
+    "translation": "That's true. But I heard this particular beach\nis exceptionally beautiful,\nand I'd like to go if possible."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな。\nせっかくなんだ、行っておくか。",
+    "translation": "I gotcha.\nSince we're here, let's check it out then."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、ありがとうございます！",
+    "translation": "Okay, thanks!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいはもそれでいいか？",
+    "translation": "Raiha, you cool with that?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、いいよ。\nでも……。",
+    "translation": "Yes, I'm fine with it.\nBut..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、どうかしたのか？",
+    "translation": "What, what's wrong?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "私は、四葉さんと２人で決めてって言ったのになー。",
+    "translation": "I said to make a decision just between the two of you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、らいはだって一緒に行くんだし、\nやっぱり確認くらいはしないと……。",
+    "translation": "Yeah, but you're also going with us,\nso we should make sure with you as well..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うーん、お兄ちゃんのそういう気遣いは\n嬉しいんだけどね？",
+    "translation": "Hmm, well, I appreciate your consideration, big bro."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ま、まあまあ、らいはちゃん。\nその……。",
+    "translation": "I-it's okay, Raiha-chan.\nThat's just..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "これが上杉さんのいいところなんです。",
+    "translation": "The good thing about Uesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、四葉さんがそう言うのなら許しましょう！",
+    "translation": "Okay, if Yotsuba-san says so, then I'll allow it!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかった、行こう。",
+    "translation": "Got it, let's go."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ？　いいんですか？",
+    "translation": "Huh? Really?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃんが即決した！？",
+    "translation": "Big bro actually made a big decision?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ？\nそんなにおかしいか？",
+    "translation": "What's the matter?\nIs it so strange?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉の態度を見てれば、\nエメラルドビーチへ行きたがってたことなんて\n丸わかりだろ。",
+    "translation": "Judging from Yotsuba's behavior,\nit was clear that she wanted to go to Emerald Beach."
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そこで照れないでくれ……。",
+    "translation": "You don't have do be so shy..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは……すみません。",
+    "translation": "Ahaha... Excuse me."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うんうん。\nお兄ちゃん、上出来です！",
+    "translation": "Nice, nice.\nGreat job, big bro!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うわぁ～！　すっごくキレイ！",
+    "translation": "Uwaaa! It's so beautiful!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "海が見事なエメラルドグリーンです！\n名前の通りなんですね。",
+    "translation": "The sea is a stunning emerald green!\nJust as its name says."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ただのエメラルドグリーンじゃなく、\n沖に行くほど色の深みが増していってるな。",
+    "translation": "It's not just any emerald green.\nThe depth of the color increases\nas you go further out to sea."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しかし、公園のすぐ傍に\nこんな浜辺があるなんて思わなかった。",
+    "translation": "However, I didn't expect to find such a beach\nright next to the park."
+  },
+  {
+    "character": "四葉",
+    "japanese": "しかも、私たち以外は誰もいないみたいですね。",
+    "translation": "And, it looks like no one else is here except for us."
+  },
+  {
+    "character": "らいは",
+    "japanese": "すごい！　貸し切りだー！",
+    "translation": "Amazing! It's like a private beach!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいは！　走って転ぶなよ！",
+    "translation": "Raiha! Don't run and fall!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "はーい！",
+    "translation": "Yeah!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（これは嬉しいサプライズだ。\n　偶然なんだろうが、まるで俺たちのために\n　用意されてたみたいだ）",
+    "translation": "(This is a pleasant surprise.\n It's probably just a coincidence,\n but it's like it was prepared just for us.)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ねえ、四葉さーん！\nここにもシーサーがいるよー！",
+    "translation": "Hey, Yotsuba-san!\nThere's a shisa here too!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "おお、ホントですね！\nきっと、この浜辺の平和を守ってるんですよ！",
+    "translation": "Oh wow, you're right!\nIt must be protecting the peace of this beach!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ねえねえ、記念写真撮ってー！",
+    "translation": "Hey, hey, let's take a photo as a memento!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "もちろんです！\n私に任せてください！",
+    "translation": "Of course! Leave it to me!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "というわけで。\n上杉さん、ちょっと行ってきますね。",
+    "translation": "I'm going to follow Raiha.\nI'll be back in a flash!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、行ってこい。",
+    "translation": "Oh, sure. Take your time."
+  },
+  {
+    "character": "四葉",
+    "japanese": "え～と、こっちが憩いの浜で、あっちが眺めの浜。\nそれで向こう側が遊びの浜みたいですね。",
+    "translation": "Umm, this is the resting beach,\nthat side is the viewing beach,\nand over there is the playing beach."
+  },
+  {
+    "character": "らいは",
+    "japanese": "どこから行こうか？",
+    "translation": "Where should we go first?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "その前に海をバックに１枚撮りますよー！",
+    "translation": "Before that,\nlet's take a photo with the sea as the background!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "いぇーい！",
+    "translation": "Yaaay!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（はは、２人してなんの写真撮ってんだか）",
+    "translation": "(Haha, what kind of photos are the two of them taking?)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "お！　見てください。\nこの流木、いい感じですよ。",
+    "translation": "Oh! Look at this!\nThis driftwood looks really cool."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、ボートみたい。\n四葉さん、一緒に乗ろっか。",
+    "translation": "Yeah, it looks like a boat.\nYotsuba-san, let's ride it together!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "その前に１枚いっときましょう！\nはい、ポーズ！",
+    "translation": "Before that, I'm gonna take photo!\nOkay, strike a pose!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（写真か。\n　この旅行で、どのくらい撮ったんだろうな）",
+    "translation": "(A photo, eh.\n I wonder how many we've taken on this trip.)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "この貝殻、すごくキレイ。\nこっちのはサンゴの欠片なのかな？",
+    "translation": "This seashell is really pretty.\nI wonder if this one over here is a fragment of coral?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっちの岬の先には灯台があるんだ。\n後でみんなにも見せてあげよう。",
+    "translation": "There's a lighthouse beyond that cape.\nI'll show it to everyone later."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは。\nあの雲、サメみたいな形してるかも？",
+    "translation": "Ahaha. That cloud looks like a shark, doesn't it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ははっ、四葉のやつ、\n　なんでもかんでも撮りすぎだろ）",
+    "translation": "(Haha, that Yotsuba takes photos of everything,\n doesn't she?)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "でも、本当に綺麗な海……。",
+    "translation": "But, the sea is really beautiful..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "来て、よかった。",
+    "translation": "I'm glad I came here."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "……ん？",
+    "translation": "...Hm?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あっ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん？\nどうかしましたか？",
+    "translation": "Uesugi-san, is everything okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なんでもない！",
+    "translation": "I-it's nothing!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "四葉さーん！　ウニ！\nトゲトゲのウニがいたよ！",
+    "translation": "Yotsuba! A sea urchin!\nLook, there's a spiky sea urchin!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ウニですか！？\nそれは是非とも見なければー！",
+    "translation": "A sea urchin? We DEFINITELY have to look at that!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（思わず撮っちまった。\n　なにやってんだ、俺……）",
+    "translation": "(I took a photo without thinking.\n What am I doing...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（だが――）",
+    "translation": "(But%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（我ながら……良い写真が撮れたな）",
+    "translation": "(I took...a really good photo.)"
+  }
+]

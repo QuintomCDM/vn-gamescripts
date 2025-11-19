@@ -1,0 +1,302 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ダメだ。\n　一度も五月が目を合わせてくれない）",
+    "translation": "(No good.\n Itsuki can't even look me in the eye.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（朝食の時間も、ロビーに集まってからも、\n　ずっとムスッとしてる……。\n　やっぱり怒ってるよなぁ……）",
+    "translation": "(During breakfast and even when we gathered\n in the lobby, she's been sulking the whole time...\n She must still be angry...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（謝らせてくれそうな雰囲気でもねぇし、\n　どんな顔で過ごせばいいんだ？）",
+    "translation": "(There's no sign of her\n being willing to accept an apology,\n so how should I act around her?)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、顔色悪い。\nどうしたの？",
+    "translation": "Futaro, you look pale. What's wrong?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "い、いや、なんでもねぇよ。",
+    "translation": "N-no, nothing really."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（五月が昨日のことを姉妹に話してたら\n　俺は速攻で袋叩きになってるよな。\n　ってことは、まだ話してないのか）",
+    "translation": "(If Itsuki had talked to her sisters about what happened\n yesterday, I'd have gotten the crap kicked outta me already.\n So, does that mean she hasn't told anyone yet?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……くそ、なにをホッとしてるんだ俺は。\n　袋叩きにされても文句は言えねぇんだ、\n　それくらい甘んじて受け入れろよ！）",
+    "translation": "(...Damnit, what am I relieved about?\n Even if I get beat up, I can't complain.\n I should just accept it!)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん？\nさっきからすごい顔してるよ？",
+    "translation": "Big bro?\nYou've been making a strange face for a while now."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "気にしないでくれ。",
+    "translation": "Don't worry about it."
+  },
+  {
+    "character": "らいは",
+    "japanese": "気になるけどー。",
+    "translation": "Oh, but I am worried..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（今日は海で遊ぶ予定だよな。\n　五月と話す時間をどうにか作らねぇと）",
+    "translation": "(We're supposed to go to the beach today.\n I have to somehow make time to talk to Itsuki.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あいつは……俺の顔なんて\n　見たくもないのかもしれないが）",
+    "translation": "(Even if...she probably doesn't want to look at my face.)"
+  },
+  {
+    "character": "一花",
+    "japanese": "えーっと、じゃあ今日だけど、\n海水浴とマリンアクティビティを満喫する\n予定でしたが――",
+    "translation": "Ummm, so today we were planning to enjoy swimming\nand marine activities%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "予定を変更することになりました。",
+    "translation": "But, we've had a change of plans."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君も構わないかしら？",
+    "translation": "You don't mind, right, Fu-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、ああ、別にいいが。",
+    "translation": "Uh, yeah, that's fine."
+  },
+  {
+    "character": "四葉",
+    "japanese": "では決まりということで！",
+    "translation": "So, it's settled then!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、決まり。",
+    "translation": "Yeah, it's settled."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なんだ？\nそのいかにも悪巧みをしてますって笑顔は。",
+    "translation": "Wh-what the?\nWhat's with that wicked smile?"
+  },
+  {
+    "character": "一花",
+    "japanese": "では、今日は完全な自由行動日とします。\nみんな好きなところへ遊びにいきましょーう。",
+    "translation": "Well, today will be a completely free day.\nLet's all go play wherever we want!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ただし、フータローは五月と一緒で。",
+    "translation": "However, Futaro will be with Itsuki."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？　え？\n俺と五月、２人でか？",
+    "translation": "Huh? Wha?\nMe, and Itsuki, the two of us?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そうだよ、２人で。",
+    "translation": "Yep. The two of you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちょ、待て！\nどうしてそうなる！？",
+    "translation": "W-wait a minute!\nWhy does it have to be like that!?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "どうしてって、こっちが聞きたいんだけど。\n恋人同士なんだから一緒にいたいでしょ？",
+    "translation": "Hm? I'd rather ask you the reason\nyou need to ask why?\nAs lovers, don't you want to be together?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うんうん、そうだよねー。",
+    "translation": "Yeah, yeah, that's right."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "し、しかし、五月の意思があるだろ？\nそんな勝手に決めるなよ。",
+    "translation": "B-but doesn't Itsuki have a say in this?\nYou can't just decide on your own."
+  },
+  {
+    "character": "五月",
+    "japanese": "私はあなたと一緒がいいです。",
+    "translation": "I want to be together with you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……は？",
+    "translation": "...Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なんで……。",
+    "translation": "Wh-why...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（昨日、あんなことがあったのに……）",
+    "translation": "(Even though THAT had \n just happened yesterday...)"
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたと一緒にいたいから――\nそれだけでは理由になりませんか？",
+    "translation": "I want to be with you%p-2;――\n%p;don't you think that's reason enough?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……そんなことは、ない。",
+    "translation": "...No, that's a good reason."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……お前がいいなら。",
+    "translation": "...If you're okay with that."
+  },
+  {
+    "character": "五月",
+    "japanese": "聞いていませんでしたか？\n私はあなたと一緒がいいと言いました。",
+    "translation": "Didn't you hear?\nI said that I want to be together with you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、ああ……そうだったな。\n悪い、変なこと聞いちまった。",
+    "translation": "Y-yeah... That's right.\nSorry, I asked something weird."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺もだ。\nお前と一緒がいい。",
+    "translation": "Me too.\nI wanna be with you too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（たとえ嫌われたとしても、\n　やっぱり俺は五月のことが好きだ）",
+    "translation": "(Even if she ends up hating me,\n I still like Itsuki.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（このまま、お互いに黙ったままじゃ、\n　ようやく繋がった想いが本当に断ち切れちまう！）",
+    "translation": "(If we keep silent like this,\n our feelings for each other might truly be cut off!)"
+  },
+  {
+    "character": "五月",
+    "japanese": "よかったです。\n同じ気持ちでいてくれて。",
+    "translation": "Oh, good.\nWe feel the same way."
+  },
+  {
+    "character": "一花",
+    "japanese": "夕方までにホテルに戻ってくれば、あとは自由。\nあ、もちろん危険なことはしちゃダメだよ？",
+    "translation": "If you come back to the hotel by evening,\nyou're free to do as you please.\nOh, but don't do anything dangerous, okaaay?"
+  },
+  {
+    "character": "一花",
+    "japanese": "では、それぞれ好きに沖縄を楽しみましょーう！",
+    "translation": "Well then, let's enjoy Okinawa however we like!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "はーい！",
+    "translation": "Okay!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "どこ行こうかな。",
+    "translation": "I wonder where I'll go."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あっという間に行っちまった。",
+    "translation": "...They all left in a flash."
+  },
+  {
+    "character": "五月",
+    "japanese": "のんびりしていたら、\n１日なんてすぐに終わってしまいますから。",
+    "translation": "The day would end quickly if they just sat around."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうだな。",
+    "translation": "Th-that's right."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（なんつーか……割と普通だな。\n　わからねぇ、五月は昨日のことを\n　どう思ってるんだ？）",
+    "translation": "(Things are...pretty normal.\n I just don't get it.\n What does she think about what happened yesterday?)"
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君？",
+    "translation": "Uesugi-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、いや、五月は……\nどっか行きたいところはあるか？",
+    "translation": "Ah, um, Itsuki...\nIs there somewhere you wanna go?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええと、そうですね……。",
+    "translation": "Umm, let's see..."
+  },
+  {
+    "character": "五月",
+    "japanese": "明日行く予定ではありましたが、\n海洋博公園なんてどうでしょうか。",
+    "translation": "We were going to go there tomorrow,\nbut how about Ocean Expo Park?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "美ら海（ちゅらうみ）水族館があるところか。\nいいんじゃないか、そこで。",
+    "translation": "That's where Churaumi Aquarium is, right?\nThat's good, let's go there."
+  },
+  {
+    "character": "五月",
+    "japanese": "では、行きましょう。",
+    "translation": "Alright, let's go."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう。",
+    "translation": "Yeah."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（どう思ってるのかはわからねぇが……\n　五月は俺と一緒がいいって言ってくれたんだ）",
+    "translation": "(I don't know what she's thinking...\n But Itsuki said she wants to be with me.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（とりあえずいまは、\n　その言葉を信じて進むしかないな）",
+    "translation": "(For now, I have no choice\n but to believe in those words and move forward.)"
+  }
+]

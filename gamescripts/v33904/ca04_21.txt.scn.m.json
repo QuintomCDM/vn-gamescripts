@@ -1,0 +1,192 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "よし、呼び出す場所と時間はここでいい。\n一花、連絡を頼む。",
+    "translation": "Okay, this is a good place and time to call for him.\nIchika, can you make contact?"
+  },
+  {
+    "character": "一花",
+    "japanese": "オッケー。\nじゃあ、この文面で送信するよ。",
+    "translation": "Okay.\nI'll send the message with this wording then."
+  },
+  {
+    "character": "一花",
+    "japanese": "よし、完了っと。",
+    "translation": "Alright, it's done."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あとは返事待ちか。",
+    "translation": "Now we just have to wait for a response."
+  },
+  {
+    "character": "らいは",
+    "japanese": "ねえ、お兄ちゃん。\n万座毛（まんざもう）ってどこなの？",
+    "translation": "Hey, big bro.\nWhere is Manzamo?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "海岸沿いにある断崖絶壁だ。\nなかなか景色がいいところだぞ。",
+    "translation": "It's a cliff along the coast.\nThere's a pretty nice view there."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんでわざわざ、そんなところに\nお父さんを呼び出すのよ。",
+    "translation": "Why did you have to call Daddy out\nto such a place?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こういうのは雰囲気作りが大事だからな。\n心意気としては……背水の陣ってことだ！",
+    "translation": "Well, creating the right atmosphere is important\nfor this kind of thing.\nIt's like...a last stand!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "なるほど。\n後には引かない覚悟の証だね。",
+    "translation": "I see.\nIt's proof of your resolve to not back down."
+  },
+  {
+    "character": "五月",
+    "japanese": "むしろ、サスペンスドラマで\n犯人が刑事に追い詰められる場面では。",
+    "translation": "Well, actually, in a suspense drama,\nit'd be a scene where the culprit\nis cornered by the detective."
+  },
+  {
+    "character": "らいは",
+    "japanese": "そっか、お兄ちゃんは犯人だもんね。\n四葉さんをさらっていく犯人。",
+    "translation": "I see, you're the culprit, big bro.\nThe one who kidnapped Yotsuba-san."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ら、らいはちゃん！？",
+    "translation": "R-Raiha-chan?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さらっていくは外聞が悪いぞ……。",
+    "translation": "Kidnapping sounds really bad..."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、お父さんからすればそんな気分だよねー。",
+    "translation": "But, from Dad's perspective,\nI guess that's how he feels."
+  },
+  {
+    "character": "一花",
+    "japanese": "おっ、噂をすれば。\n返事が来たよ。",
+    "translation": "Oh, speak of the devil.\nWe've got a reply."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "一花",
+    "japanese": "了解したってさ。",
+    "translation": "He says he understands."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……そうか。\n舞台は整ったな。",
+    "translation": "...I see.\nThe stage is set."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、行ってくる。\n朗報を待っててくれ。",
+    "translation": "Okay, I'm off.\nWait for my good news."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ！？\nもしかして上杉さん、１人で行くつもりですか！？",
+    "translation": "Huh?!\nAre you planning to go alone, Uesugi-san?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、最初からそのつもりだ。",
+    "translation": "Yeah, that was the plan from the start."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私も行きます！",
+    "translation": "I'll go too!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、四葉。\nここは俺に任せてくれ。",
+    "translation": "No, Yotsuba.\nLeave it to me."
+  },
+  {
+    "character": "四葉",
+    "japanese": "でもっ！",
+    "translation": "But!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あのな？\n父親ってのは娘に甘いらしいぜ。",
+    "translation": "Listen.\nFathers are really sweet on their daughters."
+  },
+  {
+    "character": "四葉",
+    "japanese": "へっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ま、これは親父の受け売りだけどな。",
+    "translation": "Well, that's just what my own old man says, though."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あの人は本当に面倒くさいが、\n　こいつらのことをなによりも大事に思っている）",
+    "translation": "(The quintuplets' father is a really troublesome guy,\n but he values his daughters above all else.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（だからこそ……）",
+    "translation": "(That's why...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここは、俺だけであの人と話すべきなんだ。",
+    "translation": "I should be the one to talk to him alone."
+  },
+  {
+    "character": "二乃",
+    "japanese": "早く行かせてあげましょ。\nここで遅刻なんてしたら心証最悪よ。",
+    "translation": "Let him go quickly, Yotsuba.\nIf he's late here, it'll give a bad impression."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、余裕を持って行ってください。",
+    "translation": "Yes, please go with plenty of time to spare."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、健闘を祈っているから。",
+    "translation": "Good luck, Futaro."
+  },
+  {
+    "character": "一花",
+    "japanese": "頑張ってね、フータロー君。",
+    "translation": "Do your best, Futaro-kun."
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、ファイト！",
+    "translation": "Do your best, big bro!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、行ってくる。",
+    "translation": "Right, I'm off."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい……。",
+    "translation": "Okay..."
+  }
+]

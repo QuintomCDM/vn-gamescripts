@@ -1,0 +1,277 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、２人で買い物か？",
+    "translation": "What's up, you two going shopping?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ああ、上杉君もこちらに来ていたのですね。",
+    "translation": "Oh, Uesugi-kun, you've come here too."
+  },
+  {
+    "character": "一花",
+    "japanese": "この辺りはファッション系の\nショップが多いようですが、\nなにか興味を引くものがありましたか？",
+    "translation": "It seems like there are a lot of fashion shops\naround here. Did you find anything interesting?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "服には興味ないな……。",
+    "translation": "I'm not really interested in clothes..."
+  },
+  {
+    "character": "一花",
+    "japanese": "でしょうね。\nでは、私たちのお買い物に付き合ってください。",
+    "translation": "That makes sense.\nWell, then please accompany us on our shopping trip."
+  },
+  {
+    "character": "五月",
+    "japanese": "荷物持ちくらいはしてくださいね？",
+    "translation": "Would you please be our pack mule?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……お前ら、俺の事を体よく使おうとしてるな？",
+    "translation": "...You're not trying to use me, are you?"
+  },
+  {
+    "character": "一花",
+    "japanese": "それくらいの甲斐性は見せてください。",
+    "translation": "Please show us that level of determination."
+  },
+  {
+    "character": "一花",
+    "japanese": "あっ、このショップ、いいですね。\n沖縄らしい色使いの服が揃っていますよ。",
+    "translation": "Ah, this shop is really nice.\nThere are clothes with Okinawan color schemes."
+  },
+  {
+    "character": "五月",
+    "japanese": "普段着にも使えそうですね。\nちょっと見ていきましょうか。",
+    "translation": "They look like they could be worn\nas casual clothes too.\nShall we take a look?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（姉妹で服の話をしてるのは何度か聞いたな。\n　確か一花は大人っぽくて四葉はお子様とか……）",
+    "translation": "(I've heard them talk about clothes before.\n I think Ichika likes more mature styles\n and Yotsuba likes more childish ones...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……なんの情報にもならないな）",
+    "translation": "(...Which isn't really useful information.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それで？\n買う服は決まったのか？",
+    "translation": "So?\nHave you decided on what to buy?"
+  },
+  {
+    "character": "五月",
+    "japanese": "沖縄らしさを取るか、\nそれとも普段使いのしやすさを取るか……。\nいざ商品を目の前にすると悩みますね。",
+    "translation": "Something that captures the essence of Okinawa,\nor something easy to wear on a daily basis...\nHard to choose when you see the actual products."
+  },
+  {
+    "character": "一花",
+    "japanese": "では、これなんてどうです？",
+    "translation": "Well, how about this one?"
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ？\nその服は……。",
+    "translation": "Huh?\nThat outfit is..."
+  },
+  {
+    "character": "一花",
+    "japanese": "夏らしくて可愛くありません？\n上杉君はどうです？",
+    "translation": "It's cute and perfect for summer, isn't it?\nWhat do you think, Uesugi-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺に聞かれても。\nまあ、いいんじゃないか？",
+    "translation": "Don't ask me.\nI mean, it looks fine to me, I guess."
+  },
+  {
+    "character": "一花",
+    "japanese": "ほら、上杉君の反応も悪くはないみたいですし、\nせっかくですから試着してみましょう！",
+    "translation": "See, even Uesugi-kun's reaction isn't bad.\nCome on, try it on!"
+  },
+  {
+    "character": "五月",
+    "japanese": "えーと、そのぉ……。\n布面積的に考えて、少し見えすぎでは……。",
+    "translation": "Um, well...\nConsidering the amount of fabric,\nit might be a little too revealing..."
+  },
+  {
+    "character": "一花",
+    "japanese": "あっ、さては――",
+    "translation": "Ah, I see%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "太りましたね！？",
+    "translation": "You gained weight, didn't you?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ひゃっ！？\nちょ、ちょっと、なにするんですか！？",
+    "translation": "Hyaa!\nWh-what are you doing?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "受験勉強から解放されて、\n少し気が緩んでいるのではありませんか？",
+    "translation": "Could it be that you've relaxed a little too much\nafter being freed from studying for exams?"
+  },
+  {
+    "character": "一花",
+    "japanese": "特に、この辺りが！",
+    "translation": "Especially around here!"
+  },
+  {
+    "character": "五月",
+    "japanese": "やっ、やめてください！\n人のお腹を勝手に撫でないでくださーい！",
+    "translation": "P-please stop it!\nDon't touch people's stomachs without permission!"
+  },
+  {
+    "character": "一花",
+    "japanese": "やめませんよ！\nこの肉まんおばけさん！",
+    "translation": "I won't stop! You're the meat bun monster!"
+  },
+  {
+    "character": "五月",
+    "japanese": "に、肉！？\n誰が肉まんおばけですか！？",
+    "translation": "M-meat?! Who's the meat bun monster?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ん？　『肉まんおばけ』って……\n　前にも聞いた覚えがあるな）",
+    "translation": "(Hm? 'Meat bun monster'...\n I feel like I've heard that before.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（そうだ。\n　そもそも、この光景に見覚えが……）",
+    "translation": "(That's right.\n Come to think of it, this scene is familiar...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（なんだっけ……。\n　思い出せねぇな……）",
+    "translation": "(What was it...\n I can't remember...)"
+  },
+  {
+    "character": "五月",
+    "japanese": "い、いい加減にしてくださいぃ！",
+    "translation": "I-I've had enough!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確かに五月はよく肉まんを食ってたな。\nそれこそ、おばけのように。",
+    "translation": "Itsuki often eats meat buns, doesn't she?\nAnd, really like a monster."
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、そんなに食べていませんが！？",
+    "translation": "I-I didn't eat that much, did I?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "いえいえ、ここがこうなるくらいですから。\nやはり食べすぎだったのでは？",
+    "translation": "No no, it was enough to get you to this point.\nMaybe you did eat too much after all?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ふひゃっ！？",
+    "translation": "FHYAA?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "特に、この辺りが危険ゾーンですね。",
+    "translation": "This area in particular is the danger zone, huh?"
+  },
+  {
+    "character": "五月",
+    "japanese": "もー！　止めてください！",
+    "translation": "Hey! Please stop that!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだ、思い出したぞ！\nお前、二乃だろ！？\n確か前にもそんな感じで五月をいじってたよな！",
+    "translation": "Now I remember!\nYou've gotta be Nino, right?! I'm pretty sure you've\nteased Itsuki about being a meat bun monster before!"
+  },
+  {
+    "character": "一花",
+    "japanese": "いえ、違います。\n急になにを言っているんですか？",
+    "translation": "No, that's not true.\nWhat are you talking about, all of a sudden?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "間違いない！\n五月に『肉まんおばけ』と言っていたのは二乃だ！",
+    "translation": "I'm sure of it!\nYou were the one who called Itsuki\na 'meat bun monster' before, Nino!"
+  },
+  {
+    "character": "一花",
+    "japanese": "もう。\nきっと、あなたの記憶違いですよ。",
+    "translation": "Really, now.\nI believe you aren't remembering correctly."
+  },
+  {
+    "character": "五月",
+    "japanese": "こ、口論をするのは勝手ですが！\nお腹を撫でるのを止めてからにしてくださーいっ！",
+    "translation": "E-enough arguing already!\nStop touching my stomach!"
+  },
+  {
+    "character": "一花",
+    "japanese": "ダメです。\nここ最近の食べすぎを反省するまでは止めません！",
+    "translation": "No can do.\nI won't stop\nuntil you reflect on your recent overeating!"
+  },
+  {
+    "character": "五月",
+    "japanese": "そもそも食べすぎてなどいません！\nせ、成長期なのでお腹が空くだけなんです！",
+    "translation": "I'm not overeating!\nI-I'm just going through a growth spurt,\nthat's all!"
+  },
+  {
+    "character": "一花",
+    "japanese": "自制できないようでは、あなたもまだまだですよ！",
+    "translation": "If you can't control yourself,\nyou'll be in trouble!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（五月が五月にお仕置きされている……。\n　いや、五月が五月にお仕置きしているのか？\n　なんだこれ……俺はなにを見せられてるんだ……）",
+    "translation": "(Itsuki is being punished by Itsuki...\n Wait, or is Itsuki punishing Itsuki?\n What's going on here... What am I seeing?)"
+  },
+  {
+    "character": "五月",
+    "japanese": "はぁはぁ……。\nひ、ひどいですよ、もう……。",
+    "translation": "Huff, huff...\nY-you're just terrible..."
+  },
+  {
+    "character": "一花",
+    "japanese": "ふふん、反省したようですね？",
+    "translation": "Heh, it seems like\nyou've reflected on your actions, huh?"
+  },
+  {
+    "character": "一花",
+    "japanese": "やっぱり、こういうことされてたんだ。\n相手は二乃かな？",
+    "translation": "I'm sure I've been caught like this before.\nAm I up against Nino?"
+  },
+  {
+    "character": "五月",
+    "japanese": "よくわかりましたね。\nさすがは一花です。",
+    "translation": "You figured it out quickly.\nAs expected, Ichika."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが少しやりすぎですよ。\nはぁ、まだお腹がムズムズします。",
+    "translation": "But you went a little too far.\n*sigh* My stomach still feels weird."
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは。\nちょっと調子に乗りすぎちゃった。",
+    "translation": "Ahaha.\nI got a little carried away, didn't I?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ん？\nなにを話してるんだ？",
+    "translation": "...Hm?\nWhat are you guys talking about?"
+  },
+  {
+    "character": "一花",
+    "japanese": "なんでもありませんよ。",
+    "translation": "It's nothing."
+  }
+]

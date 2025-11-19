@@ -1,0 +1,342 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "あっ！　上杉さんっ！\nちょっと来てください！　早く早く！！",
+    "translation": "Ah! Uesugi-san! Come here!\nQuickly, quickly!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうした、なにかあったのか？",
+    "translation": "What's wrong? Did something happen?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "聞いてください！\n衝撃の事実が判明したんです！",
+    "translation": "Please listen!\nWe've just discovered a SHOCKING fact!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ？",
+    "translation": "What is it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "驚かないでくださいね？\nなんと――",
+    "translation": "Don't be too surprised, okay?\nDrumroll%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "海ぶどうって果物のブドウじゃないんです！！",
+    "translation": "Sea grapes aren't actually fruit grapes!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "わかります、ビックリしますよね！\n上杉さんも当然、果物だと――",
+    "translation": "I know, it's surprising, right?\nEven you probably thought they were fruit%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "思ってない。",
+    "translation": "I didn't."
+  },
+  {
+    "character": "四葉",
+    "japanese": "え？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "果物だと思ってたの、四葉だけじゃないかな。",
+    "translation": "I think it's only you,\nYotsuba, who thought they were actual fruits."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えええっ！？",
+    "translation": "EEEEHH?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どう見たってブドウとは似ても似つかないぞ。\nむしろ、なんで果物だと思えたんだよ。",
+    "translation": "No matter how you look at it,\nthere are some obvious differences from real grapes."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、違うんですっ！\nいままで食べてたのが海ぶどうだって\n知らなかったんです！",
+    "translation": "Ah, that's not true!\nI didn't even know that the thing I was eating was sea grapes!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "サラダに乗ったりしてたの、知らずに食べてたんだ。",
+    "translation": "They were on a salad and we ate them without even realizing it. "
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん、私はてっきり\n沖縄限定のブドウかと思ってて。\nどこに売ってるのかなって気にはなってたんだけど。",
+    "translation": "Well, I thought they were some kind of grape\nexclusive to Okinawa.\nI was curious about where they were sold."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、気持ちはわからんでもない。\nそもそも果物のブドウに似た見た目だから\n海ぶどうって名付けられたわけだしな。",
+    "translation": "Well, I guess I can understand that.\nThey're called 'sea grapes' because they\nlook like grapes."
+  },
+  {
+    "character": "四葉",
+    "japanese": "でも、これでちゃんと覚えましたよ。\n海ぶどうは野菜だって。",
+    "translation": "But now I understand it properly.\nSea grapes are vegetables."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや海藻だが。",
+    "translation": "No, they're actually seaweed."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……へっ？\n野菜ですらないんですか！？",
+    "translation": "...Huh?\nThey're not even vegetables?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、海藻。",
+    "translation": "Nope. Seaweed."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ということは……あの見た目のものが、\n海の中にワサワサ～ってしてるんですか？",
+    "translation": "So...those things that look like little balls,\nthey really just sway around in the sea like that?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、そうなんじゃないか？\n生えてるとこを見たわけじゃないが。",
+    "translation": "Well, that's probably the case, right?\nI haven't seen where they grow, though."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それって、なんだか不気味ですね。\nツブツブの海藻が波に揺られてワサワサ……。",
+    "translation": "That's kind of creepy.\nBumpy seaweed, swaying in the waves..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別に不気味じゃないぞ。\n海藻が海に生えてるのは普通の光景だ。",
+    "translation": "Um, it's not that creepy.\nSeaweed growing in the ocean is a common sight."
+  },
+  {
+    "character": "三玖",
+    "japanese": "なんで四葉はそう思うの？",
+    "translation": "Why do you think that way, Yotsuba?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "だって……なんかの卵みたいに見えない？",
+    "translation": "Because...\ndoesn't it look like some kind of egg?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "う……。",
+    "translation": "Ooh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー……。\n俺もタピオカとかいうのが――",
+    "translation": "Ah...\nI also imagine tapioca or something like that%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、それ以上は言わないで。",
+    "translation": "Futaro, please don't say anymore."
+  },
+  {
+    "character": "四葉",
+    "japanese": "見た目が怖いのに\nいまこうして美味しく食べてるのって、\n最初に口に入れた人のおかげですよね。",
+    "translation": "The reason why we can enjoy eating things\nthat look scary is thanks to the person\nwho first put it in their mouth, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、海ぶどうもそうだが、\nウニやナマコなんてよく食べたなと感心する。",
+    "translation": "Yeah, that's true for sea grapes too.\nI'm impressed by the first people who ate things\nlike sea urchin and sea cucumber."
+  },
+  {
+    "character": "三玖",
+    "japanese": "タコとかイカもそうかも。\nタコって海外だと悪魔って言われてるんだよね？",
+    "translation": "Octopus and squid might be the same.\nOctopuses are called demons in some foreign countries,\nyou know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、ちょっと不気味かもな。\n別に単体じゃなんとも思わないが、\nウジャウジャあるのを想像すると……。",
+    "translation": "Well, I guess it's a little creepy.\nI don't think much of it by itself,\nbut when I imagine it wriggling around..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ですよね！\nゾワッとしちゃいますよね！",
+    "translation": "That's right! Doesn't it give you the creeps?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まるでなんかの卵が――",
+    "translation": "They're like some kind of egg%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ひゃー！\nそれを言うのはやめときましょう！",
+    "translation": "Hyaa!\nLet's not talk about that!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "２人のせいで私も想像しちゃった……。",
+    "translation": "Now I'm imagining it too, because of you two..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "見た目が怖いのに\nいまこうして美味しく食べてるのって、\n最初に口に入れた人のおかげですよね。",
+    "translation": "The reason why we can enjoy eating things\nthat look scary is thanks to the person\nwho first put it in their mouth, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、海ぶどうもそうだが、\nウニやナマコなんてよく食べたなと感心する。",
+    "translation": "Yeah, that's true for sea grapes too.\nI'm impressed by the first people who ate things\nlike sea urchin and sea cucumber."
+  },
+  {
+    "character": "三玖",
+    "japanese": "タコとかイカもそうかも。\nタコって海外だと悪魔って言われてるんだよね？",
+    "translation": "Octopus and squid might be the same.\nOctopuses are called demons in some foreign countries,\nyou know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "楽しんで食べておいてよく言うぜ。\n食感が気持ちいいとか言ってなかったか？",
+    "translation": "You're one to talk. You enjoyed scarfing 'em down.\nDidn't you say the texture was pleasant?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは……。\nそれはまた別の話ということで。",
+    "translation": "Ahaha...\nWell, that's a different story."
+  },
+  {
+    "character": "三玖",
+    "japanese": "プチプチはじけるの、面白いよね。",
+    "translation": "It's fun to pop them, isn't it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん、だね。\nバケツ１杯分は食べられそう。",
+    "translation": "Yeah, it is.\nI could probably eat a whole bucket of them."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……それは無理。",
+    "translation": "...That's impossible."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さすがに飽きるだろ……。",
+    "translation": "You'd get tired of them eventually..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "見た目が怖いのに\nいまこうして美味しく食べてるのって、\n最初に口に入れた人のおかげですよね。",
+    "translation": "The reason why we can enjoy eating things\nthat look scary is thanks to the person\nwho first put it in their mouth, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、海ぶどうもそうだが、\nウニやナマコなんてよく食べたなと感心する。",
+    "translation": "Yeah, that's true for sea grapes too.\nI'm impressed by the first people who ate things\nlike sea urchin and sea cucumber."
+  },
+  {
+    "character": "三玖",
+    "japanese": "タコとかイカもそうかも。\nタコって海外だと悪魔って言われてるんだよね？",
+    "translation": "Octopus and squid might be the same.\nOctopuses are called demons in some foreign countries,\nyou know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "悪魔ってか悪魔の魚だな。\nデビルフィッシュだ。",
+    "translation": "Demonic octopus?\nYou must mean devilfish."
+  },
+  {
+    "character": "四葉",
+    "japanese": "しかも墨を吐きますもんね！\nなにも知らなければビックリして当然ですよ。",
+    "translation": "And, it spits ink too!\nIf you didn't know anything about it,\nyou'd be surprised."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それでもチャレンジしてくれた\nご先祖様に感謝です。",
+    "translation": "But we should be grateful to our ancestors\nwho challenged themselves to eat it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……海ぶどうの話で思い出したんだけど、\n沖縄って海藻をよく食べるんだね。",
+    "translation": "...Oh, speaking of sea grapes,\nI remember that Okinawans eat a lot of marine plants."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん？　そうか？",
+    "translation": "Really? That so?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ほら、海ぶどうだけじゃなくて、もずくとか。\nホテルの食事でも、他のご飯屋さんでも出てきた。",
+    "translation": "Yeah, not just sea grapes,\nbut also mozuku algae and stuff.\nThey serve it at hotels and other restaurants too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー、言われてみれば多いか。",
+    "translation": "Ah, when you say it like that, there is a lot, huh."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そういえば、国際通りで\nもずくの天ぷらを売ってましたね。\nおやつ感覚で食べたりするんだって聞きました。",
+    "translation": "Oh, come to think of it,\nthey sell mozuku tempura on Kokusai dori.\nI heard people eat it like a snack."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おやつ感覚でか。\n相当、生活に根付いてるんだな。",
+    "translation": "Like a snack, huh?\nIt must be really ingrained in their culture."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そう思うと、海ぶどうが\nサラダに載っているのも納得です。",
+    "translation": "If you think about it,\nit makes sense that sea grapes are used in salads too."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふっふっふ、海ぶどうに詳しくなった気がします。\n次に食べる時はもっと美味しくなるかも。",
+    "translation": "Heheheh, I feel like I know a lot more\nabout sea grapes now. Maybe they'll taste even better\nnext time."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別に味は変わらないだろ。",
+    "translation": "Well, the taste won't change, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "気持ちでちょっと変わるんです！\nこれからは海藻だと思いながら食べるんですから。",
+    "translation": "Your feelings make it change a little!\nFrom now on, I'll think of it as eating seaweed."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……それもそうか。\nお前はいままで海ぶどうだと知らずに\n食べてたわけだし。",
+    "translation": "...Oh, I see. You didn't even know\nit was sea grapes you were eating before."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふふっ、そうだね。",
+    "translation": "Heheh, that's right."
+  },
+  {
+    "character": "四葉",
+    "japanese": "海ぶどうはブドウではない。\nこの旅の一番の学びかもです。",
+    "translation": "Sea grapes are not grapes.\nThat might be the biggest lesson of this trip."
+  },
+  {
+    "character": "四葉",
+    "japanese": "フッ、賢くなってしまいました。",
+    "translation": "Heh. I feel like I've become smarter."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、そうか？",
+    "translation": "Whoa. Really?"
+  }
+]

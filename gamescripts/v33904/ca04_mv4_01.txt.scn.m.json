@@ -1,0 +1,377 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（うん？\n　あそこにいるのは……）",
+    "translation": "(Oh?\n Who's that over there...?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、こんな隅っこでなにやってるんだ？",
+    "translation": "Hey, what are you doing in this little corner?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ひゃっ！？",
+    "translation": "HYAA?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うわっ！？",
+    "translation": "Uwaaa?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "う、上杉君！\n急に声をかけないでください！",
+    "translation": "U-Uesugi-kun!\nPlease don't talk to us all of a sudden like that!"
+  },
+  {
+    "character": "一花",
+    "japanese": "びっくりしたぁ。",
+    "translation": "That SHOCKED me, wow."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "びっくりしたのは俺のほうだ……。",
+    "translation": "I'm the one who was shocked..."
+  },
+  {
+    "character": "一花",
+    "japanese": "って、あれ？　１人？\n四葉と一緒じゃないんだ。",
+    "translation": "And, hm? You're alone?\nYou're not with Yotsuba, huh."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、そうだが。\nそれがどうかしたのか？",
+    "translation": "Yeah, I guess.\nGot a problem with that?"
+  },
+  {
+    "character": "五月",
+    "japanese": "良かったのか良くないのか、判断がつきかねます。",
+    "translation": "I can't really tell\nif that's a good thing or a bad thing."
+  },
+  {
+    "character": "一花",
+    "japanese": "現状維持の進展なしだったら充分、問題ありでしょ。",
+    "translation": "They're not making any progress at all.\nThey're just maintaining at this point.\nThis is enough to say there's a problem."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、２人でなにを話してる。",
+    "translation": "Hey, what are you two talking about?"
+  },
+  {
+    "character": "一花",
+    "japanese": "いえいえー、なんでもー？",
+    "translation": "Oh no, nothing."
+  },
+  {
+    "character": "猫",
+    "japanese": "ニャー。",
+    "translation": "Meow."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お？　猫？\nなんだ、こいつを構ってたのか。",
+    "translation": "Oh? A cat?\nOh, you were playing with it."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、可愛いでしょー？",
+    "translation": "Yeah, it's cute, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "可愛いというか……丸いな。",
+    "translation": "Cute, more like...round."
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、そこもまた可愛いんですよ。",
+    "translation": "W-well, that's cute, too."
+  },
+  {
+    "character": "一花",
+    "japanese": "マヤちゃん、失礼な人でごめんにゃー？\n許してあげてにゃー。",
+    "translation": "Sorry this man was so rude to you, Maya-chan, meow.\nPlease forgive him, meow."
+  },
+  {
+    "character": "猫",
+    "japanese": "ニャーニャー。",
+    "translation": "Meow, meow."
+  },
+  {
+    "character": "五月",
+    "japanese": "ふふ、賢い子ですね。",
+    "translation": "Teehee, what a clever kitty."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この猫、マヤって名前なのか？",
+    "translation": "Is this cat's name Maya?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ううん、本当の名前は知らない。",
+    "translation": "No, I don't know her real name."
+  },
+  {
+    "character": "一花",
+    "japanese": "沖縄の言葉で猫のことをマヤーっていうんだって。\nだからマヤちゃん（仮）。",
+    "translation": "They call cats 'Maya' in the Okinawan language,\nso we're just calling it Maya-chan (temporarily)."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "雑だな……。\n語尾ににゃーとかつけてるのも含めて雑だ。",
+    "translation": "That's pretty crude...\nAlso, including 'meow' at the end of the sentences\nis pretty crude, too."
+  },
+  {
+    "character": "一花",
+    "japanese": "いいんだもーんだ。\nマヤちゃんは気に入ってくれてるから。\nほら、見てて。",
+    "translation": "It's okay, Maya-chan likes it.\nJust look."
+  },
+  {
+    "character": "一花",
+    "japanese": "よしよし、マヤちゃんは良い子だね～。",
+    "translation": "Here's some pets, Maya-chan, you're such a good kitty."
+  },
+  {
+    "character": "猫",
+    "japanese": "ニャフー、ニャァン。",
+    "translation": "Meooow, meeeoww."
+  },
+  {
+    "character": "五月",
+    "japanese": "あっ、一花ばかりズルいですよ。\n私にも触らせてください。",
+    "translation": "Hey, that's not fair,\nwhy do you get to pet Maya all the time.\nLet me have a turn too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "大人しい猫だな。\n観光客に触られるのに慣れてるのか？",
+    "translation": "What a well-behaved cat.\nMaybe she's used to being touched by tourists?"
+  },
+  {
+    "character": "五月",
+    "japanese": "もしかすると、どこかのお店の\n看板猫かもしれませんね。",
+    "translation": "Perhaps she's the mascot for some shop."
+  },
+  {
+    "character": "一花",
+    "japanese": "こんなに立派な体をしてるってことは、\n君は毎日、沖縄の美味しいお魚を食べてるのかなー？",
+    "translation": "With such a magnificent physique,\nare you eating delicious Okinawan fish every day?"
+  },
+  {
+    "character": "猫",
+    "japanese": "ニャン。",
+    "translation": "Meow."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この体格、食べすぎじゃないか？",
+    "translation": "Isn't this cat eating a bit too much?"
+  },
+  {
+    "character": "五月",
+    "japanese": "その点はまあ、多少は気になりますが。",
+    "translation": "Yeah, I'm a bit concerned about that."
+  },
+  {
+    "character": "一花",
+    "japanese": "マヤちゃん、\nダイエットしたほうがいいかもにゃー？",
+    "translation": "Maya-chan, you might want to go on a diet,\nmeow?"
+  },
+  {
+    "character": "猫",
+    "japanese": "ニャー……。",
+    "translation": "Meowww..."
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは、嫌みたいだね。",
+    "translation": "Ahaha, guess not."
+  },
+  {
+    "character": "猫",
+    "japanese": "ニャッ、ニャー。",
+    "translation": "Meow, meoww."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それはなかなか、いいご身分だな。\nもしかすると俺よりも良い物を\n食ってるのかもしれないぞ。",
+    "translation": "Well, that's a cat living in luxury, I'd say.\nIt might even be eating better than me."
+  },
+  {
+    "character": "一花",
+    "japanese": "五月ちゃん。\nフータロー君のために今日のディナーは奮発しよう。",
+    "translation": "Itsuki-chan,\nlet's splurge on tonight's dinner for Futaro-kun."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、沖縄の海の幸を\nこれでもかと言うほど堪能させてあげましょう。",
+    "translation": "Yes, let's treat him\nto all the delicious seafood from Okinawa."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、冗談だぞ！？",
+    "translation": "Whaaa you're kidding?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "お残しは許しませんよ？",
+    "translation": "We won't allow any leftovers, okay?"
+  },
+  {
+    "character": "猫",
+    "japanese": "ニャッ、ニャー。",
+    "translation": "Meow, meoww."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "沖縄の魚は美味いから、\nお勧めだって言ってるのかもな。",
+    "translation": "Okinawan fish is delicious,\nso maybe Maya's recommending it to us."
+  },
+  {
+    "character": "五月",
+    "japanese": "となると、市場にある魚屋さんの\n看板猫なのでしょうか？",
+    "translation": "So, is Maya the signboard cat\nfor the market fisherman?"
+  },
+  {
+    "character": "一花",
+    "japanese": "こうしてお客さんにアピールしているわけだ。\nお仕事熱心だね、マヤちゃんは。",
+    "translation": "That's how she's promotes business to customers.\nMaya-chan, you're such a hard worker."
+  },
+  {
+    "character": "猫",
+    "japanese": "ニャン。",
+    "translation": "Meow."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、今日のディナーは\nマヤちゃんお勧めの海鮮づくしでいく？",
+    "translation": "Okay, let's have Maya-chan recommend a seafood feast\nfor tonight's dinner."
+  },
+  {
+    "character": "五月",
+    "japanese": "いいですね。\nせっかくですし、ここは豪華に\n沖縄の海の幸を丸ごと堪能しましょう。",
+    "translation": "Great idea.\nWe have this chance, so let's indulge\nin all the delicious seafood from Okinawa."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "一花",
+    "japanese": "よーし、フータロー君のために\nおっきな舟盛りとかも用意しちゃおう！",
+    "translation": "Alright, let's prepare a large boat-shaped platter\nfor Futaro-kun!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、そんなつもりで言ったんじゃないんだが……。\n無理はしないでくれよ？",
+    "translation": "No, that's not what I meant...\nJust, don't go overboard, okay?"
+  },
+  {
+    "character": "一花",
+    "japanese": "まったく真面目なんだから。\nもっと気軽に考えなきゃねー、だよねマヤちゃん。",
+    "translation": "You're always so serious.\nYou've gotta lighten up, huh, Maya-chan?"
+  },
+  {
+    "character": "猫",
+    "japanese": "ニャッ、ニャー。",
+    "translation": "Meow, meowww."
+  },
+  {
+    "character": "一花",
+    "japanese": "あれ、行っちゃった。",
+    "translation": "Ah, kitty left."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さっきまで愛想よかったのに、あっさりしてるな。",
+    "translation": "It was so friendly until just now,\nbut it left so easily."
+  },
+  {
+    "character": "五月",
+    "japanese": "猫は気まぐれと言いますが、本当ですね。",
+    "translation": "Cats are said to be fickle. It's true, isn't it."
+  },
+  {
+    "character": "一花",
+    "japanese": "もう少し構って欲しかったにゃ～。",
+    "translation": "I wish it had stayed a bit longer."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一花はそんなに猫が好きなのか？",
+    "translation": "Ichika, do you really like cats that much?"
+  },
+  {
+    "character": "一花",
+    "japanese": "すごくってわけじゃないけど好きだよ。\n動物はみんな可愛いし。",
+    "translation": "Not THAT much, but I like them nonetheless.\nI think all animals are cute."
+  },
+  {
+    "character": "五月",
+    "japanese": "そういえば、一花はカバが好きだと\n前に言っていましたね。",
+    "translation": "Come to think of it,\nI think you said you like hippos before, Ichika."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "カバ？\nマジか、なんか意外だな。",
+    "translation": "Hippos? Really? That's kind of surprising."
+  },
+  {
+    "character": "一花",
+    "japanese": "え？　そう？\nなんとなく私と似てる気がしてさ。",
+    "translation": "Huh? Is it?\nI feel like a hippo and I are similar in some ways."
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "似てるか？",
+    "translation": "Similar?"
+  },
+  {
+    "character": "五月",
+    "japanese": "少なくとも私は、似ているとは思いませんが。",
+    "translation": "At least I don't think you're similar."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "むしろ、お前が似てるのはナマケモノだろ。\nあいつらは１日のほとんどを寝て過ごすらしいぞ。",
+    "translation": "Actually, I think you're more like a sloth.\nThey spend most of their day sleeping."
+  },
+  {
+    "character": "一花",
+    "japanese": "うわ、ひどーい！\nバリバリ女優業をこなしている私に向かって\nそんなこと言う？",
+    "translation": "Waaah, that's harsh! How can you say that to me,\nsuch a hard-working actress?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……あ、でも確かに……。",
+    "translation": "Ah, but he's got a point..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月？",
+    "translation": "Itsuki?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、カバにも色々な面があるはずと\n思っただけです。",
+    "translation": "No, I was just thinking hippos,\nmust have different sides to them as well."
+  },
+  {
+    "character": "一花",
+    "japanese": "さて、マヤちゃんにフラれちゃったし\nどこかお店を覗きに行こうか。",
+    "translation": "Right, well, since Maya rejected me,\nshall we go visit some shops?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、そうしましょう。",
+    "translation": "Yes, let's do that."
+  }
+]

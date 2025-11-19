@@ -1,0 +1,392 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（あいつが指定したのはここだ。\n　どこかに――）",
+    "translation": "(This is the place she specified.\n Somewhere around here%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……見つけた！）",
+    "translation": "(...Found her!)"
+  },
+  {
+    "character": "一花",
+    "japanese": "誰に、会いに来たのですか？",
+    "translation": "Who did you come to meet?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前だ、一花。",
+    "translation": "You, Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺はお前が――",
+    "translation": "I really%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "ちょ、ちょっと待った！",
+    "translation": "W-wait a second!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ！？\nなんだよ急に、俺はまだ――",
+    "translation": "Huh?!\nWhat the, all of a sudden? I haven't even%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "ほ、ほら！\nここだと、ちょっと人目がね！？",
+    "translation": "L-look!\nThere are people watching here, right?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "こっち！　こっち来て！",
+    "translation": "Come on! Follow me!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい！　どこ行くんだ！？",
+    "translation": "Hey! Where're you goin'?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "いいから早くするっ！！",
+    "translation": "Just hurry up already!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はぁ……はぁ……。\nつ、疲れた……。\nここまでほぼ全力疾走させやがって……。",
+    "translation": "Huff... Huff...\nI-I'm tired...\nYou made me sprint almost at full speed..."
+  },
+  {
+    "character": "一花",
+    "japanese": "わ、私もだよ！\n誰のせいだと思ってるの！？",
+    "translation": "W-well, so am I!\nWho do you think's to blame?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "誰のせいって……俺なのか？",
+    "translation": "Who's to blame... Is it me?"
+  },
+  {
+    "character": "一花",
+    "japanese": "……違うね。\n私が国際通りって決めたんだし。",
+    "translation": "...No, it's not.\nI decided on Kokusai dori, after all."
+  },
+  {
+    "character": "一花",
+    "japanese": "はぁぁぁぁ……。\n待ち合わせ場所、失敗したぁ。",
+    "translation": "*sigh*\nThat meeting spot was a failure."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ったく。\n別にホテルまで戻らなくてもよかっただろ。",
+    "translation": "Jeez.\nWe didn't have to come all the way back to the hotel,\ndid we?"
+  },
+  {
+    "character": "一花",
+    "japanese": "……あ。\nここもある意味、安心じゃなかったり？",
+    "translation": "...Ah.\nIn a way, this place\nisn't exactly reassuring either, huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだそりゃ。",
+    "translation": "What's that supposed to mean?"
+  },
+  {
+    "character": "一花",
+    "japanese": "もう、君はノリが悪いなぁ。",
+    "translation": "Well, you're not exactly good at going with the flow."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、お前の場合は\nどこで誰に見られてるかわからないしな。",
+    "translation": "I mean, in your case,\nyou never know who might see you where."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここ数日で嫌というほど思い知らされた。\n女優ってのは大変なんだな。",
+    "translation": "I've learned that well enough in the past few days.\nBeing an actress is tough, huh?"
+  },
+  {
+    "character": "一花",
+    "japanese": "……そういうのじゃない。",
+    "translation": "...That's not what I meant."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "一花",
+    "japanese": "わ、私だって、告白される時は\nこんなのがいいなって夢見てたりするんですっ！",
+    "translation": "E-even I have had dreams of being confessed \nto by someone in this way!"
+  },
+  {
+    "character": "一花",
+    "japanese": "もっとこうロマンチックな場所でとか！\n少なくとも２人きりがいい！",
+    "translation": "Except in a more romantic place!\nAt least with just the two of us!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "んなこと言われても。\nあの場所を指定したのはお前だろうが。",
+    "translation": "Even if you say that.\nYou were the one who specified that spot,\nweren't you?"
+  },
+  {
+    "character": "一花",
+    "japanese": "……だって、来ないと思ってたから。",
+    "translation": "...Well, I didn't think you'd actually come."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はぁ……。\nあんだけ積極的になっておいてよく言うぜ。",
+    "translation": "*sigh*\nYou're one to talk, being as proactive as you were."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "エメラルドビーチじゃ、ノリノリで絡んできただろ？",
+    "translation": "You were all energetic and clingy\nat Emerald Beach, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "えっ？\nあの時、私だってわかってたの？",
+    "translation": "Huh?\nDid you actually know it was me back then?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、やっぱりそうだったのか。",
+    "translation": "Ah, so it was you, after all."
+  },
+  {
+    "character": "一花",
+    "japanese": "あれ、もしかして鎌かけられた？\nそれとも勘だったり？",
+    "translation": "Wait, were you trying to\nlure me into your trap at that time?\nOr did you just have a hunch?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あの時は、なんとなく感じただけだったけどな。\n素直になれとか、あんなからかい方すんのは\n一花だなって思ったんだよ。",
+    "translation": "At that time, I just had a vague feeling.\nSaying something like 'be more honest,'\nI thought that you were playing a trick on me."
+  },
+  {
+    "character": "一花",
+    "japanese": "そっか……。",
+    "translation": "I see..."
+  },
+  {
+    "character": "一花",
+    "japanese": "もちろん君に選んでほしいとは思ってた。\nでも……。",
+    "translation": "Of course, I wanted you to make a choice.\nBut..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ。\n他に理由があるなら、はっきり言ってくれ。",
+    "translation": "What is it?\nIf there's another reason, just tell me straight."
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは……。\nまあ、そうだけどさ。",
+    "translation": "Ahaha...\nWell, I guess so."
+  },
+  {
+    "character": "一花",
+    "japanese": "もちろん君に選んでほしいとは思ってた。\nでも……。",
+    "translation": "Of course, I wanted you to choose me.\nBut..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ。\n他に理由があるなら、はっきり言ってくれ。",
+    "translation": "What is it?\nIf there's another reason, just tell me straight."
+  },
+  {
+    "character": "一花",
+    "japanese": "……君のためなの。",
+    "translation": "...It's for your sake."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、意味がわからん。",
+    "translation": "Wait. I don't understand."
+  },
+  {
+    "character": "一花",
+    "japanese": "だから、君って格好つける割に\n案外、意気地なしなところあるし？",
+    "translation": "I mean, despite your attempts to act cool,\nyou're surprisingly stubborn, you know?"
+  },
+  {
+    "character": "一花",
+    "japanese": "こうして逃げ場をなくしてあげれば、\nいくら君でも、今度は答えを出してくれるかなって。",
+    "translation": "So, by cornering you like this,\nmaybe you'd finally give me an answer."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前なぁ……。",
+    "translation": "You..."
+  },
+  {
+    "character": "一花",
+    "japanese": "ほら、また優柔不断なことをされても困るからさ。",
+    "translation": "Look, we didn't want you to keep being indecisive."
+  },
+  {
+    "character": "一花",
+    "japanese": "それで、どう？\n効果あった？",
+    "translation": "So, how about it? Did it work?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……まったく。\n姉妹のことならまだしも、\nなんで俺の世話まで焼こうとしてるんだよ。",
+    "translation": "…Geez.\nI mean, I get why you take care of your sisters,\nbut why are you trying to take care of me?"
+  },
+  {
+    "character": "一花",
+    "japanese": "だって私、お姉ちゃんだから。\nそれであの子たちの想いが叶うのなら、ね。",
+    "translation": "Because I'm their big sister.\nIf it helps their feelings come true, then..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……そういうことか）",
+    "translation": "(...So that's what it is.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "姉妹に加えて俺までとは。\n長女だからって面倒見が良すぎだ。",
+    "translation": "And I suppose I'm included in with the sisters. \nYou're just too caring as the eldest daughter. "
+  },
+  {
+    "character": "一花",
+    "japanese": "もしかして惚れ直しちゃった？",
+    "translation": "Could it be that you've fallen in love with me again?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ。\n俺はお前が好きだ。\n他でもない、そんな一花がな。",
+    "translation": "Yeah.\nI like you, Ichika.\nNo one else but you."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうやって妹たちのことを想う優しさも、\n夢や自分自身のために、強くあろうとする姿も。",
+    "translation": "It's that tenderness you have for your sisters,\nand your determination to be strong\nfor your dreams, and for yourself."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そのせいで無理をしたり、\n自分自身を追い詰めてしまうようなところも――",
+    "translation": "But because of that, \nyou overdo it sometimes \nand push yourself into a corner%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その、全部が好きなんだ。",
+    "translation": "And yet I love all of that."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "私も、君のことが好き。",
+    "translation": "Me too, I love you. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……やっと聞けたな。",
+    "translation": "...I finally got to hear it."
+  },
+  {
+    "character": "一花",
+    "japanese": "そうだっけ？\n……嬉しかった？",
+    "translation": "Is that so?\n...You happy?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、嬉しい。",
+    "translation": "Yeah, I'm happy."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも『やっと』って？\nもしかして……。",
+    "translation": "But 'finally?'\nCould it be...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あ……。\n　いま俺、確かに『やっと』って言ったな）",
+    "translation": "(Ah...\n I did say 'finally,' didn't I.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前はあの時、全部嘘って言ったが。\n嘘じゃないこともあってほしいって――",
+    "translation": "You said everything back then was a lie.\nBut I want there to be some truths among the lies%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺は、どこかでずっと思っていたのかもしれない。",
+    "translation": "I might have always thought that somewhere."
+  },
+  {
+    "character": "一花",
+    "japanese": "そう、なんだ。",
+    "translation": "I see."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえフータロー君。\n私、本当は優しくなんてないかもしれないよ。\nそれでもいいの？",
+    "translation": "Hey, Futaro-kun.\nI might not really be a kind person.\nIs that okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ。\nじゃあ、そういうお前も見せてくれよ。\n遠慮する必要なんてないぞ。",
+    "translation": "Oh, really?\nThen show me that side of you too.\nYou don't have to hold back."
+  },
+  {
+    "character": "一花",
+    "japanese": "えっ……？",
+    "translation": "Eh...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "きっと俺は、そんなお前も好きになっちまうからさ。",
+    "translation": "I'm sure I'll end up\nfalling in love with that side of you too."
+  },
+  {
+    "character": "一花",
+    "japanese": "ああ、もう……君には敵わないなぁ。",
+    "translation": "Ahh, come on... I can't compete with you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが恋ってのはそういうもんだろ？\n俺もようやく、そいつを学べた気がする。",
+    "translation": "But that's just how love works, right?\nI feel like I've finally learned that."
+  },
+  {
+    "character": "一花",
+    "japanese": "……うん。",
+    "translation": "...Yeah."
+  },
+  {
+    "character": "一花",
+    "japanese": "私だって、君の全部を好きになっちゃうし、\n私の全部を好きになってほしいんだ……。",
+    "translation": "I want to love every part of you,\nand I want you to love every part of me too..."
+  }
+]

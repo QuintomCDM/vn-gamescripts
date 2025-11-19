@@ -1,0 +1,547 @@
+[
+  {
+    "character": "一花",
+    "japanese": "うわっ！　な、なに！？",
+    "translation": "Uwaa! Wh-what?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "は、はい、いま開けます！",
+    "translation": "O-okay, I'm opening it now!"
+  },
+  {
+    "character": "一花",
+    "japanese": "なんだ、五月ちゃんか。\nおかえり――",
+    "translation": "Oh, it's Itsuki-chan.\nWelcome back%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "一花ぁ……。",
+    "translation": "Ichikaaa..."
+  },
+  {
+    "character": "一花",
+    "japanese": "って、どうしたの！？",
+    "translation": "Wh-what happened?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "私は――彼女失格ですっ！",
+    "translation": "I-I'm a failure as a girlfriend!"
+  },
+  {
+    "character": "一花",
+    "japanese": "え……。",
+    "translation": "Huh..."
+  },
+  {
+    "character": "五月",
+    "japanese": "私は、私はもう……。",
+    "translation": "I-I'm..."
+  },
+  {
+    "character": "一花",
+    "japanese": "五月ちゃん、ほら、まずは中に入ろう？\n話はゆっくり聞くから、ね？",
+    "translation": "Itsuki-chan, let's go inside first, shall we?\nThen I'll carefully listen to your story, okay?"
+  },
+  {
+    "character": "五月",
+    "japanese": "――それで、私だけ戻ってきてしまったんです。",
+    "translation": "%p-2;――%p; And then, well, I came back alone."
+  },
+  {
+    "character": "四葉",
+    "japanese": "な、なるほど……。",
+    "translation": "I-I see..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "事情はわかった。",
+    "translation": "I understand the situation now."
+  },
+  {
+    "character": "二乃",
+    "japanese": "色々言いたいことはあるけど。",
+    "translation": "I have a lot to say, though."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、五月ちゃんを\n泣かすような迫り方をしたなんて、\nフータロー君はお説教だね。",
+    "translation": "Yeah, Futaro-kun needs to be scolded\nfor approaching Itsuki-chan in a way\nto make her cry like that."
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、それはやめてください！\n私が悪いんですから！",
+    "translation": "P-please don't do that! It was my fault!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "五月が？　なんで？",
+    "translation": "You, Itsuki? Why?"
+  },
+  {
+    "character": "五月",
+    "japanese": "それは……付き合っている『彼女』として\n上杉君を受け入れられなかったから……。",
+    "translation": "That's because...\nI, as Uesugi-kun's 'girlfriend,'\ncouldn't accept him..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "へ？　そうなの？",
+    "translation": "Huh? Really?"
+  },
+  {
+    "character": "五月",
+    "japanese": "だって、そうじゃないですか！",
+    "translation": "I mean, isn't it?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "『彼女』なら喜んで受け入れるべきだったのに、\n私にはそれができなかったんです！",
+    "translation": "If I'm his 'girlfriend,'\nI should have been happy to accept him, right?!\nI couldn't even do that!"
+  },
+  {
+    "character": "五月",
+    "japanese": "だから、あそこでとっさに拒んでしまった私は、\n上杉君のことを……。",
+    "translation": "So, when I refused Uesugi-kun on the spot,\nI thought, maybe, that..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローを？",
+    "translation": "That..."
+  },
+  {
+    "character": "五月",
+    "japanese": "好きでは、ないのかもしれません。",
+    "translation": "I might, not like him."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあ？",
+    "translation": "HUH?"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "二乃",
+    "japanese": "今更なによ、どういうつもり？",
+    "translation": "WHAT are you going on about now?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "学園祭のあと、すごく悩んで返事したのに。\nそれが間違ってたってこと？",
+    "translation": "After the school festival,\nyou were really struggling with your answer.\nAre you saying, it was wrong?"
+  },
+  {
+    "character": "五月",
+    "japanese": "それは……。",
+    "translation": "That's..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "間違いじゃない！\n見てればわかるよ、\n五月は上杉さんのことが大好きだって！",
+    "translation": "It's not wrong!\nI can tell just by looking\nthat you really love Uesugi-san, Itsuki!"
+  },
+  {
+    "character": "五月",
+    "japanese": "……本当にそうでしょうか。",
+    "translation": "...Is that really true though?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんたねぇ――",
+    "translation": "Listen up, you%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃、待って。",
+    "translation": "Nino, wait."
+  },
+  {
+    "character": "三玖",
+    "japanese": "五月。\nどうしてフータローと付き合うことにしたの？",
+    "translation": "Itsuki.\nWhy did you decide to date Futaro?"
+  },
+  {
+    "character": "五月",
+    "japanese": "え……。",
+    "translation": "Huh..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私も二乃も一花も四葉も、色々言った。\nでも決めたのは五月で、その理由を\n私たちは聞いてない。",
+    "translation": "Nino, Ichika, Yotsuba and I have all said a lot.\nBut, Itsuki, you were the one who decided \nand we never heard the reason. "
+  },
+  {
+    "character": "二乃",
+    "japanese": "まあ、なんとなくわかってはいるけど。",
+    "translation": "Well, I do kind of understand the reason."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ちゃんと聞かせて。\nいまここで。",
+    "translation": "Please tell us properly.\nRight here, right now."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "……わかりました。",
+    "translation": "...I understand."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君と出会い、彼に教えられたこと、\n彼から学んだことはたくさんあります。",
+    "translation": "I have learned many things from meeting Uesugi-kun\nand being taught by him."
+  },
+  {
+    "character": "五月",
+    "japanese": "おかげで、私は大きく成長し、\n夢を見つけて、ここまで来ることができました。",
+    "translation": "Thanks to him, I have grown a lot and found my dream,\nand I was able to come this far."
+  },
+  {
+    "character": "五月",
+    "japanese": "だから彼に告白される前、すでに――",
+    "translation": "So, even before he confessed to me%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "私にとって上杉君は、\n心から尊敬できる大切な友人となっていたんです。",
+    "translation": "Uesugi-kun had already become an important friend\nwhom I could respect\nfrom the bottom of my heart."
+  },
+  {
+    "character": "一花",
+    "japanese": "確かに、そう言ってたね。",
+    "translation": "Sure, that's what you say, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そんな中、彼に……想いを告げられて……。",
+    "translation": "Amidst all that, he...\nconfessed his feelings to me..."
+  },
+  {
+    "character": "五月",
+    "japanese": "初めはわからなかった。\nでも私も、同じだったんです。",
+    "translation": "At first, I didn't understand.\nBut, I felt the same way too."
+  },
+  {
+    "character": "五月",
+    "japanese": "これからも隣にいたい……誰よりも特別な人。\nそう思えたから、彼の告白に返事をしました。",
+    "translation": "I wanted to be by his side, forever...\nas someone more special to him than anyone else.\nAt least that's what I thought when I answered his confession. "
+  },
+  {
+    "character": "三玖",
+    "japanese": "それは全部、間違いだったの？",
+    "translation": "Was it all a mistake?"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "……恋人になっても、\nなにかが変わったわけではありませんでした。",
+    "translation": "...Even after we started dating,\nnothing had really changed."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、それで？",
+    "translation": "Yes, and?"
+  },
+  {
+    "character": "五月",
+    "japanese": "私たちは受験生でしたから、\n恋愛をする時間や余裕がなかったこともあります。",
+    "translation": "We were both high school students\nand didn't have much time or the space\nto pursue our romantic relationship."
+  },
+  {
+    "character": "五月",
+    "japanese": "でも――",
+    "translation": "But%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "いままで通りの距離と変わらないやり取り。\nそこに、不満なんてありませんでした。",
+    "translation": "Our interactions and distance remained unchanged.\nI had no complaints about it."
+  },
+  {
+    "character": "五月",
+    "japanese": "だから、私たちの関係は\nそれでいいんだろうと思っていたんです。",
+    "translation": "That's why I thought our relationship was fine\nthe way it was."
+  },
+  {
+    "character": "三玖",
+    "japanese": "過去形ってことは、いまは違う？",
+    "translation": "So, it's in past tense, meaning it's different now?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……以前、あなたと二乃が言っていましたよね。",
+    "translation": "...You and Nino\nmentioned something like that before, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "もっと仲良くしたいと思わないのかって。\nそんな煮え切らない状態に\nどうして耐えられるのかって。",
+    "translation": "Don't you want to be closer?\nHow can you endure this lukewarm state?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "五月",
+    "japanese": "その言葉が心のどこかに引っかかって、\nだんだん重みを増していったんです。",
+    "translation": "Those exact words weighed on my mind\nand gradually became heavier."
+  },
+  {
+    "character": "五月",
+    "japanese": "（そう……。\n　私の知っている『好き』という想いは、\n　もっと違っていた）",
+    "translation": "(Yes... The 'love' that I knew\n was something different.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "（私の想いは、\n　二乃や三玖のような情熱的なものではない）",
+    "translation": "(My feelings were not as passionate\n as those of Nino or Miku.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "（一花のように、自身を焦がすような\n　想いを抱えているわけでもなく――）",
+    "translation": "(I didn't hold a burning desire within my heart,\n like Ichika%p-2;――%p;)"
+  },
+  {
+    "character": "五月",
+    "japanese": "（四葉のように、ずっと心に秘め続けてきた\n　深い想いでもない）",
+    "translation": "(Nor did I have deep feelings hidden for so long,\n like Yotsuba.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "……わからなくなっちゃいました。\n自分の気持ちが。",
+    "translation": "...I became unsure. Of my own feelings."
+  },
+  {
+    "character": "二乃",
+    "japanese": "確かに言ったわ。\n恋人ならもっと仲良くしたいものでしょって。",
+    "translation": "You did say that, didn't you?\nThat, if you're lovers, you should be closer."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、私たちは五月の気持ちを疑ったつもりは――",
+    "translation": "But, we never doubted your feelings%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "いいんです、それはわかっています。\n２人の言葉はただのきっかけでしかありません。",
+    "translation": "It's okay, I understood that.\nYour words were just the trigger."
+  },
+  {
+    "character": "五月",
+    "japanese": "言われなくても、いつかはこうなっていたでしょう。\n私の気持ちを疑っているのは私なんですから。",
+    "translation": "Even without being told,\nwe would have ended up like this someday.\nIt's me who doubts my own feelings."
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ、もしかして五月ちゃん、\nこの旅行で自分の気持ちを確かめようとしてたの？",
+    "translation": "Hey, Itsuki-chan. Were you perhaps trying to\nconfirm your own feelings on this trip?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……はい。\nその、お恥ずかしい話ではあるのですが。",
+    "translation": "...Yes.\nIt's embarrassing to admit."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君の彼女らしい振る舞いをしていれば、\n私の『好き』とはなんなのかが――",
+    "translation": "I thought that if I acted like Uesugi-kun's\ngirlfriend, I might understand what my 'love'\nreally is%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "そして、自分の本当の気持ちが\nわかるかもしれないと思ったんです。",
+    "translation": "And, I thought maybe I could understand\nmy true feelings."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そういうこと。\nだから、ずっとあんな感じだったのね。",
+    "translation": "So that's what's been going on.\nAnd you've been feeling that way all along, huh?"
+  },
+  {
+    "character": "五月",
+    "japanese": "やっぱり、バレていましたよね。",
+    "translation": "I guess you could tell, huh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "バレバレだった。",
+    "translation": "It was pretty obvious."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは……。",
+    "translation": "Ahaha..."
+  },
+  {
+    "character": "一花",
+    "japanese": "うーん、これはもしかして――",
+    "translation": "Hmm... Is this, perhaps%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "五月ちゃんがそうやって積極的に接したから、\nフータロー君、張り切りすぎちゃったとか？",
+    "translation": "Because Itsuki-chan was actively reaching out,\nFutaro-kun got too excited, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あり得るわ。\n彼氏として応えなきゃならないって\n考えたんじゃないかしら。",
+    "translation": "That's possible.\nMaybe he felt like he had to respond as a boyfriend."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あー……。\nうん、想像できるね。",
+    "translation": "Ah...\nYeah, I can imagine that."
+  },
+  {
+    "character": "五月",
+    "japanese": "でも、私はそれを拒絶してしまったんですね……。",
+    "translation": "But, I rejected him..."
+  },
+  {
+    "character": "五月",
+    "japanese": "きっと上杉君も呆れていることでしょう。\n嫌われてしまっても文句は言えません。",
+    "translation": "I'm sure Uesugi-kun is disgusted with me now.\nEven if he hates me, I can't complain."
+  },
+  {
+    "character": "五月",
+    "japanese": "あんなことをしてしまうなんて……。\nやっぱり……私……私は……。",
+    "translation": "To do something like that...\nI really... I... I'm..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はぁぁぁぁ……。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "五月",
+    "japanese": "やっぱり呆れちゃいますよね……。",
+    "translation": "You really are fed up with me, aren't you..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そういう意味じゃないと思う。",
+    "translation": "That's not what she means."
+  },
+  {
+    "character": "五月",
+    "japanese": "え？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あのさ、五月。\nいま、そんなに悲しいのは、\n上杉さんに嫌われたくないからだよね？",
+    "translation": "Listen, Itsuki.\nYou're so sad right now because you don't want\nUesugi-san to hate you, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "それは当たり前です！\nだって――",
+    "translation": "That's obvious!\nBecause, I%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ。",
+    "translation": "Ah."
+  },
+  {
+    "character": "一花",
+    "japanese": "ほらね？\n好きでもなんでもない人に\nキスされそうになったら、普通、怒るよ。",
+    "translation": "You see?\nIf someone you don't like tries to kiss you,\nyou'd normally be angry about it."
+  },
+  {
+    "character": "一花",
+    "japanese": "五月ちゃんは怒ったから叩いたの？",
+    "translation": "So, did you get angry and hit him because of that,\nItsuki-chan?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……違います。",
+    "translation": "...No."
+  },
+  {
+    "character": "四葉",
+    "japanese": "だよね！",
+    "translation": "Right!"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "二乃",
+    "japanese": "私はね、あんたが１人で\n悲劇のヒロインぶってることに呆れてんのよ。",
+    "translation": "I've just about had it up to here with you\nplaying the lone tragic heroine."
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、そんなつもりじゃ……。",
+    "translation": "I-I didn't mean to..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "だったら、つまんないこと考えてる暇はないわ。\nあんただって本当はわかってるんでしょ？",
+    "translation": "If that's the case,\nyou don't have time to think about the tedious things.\nYou know that too, don't you?"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "多分だけどね、五月ちゃんはさ、\n恋愛の形に囚われすぎてるんじゃないかな。",
+    "translation": "I think you're maybe too caught up\nin the aspect of love, Itsuki-chan."
+  },
+  {
+    "character": "五月",
+    "japanese": "形……。",
+    "translation": "The aspect..."
+  },
+  {
+    "character": "一花",
+    "japanese": "だから、気持ちとは関係ないところで\n変な失敗しちゃったんだと思うよ。",
+    "translation": "So that's why she made an outlandish mistake\neven though it had nothing to do with her feelings."
+  },
+  {
+    "character": "三玖",
+    "japanese": "誰かを好きな気持ちって、\n正しい形とか、こうあるべきとか、\nそういうものじゃないよ。",
+    "translation": "The feeling of liking someone\nis not something that has a correct form\nor should be a certain way."
+  },
+  {
+    "character": "五月",
+    "japanese": "……そうですよね。",
+    "translation": "...That's right."
+  },
+  {
+    "character": "五月",
+    "japanese": "（自分の気持ちを確かめようとしたばかりに、\n　もっと見えなくなってしまっていたのかも\n　しれません……）",
+    "translation": "(Maybe by trying to confirm my own feelings,\n I was actually making them less clear...)"
+  },
+  {
+    "character": "五月",
+    "japanese": "みんな、ありがとうございます。\n私――",
+    "translation": "Thank you, everyone.\nI%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "もう一度、自分の気持ちと向き合ってみます。",
+    "translation": "I'm gonna face my feelings, one more time."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。",
+    "translation": "Okay."
+  }
+]

@@ -1,0 +1,507 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "五月、来たぞ。",
+    "translation": "Itsuki, I'm here."
+  },
+  {
+    "character": "五月",
+    "japanese": "はーい。\nお待たせしちゃってごめんね。\nもうすぐ着替え終わるから、そこで待ってて。",
+    "translation": "Okaaay.\nSorry to keep you waiting.\nI'll finish changing soon, so please wait there."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あいつら来てるみたいだぞ。",
+    "translation": "It looks like they've arrived."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ったく、なに企んでんだか。\n高校生の頃から変わっちゃいねぇ。\n問題児だらけだ。",
+    "translation": "Good grief, what are they plotting?\nThey haven't changed since high school.\nThey're all troublemakers."
+  },
+  {
+    "character": "五月",
+    "japanese": "それって私も含めて？",
+    "translation": "Is that including me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "含まれてないと思ってんのかよ。",
+    "translation": "You think you aren't?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（そういや今朝も夢を見たっけな）",
+    "translation": "(Come to think of it, I had a dream this morning.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あの日を何度、夢に見るんだろう。\n　そんな深く脳裏に刻まれるほどの――）",
+    "translation": "(How many times have I dreamt of that day?\n It's etched so deeply in my mind%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（とんでもない悪夢だ）",
+    "translation": "(It was such a terrible nightmare.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "お待たせ。",
+    "translation": "Sorry to keep you waiting."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まだ俺は夢を見ているのか？",
+    "translation": "Am I still dreaming?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "五つ子ゲーム、ファイナルだよ。",
+    "translation": "It's the final quintuplets game."
+  },
+  {
+    "character": "三玖",
+    "japanese": "愛があれば見分けられるよね。",
+    "translation": "If it's true love, you can tell us apart, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "皆様、本日はご多忙の中、\n僕たちの結婚披露宴にお集まりいただきまして\n誠にありがとうございます。",
+    "translation": "Ladies and gentlemen, thank you for taking time\nout of your busy schedules\nto attend our wedding reception today."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これまでお世話になった方々の前で\nようやく挙式を執り行えたことを、\n大変嬉しく思います。",
+    "translation": "I am very happy to finally have our wedding ceremony\nin front of everyone who has supported us so far."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "本当に……長い道のりでした。",
+    "translation": "It...really has been a long road."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五つ子ゲームって……。",
+    "translation": "The quintuplets game..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "馬鹿か！　ってか五月以外の４人！",
+    "translation": "What a joke! Except for Itsuki, you other four!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こんなお遊びでウェディングドレス着てんじゃねぇ！\nなにしてるかわかってんのか！",
+    "translation": "What are you doing, wearing wedding dresses\nfor this kind of game?\nDo you even know what you're doing?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "確かにちょっと複雑だけど……。",
+    "translation": "Sure, it's a bit complicated..."
+  },
+  {
+    "character": "一花",
+    "japanese": "思いついちゃったから。",
+    "translation": "But we just thought of it, you know."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それにお遊びじゃないよ。",
+    "translation": "And it's not just for fun."
+  },
+  {
+    "character": "二乃",
+    "japanese": "これでも花嫁の親族だからね。",
+    "translation": "We're also relatives of the bride."
+  },
+  {
+    "character": "五月",
+    "japanese": "っていうのは嘘で私が花嫁本人です。",
+    "translation": "Well, that's a lie.\nI'm the bride."
+  },
+  {
+    "character": "三玖",
+    "japanese": "違うよ、私だよ。",
+    "translation": "No. It's me."
+  },
+  {
+    "character": "一花",
+    "japanese": "花嫁といえば私だね！",
+    "translation": "I'm the bride!"
+  },
+  {
+    "character": "五月",
+    "japanese": "風太郎ならわかるよね？",
+    "translation": "You can tell, right, Futaro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ったく、馬鹿野郎……。\n少しは分別のつく大人になったかと思えば。",
+    "translation": "Geez, you idiots...\nJust when I thought\nyou'd become somewhat sensible adults."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "相変わらずのようで安心した。\n俺を舐めんな。",
+    "translation": "It's a relief you still haven't changed.\nBut don't underestimate me. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前だ。",
+    "translation": "It's you."
+  },
+  {
+    "character": "披露宴司会者",
+    "japanese": "宴もたけなわとなりましたが\nそろそろお時間のようです。",
+    "translation": "It seems the party is at its peak,\nbut it looks like it's time to wrap things up."
+  },
+  {
+    "character": "披露宴司会者",
+    "japanese": "最後に新婦様から親御様へ\n感謝を込めたメッセージです。",
+    "translation": "Lastly, a message of gratitude\nfrom the bride to her parents."
+  },
+  {
+    "character": "五月",
+    "japanese": "お父さん、そして天国のお母さん。\n私が今日、この日を迎えられたのは\n２人がいたからに他なりません。",
+    "translation": "To my father, and my mother in heaven,\nI would not be here today\nif it weren't for the both of you."
+  },
+  {
+    "character": "五月",
+    "japanese": "お母さんは私が小さな頃に\nいなくなってしまいましたが、\nその教えと愛はいつまでも私の中に残っています。",
+    "translation": "Although my mother left me when I was young,\nher teachings and her love will always stay with me."
+  },
+  {
+    "character": "五月",
+    "japanese": "そして、お父さん。",
+    "translation": "And, Dad."
+  },
+  {
+    "character": "五月",
+    "japanese": "まだ幼かった私は、お父さんを\n受け入れることができずにいました。",
+    "translation": "When I was still young,\nI couldn't accept you."
+  },
+  {
+    "character": "五月",
+    "japanese": "きっと、たくさん心配させてしまっていたと思います。\nごめんなさい。",
+    "translation": "I'm sure I caused you a lot of worry.\nI'm sorry."
+  },
+  {
+    "character": "五月",
+    "japanese": "けれど、長い時間をかけて、お父さんが\n私たちにどれだけの愛情を注いでくれているのかを\n知ることができました。",
+    "translation": "However, over a long period of time,\nI was able to realize\nhow much love my father has poured into us."
+  },
+  {
+    "character": "五月",
+    "japanese": "お父さん。\n私のお父さんになってくれて、ありがとうございます。",
+    "translation": "Dad.\nThank you so much for being my father."
+  },
+  {
+    "character": "五月",
+    "japanese": "改めて家族に感謝します。\n父、母、そして姉妹のみんなのおかげで\nいまの私がここにあります。",
+    "translation": "Once again, I am grateful for my family.\nIt's thanks to my father, mother, and all my sisters,\nI am who I am today."
+  },
+  {
+    "character": "一花",
+    "japanese": "えっ、私？",
+    "translation": "Huh, me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前が一花だ。",
+    "translation": "You're Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "！",
+    "translation": "!"
+  },
+  {
+    "character": "五月",
+    "japanese": "一花は、長女として\nいつもみんなをしっかりまとめてくれました。",
+    "translation": "Ichika, as the eldest quintuplet,\nalways took charge and brought everyone together."
+  },
+  {
+    "character": "五月",
+    "japanese": "そして、夢を叶えるという生き方も\n示してくれたのです。",
+    "translation": "Also, she showed us a way of life\nwhere dreams can come true."
+  },
+  {
+    "character": "五月",
+    "japanese": "女優として大活躍している姿は、\n私の目標であり、憧れでもあります。",
+    "translation": "Her great success as an actress\nis both my goal and my admiration."
+  },
+  {
+    "character": "一花",
+    "japanese": "なーんだ。\nお姉さん、びっくりしたよ。",
+    "translation": "Oh, is that so? You surprised me."
+  },
+  {
+    "character": "一花",
+    "japanese": "正解。",
+    "translation": "You are correct."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "懐かしいな。\nお前にはずいぶん手を焼かされた。",
+    "translation": "It brings back memories.\nYou gave me quite a hard time, you know."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "クールビューティーなんて\n世間は謳ってるが俺はだまされねぇ。",
+    "translation": "People call you a cool beauty,\nbut I'm not fooled."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "自堕落、愚鈍、惰眠を貪る、怠惰だ。",
+    "translation": "You're indulgent, dull,\nlazy, and you sleep too much."
+  },
+  {
+    "character": "一花",
+    "japanese": "そ、そこまで言わなくても……。",
+    "translation": "Y-you didn't have to go THAT far..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それでも強くあろうとする姿が俺には眩しく見えた。\n大した長女だよ、お前は。",
+    "translation": "But even so,\nyour determination to be strong appeared dazzling to me.\nYou're an amazing big sister."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "なんだよー、急にどうした？",
+    "translation": "What the? Why now, all of a sudden?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ふん、せっかくだ。\n俺も言いたいことを言わせてもらう。",
+    "translation": "Hmph. While I've got the chance,\njust let me say what I want to say. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "次はお前だ、二乃。",
+    "translation": "You're up next, Nino."
+  },
+  {
+    "character": "五月",
+    "japanese": "二乃は、ちょっぴり厳しいお姉さんでした。\n怒りん坊なところもありましたしね。",
+    "translation": "Nino has been the slightly stricter big sister.\nShe also had her moments of being short-tempered as well."
+  },
+  {
+    "character": "五月",
+    "japanese": "けれど、その厳しさは私たちを思ってくれてのこと。",
+    "translation": "However, that strictness\ncame from her being concerned about us."
+  },
+  {
+    "character": "五月",
+    "japanese": "いつでも姉妹のことを考えてくれている、\n頼りになるお姉さんなんです。",
+    "translation": "She's a reliable older sibling\nwho always thinks about her sisters."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうよ、正解！",
+    "translation": "That's right!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はいはい、よかったわね。\n次どうぞ！",
+    "translation": "Good job, you got it, you got it!\nNext!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……っ！",
+    "translation": "...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんでこんな時に……。",
+    "translation": "Why, at a time like this..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "五月だけ当てればいいのよ。",
+    "translation": "You just need to identify Itsuki."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前の強さは、その人一倍の弱さの裏返しだ。\n厳しさも、それだけ大きな愛情があるから\nなんだろうな。",
+    "translation": "Your strength is in your compassion for others. \nEven though you act tough, I suppose it's because \nyou have so much love to give."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あの頃の俺は、\nその答えを見つけることができなかった。\nすまん。",
+    "translation": "I couldn't find the answer at that time.\nI'm sorry."
+  },
+  {
+    "character": "二乃",
+    "japanese": "いいわよ……。\n私は……後悔してない……。",
+    "translation": "It's okay...\nI...have no regrets..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか。",
+    "translation": "I see."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖だな。",
+    "translation": "Miku, yeah?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。",
+    "translation": "Yup."
+  },
+  {
+    "character": "五月",
+    "japanese": "三玖もまた、頼りになるお姉さんです。\nその強さには幾度となく勇気をもらいました。",
+    "translation": "Miku is also a reliable older sister.\nHer strength has given me courage countless times."
+  },
+  {
+    "character": "五月",
+    "japanese": "自分の想いを貫き、夢を叶えた三玖を\n心から尊敬しています。",
+    "translation": "I deeply respect Miku\nfor staying true to her own feelings\nand achieving her dreams."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "！",
+    "translation": "!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "たまに不安になる……。\n私……うまくやれてるかな……。",
+    "translation": "Sometimes I get worried...\nAm I...doing okay...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺が答えるまでもない。",
+    "translation": "There's no need for me to even answer that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前はそうやって常に自分の不安と戦ってきた。\nそうして勝ちえた結果は、間違いなくお前の戦果だ。",
+    "translation": "You've always fought against your insecurities. \nAnd as a result you've accomplished so much and more."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "自分を信じろ。\nお前は昔からできる奴だ。",
+    "translation": "Believe in yourself.\nYou are and always have been capable of great things. "
+  },
+  {
+    "character": "三玖",
+    "japanese": "そう言ってくれると思ってた。\nありがとうフータロー。",
+    "translation": "I thought you'd say that.\nThank you, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉。",
+    "translation": "Yotsuba."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……はい。",
+    "translation": "...Yes."
+  },
+  {
+    "character": "五月",
+    "japanese": "四葉は、お姉さんというよりも\n友達のような存在です。",
+    "translation": "Yotsuba is more like a friend than an older sister."
+  },
+  {
+    "character": "五月",
+    "japanese": "お互いに相談に乗ったり、お願い事をしたり……\n時には迷惑もかけてしまいました。",
+    "translation": "We've advised one another,\nasked favors from each other...\nAnd sometimes caused some trouble. "
+  },
+  {
+    "character": "五月",
+    "japanese": "でも、いつでも優しく私を受け入れてくれる姿は、\nやっぱりお姉さんなんだなと思います。",
+    "translation": "However, her always kind and accepting\nattitude makes me realize\nthat she truly is my older sister."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前の人助けはいまも続いてる。\nそれは、お前がそうありたいと望んでのことだよな。",
+    "translation": "You keep helping people, even now.\nThat's because it's what you want to do, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "勝手を言って悪いが、\nこれからもそういう四葉でいてほしい。\nお前に助けられたひとりとして、願っている。",
+    "translation": "I'm sorry for being presumptuous, but I hope you\ncontinue to be that kind of person in the future.\nAs someone who was helped by you, I wish for that."
+  },
+  {
+    "character": "四葉",
+    "japanese": "もちろんです。\n自分で決めて進んできた道ですから。",
+    "translation": "Of course.\nIt's the path I've chosen and walked on my own."
+  },
+  {
+    "character": "四葉",
+    "japanese": "勝手なんて言わないでください。\n認めてもらえてるって、嬉しいです。",
+    "translation": "Please don't say that it's presumptuous of you.\nI'm happy to know that I'm being acknowledged."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ。",
+    "translation": "Yeah."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "で、余ったお前が五月な。\nはい全問正解。",
+    "translation": "And, the last one is you, Itsuki.\nYep. I got a perfect score."
+  },
+  {
+    "character": "五月",
+    "japanese": "あっさりと……。\nもう、さすがと言うしかないね。",
+    "translation": "Well, that was easy...\nI guess it's not surprising anymore."
+  },
+  {
+    "character": "五月",
+    "japanese": "姉妹のみんながいなかったら、\n私の人生はまったく別のものになっていたでしょう。",
+    "translation": "If my sisters weren't here,\nmy life would have been completely different."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これだけ長く付き合ってりゃ嫌でも覚える。\n俺は家庭教師だったが、お前たちからも\n多くのことを教わった。",
+    "translation": "You can't help but grow when you've been together this long. \nI may have been the tutor at first but I've learned so much from all of you. "
+  },
+  {
+    "character": "五月",
+    "japanese": "４人の姉は、私にとって先生のようでもありました。\n五つ子の末っ子なんて大変だと\n思われそうだけれど――",
+    "translation": "My four sisters were like teachers to me.\nEven though being the youngest of the quintuplets\nmay seem tough%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "私は、みんなと五つ子の姉妹として\n生まれることができて幸せでした。",
+    "translation": "I feel really blessed to have been born a sister\nto all of you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前たち五つ子に出会えたこと。\n数少ない俺の自慢だ。",
+    "translation": "Meeting you quintuplets\nis one of my proudest achievements."
+  },
+  {
+    "character": "五月",
+    "japanese": "普通とは少し違っていて、\n人から見たら奇妙なのかもしれませんが――",
+    "translation": "We may be a little different\nfrom what is considered normal,\nand perhaps others see us as peculiar, but%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "私は、そんな家族が大好きです。",
+    "translation": "I love my family, so much."
+  }
+]

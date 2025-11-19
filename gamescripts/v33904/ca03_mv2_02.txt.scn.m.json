@@ -1,0 +1,337 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "三玖、四葉もか。\nなにを話してるんだ？",
+    "translation": "Miku, Yotsuba.\nWhat are you talking about?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー……。",
+    "translation": "Futaro..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、上杉さん。\n見てください、このマネキン。",
+    "translation": "Ah, Uesugi-san.\nPlease, look at this mannequin here."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これは……琉球王国時代の、役人の正装か。\nぱっと見は着物っぽいな。",
+    "translation": "Is this...the formal dress of officials in the Ryukyu Kingdom period?\nIt looks like a kimono at first glance."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふっふっふ！\n上杉さん、実は私、この場では一番偉いんです。",
+    "translation": "Teehee! Actually, Uesugi-san,\nI'm the most important person here."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？　いきなりなんだよ。",
+    "translation": "Huh? What're you talking about all of a sudden?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "実はですね、この時代は\n帽子の色と模様で、その人の位（くらい）を\n表していたそうです。",
+    "translation": "Well, you see, in this era, the color and pattern\nof someone's hat indicated the person's rank."
+  },
+  {
+    "character": "四葉",
+    "japanese": "つまり、帽子をかぶれる人――\n私のように頭にリボンを乗せている人は\n位が高いのです！",
+    "translation": "So, people who can wear hats%p-2;――\n%p;who, like me, carry a ribbon on their head,\nare in a higher position!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……さすがに強引じゃないか？",
+    "translation": "...You're forcing that a little too hard,\ndon't you think?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私もそう思う。",
+    "translation": "I agree."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ガクッ！\nううう、四葉王朝は儚くも終わってしまいました。",
+    "translation": "Gahh!\nOooh, the Yotsuba dynasty has come to a fleeting end."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そもそも始まってないが。",
+    "translation": "It never even began, though."
+  },
+  {
+    "character": "三玖",
+    "japanese": "この衣装、着物は琉球で作られた物だけど、\n帯は中国から持ち込まれた布なんだって。",
+    "translation": "This garment, the kimono, was made in Ryukyu,\nbut the obi was brought in from China."
+  },
+  {
+    "character": "三玖",
+    "japanese": "大陸との貿易があった国らしいよね。",
+    "translation": "Apparently they had trade routes for different continents."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "色も鮮やかだな。",
+    "translation": "The colors are so vivid, too."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、昔でも\nこんな風に染めることができたんだ。",
+    "translation": "Yeah, even back then,\nthey had techniques to dye things in different colors."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "艶も紋も美しいが……\nしかし、この黒い着物はなにで染めてたんだろうな。",
+    "translation": "Both the luster and the crest are beautiful, but...\nI wonder what they used to dye this black garment."
+  },
+  {
+    "character": "四葉",
+    "japanese": "解説によれば、藍で染めたってなってますよ。",
+    "translation": "According to the explanation, it was dyed with indigo."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "待て。\n藍って青色の染料だぞ？",
+    "translation": "Wait. Indigo is a blue dye, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "青色？\nあれ、でも黒い？",
+    "translation": "Blue?\nHmm, but doesn't it look black?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええと、藍を何度も何度も深く重ねて染めて\n黒い衣装を作ったんだそうです。",
+    "translation": "Well, they repeatedly dyed it with indigo,\nlayer by layer, to create the black garment."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "マジか。\nそれはまた手間がかかってるな。",
+    "translation": "Wow, for real? That's a lot of work."
+  },
+  {
+    "character": "四葉",
+    "japanese": "きっと愛情をこめて\n何度も重ねていたんですね――",
+    "translation": "It's probably made with lots of love,\nlayer by layer%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "アイだけに！",
+    "translation": "Love like indigo!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……藍と愛を掛けたのか）",
+    "translation": "(...Did she just try to connect love and indigo?)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんと三玖も、これからたくさん愛を重ねて、\nより深い仲になっていくんですね。",
+    "translation": "Uesugi-san and Miku, you two as well, you'll continue\nto love each other and deepen your relationship\nfrom now on, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "なっ！？\nえっ！？",
+    "translation": "WHA%p-2;――%p;?!\nEH?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うまいこと言ったつもりか！",
+    "translation": "Are you trying to be clever?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい！\n上手いこと言いましたよね、私！",
+    "translation": "Yes!\nWasn't it quite good?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "褒めてねぇし！",
+    "translation": "Nope!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "恥ずかしい言い方するなよ……。",
+    "translation": "Don't say embarassing things like that..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "否定はしないんですね。",
+    "translation": "Well it seems that you're not disagreeing either."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……まあ、な。\nこれから先のことを思えば……。",
+    "translation": "...I guess I'm not.\nThinking about things ahead of here..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ひゃー！\n聞いてるこっちが照れますよっ！",
+    "translation": "Hyaa!\nI'm getting second hand embarassment listening to that!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、結果としてはそうなるかな。\nこれから先、２人でいろんなことを\n経験していくわけだし……。",
+    "translation": "Well, hopefully that's the outcome.\nWe'll be experiencing various things together\nfrom now on anyways..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだよな、三玖。",
+    "translation": "Isn't that right, Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "う、うん……。",
+    "translation": "O-okay..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "にしし～。",
+    "translation": "Hehehe."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうした？",
+    "translation": "What's wrong?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんがとっても素直です。\nいつもなら怒り出すところなのに。",
+    "translation": "Uesugi-san, you're surprisingly honest today.\nUsually you'd get angry about something like this."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "怒らせるつもりで言ってたのか、お前は！",
+    "translation": "Did you say that purposely to make me angry?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あー！\nいえ、そういうわけではなく！",
+    "translation": "Aaah!\nNo, that's not what I meant!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんの仰るとおりです。\n２人の仲は、この瞬間にも深まってます！",
+    "translation": "As Uesugi-san said,\nthe relationship between the two of them\nis deepening even at this moment!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローと、より深い仲……。",
+    "translation": "A deeper relationship with Futaro..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "愛を、もっと、重ねて……！？",
+    "translation": "With our relationship growing stronger!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローはやっぱり私と……！",
+    "translation": "Perhaps, Futaro and I...!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "三玖？",
+    "translation": "Miku?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ひゃあっ！？",
+    "translation": "HYAAH?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "わわっ！？",
+    "translation": "WAWAH%p-2;――%p;?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、博物館で大声を出すな！",
+    "translation": "Hey, don't shout in the museum!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ごごご、ご、ごめん！！",
+    "translation": "S-s-s-so-sorry!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だから声が大きい！",
+    "translation": "I said, be quiet!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんも大きいですよ。",
+    "translation": "You're being loud too, Uesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あー……。\n　やっちまった……）",
+    "translation": "(Ah%p-2;――%p;...\n Now I've done it...)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あれ？\n三玖、顔が赤いが――",
+    "translation": "Huh?\nMiku, your face is red."
+  },
+  {
+    "character": "三玖",
+    "japanese": "わ、私、先行くから！",
+    "translation": "I-I'll go ahead. See you later."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ、三玖！？",
+    "translation": "Huh, Miku?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……四葉、三玖はどうしたんだ？",
+    "translation": "...Yotsuba, what's up with Miku?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええと、どうしたんでしょう？\n大声を出したので怒られると思ったとか？",
+    "translation": "Well, I wonder what happened?\nDid she think she would get told off again for being too loud?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖はそんなことで逃げたりしないだろ。",
+    "translation": "Miku wouldn't run away like that over something small."
+  },
+  {
+    "character": "四葉",
+    "japanese": "とりあえず私は三玖を捜してみます。\n上杉さん、またあとで。",
+    "translation": "Anyway, I'll go look for Miku.\nSee you later, Uesugi-san."
+  }
+]

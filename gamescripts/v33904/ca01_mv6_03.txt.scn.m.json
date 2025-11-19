@@ -1,0 +1,387 @@
+[
+  {
+    "character": "五月",
+    "japanese": "ふむふむ、なるほど。\n有力な情報です。\n助かります、らいはちゃん。",
+    "translation": "Hmm, I see. That's valuable information.\nThank you, Raiha-chan."
+  },
+  {
+    "character": "らいは",
+    "japanese": "私も気になってて、ちゃんと見てたんだ。",
+    "translation": "I was curious about it too\nand was keeping an eye on it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（情報？　見てた？\n　内容はわからんが、なんだか嫌な予感がする）",
+    "translation": "(Information? Keeping an eye on it?\n I don't understand the details,\n but I have a bad feeling about it.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なあ、なんの話を――",
+    "translation": "Hey, what are you guys talking about?"
+  },
+  {
+    "character": "五月",
+    "japanese": "では次は、昨夜の詳細を教えて下さい。\n消灯後の上杉君と一花がなにをしていたか――",
+    "translation": "Alright, next, please tell me the details of last night.\nWhat were Uesugi-kun and Ichika doing\nafter the lights went out%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ホントになんの話をしてんだよ！？",
+    "translation": "Hey, what are you talking about?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "う、上杉君！？\n見つかってしまいましたか。",
+    "translation": "U-Uesugi-kun?!\nDid you catch us?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい五月？\nお前はなんの話をしていたんだ？",
+    "translation": "Hey, Itsuki?\nWhat were you talking about?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……上杉君の素行調査です。",
+    "translation": "...It's an investigation into your behavior,\nUesugi-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいはにそんなこと聞くなっ！",
+    "translation": "Don't ask Raiha that sort of thing!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "慌てなくても大丈夫だよ、お兄ちゃん。\nちゃんと事実を伝えただけだから。\nなにもなかったよーって。",
+    "translation": "It's okay, don't worry, big bro.\nI just conveyed the facts.\nThat nothing happened."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はぁ……。\nなあ、俺ってそんなに信用ないか？\nさすがに少しへこむぞ。",
+    "translation": "*sigh*\nDo people not trust me that much?\nIt's a bit depressing."
+  },
+  {
+    "character": "五月",
+    "japanese": "い、いえっ！\nそういうわけではありません！",
+    "translation": "N-no! It's not like that!"
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君のことはちゃんと信用していますし、\nしっかりした方だと思っていますよ？",
+    "translation": "I trust you, Uesugi-kun,\nand think you're a reliable person."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが、その……\nどちらかというと一花のほうが心配といいますか。",
+    "translation": "However, um...\nI'm more worried about Ichika, to be honest."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あの、一花は私たちの中で一番、大人というか、\n成熟しているというか、それで……。",
+    "translation": "Well, she's the most mature and adult-like among us,\nso..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それで？",
+    "translation": "And?"
+  },
+  {
+    "character": "五月",
+    "japanese": "こっ、これ以上は言わせないでください！",
+    "translation": "P-please don't make me say more than this!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "言おうとしてたのはお前だろ……。",
+    "translation": "You were the one trying to say something though..."
+  },
+  {
+    "character": "五月",
+    "japanese": "そんなことより、上杉君。\nこの際ですので聞いておきたいことがあります。",
+    "translation": "Anyway, Uesugi-kun.\nThere's something I wanted to ask you\nwhile we're at it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ。",
+    "translation": "What is it?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたは、この卒業旅行が終わったら\nすぐに上京しますよね？\nそのあとはどうするつもりなんですか？",
+    "translation": "You're planning to move to Tokyo\nright after this graduation trip, right?\nWhat are your plans after that?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そのあと？",
+    "translation": "After that?"
+  },
+  {
+    "character": "五月",
+    "japanese": "例えば、どれくらいの頻度で\n地元に戻ってくるつもりなのか、とか。",
+    "translation": "For example, how often do you plan\nto come back to your hometown?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それは、わからん。\n大学がどのくらい忙しいのかによる。",
+    "translation": "I don't know.\nIt depends on how busy I am with university."
+  },
+  {
+    "character": "五月",
+    "japanese": "では……どんな部屋に住むつもりか\n考えていたりしますか？",
+    "translation": "Then...have you thought about what kind of room\nyou want to live in?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どんなって。\nまあ、一般的な一人暮らし用の――",
+    "translation": "What kind?\nWell, a typical one-person apartment%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、うちの経済状況に合わせた\n一人暮らし用の部屋だ。\nお前らの感覚とは大分違いそうだからな。",
+    "translation": "I mean, it'll be a one-person apartment\nthat fits my economic situation.\nIt might be quite different from your idea."
+  },
+  {
+    "character": "五月",
+    "japanese": "なるほど……。",
+    "translation": "I see..."
+  },
+  {
+    "character": "五月",
+    "japanese": "では、新生活はどんな\nライフスタイルで過ごす予定ですか？",
+    "translation": "So, what kind of lifestyle\nare you planning to have in your new life?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ライフスタイル？\nそれも大学での状況次第だろ、\n始まってみないとわからん。",
+    "translation": "Lifestyle? It depends on my situation in university.\nI won't know until I start."
+  },
+  {
+    "character": "五月",
+    "japanese": "で、ですよね！",
+    "translation": "R-right!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええと、じゃあ、あれはどうです？\n部屋にどんなベッドを置くつもりか、とか！？",
+    "translation": "U-um, well, what kind of bed\ndo you plan on having in your room?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あのな、そんなこと聞いてどうするんだ。",
+    "translation": "What's the point of asking something like that?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……ええと、どうするんでしょう？",
+    "translation": "...I don't know, what's the point indeed?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "聞き返されてもわからん。",
+    "translation": "Repeating the same question won't help me answer yours."
+  },
+  {
+    "character": "五月",
+    "japanese": "で、では就職は東京で？",
+    "translation": "Then, are you planning to work in Tokyo\nafter graduation?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それもわからん。\nどんな職に就くかにもよる。",
+    "translation": "I don't know that either.\nIt depends on what kind of job I get."
+  },
+  {
+    "character": "五月",
+    "japanese": "うう……。\nわからないことばかりじゃないですか。\n逆に、なんならわかるんですか？",
+    "translation": "Oooohh...\nIt seems like you don't know anything.\nWhat do you know, then?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんなこと言われてもな……。",
+    "translation": "I'd like to help you but I can't..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "結局、なにが言いたいんだよ。\nなにを聞かれてるのかわからんから答えようがない。",
+    "translation": "What are you trying to say, exactly?\nI don't know what you're asking, so I can't answer."
+  },
+  {
+    "character": "五月",
+    "japanese": "それは、決まってるじゃないですか。\n私が聞きたいのは――",
+    "translation": "But that's obvious, isn't it?\nWhat I want to know is%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "はっ！？\nい、いえ、聞きたいのはですね、ええっと！",
+    "translation": "AAH?!\nN-no what I want to say is, ummmm!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ。",
+    "translation": "What is it?"
+  },
+  {
+    "character": "五月",
+    "japanese": "な、なんでしょうかー？",
+    "translation": "I-I wonder?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だから俺に聞くな。",
+    "translation": "Don't ask me."
+  },
+  {
+    "character": "五月",
+    "japanese": "色々と聞き出そうとしましたけど、\n全然うまくいきません……。\n一花の力になれればと思ったのに……！",
+    "translation": "I tried to ask a lot of things,\nbut it didn't go well at all...\nI thought I could be of help to Ichika...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月？　どうした？",
+    "translation": "Itsuki? What's wrong?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もしかして、自分の将来に不安があるのか？",
+    "translation": "Is it that you're worried about your future?"
+  },
+  {
+    "character": "五月",
+    "japanese": "え？　なぜそうなるのですか？",
+    "translation": "Eh? Why do you ask?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "不安があるから、俺のビジョンを聞いて\n参考にしようと思ったんだろ。",
+    "translation": "You asked about my future vision,\nbecause you're anxious about your own future, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ああ、そういうことですか。",
+    "translation": "Oh, that's what you meant."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺のことを聞かれても答えるのは難しいが、\n相談ならいくらでも乗るぞ？",
+    "translation": "It's difficult for me to answer questions about myself,\nbut I'll be happy to help you with your concerns."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こんな回りくどい聞き方をしなくても、\nそれくらい家庭教師の延長として――",
+    "translation": "You don't have to ask in such a roundabout way,\nas your guys' tutor I'll help you%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、相談ではないのです。",
+    "translation": "No, it's not anything like that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうなのか？\nじゃあ、なんだよ。",
+    "translation": "Is that so? Then what is it?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、それは、ええと……。",
+    "translation": "U-um, well..."
+  },
+  {
+    "character": "五月",
+    "japanese": "色々と聞き出そうとしましたけど、\n全然うまくいきません……。\n一花の力になれればと思ったのに……！",
+    "translation": "I tried to ask a lot of things,\nbut it didn't go well at all...\nI thought I could be of help to Ichika...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月？　どうした？",
+    "translation": "Itsuki? What's wrong?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "将来なんて、まだわからんことばかりだが\nまずは大学生活に集中するつもりだ。",
+    "translation": "I plan to focus on my university life first,\nbecause there are so many uncertainties \nregarding the future."
+  },
+  {
+    "character": "五月",
+    "japanese": "あっ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しっかり学ぶべきことを学んだ上で、\n自分に合う仕事を見極める。",
+    "translation": "After I study what I need to study,\nI will figure out what job will suit me."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですよね……。",
+    "translation": "That's what I thought..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "とりあえず、就職はどうするのかって質問の\n答えはそんな感じだが、これでいいか？",
+    "translation": "Anyway, that's my answer to your question\nabout my job hunting plan.\nIs that enough?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、完璧な答えだと思います。",
+    "translation": "Yes, you answered my question perfectly."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君は、真面目に\n将来のことを考えているのですね。",
+    "translation": "Uesugi-kun,\nI didn't know you were thinking about your future\nthis much."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "当たり前だろ。\n無目的で大学に行くわけじゃないんだ。",
+    "translation": "Obviously.\nI'm not going to university on a whim."
+  },
+  {
+    "character": "五月",
+    "japanese": "色々と聞き出そうとしましたけど、\n全然うまくいきません……。\n一花の力になれればと思ったのに……！",
+    "translation": "I tried to ask a lot of things,\nbut it didn't go well at all...\nI thought I could be of help to Ichika...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月？　どうした？",
+    "translation": "Itsuki? What's wrong?"
+  },
+  {
+    "character": "五月",
+    "japanese": "らいはちゃん！\n泳ぎに行きましょう！",
+    "translation": "Raiha-chan! Let's go swimming!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "えっ？\n泳ぐのはいいけど、\nまだお兄ちゃんに色々聞きたいんじゃ――",
+    "translation": "Wha?\nWe can go swim,\nbut didn't you want to go ask big bro some stuff?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いいんです。\nいまの私に必要なのは、\n海水で頭を冷やすことなのですから。",
+    "translation": "It's fine.\nWhat I need to do right now\nis cool my head with seawater."
+  },
+  {
+    "character": "五月",
+    "japanese": "さあ、行きましょう！",
+    "translation": "Right, let's go!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "あっ、待って五月さーん！",
+    "translation": "Ah, wait, Itsuki-saaan!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……なんだったんだ、あいつ）",
+    "translation": "(...What was that all about?)"
+  }
+]

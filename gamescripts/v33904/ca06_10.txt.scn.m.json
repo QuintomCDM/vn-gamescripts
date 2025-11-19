@@ -1,0 +1,457 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（首里城観光を終えた後、\n　沖縄料理のレストランで夕飯を済ませた俺たちは\n　今日１日を満喫した気分でホテルへと戻った）",
+    "translation": "(After finishing sightseeing at Shurijo Castle and\n having dinner at an Okinawan cuisine restaurant, we\n returned to the hotel, feeling fulfilled by the day.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（戻った頃には、すでに日は沈み――）",
+    "translation": "(By the time we returned, the sun had already set%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（眼下には、沖縄の街の見事な夜景が広がっていた）",
+    "translation": "(And there was a magnificent night view\n of the Okinawan city beneath our gazes.)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "おお～、街の光が海みたい！",
+    "translation": "Ohh, the city lights look like the sea!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、素敵ですね。\nホテルお勧めというだけあります。",
+    "translation": "Yes, it's beautiful.\nThe hotel recommendation was worth it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（五月の話を聞いて確信した。\n　こいつらは全員、俺が答えを出すのを\n　待ってくれている）",
+    "translation": "(After hearing Itsuki's conversation,\n I was convinced. They were all waiting for me\n to come up with an answer.)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そういえば、\n首里城の展望台みたいなところの夜景も\n見応えがあるらしいわ。",
+    "translation": "By the way, I heard that the night view\nfrom the observation deck at Shurijo Castle\nis also impressive."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ああ、西（いり）のアザナってところだよね。\n確かに眺めが良かった。",
+    "translation": "Oh, you mean the Iri-no-Azana lookout?\nThe view was certainly amazing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（俺の決意を伝えるなら早くすべきだ。\n　覚悟は決まっている。\n　言うなら全員が揃っているいまだ――）",
+    "translation": "(If I'm going to convey my determination,\n I should do it soon. I'm prepared.\n Everyone is here now, so%p-2;――%p;)"
+  },
+  {
+    "character": "一花",
+    "japanese": "ほら！\nフータロー君もこっち来て見てみない？",
+    "translation": "Hey, Futaro-kun!\nCome over here and take a look too!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すまん、夜景はあとにする。\n先に聞いてもらいたいことがあるんだ。",
+    "translation": "Sorry, I'll see the night view later.\nThere's something I want to tell you first."
+  },
+  {
+    "character": "一花",
+    "japanese": "……そう。\n重要な話みたいだね。",
+    "translation": "...I see. It seems like an important conversation."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ。",
+    "translation": "Yeah."
+  },
+  {
+    "character": "二乃",
+    "japanese": "いよいよね。",
+    "translation": "Finally."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。",
+    "translation": "Okay."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "準備オッケーです。\nどうぞ、上杉さん。",
+    "translation": "I'm ready. Please go ahead, Uesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（空気が変わったな。\n　さて、どう伝えたものか……）",
+    "translation": "(The atmosphere has changed.\n Now, how do I convey what I want to say...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんな神妙な顔をされると、\nなんか言いにくいんだが……。",
+    "translation": "When you make such a serious face,\nit's a bit hard to say..."
+  },
+  {
+    "character": "一花",
+    "japanese": "だからって、明るい雰囲気で\nできる話ってわけでもないんでしょ？",
+    "translation": "Just because of that,\nit doesn't mean we can't\nhave a cheerful conversation, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、そうなんだが。",
+    "translation": "Well, that's true."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まず、お前たちが今回の旅行をどんな想いで\n提案してきたのかは、俺もわかっているつもりだ。",
+    "translation": "First off, I think I understand the feelings\nthat led you to propose this trip."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うまく言えるか、わからないが……。",
+    "translation": "I'm not sure if I can say it well..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんなりの言葉で伝えてください。\nそれで大丈夫です。",
+    "translation": "Please tell us in your own words, Uesugi-san.\nThat's good enough."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "悪いな。\nこういう経験がゼロに等しいのが恨めしい。",
+    "translation": "I'm sorry.\nIt's frustrating to have practically no experience\nwith this kind of thing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まず、お前たちが今回の旅行をどんな想いで\n提案してきたのかは、俺もわかっているつもりだ。",
+    "translation": "First off, I think I understand the feelings\nthat led you to propose this trip."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もうわかってるみたいだし、\n今更、余計な言葉はいらないよな。",
+    "translation": "It seems like you already know, so I won't mince my words. "
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうね。\nこれ以上、まどろっこしいのは必要ないわ。",
+    "translation": "That's right. We don't need any more complications."
+  },
+  {
+    "character": "三玖",
+    "japanese": "今度こそフータローの番。",
+    "translation": "It's finally your turn, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ああ。",
+    "translation": "...Yeah."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まず、お前たちが今回の旅行をどんな想いで\n提案してきたのかは、俺もわかっているつもりだ。",
+    "translation": "First off, I think I understand the feelings\nthat led you to propose this trip."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "最初は驚いた。\nなにせ俺も、同じようなことを考えていたんだからな。",
+    "translation": "At first, I was surprised.\nAfter all, I had been thinking the same thing."
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まだ沖縄に来て２日だが、\nお前たちの……想いの強さって言えばいいのか、\nそういうものを改めて思い知らされた。",
+    "translation": "It's only been two days since we came to Okinawa,\nbut your...strong feelings, if I may call it that,\nhave made me realize it once again."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんなお前たちを放ったまま\n俺だけ上京しちまうのは、逃げたも同然だ。",
+    "translation": "Leaving you guys alone and going to Tokyo by myself\nwould be no different than running away."
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これから先のためにも、\n俺たちの、この関係に決着をつけたい。",
+    "translation": "For the sake of our future,\nI want to settle this relationship between us."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺は、お前たち５人が好きだ。\nそれはいまも変わらない。",
+    "translation": "I really love you five.\nThat hasn't changed even now."
+  },
+  {
+    "character": "一花",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ただ、やはり男として、\n１つの答えを出すべきだと思う。",
+    "translation": "However, as a man,\nI think I should come up with just one answer."
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一度は、誰も選ばないなんて言っておいて\n身勝手すぎることは百も承知だが――",
+    "translation": "I know it's selfish of me to say that\nafter not choosing anyone, but%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この旅行中に必ず答えを出す。\nそれがいまの、俺の本当の気持ちだ。",
+    "translation": "I will give you an answer during this trip.\nAs of right now, that's how I truly feel. "
+  },
+  {
+    "character": "一花",
+    "japanese": "……そう言ってくれるのを待ってたよ。",
+    "translation": "...We've been waiting for you to say that."
+  },
+  {
+    "character": "二乃",
+    "japanese": "まったく、待たせすぎよ。",
+    "translation": "You made us wait too long."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、やっとだね。",
+    "translation": "Yes. Finally."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "待たせちまって、本当にすまなかった。",
+    "translation": "I'm so sorry for making you wait."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんも決心がついたみたいだし、\n旅行の計画を立ててよかったです。",
+    "translation": "It seems like Uesugi-san has made up his mind.\nPlanning this trip was a good idea."
+  },
+  {
+    "character": "五月",
+    "japanese": "……旅行中に、ですか。",
+    "translation": "...During the trip, huh?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "五月？",
+    "translation": "Itsuki?"
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君、あなたは勝手です。",
+    "translation": "Uesugi-kun, you're selfish."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……！",
+    "translation": "...!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ここまで引きずっておいて、\nいきなり１人を選ぶなんて本当にできるのですか？",
+    "translation": "Dragging this on, then suddenly choosing one person,\ncan you really do that?"
+  },
+  {
+    "character": "五月",
+    "japanese": "しかも、一度は逃げ出したあなたに！",
+    "translation": "And, after running away once!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、それは……。",
+    "translation": "W-well..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あの時の俺は、誰も選ばないことが\n　最良の選択だと信じていた）",
+    "translation": "(At that time, I believed that choosing nobody\n was the best decision.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "あの時に下されたあなたの決断で、\nみんながどれだけ苦しみ悲しんだことか……。",
+    "translation": "Because of the decision you made at that time,\neveryone suffered, and was sad..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（だが五月の言うとおり。\n　結局、これはすべて\n　俺の優柔不断さが招いた結果だ）",
+    "translation": "(But Itsuki is right. In the end,\n it was all because of my indecisiveness.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "また、同じことを繰り返さないと言えるのですか？",
+    "translation": "Can you really say that you won't repeat the same mistake?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（だからこそ、今度は逃げるわけにはいかない）",
+    "translation": "(That's why I can't run away this time.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "誰かを選ぶということは、\n誰かを選ばないということになるのです。",
+    "translation": "Choosing someone means not choosing everyone else."
+  },
+  {
+    "character": "五月",
+    "japanese": "いまのあなたには、\nその覚悟があると言うのですね？",
+    "translation": "Are you saying you have the resolve to do that now?"
+  },
+  {
+    "character": "一花",
+    "japanese": "五月ちゃん、ちょっと落ち着いて。",
+    "translation": "Itsuki-chan, calm down a bit."
+  },
+  {
+    "character": "四葉",
+    "japanese": "少し言いすぎじゃ……。",
+    "translation": "You're going a bit too far..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君に答えを出してもらおうって決めたのは、\n私たちだって一緒なのよ？",
+    "translation": "We decided together\nthat we'll have Fu-kun give us an answer, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローが決めてくれるのなら、\n私はそれだけでも満足だし。",
+    "translation": "If Futaro makes the decision for us,\nI'll be satisfied with that alone."
+  },
+  {
+    "character": "五月",
+    "japanese": "そういうことではありません。\nこれは私たちではなく、上杉君自身の問題なのです。",
+    "translation": "That's not the point.\nThis is Uesugi-kun's own problem, not ours."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なにかを選ぶ時は、なにかを選ばない時。\nその通りだ。",
+    "translation": "When you choose something,\nyou're also not choosing something else. That's true."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それでも……\nいつかは覚悟を決めなきゃいけない日が来る。",
+    "translation": "Even so...\nthere will come a day\nwhen we have to make up our minds."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "今更、信じてくれなんて言えた義理じゃないが――",
+    "translation": "It's too late for me to ask you to believe me now, but%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "今度は、必ず応えてみせる。",
+    "translation": "This time, I'll definitely give you an answer."
+  },
+  {
+    "character": "五月",
+    "japanese": "……本当に、自分勝手にもほどがあります。",
+    "translation": "...There really is a limit to being selfish. "
+  },
+  {
+    "character": "五月",
+    "japanese": "ただ、私たちのことを考え、\n自ら答えを出すと言ってくれたのは嬉しく思います。",
+    "translation": "However, I'm happy that you said\nyou'll come up with the answer yourself,\nwhen you thought about us."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですので、こちらも勝手ながら、\nその覚悟とやらを確かめさせてもらいましょう。",
+    "translation": "So, this is my chance to test that resolve of yours."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ。\nそれでお前が納得いくなら。",
+    "translation": "Sure. If that will satisfy you."
+  },
+  {
+    "character": "五月",
+    "japanese": "では、あなたには試練を受けてもらいます。",
+    "translation": "Then, you'll have to go through a trial."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "試練……？",
+    "translation": "A trial...?"
+  },
+  {
+    "character": "五月",
+    "japanese": "はい。\n内容は明日、改めてお伝えしますので。",
+    "translation": "Yes. I'll tell you the details tomorrow."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっと一花。\nあんた、なにか聞いてないの？",
+    "translation": "Hold on. Ichika, do you know anything about this?"
+  },
+  {
+    "character": "一花",
+    "japanese": "いや、私も初耳。",
+    "translation": "No. First time for me too."
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "五月、説明して。",
+    "translation": "Itsuki, explain."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（他の奴らも知らなかったのか？\n　一体、なにをするつもりなんだ）",
+    "translation": "(Do the others not know either?\n What is she planning to do?)"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "今日は、もう遅くなってしまいましたね。\nこれでお開きにしましょう。",
+    "translation": "It's getting late today.\nLet's call it a day."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ、おい！？",
+    "translation": "Eh, hey?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "では、上杉君。\nまた明日。",
+    "translation": "Alright then, Uesugi-kun.\nSee you tomorrow."
+  }
+]

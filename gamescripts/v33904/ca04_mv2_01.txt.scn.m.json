@@ -1,0 +1,432 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "よう、ちょっといいか。",
+    "translation": "Hey can I talk to you for a bit?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あれ？　フータロー君だ。\n今度はなに？",
+    "translation": "Huh? It's Futaro-kun again. What is it this time?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、三玖に聞きたいことがある。",
+    "translation": "Actually, I have something I want to ask Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっ、私？",
+    "translation": "What? Me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖はこのあと、なにかしたいことってあるか？\n観光でも買い物でも、なんでも構わないぞ。",
+    "translation": "Do you have anything you want to do after this, Miku?\nSightseeing, shopping, anything is fine."
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉がね、みんなの意見を知りたいんだって。",
+    "translation": "Yotsuba wants to know everyone's thoughts."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ああ、そういうこと。\n四葉らしいね。",
+    "translation": "Ah, I see.\nThat's just like Yotsuba."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私は特に……なんでもいいかな。\n四葉に任せるって伝えて。",
+    "translation": "I don't really have anything in mind...\nanything is fine. Just tell Yotsuba to decide."
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ、フータロー君。\n私たちの意見を聞いてくれるのは嬉しいけどさ、\n最終的には、四葉と君の好きなものでいいからね？",
+    "translation": "Hey, Futaro-kun. It's nice that you're asking\nfor our thoughts, but in the end, it's up to\nyou and Yotsuba to decide based on what you like, okay?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私もそれでいいと思う。",
+    "translation": "I think I agree with Ichika on this one."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかった。\n四葉にもそう伝えておく。",
+    "translation": "Got it. I'll let Yotsuba know."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あれ、フータロー？\nまだ聞きたいことがあるの？",
+    "translation": "Oh, Futaro?\nDo you still have something to ask?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、一花にな。",
+    "translation": "Yeah, I wanted to ask Ichika something."
+  },
+  {
+    "character": "一花",
+    "japanese": "私？",
+    "translation": "Me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一花はこのあと、なにかしたいことってあるか？\n観光でも買い物でも、なんでも構わない。",
+    "translation": "Is there anything that\nyou want to do after this, Ichika?\nSightseeing, shopping, anything is fine."
+  },
+  {
+    "character": "三玖",
+    "japanese": "四葉が、みんながなにをしたいのか\n知りたいんだって。",
+    "translation": "Yotsuba wants to know what everyone wants to do."
+  },
+  {
+    "character": "一花",
+    "japanese": "あー、なるほど。",
+    "translation": "Ah I see."
+  },
+  {
+    "character": "一花",
+    "japanese": "ん～、そうだな。\nもう１回、パラセーリングとか？",
+    "translation": "Hmm...\nHow about parasailing again?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "一花もあれ、気に入ったんだ。",
+    "translation": "You really liked that too, huh, Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "空を飛んでる感じがして気持ちよかったからね。\n次はペア替えしてやってもいいし。",
+    "translation": "It felt great to fly through the sky.\nI'm okay with switching partners too."
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ、フータロー君。\n私たちの意見を聞いてくれるのは嬉しいけどさ、\n最終的には、四葉と君の好きなものでいいからね？",
+    "translation": "Hey, Futaro-kun. It's nice that you're asking\nfor our thoughts, but in the end, it's up to\nyou and Yotsuba to decide based on what you like, okay?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私もそれでいいと思う。",
+    "translation": "I think I agree with Ichika on this one."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかった。\n四葉にもそう伝えておく。",
+    "translation": "Got it. I'll let Yotsuba know."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あれ、フータロー？\n１人でどうしたの？",
+    "translation": "Oh, Futaro?\nWhat are you doing by yourself?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちょっと聞きたいことがあって、\nお前らを捜してたんだ。",
+    "translation": "I've been looking for you guys,\nI had something I wanted to ask you."
+  },
+  {
+    "character": "一花",
+    "japanese": "え？　わざわざ？\nなにかあった？",
+    "translation": "Huh? Coming all the way to see us?\nIs something the matter?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別に大したことじゃない。\nこのあと、なにかしたいことってあるか？",
+    "translation": "It's nothing major.\nDo you guys have anything you want to do after this?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私たちのやりたいことを聞いてどうするの？",
+    "translation": "Why are you asking us?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉が、みんなの意見を聞いて参考にしたいそうだ。",
+    "translation": "Yotsuba wants to know everyone's thoughts,\nso I thought I would ask."
+  },
+  {
+    "character": "一花",
+    "japanese": "なるほど、そういうことか。",
+    "translation": "I see, so that's what's going on."
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ、フータロー君。\n私たちの意見を聞いてくれるのは嬉しいけどさ、\n最終的には、四葉と君の好きなものでいいからね？",
+    "translation": "Hey, Futaro-kun. It's nice that you're asking\nfor our thoughts, but in the end, it's up to\nyou and Yotsuba to decide based on what you like, okay?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私もそれでいいと思う。",
+    "translation": "I think I agree with Ichika on this one."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかった。\n四葉にもそう伝えておく。",
+    "translation": "Got it. I'll let Yotsuba know."
+  },
+  {
+    "character": "一花",
+    "japanese": "まあ、実際のところ、\nなにをやっても楽しそうだもんね。",
+    "translation": "Well, to be honest,\neverything we could do seems like fun."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、綺麗な海で泳ぐだけでも楽しい――",
+    "translation": "Yeah, even just swimming in the beautiful ocean\nis a lot of fun%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、でもクラゲは怖いかな。",
+    "translation": "Ah, but jellyfish are scary."
+  },
+  {
+    "character": "一花",
+    "japanese": "クラゲ？　いたの？",
+    "translation": "Jellyfish? Are there any here?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ううん。\nでも、いたら困るなって。",
+    "translation": "No, but it would be an issue if there were."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖はクラゲが苦手なのか？",
+    "translation": "Are you afraid of jellyfish, Miku?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "苦手じゃないけど、\n危険なのがいるって看板があったから。",
+    "translation": "Not really, but there was a sign that said\nthere were dangerous ones around."
+  },
+  {
+    "character": "三玖",
+    "japanese": "確か、ハブクラゲとか、カツオノエボシ、だったかな。\n毒があるんだって。",
+    "translation": "I think it was the habu-jellyfish and the man o' war.\nThey both have venom."
+  },
+  {
+    "character": "一花",
+    "japanese": "ハブクラゲなんているんだ。\n蛇のハブなら聞いたことあるけど。",
+    "translation": "There's a jellyfish called the habu-jellyfish?\nI've heard of a snake called a habu,\nbut not a jellyfish."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ハブクラゲの名前は確か、その蛇のハブが由来だ。\nそれくらい毒の強いクラゲってことだな。",
+    "translation": "The name of the habu-jellyfish\ncomes from the habu snake.\nIt's a jellyfish with venom just that strong."
+  },
+  {
+    "character": "三玖",
+    "japanese": "どっちも刺されたら痛いらしいよ。\nそれに、すごく腫れるんだって。",
+    "translation": "Both stings are supposed to be painful.\nAnd, they say where you get stung swells up a lot."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "気をつけろよ？\n最悪の場合、病院送りだって聞くからな。",
+    "translation": "Be careful, okay?\nI've heard that in the worst case,\nyou could end up in the hospital."
+  },
+  {
+    "character": "一花",
+    "japanese": "うわぁ……。\nせっかくの旅行でそれは絶対に避けたい。",
+    "translation": "Aaaah...\nI definitely want to avoid that during this trip."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、クラゲが出るのは\n５月くらいからのはずだけどな。",
+    "translation": "Well, jellyfish should only appear from around May."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それに、ここのビーチには\nクラゲ防止ネットが張られてるから、\nそこまで心配しなくても大丈夫だろう。",
+    "translation": "Besides, this beach has jellyfish prevention nets\ninstalled, so there's no need to worry too much."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ネットって、沖のほうにあるあれ？",
+    "translation": "The nets are those things out in the ocean, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そっか、あれってクラゲ用だったんだ。\nなら安心。",
+    "translation": "Oh, I see. Those are for jellyfish. That's a relief."
+  },
+  {
+    "character": "一花",
+    "japanese": "水族館で見るクラゲは綺麗で癒やされるけど、\nなかには物騒なのもいるんだねー。",
+    "translation": "Jellyfish in aquariums\nare beautiful and soothing to watch,\nbut there are also dangerous ones among them, huh."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "クラゲを見て癒やされるのか？",
+    "translation": "You think watching jellyfish is soothing?"
+  },
+  {
+    "character": "一花",
+    "japanese": "されない？\nゆったり漂ってるの見てるだけでも\nヒーリング効果があると思うけど。",
+    "translation": "Isn't it relaxing just to watch them drift leisurely?\nI think there's a healing effect to it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、しかしクラゲって\nよく見るとこう、グロくないか？",
+    "translation": "Well, but if you look closely,\njellyfish are kinda gross, aren't they?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "人によってはそうかも。",
+    "translation": "Some people might feel that way."
+  },
+  {
+    "character": "一花",
+    "japanese": "だったら、じっくり見なければいいんだって。",
+    "translation": "If that's the case,\nthen just don't look at them too closely."
+  },
+  {
+    "character": "一花",
+    "japanese": "お互いのために、ひらひら綺麗だなーって\n目を細めて見てあげましょう。\nうんうん、それがいいよ。",
+    "translation": "For the sake of one another, appreciate their beauty\nby squinting your eyes and talking about how prettily\nthey flutter around. Yeah, that'd be nice."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだそりゃ……。",
+    "translation": "What are you going on about...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、クラゲを安全に見たいなら\nやっぱり水族館だろうな。",
+    "translation": "In any case, if you want to see jellyfish safely,\ngoing to an aquarium is probably the best option."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうする？\nやってみたいことの候補に挙げておくか？",
+    "translation": "What should we do?\nShould we add it to the list of things we want to do?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あれ？\n日程のどこかに水族館、入ってなかった？",
+    "translation": "Hmm?\nWasn't a trip to the aquarium\nalready on the schedule somewhere?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "見た目が綺麗だからって\n絶対に触ったりするんじゃないぞ。\n浜辺に打ち上げられてるクラゲにもだ。",
+    "translation": "They may look pretty, but just be sure\nnot to touch them. Even the ones washed up on the beach."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それもダメなんだ。\n死んじゃってそうだけど。",
+    "translation": "They're probably dead anyway,\nand even then you can't touch them?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "クラゲ自体は死んでいても、\n触手に触れば反射で刺してくるんだよ。",
+    "translation": "Even if the jellyfish itself is dead,\nif you touch the tentacles,\nthey'll sting you out of reflex."
+  },
+  {
+    "character": "一花",
+    "japanese": "うわ、ホントに？\n怖いなぁ。",
+    "translation": "Wow, really?\nThat's freaky."
+  },
+  {
+    "character": "三玖",
+    "japanese": "みんなにも教えておこう。",
+    "translation": "I'll tell everyone else, too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、せっかくの旅行を\nクラゲで台無しにされたら笑えん。",
+    "translation": "Yeah.\nIt wouldn't be funny if our trip\nwas ruined by jellyfish."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、クラゲを安全に見たいなら\nやっぱり水族館だろうな。",
+    "translation": "In any case, if you want to see jellyfish safely,\ngoing to an aquarium is probably the best option."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうする？\nやってみたいことの候補に挙げておくか？",
+    "translation": "What should we do?\nShould we add it to the list of things we want to do?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あれ？\n日程のどこかに水族館、入ってなかった？",
+    "translation": "Hmm?\nWasn't a trip to the aquarium\nalready on the schedule somewhere?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "水族館は工夫がされてるからな。\n照明をうまく使って、綺麗に見せてるんだろ。",
+    "translation": "Aquariums are designed for them.\nThey use lighting cleverly to make them\nlook beautiful, don't they."
+  },
+  {
+    "character": "一花",
+    "japanese": "クラゲって半透明だもんね。\n照明の色や角度で、いくらでも演出できそう。",
+    "translation": "Jellyfish are transparent, so you can create\nmany different effects with lighting colors and angles."
+  },
+  {
+    "character": "一花",
+    "japanese": "そう考えると、撮影の仕事と似てるかも。\nあれも照明１つでイメージがまったく変わるから。",
+    "translation": "Thinking about it,\nit's similar to photography.\nThe image can change completely with just one light."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そうなんだ。",
+    "translation": "Is that so."
+  },
+  {
+    "character": "一花",
+    "japanese": "カメラマンさんのイメージに合わせて、\n色々なライトで何通りも撮ったりするよ。\nこっちも、それに応えなきゃって気合入るんだ。",
+    "translation": "We take many shots using various lighting\nto match the cameraman's image.\nAs an actress, we have to match that too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "女優も大変だな。",
+    "translation": "Wow, actresses have it tough too."
+  },
+  {
+    "character": "一花",
+    "japanese": "大変ってことはないよ。\nそれが仕事だし、向こうだって私の最高の瞬間を\n引き出そうとしてくれてるんだもん。",
+    "translation": "Well, it's not that tough.\nIt's our job, and they're trying to bring out\nour good side."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なるほどな。\n引き出しがいがあるから、たくさん撮るってことか。",
+    "translation": "I see.\nSo, you take many shots because\nthere's joy in bringing out everyone's good side."
+  },
+  {
+    "character": "一花",
+    "japanese": "そういうこと！\nなんてねー。",
+    "translation": "That's right!\nIt isn't super serious though."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、クラゲを安全に見たいなら\nやっぱり水族館だろうな。",
+    "translation": "In any case, if you want to see jellyfish safely,\ngoing to an aquarium is probably the best option."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうする？\nやってみたいことの候補に挙げておくか？",
+    "translation": "What should we do?\nShould we add it to the list of things we want to do?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あれ？\n日程のどこかに水族館、入ってなかった？",
+    "translation": "Hmm?\nWasn't a trip to the aquarium\nalready on the schedule somewhere?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか、海洋博公園に行くんだったな。\nあそこには美ら海水族館がある。",
+    "translation": "Oh, right, we're going to Ocean Expo Park.\nThat's where Churaumi Aquarium is."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ、その時に見られそう。",
+    "translation": "Then it seems like\nwe'll be able to see some\njellyfish after all."
+  },
+  {
+    "character": "一花",
+    "japanese": "なら、私たちは充分でーす。\nなにをするかはフータロー君と四葉に\nお任せしまーす。",
+    "translation": "Then, that should be plenty for us.\nWe'll leave it up to you and Yotsuba\nto decide what to do, Futaro-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかった。\n四葉にもそう伝えておく。",
+    "translation": "Got it. I'll let Yotsuba know."
+  }
+]

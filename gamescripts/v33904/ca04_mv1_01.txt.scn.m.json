@@ -1,0 +1,362 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "ああ、いたいた。\n捜したぞ。",
+    "translation": "Oh, there you are.\nI've been looking for you."
+  },
+  {
+    "character": "一花",
+    "japanese": "あれ？　フータロー君？",
+    "translation": "Huh? Futaro-kun?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、\n四葉さんと一緒にいたんじゃなかったの？",
+    "translation": "Big bro,\nweren't you with Yotsuba-san?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちょっと２人に聞きたいことがあってな。\nいまは別行動中だ。",
+    "translation": "I wanted to ask both of you something.\nWe're both doing our own thing now."
+  },
+  {
+    "character": "一花",
+    "japanese": "聞きたいこと？\nなに？",
+    "translation": "What did you want to ask us?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "２人とも、この後になにかしたいことはあるか？\n別に観光でも買い物でもなんでもいいぞ。",
+    "translation": "Is there anything you want to do after this?\nLike sightseeing or shopping?"
+  },
+  {
+    "character": "一花",
+    "japanese": "う～ん、お昼寝？",
+    "translation": "Hmm, take a nap?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "却下だ。",
+    "translation": "No."
+  },
+  {
+    "character": "一花",
+    "japanese": "ええー？\nなんでもいいって言ったのに。",
+    "translation": "Whaaa?\nYou said anything was fine, though."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あのなぁ、他の連中が賛成すると思うか？",
+    "translation": "Well, do you think the others would agree?"
+  },
+  {
+    "character": "一花",
+    "japanese": "はいはい。\nちゃんと答えてあげるとしますか。",
+    "translation": "Alright, alright. I'll give you a proper answer."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "最初からそうしてくれ。",
+    "translation": "You should have done that from the beginning."
+  },
+  {
+    "character": "一花",
+    "japanese": "う～ん。\n私はもう１回パラセーリングでもいいかも。\n空に浮かぶの、本当に気持ちよかったしね。",
+    "translation": "Hmm.\nI think I might want to go parasailing again.\nFloating in the air was really exhilarating."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確かに、あの独特な浮遊感は\n他じゃ味わえないだろうな。",
+    "translation": "Indeed, that unique sensation of floating\ncan't be experienced anywhere else."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、鳥になった気分だった！",
+    "translation": "Yeah, I felt like a bird!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "私もあんなふうに、\n自由に飛べるようになれたらいいのになぁ。",
+    "translation": "I wish I could fly freely like that, too."
+  },
+  {
+    "character": "一花",
+    "japanese": "自由にかぁ。",
+    "translation": "So freely, huh."
+  },
+  {
+    "character": "一花",
+    "japanese": "本格的に鳥気分になりたいなら、\nモーターパラグライダーもいいかも。",
+    "translation": "If you really want to experience the feeling\nof flying like a bird,\nwe could try a motorized paraglider."
+  },
+  {
+    "character": "らいは",
+    "japanese": "え？　え？　それってなに？",
+    "translation": "Umm... Huh? What's that?"
+  },
+  {
+    "character": "一花",
+    "japanese": "えっとね、簡単に言うと\nエンジンを使ったパラグライダーで空を飛ぶんだ。",
+    "translation": "Well, to put it simply,\nit's a paraglider with a propeller-driven engine\nthat lets you fly in the air."
+  },
+  {
+    "character": "らいは",
+    "japanese": "エンジン？",
+    "translation": "An engine?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "説明が簡単すぎだろ……。",
+    "translation": "Your explanation is too simple..."
+  },
+  {
+    "character": "一花",
+    "japanese": "では先生、どうぞ！",
+    "translation": "Alright, then, Sensei, please explain!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いいか、らいは。\nさっきパラセーリングをやっただろ？",
+    "translation": "Listen, Raiha.\nRemember when we went parasailing earlier?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あれは船に引っ張ってもらったが、\nモーターパラグライダーは\nプロペラ付きのエンジンを背負って飛ぶんだ。",
+    "translation": "Instead of being pulled by a boat,\nwith a motorized paraglider,\nyou fly with a propeller attached to your back."
+  },
+  {
+    "character": "一花",
+    "japanese": "そうそう。\nだから、行きたいところに飛んでいけるんだ。",
+    "translation": "That's right.\nSo, you can fly wherever you want."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うーん……。\n楽しそうだけど墜落しちゃったら大変だよ？",
+    "translation": "Hmmm...\nThat sounds fun, but what if we crash?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そこは大丈夫。\nパイロットと２人で飛ぶからね。",
+    "translation": "That won't be a problem.\nThere will be a pilot with us."
+  },
+  {
+    "character": "一花",
+    "japanese": "エンジンを背負うのはパイロットだし\n操縦もしてくれるんだ。\n私たちは乗ってるだけでオッケー。",
+    "translation": "The pilots will be the one to work the engine,\nso all we need to do is sit back and enjoy the ride!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "へぇ～。\nそれなら安心だし面白そう！",
+    "translation": "Wow.\nIn that case, that sounds safe, and fun!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しかし、沖縄でモーターパラグライダーが\nできる場所はあるのか？",
+    "translation": "But, is there a place where we can do that in Okinawa?\nGo on a motorized paraglider."
+  },
+  {
+    "character": "一花",
+    "japanese": "私は調べてないけど、あるんじゃないかな。",
+    "translation": "I haven't checked, but I think there might be."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、知らないで言ってたのか。",
+    "translation": "Wait, you said that without even knowing we could?"
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、これだけ景色がいいんだもん。\n観光地なんだし、ツアーとかやってそうだよ。",
+    "translation": "But the scenery is so beautiful here.\nIt's a tourist destination after all,\nso they might offer something like that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ひとまず候補として挙げとくか。\nモーターパラグライダー。",
+    "translation": "Well, let's put motor paragliding down\nas a candidate for now."
+  },
+  {
+    "character": "らいは",
+    "japanese": "私でもできるのかな？\n大人じゃないとダメって言われちゃうかも。",
+    "translation": "I wonder if I'll be able to do it too?\nIt might say that only adults can do it."
+  },
+  {
+    "character": "一花",
+    "japanese": "あー、そっか。\n年齢とか身長制限はありそう。",
+    "translation": "Oh, right.\nThere might be age and height restrictions."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "きっと絶景が拝めるだろうな。",
+    "translation": "I'm sure we can see some amazing scenery."
+  },
+  {
+    "character": "一花",
+    "japanese": "でしょ？\n空からイルカの群れなんて見えたら最高だよ。",
+    "translation": "Right? It would be amazing to see a group of dolphins\nfrom the sky."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、サンゴの海の上を飛ぶなんてうってつけだ。",
+    "translation": "Yeah, flying over a coral reef would be perfect."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "とはいえ、なにが見えるかは\nどれくらいの高さで飛ぶか次第か。",
+    "translation": "However, what you can see depends on how high you fly."
+  },
+  {
+    "character": "一花",
+    "japanese": "どういうものが見たいのか、あらかじめ\nお願いできたりするのかな？",
+    "translation": "I wonder if they take requests\nfor what you want to see beforehand?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうだろうな？\n安全のためにも、\nコースは決まっているかもしれない。",
+    "translation": "Who knows?\nFor safety reasons,\nthe course might already be set."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ひとまず候補として挙げとくか。\nモーターパラグライダー。",
+    "translation": "Well, let's put motor paragliding down\nas a candidate for now."
+  },
+  {
+    "character": "らいは",
+    "japanese": "私でもできるのかな？\n大人じゃないとダメって言われちゃうかも。",
+    "translation": "I wonder if I can do it too?\nIt might say that only adults can do it."
+  },
+  {
+    "character": "一花",
+    "japanese": "あー、そっか。\n年齢とか身長制限はありそう。",
+    "translation": "Oh, right.\nThere might be age and height restrictions."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "自由に飛べるのはいいな。",
+    "translation": "Flying high without a care sounds really nice."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、パラセーリングとはまた違った楽しさが\nあると思うんだよね。",
+    "translation": "Yeah, I think there's a different kind of fun to it\ncompared to parasailing."
+  },
+  {
+    "character": "らいは",
+    "japanese": "本当に鳥さんの気分になれそう！",
+    "translation": "I could really feel what it's like to be a bird!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やっぱり空を自由に飛ぶのは人間の永遠の夢だよな。\n思い描くだけでテンションも上がる！",
+    "translation": "After all, flying freely in the sky has always\nbeen common dream amongst humans.\nJust imagining it gets me excited!"
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは、君って本当にそういうところ、\n自分の欲求に素直だよね。",
+    "translation": "Ahaha, you're really honest\nabout following your desires, aren't you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "体験できるツアーがないか、後で調べてみるか。",
+    "translation": "I'll check if there are any tours\nwhere we can experience it later."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ひとまず候補として挙げとくか。\nモーターパラグライダー。",
+    "translation": "Well, let's put motor paragliding down\nas a candidate for now."
+  },
+  {
+    "character": "らいは",
+    "japanese": "私でもできるのかな？\n大人じゃないとダメって言われちゃうかも。",
+    "translation": "I wonder if I can do it too?\nIt might say that only adults can do it."
+  },
+  {
+    "character": "一花",
+    "japanese": "あー、そっか。\n年齢とか身長制限はありそう。",
+    "translation": "Oh, right.\nThere might be age and height restrictions."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "パイロットが付き添うわけだし、\n中学生なら年齢制限に引っかかりはしないと思うが。",
+    "translation": "Since there would be a pilot with you,\nI think that middle school students would\nbe above the age limit."
+  },
+  {
+    "character": "らいは",
+    "japanese": "だといいなー。",
+    "translation": "I hope so."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ただし、まだモーターパラグライダーと\n決まったわけじゃないぞ？",
+    "translation": "However, we haven't decided\non motor paragliding yet, have we?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そもそも、やってるかわかんないもんね。\n他のみんなの希望だってあるし。",
+    "translation": "Besides, we don't even know if they offer it.\nOther people might have different opinions too."
+  },
+  {
+    "character": "らいは",
+    "japanese": "もうみんなにも聞いたの？",
+    "translation": "Have you asked everyone yet?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、まだ全員には聞いてない。",
+    "translation": "No, not everyone."
+  },
+  {
+    "character": "一花",
+    "japanese": "いろんな意見が出ると思うよ～？\n沖縄ってホントに見所もやれることも多いし。",
+    "translation": "I think the others will have different things they want to see,\nyou know? Okinawa really has so many places \nto see and things to do."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しかも、お前らはお前らで\n意見が一致しないことばかりだしな。",
+    "translation": "And ALSO,\nyou guys never seem to agree on anything."
+  },
+  {
+    "character": "一花",
+    "japanese": "大もめになったら、また君に任せるよ。\nフータロー君の意見なら、\nみんな大人しく聞くだろうし。",
+    "translation": "If it turns into a big fight,\nwe'll leave it up to you again, Futaro-kun.\nEveryone will listen to you and behave."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうだかな。\n全部やる、とか言い出すのが目に浮かぶ。",
+    "translation": "I don't know about that.\nI can already imagine someone saying\nthey want to do everything."
+  },
+  {
+    "character": "一花",
+    "japanese": "おお、その手があったか。",
+    "translation": "Oh, that's a good idea."
+  },
+  {
+    "character": "らいは",
+    "japanese": "私も全部やるにさんせーい！",
+    "translation": "I also agree on doing everything!"
+  },
+  {
+    "character": "一花",
+    "japanese": "らいはちゃんが言えば、\n四葉と五月ちゃんは確実に落ちるね。",
+    "translation": "If Raiha-chan agrees,\nYotsuba and Itsuki-chan will definitely fold."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いやいや、全部は無理だろ。\nらいはもちょっとは遠慮しろって。",
+    "translation": "No, no, doing everything is impossible.\nRaiha, you should be a little more considerate."
+  },
+  {
+    "character": "らいは",
+    "japanese": "はーい。",
+    "translation": "Alrighty."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、俺は他の連中にも聞いてくる。\nまたあとでな。",
+    "translation": "Then, I'll go ask the others too.\nTalk to you later."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、またね。",
+    "translation": "Yep, see ya."
+  }
+]

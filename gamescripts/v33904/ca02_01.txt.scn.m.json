@@ -1,0 +1,412 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "おお……なんだここは……。",
+    "translation": "Wow... What is this place...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "金持ちしかいないような高級レストランに\n室内プール、フィットネスセンターまで完備だと！？",
+    "translation": "Fine dining like only the rich can afford.\nThey even have an indoor pool and a fitness center!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ラウンジからの景色も素敵なんだって！\n高級リゾートホテルってこういうところなんだ！",
+    "translation": "And the view from the lounge is also amazing!\nSo this is what a luxury resort hotel looks like!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "めまいがしてきた……。\nこんなところに俺たちは泊まるのか……。",
+    "translation": "I'm getting dizzy...\nAre we really staying here...?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あのー、フータロー君？\nそろそろ落ち着こう？　結構目立ってるからね？",
+    "translation": "Um, Futaro-kun?\nCan you calm down a bit?\nYou're attracting attention."
+  },
+  {
+    "character": "二乃",
+    "japanese": "まあ、確かにいつもより\nちょっと豪華なホテルではあるけど。",
+    "translation": "Well, it's true that it's\na bit more luxurious than usual."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちょっと？\nこれでちょっとなのか！？",
+    "translation": "A bit? This is just a bit?!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "やっぱり中野さんちはお金持ちなんだ！",
+    "translation": "So the Nakano family is rich after all!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いやー、今回は上杉さんのおかげですよ。",
+    "translation": "No, this time is thanks to Uesugi-san."
+  },
+  {
+    "character": "四葉",
+    "japanese": "家庭教師の仕事をやり遂げたお礼ってことで、\nお父さんが奮発してくれたところもあるようなので。",
+    "translation": "It seems like our dad splurged as a thank you\nfor completing your tutoring job."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうなのか。",
+    "translation": "I-is that so?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ちなみに、このホテルを選んだ理由は\n他にもあるんですよ！",
+    "translation": "By the way,\nthere are other reasons why we chose this hotel!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ここ、観光地へのアクセスもいいし、\n旅の拠点にするにはぴったりなの。",
+    "translation": "This hotel has good access to tourist spots,\nso it's perfect as a base for traveling."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あと、ホテル側が色々なアクティビティプランを\n用意してくれてるから、その点も楽なのよね。",
+    "translation": "Also, the hotel provides various activity plans,\nwhich makes it easy for us to arrange our trip."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なるほど。",
+    "translation": "I-I see."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ホテルの使い方が俺たちの発想とは違う……）",
+    "translation": "(Their way of using the hotel\n is different from my family...)"
+  },
+  {
+    "character": "五月",
+    "japanese": "お待たせしました。\nチェックイン、終わりましたよ。",
+    "translation": "Sorry to keep you waiting.\nWe've finished checking-in."
+  },
+  {
+    "character": "三玖",
+    "japanese": "部屋のキー、もらってきた。",
+    "translation": "And we got the room keys."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ありがと。\nこのホテルって基本ツインルームよね？",
+    "translation": "Thanks. This hotel has mostly twin rooms, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。\nツインが４部屋、取ってある。",
+    "translation": "Yes. We booked four twin rooms."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なら、私と風太郎で１部屋ね。",
+    "translation": "Then, Futaro and I will share a room."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ぶっ！？",
+    "translation": "What?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ちょ、ちょっとそれは良くないんじゃないかな？\n倫理的に考えて！",
+    "translation": "Um, I don't think that's a good idea, you know?\nEthically speaking!"
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、そうですよ？　四葉の言うとおりです。\nいくらなんでも未成年の男女が同じ部屋だなんて\nお母さんも悲しみますよ？",
+    "translation": "I-indeed. It's as Yotsuba says.\nIt's inappropriate for minors of opposite genders\nto share a room, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんで？　別に構わないでしょ。\n私と風太郎は付き合ってるんだから。",
+    "translation": "Why not? It's okay. Futaro and I are dating."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "い、いや！\n俺も止めておいたほうがいいと思う！",
+    "translation": "N-no!\nI think it's better if we sleep in separate rooms."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ええ～、どうして？\n風太郎まで止めなくてもいいのに。",
+    "translation": "Huh, why?\nOf all the people here, why are YOU trying to stop me Futaro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あのな、いまの俺は\nお父さんからお前たちを預かっている身なんだよ。\n部屋割りは普通に組んでくれ。頼む。",
+    "translation": "Right now I'm responsible\nfor taking care of you guys on behalf of your dad.\nI prefer having a room of my own. I beg you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（万が一にも二乃と同室になったとバレたら……\n　確実にやられる！）",
+    "translation": "(If I were caught in the same room as Nino...\n there'd be hell to pay!)"
+  },
+  {
+    "character": "一花",
+    "japanese": "はいはい。\nじゃあ、部屋割りは上から順番に――",
+    "translation": "Okay, okay. Then let's assign the rooms\nin order from the top%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "私と二乃、三玖と四葉、五月とらいはちゃん。\nフータロー君は１人でいい？",
+    "translation": "Me and Nino, Miku and Yotsuba,\nItsuki and Raiha-chan.\nIs it okay if you're alone, Futaro-kun?"
+  },
+  {
+    "character": "五月",
+    "japanese": "それでいいと思います！",
+    "translation": "I think that's just fine!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "えー？\nまったくもう、頭が固いんだから。\n仕方ないわねぇ。",
+    "translation": "Huh?\nGeez, you're so stubborn.\nThere's nothing I can do about it, then."
+  },
+  {
+    "character": "五月",
+    "japanese": "頭が固いという問題ではないと思いますが……！",
+    "translation": "I don't think it's a matter of being STUBBORN...!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "五月、落ち着いて。\nどうどう。",
+    "translation": "Itsuki, calm down. Now now."
+  },
+  {
+    "character": "五月",
+    "japanese": "はあ……。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "五月",
+    "japanese": "では、気を取り直して。\n今日の夕食ですが、ホテルのレストランで\n沖縄料理のディナーを予約してあります。",
+    "translation": "Okay, let's get back on track.\nFor dinner tonight, I made a reservation\nfor Okinawan cuisine at the hotel restaurant."
+  },
+  {
+    "character": "五月",
+    "japanese": "このホテルはレストランの評判もいいんですよ。\n様々なジャンルを網羅していて、\nスイーツも極上だとか。",
+    "translation": "This hotel's restaurant has a good reputation.\nThey cover many different cuisines\nand apparently their sweets are amazing."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うんうん、楽しみだな～。",
+    "translation": "Sounds good! I'm looking forward to it!"
+  },
+  {
+    "character": "五月",
+    "japanese": "夕食まで、しばらく時間がありますから、\n各自でゆっくりするということでいいでしょうか？",
+    "translation": "We have some time until dinner.\nIs it okay if we take some time for ourselves?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "はーい！",
+    "translation": "Okay, sure!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なら、俺は部屋で――",
+    "translation": "Well then, I'll be in my room%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえ、風太郎！\n私、風太郎と一緒にいたいわ。",
+    "translation": "Hey, Futaro!\nI want to spend some time with you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なら、みんなで近場を散歩するか？\nこの辺りは観光地だし、歩くだけでも楽しいだろ。",
+    "translation": "How about we all take a walk around the area together?\nIt's a tourist spot,\nso just walking around should be fun."
+  },
+  {
+    "character": "二乃",
+    "japanese": "みんなって。\n私は２人きりがいいのに。",
+    "translation": "Guuuuys?\nI'd prefer to be alone with him."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君？\n気持ちは嬉しいけどさ、\n君が気にかけなきゃいけない相手は違うでしょ？",
+    "translation": "Futaro-kun? I appreciate the sentiment,\nbut you have someone else\nyou need to be concerned about, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ……。\nまあ、そうだな……。",
+    "translation": "Ah...\nYeah, that's right..."
+  },
+  {
+    "character": "一花",
+    "japanese": "そうだ！\nどうせならラウンジに行ってきたら？",
+    "translation": "I know! How about the lounge?"
+  },
+  {
+    "character": "一花",
+    "japanese": "すごく眺めがいいらしいよ？\nせっかくなんだし２人で楽しんできなよ。",
+    "translation": "You two can just go there and enjoy the amazing view."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう、そうするか。",
+    "translation": "Alright, let's do that."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃあ、さっそく行きましょ！",
+    "translation": "Okay, let's go!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちょっと待て。\nその前に荷物を部屋に運ばないと。",
+    "translation": "Wait a minute.\nWe need to bring our luggage to our rooms first."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、俺の部屋へ来るか？",
+    "translation": "Okay, want to come to my room then?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "いいの！？",
+    "translation": "Really?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、特にもてなしもできないけどな。",
+    "translation": "Well, I can't really offer you anything special."
+  },
+  {
+    "character": "二乃",
+    "japanese": "風太郎がいるならそれでいいわよ。",
+    "translation": "It's okay if you're there, Futaro."
+  },
+  {
+    "character": "五月",
+    "japanese": "ちょ、ちょっと待ってください？\n男女が同じ部屋は良くないと、\nさっきも言いましたよね？",
+    "translation": "W-wait a minute. I already said\nthat it's inappropriate for minors of opposite genders to\nshare a room?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローがいいって言ってもダメ。",
+    "translation": "Even if Futaro says it's okay, it's not."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんたたち、さっきからなにを想像してるのよ。",
+    "translation": "What have you guys been imagining?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そっ、それはぁ……。",
+    "translation": "W-well..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "気軽に言っちまった俺も俺だが\n別に変な気はまったくないぞ……お前らの考えすぎだ。",
+    "translation": "I said it without having any weird intentions...\nYour fantasy is running wild."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それでもダメ。\nとにかく部屋はダメ。",
+    "translation": "Still, it's not okay.\nFutaro's room is off-limits."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうです、三玖の言う通りです！\nせめてラウンジで！",
+    "translation": "Right, what Miku said!\nAt least let's go to the lounge."
+  },
+  {
+    "character": "二乃",
+    "japanese": "まあ、それもありね。\nなかなか眺めがいいみたいだし。",
+    "translation": "Well, that's not a bad idea.\nThe view seems nice there."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ね、風太郎。\n２人でラウンジに行ってみない？",
+    "translation": "Hey, Futaro.\nHow about the two of us go to the lounge?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、二乃が行きたいなら付き合う。",
+    "translation": "Sure, if you want to go, Nino I'll come along.\nLet's go."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃあ、さっそく行きましょ！",
+    "translation": "Okay, let's go!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちょっと待て。\nその前に荷物を部屋に運ばないと。",
+    "translation": "Wait a minute.\nWe need to bring our luggage to our rooms first."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ラウンジに行くか。\n景色がいいんだろ？",
+    "translation": "Let's head for the lounge.\nThe view is nice there, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "それって２人きりで？",
+    "translation": "Just the two of us?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……まあ、そうだな。\nそのつもりだが。",
+    "translation": "...Well, yeah. That's the plan."
+  },
+  {
+    "character": "二乃",
+    "japanese": "いいわね、賛成！\n私も気になってたのよ。",
+    "translation": "I'm okay with that!\nI was curious about it too."
+  },
+  {
+    "character": "二乃",
+    "japanese": "風太郎との沖縄デートはラウンジからね。\nふふっ、楽しみだわ。",
+    "translation": "Our date in Okinawa starts at the lounge, huh?\nHehe, I'm excited."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃあ、さっそく行きましょ！",
+    "translation": "Okay, let's go!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちょっと待て。\nその前に荷物を部屋に運ばないと。",
+    "translation": "Wait a minute.\nWe need to bring our luggage to our rooms first."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そんなの頼めばいいでしょ。",
+    "translation": "We can just ask someone to do it for us."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "頼むって誰に……。",
+    "translation": "Who should I ask...?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "すみません。\nこの荷物、部屋へ運んでおいてもらえますか？",
+    "translation": "Excuse me.\nCan you please take this luggage to our room for us?"
+  },
+  {
+    "character": "ベルパーソン",
+    "japanese": "かしこまりました。",
+    "translation": "Right away."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……すげぇ、頼み慣れてやがる）",
+    "translation": "(...Wow, they're used to asking for favors.)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "どうしたの？\nほら、行くわよ風太郎。",
+    "translation": "What's wrong?\nLet's go, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう。",
+    "translation": "O-okay."
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "character": "二乃",
+    "japanese": "すごいわ……。\n豪華絢爛だけど気品があって……。\nさすが王様のいるところね。",
+    "translation": "Amazing.... It's so luxurious and splendid,\nyet has an elegance to it...\nYou'd guess this is where the king resides."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ここ、周りの建物全部が正殿？",
+    "translation": "Are all the buildings around here the Seiden?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、正殿は正面の建物を指してる。\nあっちのは南殿で向こうは北殿だ。",
+    "translation": "No, the Seiden refers to the building in front.\nThat one over there is the Nanden,\nand the one beyond that is the Hokuden."
+  },
+  {
+    "character": "らいは",
+    "japanese": "この庭にも名前がついてるの？",
+    "translation": "Does this garden have a name too?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、この庭は御庭（うなー）だ。\n昔から色々な儀式が行われてた場所らしいぞ。",
+    "translation": "Yes, this garden is called the 'Una,'\nand apparently it's been a place where\nvarious ceremonies have been held since ancient times."
+  },
+  {
+    "character": "五月",
+    "japanese": "……あら？\nどこかに茶室があるのでしょうか？",
+    "translation": "...Oh?\nIs there a tea room somewhere?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん？　急になんだ？",
+    "translation": "Hm? What brings that up?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、いえ、そこの案内板に\nお茶のサービスがあると書かれているので。",
+    "translation": "Ah, it's because the guideboard over there\nsays that there's a tea service available."
+  },
+  {
+    "character": "三玖",
+    "japanese": "お茶？",
+    "translation": "Tea?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うわ、読めない。\nフータロー君よろしく。",
+    "translation": "Uwaa, I can't read that.\nCan you help me out, Futaro-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へいへい。\nこれは呈茶（ていちゃ）って読むんだよ。",
+    "translation": "Yup. Sure thing. \nThis is pronounced 'teicha.'"
+  },
+  {
+    "character": "三玖",
+    "japanese": "知らないお茶だ。",
+    "translation": "I don't know that kind of tea."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、お茶の種類じゃない。\nお茶でお客をもてなすって意味だ。",
+    "translation": "No, it's not a type of tea.\nIt means serving tea to guests."
+  },
+  {
+    "character": "一花",
+    "japanese": "あー、はいはい。\nなるほどね。",
+    "translation": "Ah, okay.\nI get it."
+  },
+  {
+    "character": "五月",
+    "japanese": "さんぴん茶と\n沖縄伝統のお菓子が楽しめるようですね。\n参加してみませんか？",
+    "translation": "It seems like we can enjoy sanpin-cha\nand traditional Okinawan sweets.\nWould you like to participate?"
+  },
+  {
+    "character": "一花",
+    "japanese": "さすが五月ちゃん。\n食べ物のことは見逃さないねー。",
+    "translation": "As expected of you, Itsuki-chan.\nYou never miss a chance for food, do you?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ち、違います！\nたまたま目に入っただけです！",
+    "translation": "N-no, that's not it!\nIt just happened to catch my eye!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "どこでやってるのかしら？\nさすがに正殿はないでしょうけど。",
+    "translation": "Where are they holding it?\nIt can't be in the Seiden, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "奥にある鎖之間（さすのま）って場所で\nやってるようだな。",
+    "translation": "It seems like it takes place\nin a place called the Sasunoma,\nwhich is located further back."
+  },
+  {
+    "character": "二乃",
+    "japanese": "さすのま？",
+    "translation": "Sasunoma?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええっとー、パンフレットによると\n王子の控え室みたいなところだって。\n畳で和風の部屋だね。",
+    "translation": "Uuum,\nIt's like a waiting room for the prince,\nand it's a Japanese-style room with tatami mats."
+  },
+  {
+    "character": "三玖",
+    "japanese": "首里城内で和風の部屋……興味ある。",
+    "translation": "A Japanese-style room in Shurijo Castle...\nthat sounds interesting."
+  },
+  {
+    "character": "二乃",
+    "japanese": "休憩にもちょうどいいわね。\n行ってみましょ。",
+    "translation": "It's also a perfect place to take a break.\nLet's go."
+  },
+  {
+    "character": "五月",
+    "japanese": "はいっ！\nお茶とお菓子、楽しみです！",
+    "translation": "Yes!\nI'm looking forward to the tea and sweets!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（はは、五月は喜ぶポイントがわかりやすいな）",
+    "translation": "(Haha, Itsuki's easily pleased.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "お菓子がいっぱいですね……！\nどれも美味しそうです。",
+    "translation": "There are so many sweets!\nThey all look delicious."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これが全部、沖縄伝統のお菓子なのか。\n初めて見るものが多いな。",
+    "translation": "So these are all traditional Okinawan sweets?\nThere are a lot of things\nI'm seeing for the first time."
+  },
+  {
+    "character": "四葉",
+    "japanese": "これは知ってます、ちんすこうですよね。",
+    "translation": "I know this one. It's chinsuko, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "こっちはなんだろう？\nおまんじゅうに見えるけど。",
+    "translation": "What about this one?\nIt looks like a manju, but I wonder what it is."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "メニューに書いてあるぞ。\nまんじゅうみたいなのは『くんぺん』だそうだ。\n五月が持ってるのは『花ぼうる』だな。",
+    "translation": "It's written on the menu.\nThe one that looks like a manju is called 'kunpen,'\nand the one Itsuki has is called 'hanabouru.'"
+  },
+  {
+    "character": "五月",
+    "japanese": "花ぼうる……。\n名前からは味の想像がつきません。",
+    "translation": "Hanabouru...\nThe name doesn't give me any idea of the taste."
+  },
+  {
+    "character": "五月",
+    "japanese": "では、食べて確かめましょう！",
+    "translation": "Well then, let's try them and find out!"
+  },
+  {
+    "character": "五月",
+    "japanese": "んっ！　サクサクです！\nほどよい歯ごたえと食感がいいですね。",
+    "translation": "Mmm! So crispy!\nIt has a nice texture,\nand just the right amount of chewiness."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふーん、シンプルな味わいだわ。",
+    "translation": "Hmm, it's more of a simple taste."
+  },
+  {
+    "character": "四葉",
+    "japanese": "こっちの『ちいるんこう』は\nカステラみたいです。",
+    "translation": "This 'chiirunkou' is a lot like castella."
+  },
+  {
+    "character": "らいは",
+    "japanese": "名前が可愛い！\nちいるんこう、ちいるんこう。",
+    "translation": "The name is so cute!\nChiirunkou, chiirunkou."
+  },
+  {
+    "character": "五月",
+    "japanese": "ふふ、わかります。\n声に出して言いたくなりますね。",
+    "translation": "Hehe, I know what you mean.\nIt's fun to say out loud."
+  },
+  {
+    "character": "一花",
+    "japanese": "さんぴん茶ってジャスミンティーだったよね。\nお菓子に合うなぁ。",
+    "translation": "Sanpin-cha is like jasmine tea, right?\nIt goes well with the sweets."
+  },
+  {
+    "character": "二乃",
+    "japanese": "正確に言うと、淹れ方は違ったりするらしいけど。",
+    "translation": "To be precise, the way it's brewed is different."
+  },
+  {
+    "character": "五月",
+    "japanese": "はぁ……。\nどのお菓子も美味しくて幸せです。",
+    "translation": "*sigh*\nAll of these sweets are so delicious.\nIt makes me happy."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（五月は本当に、なんでも幸せそうに食うよなぁ）",
+    "translation": "(Itsuki really seems to enjoy eating everything,\n doesn't she.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "あら、上杉君、まだ手を付けていませんね。\nいらないのなら私が……。",
+    "translation": "Oh, Uesugi-kun, you haven't touched anything yet.\nIf you don't want it, I'll take it..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やらねぇよ！",
+    "translation": "I'm not giving it to you!"
+  },
+  {
+    "character": "五月",
+    "japanese": "大満足の時間でした！\nお茶もお菓子も美味しかったです。",
+    "translation": "What a wonderful time!\nThe tea and sweets were delicious."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん、初めて食べるお菓子も多かったし。\n行ってみてよかったね。",
+    "translation": "Yeah, there were so many sweets\nthat I ate for the first time.\nI'm glad we went."
+  },
+  {
+    "character": "五月",
+    "japanese": "私は、特に花ぼうるが気に入りましたね。\n名前の通り、花を思わせる繊細な作りには驚きました。",
+    "translation": "I especially liked the hanabouru.\nAs the name hinted at,\nits delicate design reminded me of flowers."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "花より団子なんじゃなかったのか？\n見た目を楽しんでたなんて意外だ。",
+    "translation": "Aren't you all about substance over style?\nI'm surprised you enjoyed the look over the taste."
+  },
+  {
+    "character": "五月",
+    "japanese": "し、失礼ですね！\n目で楽しむことだって大切です。",
+    "translation": "A-aren't you rude!\nIt's important to enjoy how things look."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうねー。\n食べられればいいって感じのフー君に\n言われたくないでしょ。",
+    "translation": "That's right.\nYou don't want to be told that by Fu-kun,\nwho only cares about stuffing his face. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うっ……。",
+    "translation": "Eerh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ところで。",
+    "translation": "...Anyway."
+  },
+  {
+    "character": "五月",
+    "japanese": "な、なんですか？",
+    "translation": "Wh-what is it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "見た目も良かったし、お茶とも合う味だったな。",
+    "translation": "Not only did it look good,\nit went really well with the tea."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、ほどよい甘みでお茶が進みました。\nおかわりしたいくらいでしたね。",
+    "translation": "Yes, the moderate sweetness\nmade the tea go down smoothly. I wanted seconds."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はは、お茶が進むって言い方はあるのか？\nでも確かに、花ぼうるだけじゃなくて\n他のお菓子も全部ペロッと食っちまった。",
+    "translation": "Haha, is it even accurate to say that tea\ngoes down smoothly? But it's true that you didn't just eat\nthe hanabouru, but devoured all the other sweets too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "悪いな、余らせなくて。",
+    "translation": "Though it's too bad there weren't any leftovers. "
+  },
+  {
+    "character": "五月",
+    "japanese": "さっきのは軽い冗談です！",
+    "translation": "I was only kidding before!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "五月が言うと冗談に聞こえなかったりして？",
+    "translation": "It doesn't sound like a joke when you say it,\nItsuki."
+  },
+  {
+    "character": "五月",
+    "japanese": "四葉まで、もう！",
+    "translation": "Yotsuba, you too? Gosh!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ところで。",
+    "translation": "...Anyway."
+  },
+  {
+    "character": "五月",
+    "japanese": "な、なんですか？",
+    "translation": "Wh-what is it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あの繊細さは手作りなんだろうな。\n職人の技ってやつか。",
+    "translation": "That delicate design was probably handmade.\nIt's the work of artisans."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、食べるのがもったいないくらいでした。",
+    "translation": "Yes, it was almost too good to eat."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、まったく迷わず食べたよなお前。",
+    "translation": "Yeah, but you had no hesitation in gulping it down."
+  },
+  {
+    "character": "五月",
+    "japanese": "も、もったいないと思ったのは本当です！",
+    "translation": "I-I didn't want to waste any of it!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが、お菓子は食べてこそですから。\n飾っておくためのものではないでしょう？",
+    "translation": "Besides, they're meant to be eaten. \nNot put on display, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "それに、食べてわかることもあります。",
+    "translation": "Also, there are things you can only tell when you actually eat them."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ？　なんだ？",
+    "translation": "Huh? Like what?"
+  },
+  {
+    "character": "五月",
+    "japanese": "余計なものがない味だということです。\n味からも見た目からも、伝統を守るという\n心意気を感じました。",
+    "translation": "Like that the taste is pure, without any unnecessary\nelements. I felt their commitment to tradition\nin both taste and appearance."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ところで。",
+    "translation": "...Anyway."
+  },
+  {
+    "character": "五月",
+    "japanese": "な、なんですか？",
+    "translation": "Wh-what is it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "呼び方、『上杉君』だな。",
+    "translation": "You called me 'Uesugi-kun' earlier. "
+  },
+  {
+    "character": "五月",
+    "japanese": "あっ！",
+    "translation": "AH!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さっきの意気込みはどうした？",
+    "translation": "What happened to your enthusiasm from earlier?"
+  },
+  {
+    "character": "五月",
+    "japanese": "うう……。",
+    "translation": "Ooohh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やっぱり、お前は花より団子か。\n食べ物を前にしたら吹き飛んじまうよな。",
+    "translation": "As I suspected, you're more interested in taste\nthan appearance. Once food is in front of you,\neverything else flies out of your head."
+  },
+  {
+    "character": "五月",
+    "japanese": "違いますっ！\nその、タイミングを伺っていただけで、\n忘れていたわけではありません！",
+    "translation": "That's not true!\nI was just waiting for the right moment.\nI didn't forget!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "本当かよ。",
+    "translation": "Really, now."
+  },
+  {
+    "character": "五月",
+    "japanese": "本当ですっ！！",
+    "translation": "REALLY!!!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そこの２人。\nまた声が大きいわよ。",
+    "translation": "You two over there.\nYou're being awfully loud again."
+  },
+  {
+    "character": "五月",
+    "japanese": "あっ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "う……。\nい、いやこれは別に……。",
+    "translation": "Ooh...\nN-no, this is just..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "のろけてるわけじゃない、とか言うんだ。\nそれで。",
+    "translation": "Even though you say you don't want to show off \nbeing a couple, you're pretty oblivious to the fact \nthat you're flirting in public. "
+  },
+  {
+    "character": "五月",
+    "japanese": "すみません……。",
+    "translation": "Sorry..."
+  },
+  {
+    "character": "一花",
+    "japanese": "いいっていいって。\n付き合ってるんだから、のろけるのは当たり前。",
+    "translation": "It's fine, it's fine.\nIt's only natural to gloat\nabout something like that."
+  },
+  {
+    "character": "らいは",
+    "japanese": "でも、こんな大勢の人がいるところではねー。",
+    "translation": "But, not in front of so many people."
+  },
+  {
+    "character": "五月",
+    "japanese": "はい……。\n反省します……。",
+    "translation": "Okay...\nI'll be more mindful of my actions..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "反省したところで、次の場所に行こっか。\n首里城はまだまだ見所たくさんだよ！",
+    "translation": "Now that you're more self-aware,\nshall we move on to the next place?\nThere's still a lot to see at Shurijo Castle!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。",
+    "translation": "Yes."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "これではまだ……。\nやはり、もっと……。",
+    "translation": "This still doesn't feel right...\nI need to be more..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月？　行かないのか？",
+    "translation": "Itsuki? You coming?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あっ、いま行きます！",
+    "translation": "Ah, I'm coming now!"
+  }
+]

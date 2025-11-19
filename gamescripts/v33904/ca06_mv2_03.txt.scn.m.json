@@ -1,0 +1,332 @@
+[
+  {
+    "character": "二乃",
+    "japanese": "はぁ……。\nやっぱり何度見ても素敵ね。",
+    "translation": "*sigh*\nNo matter how many times I see it, it's still lovely."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あそこでショーウィンドーを覗いてるのは二乃か？\n　ずいぶんと熱心に見てるみたいだが……）",
+    "translation": "(Is that Nino peeking into the shop window over there?\n She seems to be looking at it so intently...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なにを見てるんだ？",
+    "translation": "What are you looking at?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あ、フー君！",
+    "translation": "Ah, Fu-kun!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……もしかして１人？",
+    "translation": "...Are you perhaps alone?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "見ればわかるだろ。",
+    "translation": "You can tell just by looking, can't you?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃあ、私のことを捜してくれてたの？",
+    "translation": "So, were you looking for me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "たまたま見かけただけだ。\nそれより、なにを見てたんだ？",
+    "translation": "I just happened to see you.\nAnyway, what were you looking at?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……もう。\n琉装（りゅうそう）よ、琉装。",
+    "translation": "...Ugh.\nIt's Ryusou, okay? Ryusou."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ほら見て、沖縄の伝統衣装。\n色鮮やかで見とれちゃうでしょ？",
+    "translation": "Look, it's traditional Okinawan clothing.\nThe vivid colors are so enchanting, don't you think?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、これは紅型（びんがた）だろ？\n沖縄伝統の染物だ。",
+    "translation": "Oh, this is 'bingata,' right?\nIt's a traditional Okinawan dyeing technique."
+  },
+  {
+    "character": "二乃",
+    "japanese": "知ってるんだ、さすがフー君。",
+    "translation": "You know about it? You would, Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ。\n柄とか色合いなんかが、\n普通の着物とはちょっと違う感じがするな。",
+    "translation": "Hmm.\nThe patterns and colors\nseem a bit different from a normal kimono."
+  },
+  {
+    "character": "二乃",
+    "japanese": "これは沖縄の伝統染物で\n紅型（びんがた）って言うの。",
+    "translation": "This is traditional Okinawan dyeing,\ncalled 'bingata.'"
+  },
+  {
+    "character": "二乃",
+    "japanese": "色や柄も良いんだけど、\nやっぱり、このデザインが素敵よね。",
+    "translation": "The colors and patterns are great, but really,\nthe design is just lovely."
+  },
+  {
+    "character": "着付けスタッフ",
+    "japanese": "お客様。\nよろしければ、着付け体験はいかがですか？\nいまなら予約にも空きがありますので大丈夫ですよ。",
+    "translation": "Excuse me. Would you like to try it on?\nAt the moment, there are still some available,\nso it's okay."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あっ、すみません。\nあまり時間がなくて……。",
+    "translation": "Ah, sorry.\nI don't have much time..."
+  },
+  {
+    "character": "着付けスタッフ",
+    "japanese": "そうでしたか。\nでは、服の上から羽織ってみるのはいかがでしょう？",
+    "translation": "I see. How about trying it on over your clothes,\nin that case?"
+  },
+  {
+    "character": "着付けスタッフ",
+    "japanese": "雰囲気だけでも感じられますし、\nお客様なら、きっとお似合いですよ。",
+    "translation": "You can still feel the atmosphere,\nand I'm sure it will look good on you."
+  },
+  {
+    "character": "二乃",
+    "japanese": "それくらいなら……。",
+    "translation": "If it's just that..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前の好きにしたらいい。\n羽織るだけなら、そんなに時間もかからないだろ。",
+    "translation": "Do whatever you'd like.\nIf it's just putting it on,\nit shouldn't take too long, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうね。\nじゃあ、ちょっと着てみるわ。",
+    "translation": "You're right.\nThen, I'll try it on for a bit."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃあ、この柄でお願いできますか？",
+    "translation": "Alright, may I request this pattern, please?"
+  },
+  {
+    "character": "着付けスタッフ",
+    "japanese": "はい。\nでは、こちらへどうぞ。",
+    "translation": "Yes, of course.\nPlease come this way."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、覗いちゃダメよ？",
+    "translation": "Fu-kun, don't peek, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なに言ってるんだよ。\n別に着替えるわけじゃないだろ。",
+    "translation": "What are you talking about?\nIt's not like you're changing or anything."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "せっかくだし、着てみたらどうだ？",
+    "translation": "You have this chance. Why not try it on?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "えっ？　いいの？",
+    "translation": "Huh? Really?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "羽織るだけなんだろ？\nさすがに、それくらいの時間はある。",
+    "translation": "You're just putting on a jacket, right?\nSurely, you have time for that."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうよね。\nじゃあ、ちょっと着てみようかしら。",
+    "translation": "Yes, you're right.\nMaybe I'll try it on for a bit."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃあ、この柄でお願いできますか？",
+    "translation": "Alright, may I request this pattern, please?"
+  },
+  {
+    "character": "着付けスタッフ",
+    "japanese": "はい。\nでは、こちらへどうぞ。",
+    "translation": "Yes, of course.\nPlease come this way."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、覗いちゃダメよ？",
+    "translation": "Fu-kun, don't peek, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なに言ってるんだよ。\n別に着替えるわけじゃないだろ。",
+    "translation": "What are you talking about?\nIt's not like you're changing or anything."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いいじゃないか。\n二乃ならきっと似合うぞ。",
+    "translation": "That's nice, isn't it?\nIt'd definitely look good on you, Nino."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あら、それ、もしかして見たいってこと？",
+    "translation": "Oh my? Does that mean you want to see me wear it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なんだよ。\n別にそういうつもりじゃ……。",
+    "translation": "Wh-what?\nThat's not really what I meant..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君になら、いくらでも見せてあげる。\n私のこと、ぜーんぶ。",
+    "translation": "I'll show you as much of me as you want, Fu-kun.\nALL of it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おい。\n誤解を招くような言い方はやめろ、人前だぞ。",
+    "translation": "Stop saying things that could be misinterpreted.\nWe're in public."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃあ、この柄でお願いできますか？",
+    "translation": "Alright, may I request this pattern, please?"
+  },
+  {
+    "character": "着付けスタッフ",
+    "japanese": "はい。\nでは、こちらへどうぞ。",
+    "translation": "Yes, of course.\nPlease come this way."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、覗いちゃダメよ？",
+    "translation": "Fu-kun, don't peek, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なに言ってるんだよ。\n別に着替えるわけじゃないだろ。",
+    "translation": "What are you talking about?\nIt's not like you're changing or anything."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふ、ちょっと待っててね。",
+    "translation": "Hehe, just wait a bit, okay?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、お待たせ！",
+    "translation": "Fu-kun, thanks for waiting!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おお……。",
+    "translation": "O-ohh..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "どう？",
+    "translation": "How is it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "似合うと思う。",
+    "translation": "It suits you."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ええ、それだけなの？",
+    "translation": "What? That's it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "他になんて言えばいいんだよ。",
+    "translation": "What else should I say?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "もうちょっと、『可愛い』とか『綺麗だ』とか\nお世辞でもいいから言って欲しいわ。",
+    "translation": "I want you to say something like 'cute' or 'beautiful,'\neven if it's just flattery."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "悪かったな、そういうのは苦手なんだ。",
+    "translation": "Sorry, I'm not good at that kind of thing."
+  },
+  {
+    "character": "二乃",
+    "japanese": "それは知ってるけど。\nこういう時くらい言えないものかしらね。",
+    "translation": "I know that, but can't you say it\nat least in times like these?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "つーか、お世辞じゃなく\n本当に似合ってるから言ってるんだが。",
+    "translation": "Actually, I'm not just flattering you.\nIt really does suit you."
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ありがと、フー君！",
+    "translation": "Thank you, Fu-kun!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "琉装って、やっぱり綺麗よね。\nちょっと欲しくなっちゃう。",
+    "translation": "Ryukyu-style clothing is really beautiful,\nisn't it?\nI kind of want one for myself."
+  },
+  {
+    "character": "着付けスタッフ",
+    "japanese": "お気に召していただけましたか？",
+    "translation": "Did you like it?"
+  },
+  {
+    "character": "着付けスタッフ",
+    "japanese": "こちらでは琉装を着ての撮影サービスや、\nリゾートウェディングプランも扱っていますから――",
+    "translation": "We also offer photo services\nwith Ryukyu-style clothing\nand resort wedding plans here%p-2;――"
+  },
+  {
+    "character": "着付けスタッフ",
+    "japanese": "将来、お２人の結婚式でのご利用なども\nいかがでしょう？",
+    "translation": "How about using them for your future wedding?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ！？\nちょっと待ってください。\n俺たちはそんなんじゃ――",
+    "translation": "Woah?!\nWait a minute.\nWe're not%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あら、いいんじゃないかしら？\nリゾートウェディングなんて素敵よね。",
+    "translation": "Oh wow, why not?\nA resort wedding would be just lovely."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なに言ってるんだよ。\nいくらなんでも気が早すぎるだろ。",
+    "translation": "What are you talking about?\nYou're thinking way too far ahead."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……ねえ？\nその言い方だと、私と結婚する未来も\n考えてくれてるってことよね？",
+    "translation": "...Hey?\nDoes that mean you're thinking\nabout marrying me in the future too?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あっ！　いや！\n別にそういうつもりで言ったんじゃ……。",
+    "translation": "Ah! No!\nThat's not what I meant when I said that..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "私は、そんな未来を信じてるから。",
+    "translation": "Well, I believe in that future."
+  }
+]

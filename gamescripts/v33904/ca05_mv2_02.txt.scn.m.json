@@ -1,0 +1,357 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "ううーん……。\nなんだろ、これ。",
+    "translation": "Hmmmm...\nI wonder what this is."
+  },
+  {
+    "character": "五月",
+    "japanese": "四葉？\nどうしたんですか？",
+    "translation": "Yotsuba? What's wrong?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、五月と上杉さん！\nちょっと聞きたいことがあるんですが。",
+    "translation": "Ah, Itsuki and Uesugi-san!\nI wanted to ask you something."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？",
+    "translation": "What's up?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ヒージャー料理って知ってますか？\nほら、そこの看板に書いてあるのを見つけて\n気になっちゃって。",
+    "translation": "Do you know about Hija cuisine?\nI saw it written on that sign over there\nand it caught my attention."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええと、沖縄料理について調べた時に\n見かけた気がするのですが……思い出せません。",
+    "translation": "Well, I think I came across it\nwhen I was researching Okinawan cuisine...\nbut I can't quite remember."
+  },
+  {
+    "character": "四葉",
+    "japanese": "お刺身って書いてあるから、\n魚料理かなって思ってるんだけど。",
+    "translation": "It says 'sashimi,' so I'm thinking it's a fish dish."
+  },
+  {
+    "character": "五月",
+    "japanese": "ということは、ヒージャーというのは\n魚の名前でしょうか？",
+    "translation": "So, Hija must be the name of a fish?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……おい。\n四葉、看板ちゃんと見てないだろ。",
+    "translation": "...Hey.\nYotsuba, you didn't even read the sign properly."
+  },
+  {
+    "character": "四葉",
+    "japanese": "え？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "下のほうに説明が書いてある。",
+    "translation": "There's an explanation written below."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれっ！？",
+    "translation": "Huh?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "本当だ、ちゃんと書いてありますね。\nうっかりしてました。",
+    "translation": "For sure, it's really written there. I was careless."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うっかりしすぎだろ。\nどれどれ？",
+    "translation": "Way too careless.\nLet me see, now?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ふむ、要するにヤギ料理らしい。\n沖縄の言葉でヤギをヒージャーって呼ぶんだとさ。",
+    "translation": "Hmm, it seems to be a goat dish.\n'Hija' is the Okinawan word for goat."
+  },
+  {
+    "character": "四葉",
+    "japanese": "なるほどー。\nつまりラム肉ですね。",
+    "translation": "Oh, I seee. So it's lamb meat, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、マトンでは？",
+    "translation": "No, isn't it mutton?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どっちも間違ってる。\nラムもマトンもヒツジだ。",
+    "translation": "Both of you are wrong. Lamb and mutton are both sheep."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ？\n同じヒツジなのに名前が違うんですか？",
+    "translation": "Huh? They're both sheep, with different names?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あーっと、確か、ラムが子ヒツジで\nマトンが大人のヒツジだとか、\nそういう違いだったはずだ。",
+    "translation": "Ahh, I remember now.\nLamb is baby sheep and mutton is adult sheep.\nThat's the difference."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この辺は二乃が詳しいかもな。",
+    "translation": "Nino might know more about this. "
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんも充分、詳しいですよ。",
+    "translation": "Uesugi-san, you're quite knowledgeable too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、ヒツジの肉はともかくとして、\nヤギ肉の料理ってのは珍しいな。",
+    "translation": "Well, leaving aside sheep meat,\ngoat meat dishes are quite rare."
+  },
+  {
+    "character": "五月",
+    "japanese": "どういった味なのでしょう？",
+    "translation": "What does goat meat taste like?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "食べたことないねー。",
+    "translation": "I've never had it before."
+  },
+  {
+    "character": "四葉",
+    "japanese": "よし、スマホで調べてみようっと。\nヒージャーヒージャー……っと。",
+    "translation": "Okay, let's look it up on our phones.\nHija, Hija... There it is."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふむふむ。\nヒージャーってヘルシーなんだって。",
+    "translation": "Let's see here.\nIt seems that Hija is healthy meat."
+  },
+  {
+    "character": "五月",
+    "japanese": "ヘルシーなお肉！？\nそんな物が存在するのですか！？",
+    "translation": "Healthy meat?!\nDoes such a thing really exist?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "しかも栄養もあるみたいだよ。\n薬になるって言われるくらいだって書いてある。",
+    "translation": "And it also seems to be really nutritious.\nIt's said to be medicinal."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ、そいつはすごいな。",
+    "translation": "Wow, that's some amazing meat."
+  },
+  {
+    "character": "四葉",
+    "japanese": "でも、味はクセがあって人を選ぶらしいです。",
+    "translation": "But it seems to have a strong taste\nthat not everyone likes."
+  },
+  {
+    "character": "五月",
+    "japanese": "それは逆に気になります。\nぜひとも食べてみたいです。",
+    "translation": "That actually makes me more curious.\nI really want to try it."
+  },
+  {
+    "character": "五月",
+    "japanese": "ヘルシーということは、\nたくさん食べても問題ないということですし！",
+    "translation": "If it's healthy,\nthat means we can eat a lot of it without any problems!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前もそういうの気にするんだな。\n普段あんだけ食ってるくせに。",
+    "translation": "Of course you would care about that. \nEven though you're usually overindulging anyway."
+  },
+  {
+    "character": "五月",
+    "japanese": "なっ！？　し、失礼ですよ上杉君！\n私は決して非常識な量を食べているわけでは――",
+    "translation": "WHA?! Y-you are so RUDE, Uesugi-kun!\nI'm not someone who eats unreasonable amounts%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "はっ！",
+    "translation": "Ah!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？",
+    "translation": "What's up?"
+  },
+  {
+    "character": "五月",
+    "japanese": "その……やっぱりうえす――",
+    "translation": "Well... Of course, Uesu%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "ふ、風太郎も、太っているのは嫌でしょうか？",
+    "translation": "Fu-Futaro, you'd hate me if I was overweight, wouldn't you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やっぱりってどういうことだ？",
+    "translation": "What do you mean by, 'of course'?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、一般常識としてです。\n痩せているほうが好まれるのでは……という。",
+    "translation": "Well, as a matter of common sense,\nit's preferred for someone to be thin...\nyou know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、そういうことか。\n別に俺は気にならないが。",
+    "translation": "Ah, I see.\nIt doesn't really bother me though."
+  },
+  {
+    "character": "五月",
+    "japanese": "で、ですよね！",
+    "translation": "I-I see!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふふふふ～。",
+    "translation": "Teehee."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なんだよ。",
+    "translation": "Wh-what?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別に気にならないが。",
+    "translation": "I don't really care."
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、そうですか。",
+    "translation": "I-is that so."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、不摂生で体を壊すのは論外だし\n健康なのが大前提だろ。",
+    "translation": "Well, it goes without saying\nthat maintaining good health is crucial\nand unhealthy living is out of the question."
+  },
+  {
+    "character": "五月",
+    "japanese": "ふふっ、それは当然です。\nむしろ私は健康のために食べていますからね。",
+    "translation": "Teehee, of course.\nI actually eat for my health."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それにしては量が――",
+    "translation": "But considering the amount you eat%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "わ、私にとっては適量なんです！",
+    "translation": "F-for me, it's an appropriate amount!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "冗談だ。\nお前はこれからも好きなだけ食ってくれ。",
+    "translation": "Just kidding.\nYou can keep eating as much as you like."
+  },
+  {
+    "character": "五月",
+    "japanese": "言われなくともそうします。",
+    "translation": "I was going to do that anyway."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふふふふ～。",
+    "translation": "Teehee."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なんだよ。",
+    "translation": "Wh-what?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "むしろ痩せたら心配だしな。",
+    "translation": "To be honest, I'd be more worried if you lost weight."
+  },
+  {
+    "character": "五月",
+    "japanese": "え？　どうしてですか？",
+    "translation": "Huh? Why is that?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、お前の食欲が落ちるなんて\n相当悩んでる証拠だろ？",
+    "translation": "It would be troubling if you were to lose your appetite, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "む……。",
+    "translation": "Mmmh..."
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、そうなる前に、うえす……\n風太郎にはちゃんと相談します。",
+    "translation": "B-before it would even get to that point,\nI'd talk to you about it first, Uesu... Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あと、食欲がなくなるのも問題ではあるが、\n体に悪いくらい食べすぎるのも論外だからな？",
+    "translation": "Also, it's not just about losing your appetite.\nEating too much to the point of being unhealthy\nis out of the question too, you know?"
+  },
+  {
+    "character": "五月",
+    "japanese": "言われなくてもわかっています。\n体調を崩して心配をかけたりはしません！",
+    "translation": "I know that, even without you telling me.\nI won't let myself get sick and worry you!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふふふふ～。",
+    "translation": "Teehee."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なんだよ。",
+    "translation": "Wh-what?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえいえ、本当にお似合いな２人だなと思いまして。",
+    "translation": "No, no, I mean, you two really are a perfect match."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なっ……！",
+    "translation": "Wha%p-2;――%p;!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "やり取りのあちこちから、\n仲の良さが伝わってきましたよ！",
+    "translation": "From the way you talk,\nit's clear how well you get along with each other!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（悪いことじゃないんだが……\n　面と向かって言われると\n　恥ずかしいってもんじゃないな、これは）",
+    "translation": "(Not that it's a bad thing, but...\n it's kind of embarrassing\n to hear it said out loud like this.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "……そう見えているなら嬉しいです。",
+    "translation": "...If that's how it looks, then I'm happy."
+  },
+  {
+    "character": "四葉",
+    "japanese": "どこからどう見ても仲良しカップルって感じだよ！\nにしし！",
+    "translation": "You guys TOTALLY look like a cute couple!\nHee-hee!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉！　何度も言うな！",
+    "translation": "Yotsuba! You don't have to constantly repeat that!"
+  }
+]

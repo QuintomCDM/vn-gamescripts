@@ -1,0 +1,392 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "よう、なにか見つかったか？",
+    "translation": "Hey, did you find anything?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、フータロー。",
+    "translation": "Ah, Futaro."
+  },
+  {
+    "character": "一花",
+    "japanese": "なかなか决まりそうにないよ。\n良い物はたくさんあるから余計に迷っちゃう。",
+    "translation": "It doesn't seem like we're going to decide on anything\nanytime soon. There are so many good things\nthat makes it so much harder to choose from."
+  },
+  {
+    "character": "一花",
+    "japanese": "ここのお店は織物を推してるみたいなんだ。\nほら、綺麗でしょ？",
+    "translation": "It seems like this shop promotes weaving.\nLook, it's beautiful, don't you think?"
+  },
+  {
+    "character": "一花",
+    "japanese": "さっき言ってた、紅型染め（びんがたぞめ）なんだって。",
+    "translation": "I heard it's called 'bingata' dyeing."
+  },
+  {
+    "character": "一花",
+    "japanese": "紅型（びんがた）っていう染め方みたい。\n色鮮やかだよね。",
+    "translation": "It's a dyeing method called 'bingata.'\nThe colors are so vivid, aren't they?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ、織物を使った小物を扱ってるのか。",
+    "translation": "Wow, they sell small items made of woven fabric."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、これ、可愛い。",
+    "translation": "Oh, this is cute."
+  },
+  {
+    "character": "一花",
+    "japanese": "織物のスマホケース？\nへー、いいなぁ。",
+    "translation": "A woven smartphone case?\nWow, that's nice."
+  },
+  {
+    "character": "三玖",
+    "japanese": "お揃いの柄のパスケースもあるんだ。",
+    "translation": "They also have a matching patterned pass case."
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、サコッシュもある！\nうわー、これは揃えたくなっちゃうな。",
+    "translation": "Oh, they even have a shoulder bag!\nWow, I really want to get them all."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まんまと店の策略に嵌まってるな。",
+    "translation": "You've fallen into the store's trap, haven't you?"
+  },
+  {
+    "character": "一花",
+    "japanese": "もー、そういう言い方しないの。",
+    "translation": "Now, don't say it like that."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローは発想がひねくれてる。",
+    "translation": "Futaro, you have a twisted way of thinking."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へいへい。",
+    "translation": "Whatever."
+  },
+  {
+    "character": "一花",
+    "japanese": "こういう可愛い小物って\n見てるだけで楽しくなっちゃうよね。",
+    "translation": "Just looking at these cute things makes me happy."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、飽きない。",
+    "translation": "Yeah, I just can't get enough of them."
+  },
+  {
+    "character": "一花",
+    "japanese": "記念品にもいいかなー。\nお揃いのポーチとか。",
+    "translation": "They might make for good souvenirs.\nMatching pouches or something would be nice."
+  },
+  {
+    "character": "一花",
+    "japanese": "柄は同じだけど色違いのにするとか、\n逆に、柄は違うけど色は同じにしてみるとか、\n合わせ方の幅も作れるよね。",
+    "translation": "We could get the same pattern but in different colors,\nor get different patterns but in the same color\nto create more matching options."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でもフータローには似合わないかも。\nこのポーチ、可愛すぎるから。",
+    "translation": "But a pouch might not suit Futaro.\nThese pouches are too cute."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……自分でもそう思う。\nあと使い道が思いつかん。\nお前ら、こういうのになにを入れてるんだ？",
+    "translation": "...I have to agree myself.\nAnd I can't think of a use for it.\nWhat do you guys put in these things?"
+  },
+  {
+    "character": "一花",
+    "japanese": "なにって、色々？\nメイク道具とか。",
+    "translation": "What, you ask? Various things.\nLike makeup tools."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……俺には縁がないことがわかった。",
+    "translation": "...I realize\nthat this isn't something I'm familiar with."
+  },
+  {
+    "character": "一花",
+    "japanese": "いやいや、フータロー君だったら……\nちょっと大きいけどペンケースはありじゃない？",
+    "translation": "Well, for you, Futaro-kun...\nhow about a pen case?\nIt's a bit big, but it might work."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺がこんな可愛いペンケースを持ってたら嫌だろ。",
+    "translation": "I wouldn't like a cute pen case like this, don't you think?"
+  },
+  {
+    "character": "一花",
+    "japanese": "確かに、パッと見は似合わない感じだけど、\n使ってるうちに馴染んでくるかも――",
+    "translation": "Well, at first glance, it might not suit you,\nbut you might get used to it and start liking it%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "ごめん、やっぱ無理そう。\nどこまでいっても面白いが勝ちそうです。",
+    "translation": "Sorry, it still seems unlikely.\nAn enjoyable souvenir might be better for you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、面白いってなんだ。",
+    "translation": "Hey, what do you mean by 'enjoyable'?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あっ、これ見て。\nこの織物のバレッタ、三玖にすっごく似合いそう。",
+    "translation": "Ah, look at this.\nThis woven barrette would look great on you, Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "え？　そうかな？",
+    "translation": "Really? I don't know about that."
+  },
+  {
+    "character": "一花",
+    "japanese": "まあ、フータロー君には絶対に似合わないから、\n記念品には向いてないけどね。",
+    "translation": "Well, it's definitely not suitable for Futaro-kun,\nso it's not a good souvenir."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ポーチより更に絶望的だな。",
+    "translation": "That's even more unlikely to suit me than the pouch."
+  },
+  {
+    "character": "三玖",
+    "japanese": "つけてるとこ見たら、絶対笑っちゃう。",
+    "translation": "If I saw him wearing it, I would definitely laugh."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……バレッタか。\n　三玖に似合うってのはわかるが、\n　こっちのだと――）",
+    "translation": "(...A barrette, huh? I can see how it would\n look good on Miku, but with this color%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こっちの色だったら、一花にも似合うんじゃないか？",
+    "translation": "If it was this color,\nit might also suit you, Ichika, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "試しに、こうして――",
+    "translation": "Just like this%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほら、思った通りだ。\n一花にも似合ってるぞ。\n俺のセンスも捨てたもんじゃないな。",
+    "translation": "See, I thought so. It suits you too, Ichika.\nMy sense of fashion isn't so bad after all."
+  },
+  {
+    "character": "一花",
+    "japanese": "え、え～っと……あ、ありがとう？\nでもその、なんといいますか……。",
+    "translation": "U-ummm... Th-thank you?\nBut, well, it's just that..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ。",
+    "translation": "What is it?"
+  },
+  {
+    "character": "一花",
+    "japanese": "こうしてると頭を撫でられてるみたいで、\nちょっと恥ずかしいかな～、なんて。",
+    "translation": "It feels like I'm being pat on the head,\nand it's a little embarrassing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……！",
+    "translation": "...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんか悪い……。\nそういうつもりじゃなかったんだが。",
+    "translation": "Hey, my bad...\nI didn't mean to do that."
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、あははは、別に謝ることじゃないよ。\nちょっとびっくりしただけだから。",
+    "translation": "Ahahaha,\nyou don't have to apologize.\nI was just a little surprised."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう。",
+    "translation": "O-okay."
+  },
+  {
+    "character": "三玖",
+    "japanese": "おほん。",
+    "translation": "Ahem."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あ。",
+    "translation": "...Ah."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんつーか、こういうのは新鮮だな。\n一花の頭を撫でるなんて――",
+    "translation": "You know, this kind of thing is refreshing.\nTo stroke your head like this%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、前にもあったか。\nお前らの家に泊まり込みで勉強した時。",
+    "translation": "No, I've done this before.\nWhen I stayed over at your house to study."
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、ああ！　そんなこともあったよね！\n秋なのに暑かったよねー、あの日は。",
+    "translation": "Ah, yeah! That's right!\nIt was hot for autumn that day, wasn't it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、寒かったぞ？",
+    "translation": "No, it was cold, you know?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そ、そうだったかなぁ～？",
+    "translation": "W-was it now?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あっ、てか、あの時は嫌そうだったよな。\nすまん、撫でられるのが嫌いなら――",
+    "translation": "Ah, but you seemed to dislike it back then.\nSorry, if you don't like being pet%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "う、ううん！　そんなことない！\nほら、私はお姉さんだから慣れてないだけで……。",
+    "translation": "N-no! It's not like that!\nI'm just not used to it\nsince I'm the older sister..."
+  },
+  {
+    "character": "一花",
+    "japanese": "君になら、こうされるのも悪くないかな。",
+    "translation": "If it's you, I don't mind being treated like this."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうか、それならよかった。",
+    "translation": "I see, well then, that's good."
+  },
+  {
+    "character": "三玖",
+    "japanese": "おほん。",
+    "translation": "Ahem."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あ。",
+    "translation": "...Ah."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前、小さいな。",
+    "translation": "You're short, aren't ya?"
+  },
+  {
+    "character": "一花",
+    "japanese": "へっ？　急になに？\nそれはまあ、君に比べたら背が低いけど。",
+    "translation": "Huh? What's gotten into you all of a sudden?\nWell, compared to you, I'm shorter, yeah."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、そうなんだが……\n普段はもっと大きく感じるつーか……。",
+    "translation": "I see, but...\nyou usually feel taller, or something..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（なんで急にこんなこと思ったんだ？）",
+    "translation": "(Why am I suddenly thinking about this?)"
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、あんまりじっと見つめられてると\n困るんだけどな……。",
+    "translation": "Ah, it's a little embarrassing\nto have you stare at me like that..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、そうか！",
+    "translation": "Ah, I see!"
+  },
+  {
+    "character": "一花",
+    "japanese": "わっ！？　今度はどうしたの？",
+    "translation": "Wah! What's going on now?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（一花は、俺たちの一歩も二歩も先を行っている。\n　その姿勢が、こいつを大きく\n　見せてるのかもしれない）",
+    "translation": "(Ichika is always one step ahead of us.\n Maybe that's why she seems taller.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、なんでもない。\nこっちの話だ。",
+    "translation": "Nothing, really.\nIt's just something I have on my mind."
+  },
+  {
+    "character": "一花",
+    "japanese": "勝手に納得されても……。\nお姉さんとしては反応に困っちゃうんだけど。",
+    "translation": "Don't get ahead of yourself...\nAs an older sister,\nit's hard for me to react to these things."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一花は頑張ってる。\nそれだけだ。",
+    "translation": "You're doing your best, Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "はあ……。\nありがとうござい……ます？",
+    "translation": "*sigh*\nThank you very...much?"
+  },
+  {
+    "character": "一花",
+    "japanese": "まあ、悪い気分じゃないし……\nもう少しこのままでいようかな。",
+    "translation": "Well, I don't feel so bad...\nI guess I'll stay like this a little longer."
+  },
+  {
+    "character": "三玖",
+    "japanese": "おほん。",
+    "translation": "Ahem."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あ。",
+    "translation": "...Ah."
+  },
+  {
+    "character": "三玖",
+    "japanese": "２人が仲良しなのは別にいいけど、\n私も一緒にいるの、忘れてない？",
+    "translation": "Hey, I'm glad you two are so close,\nbut don't forget about me, okay?"
+  },
+  {
+    "character": "一花",
+    "japanese": "わ、忘れてるわけないじゃん！\nねぇ、フータロー君！",
+    "translation": "O-of course we wouldn't forget about you!\nRight, Futaro-kun?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "も、もちろんだ！\n気を取り直して記念品探しに戻ろうぜ！",
+    "translation": "Y-yeah, definitely!\nLet's get back to our souvenir search!"
+  },
+  {
+    "character": "一花",
+    "japanese": "そうしよーう！\nとりあえず、織物は候補の１つってことで！",
+    "translation": "Right on!\nFor now, textiles are on the list too!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "もう……。",
+    "translation": "Come on..."
+  }
+]

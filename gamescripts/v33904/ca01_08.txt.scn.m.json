@@ -1,0 +1,417 @@
+[
+  {
+    "character": "らいは",
+    "japanese": "わあ……。\nホントに日本じゃないみたい。\nアメリカってこんな感じなの？",
+    "translation": "Wow...\nIt doesn't feel like Japan at all.\nIs this what America is like?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うーん、どうだろう？\nアメリカって言っても広いから。",
+    "translation": "Hmm, I'm not sure.\nAmerica is a big place, after all."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ま、こういうのって\n正確さより空気感のほうが大事よね。",
+    "translation": "Well, with stuff like this,\nthe atmosphere is more important\nthan being accurate, isn't it?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そうそう。\n野暮なこと考えてないで楽しんだもの勝ち。\nねー、フータロー君？",
+    "translation": "Exactly.\nRather than worrying about the details,\nthe one who enjoys it wins. Right, Futaro-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なぜそこで俺に振る。",
+    "translation": "Why are you asking me?"
+  },
+  {
+    "character": "一花",
+    "japanese": "自分でもわかってるんじゃないかな？",
+    "translation": "You probably know yourself, don't you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へいへい、野暮なことは言わねぇよ。",
+    "translation": "Yeah, yeah, I won't say anything awkward."
+  },
+  {
+    "character": "四葉",
+    "japanese": "どうしますか、らいはちゃん。\nさっそく観覧車に行っときますか？",
+    "translation": "What should we do, Raiha-chan?\nShould we head to the Ferris Wheel right away?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "んー、でも記念品探しも大事だし、\nあとで時間があったら乗ろっかな。",
+    "translation": "Hmm, but looking for souvenirs is important too.\nIf we have time later, maybe we can ride it."
+  },
+  {
+    "character": "五月",
+    "japanese": "でしたら夕日が見える時間にしますか？\nきっと綺麗ですよ。",
+    "translation": "Then how about we go at sunset?\nIt's sure to be beautiful."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それいい！　五月ナイス！\n夕方に乗りましょう、らいはちゃん。",
+    "translation": "That's a great idea! Nice, Itsuki!\nLet's ride in the evening, Raiha-chan."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うんっ！",
+    "translation": "Okay!"
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、夕日と言えば――",
+    "translation": "Ah, speaking of sunsets%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "ここ、ビーチも近いんだよ。\nサンセットビーチっていうところ。\n名前の通り、夕日がよく見えるんだって。",
+    "translation": "The beach is nearby too. There's a place\ncalled Sunset Beach. As the name suggests,\nthe sunset is supposed to be beautiful there."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ、ビーチまであるのか。\nここだけでも１日過ごせそうな気がしてくるな。",
+    "translation": "Wow, there's a beach nearby?\nI feel like we could spend the whole day here\njust with that."
+  },
+  {
+    "character": "三玖",
+    "japanese": "どうする？\nとりあえずショッピングでいいのかな？",
+    "translation": "What should we do?\nIs shopping okay for now?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そーね、時間が余ったら他も行ってみましょ。",
+    "translation": "Well, if we have time,\nlet's try some other things too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう。",
+    "translation": "Okay."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "思ったより店が多い、つか、建物が入り組んでるな。\nうっかりしたら迷子になりそうだ。",
+    "translation": "There are more shops than I thought,\nand the buildings are intricate.\nWe might get lost if we're not careful."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、四葉なんて油断したらいなくなってそう。",
+    "translation": "Yeah, if we let our guard down, we might lose Yotsuba."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ありえる。",
+    "translation": "It's possible."
+  },
+  {
+    "character": "五月",
+    "japanese": "四葉、気をつけてくださいね？",
+    "translation": "Yotsuba, be careful, okay?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "大丈夫、いざとなったらスマホがある！",
+    "translation": "It's okay! I've got my smartphone, just in case!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "迷子前提かよ。",
+    "translation": "You're just assuming you'll get lost."
+  },
+  {
+    "character": "らいは",
+    "japanese": "同じお店いっぱいなところでも\n国際通りとは雰囲気が違うねー。",
+    "translation": "Even though we're in the same area,\nit feels different from Kokusai dori, doesn't it?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ファッション系のお店が多いのかしら。\n身につけるものにするなら、ここのほうが\n探しやすそうだわ。",
+    "translation": "I wonder if there are more fashion stores here.\nIf we're looking for something to wear,\nit might be easier to find it here."
+  },
+  {
+    "character": "四葉",
+    "japanese": "よーし、どんどん進んでみよー！",
+    "translation": "Alright, let's keep going!"
+  },
+  {
+    "character": "五月",
+    "japanese": "よ、四葉ー！？",
+    "translation": "Y-Yotsuba?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "へー、家具を扱ってるお店まである。",
+    "translation": "Oh, there's even a store that sells furniture here."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "家具でお揃いは無理じゃないか？",
+    "translation": "Isn't it impossible to have furniture as a souvenir?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そんなのわかってますって。\nただ、ちょっと興味があるなーって。",
+    "translation": "I know that. I'm just curious, that's all."
+  },
+  {
+    "character": "一花",
+    "japanese": "ふーん、アメリカの輸入家具がメインなんだ。",
+    "translation": "Hmm, it mainly sells imported furniture from America."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ、フータロー君。",
+    "translation": "Hey, Futaro-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん？　なんだ？",
+    "translation": "Yeah, what's up?"
+  },
+  {
+    "character": "一花",
+    "japanese": "え、えっとぉ……。",
+    "translation": "U-ummm..."
+  },
+  {
+    "character": "一花",
+    "japanese": "新しい家具ってよくない？\n部屋は一緒なのに新生活！　って感じがしてさ。\n模様替えでもしちゃおっかな。",
+    "translation": "Do you think new furniture would be nice? Even though\nwe share the same room, it would feel like a fresh start!\nMaybe I should rearrange my room."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その前に部屋を片付けろ。\n新しい家具を置く場所もないだろ。",
+    "translation": "Clean up your room, first.\nYou don't even have a place to put new furniture."
+  },
+  {
+    "character": "一花",
+    "japanese": "うっ……！\n痛いところ突かれちゃったな。",
+    "translation": "Ooh...!\nYou hit a sore spot."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "痛いもなにも、\nお前の部屋を知ってたら誰でも思うことだが？",
+    "translation": "It's not just that,\nanyone who knows your room would think the same thing."
+  },
+  {
+    "character": "一花",
+    "japanese": "仰るとおりです。\nまずは家具の置き場を作ることからか。",
+    "translation": "You're right.\nI guess we should start\nby making space for the furniture."
+  },
+  {
+    "character": "一花",
+    "japanese": "えーっとね、ちなみになんだけど……。",
+    "translation": "Oh, um, by the way, Futaro-kun..."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君って、引っ越したあとのこととか\nもう考えてたりするのかな？",
+    "translation": "Have you thought about what you'll do after you move?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺も部屋の家具を考えないとな。\n一人暮らしってどんなもんを置いたらいいんだ？",
+    "translation": "I also need to think about furniture for my room.\nWhat kind of things should I put in my apartment\nas a single person living alone?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そうやって悩む時間って、難しいけど楽しいよね。",
+    "translation": "Even though it can be difficult,\nit's also fun to spend time\nthinking about these things."
+  },
+  {
+    "character": "一花",
+    "japanese": "ちょっとずつ家具やインテリアを足していけば、\n自分の空間になってく感じがするもん。",
+    "translation": "If you gradually add furniture and decor,\nit will start to feel like your own space."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういうもんか？",
+    "translation": "Is that so?"
+  },
+  {
+    "character": "一花",
+    "japanese": "え？　そういうものじゃない？",
+    "translation": "Hmm? Isn't it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、いままで俺は自分の部屋がなかったからな。\nいまいちピンとこない。",
+    "translation": "Well, I've never had my own room before,\nso I'm not quite sure."
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、そっか。\nじゃあ、ますます楽しいと思うよ。\nフータロー君、案外ハマっちゃったりしてね。",
+    "translation": "Oh, I see.\nWell, I think it'll be even more fun for you then.\nYou might even get unexpectedly addicted to it."
+  },
+  {
+    "character": "一花",
+    "japanese": "えーっとね、ちなみになんだけど……。",
+    "translation": "Oh, um, by the way, Futaro-kun..."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君って、引っ越したあとのこととか\nもう考えてたりするのかな？",
+    "translation": "Have you thought about what you'll do after you move?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "アメリカの家具、か。\n一花はこういうのが好きなのか？",
+    "translation": "American furniture, huh?\nDo you like this sort of thing, Ichika?"
+  },
+  {
+    "character": "一花",
+    "japanese": "おや？　なになに？\nフータロー君はお姉さんの好みが気になる？",
+    "translation": "Oh? What's this? \nAre you curious about my tastes, Futaro-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そりゃ……気になる。",
+    "translation": "W-well, um...yeah, I am."
+  },
+  {
+    "character": "一花",
+    "japanese": "ふふっ！\nそっかそっか、気になっちゃうか。",
+    "translation": "Teehee!\nI see. You ARE curious, then."
+  },
+  {
+    "character": "一花",
+    "japanese": "まあ、ゆっくり教えていってあげるよ。\n私の好きなもの全部。",
+    "translation": "Well, I'll eventually tell you.\nEverything that I like, that is."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう……。",
+    "translation": "O-okay..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "って、いまここでは教えてくれないのか？",
+    "translation": "Wait, are you not going to tell me here and now?"
+  },
+  {
+    "character": "一花",
+    "japanese": "いまはひ・み・つ。",
+    "translation": "It's a s-e-c-r-e-t for now. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "隠すようなことか……？",
+    "translation": "Are you hiding something...?"
+  },
+  {
+    "character": "一花",
+    "japanese": "えーっとね、ちなみになんだけど……。",
+    "translation": "Oh, um, by the way, Futaro-kun..."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君って、引っ越したあとのこととか\nもう考えてたりするのかな？",
+    "translation": "Have you thought about what you'll do after you move?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "引っ越しのあと？",
+    "translation": "After I move?"
+  },
+  {
+    "character": "一花",
+    "japanese": "と、特になにってわけじゃないんだけど！",
+    "translation": "It's not really anything specific!"
+  },
+  {
+    "character": "一花",
+    "japanese": "いつまで一人暮らしをするつもり、とか……。",
+    "translation": "Like, how long you plan on living alone for...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん？　なんだ？",
+    "translation": "Yeah, what's up?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ううんっ！\n家具を揃えるにしても、アメリカンなのは\nあまり合わないんじゃないかなーって！",
+    "translation": "Nothing!\nEven if I was to furnish my house, I don't think\nAmerican-style furniture would match very well!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、買うつもりねぇし。\n俺はもっとシンプルなのでいい。",
+    "translation": "Well, I'm not planning on buying any.\nI prefer something simpler."
+  },
+  {
+    "character": "一花",
+    "japanese": "シンプルで機能性がいいやつ？\n君らしい選択だなー。",
+    "translation": "Something simple and functional?\nThat's a fitting choice for you."
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃？　どうしたの？",
+    "translation": "Nino? What's wrong?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "一花、ちょっと変じゃない？",
+    "translation": "Isn't Ichika being a little weird?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……フータローと話してる時、\n様子がおかしい感じはある。",
+    "translation": "...I felt like something was off when she was\ntalking to Futaro."
+  },
+  {
+    "character": "二乃",
+    "japanese": "やっぱりそうよね。",
+    "translation": "Yeah, I was thinking the same thing."
+  },
+  {
+    "character": "二乃",
+    "japanese": "今朝なんて、スマホのアラームも鳴ってないのに\n私より早く起きて、着替えまでしてたのよ。",
+    "translation": "Like, this morning she woke up earlier than me and \ngot all dressed up even though her smartphone \nalarm didn't go off. "
+  },
+  {
+    "character": "三玖",
+    "japanese": "……本当に？　あの一花が？",
+    "translation": "...Really? ICHIKA?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "本当よ。\nいつもは仕事先でも\n四葉のモーニングコールが必要なくせにね。",
+    "translation": "Really. Even though she usually needs a wake-up call\nfrom Yotsuba for work."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あれは、旅行で浮かれてるってだけじゃない。\nフー君は誤魔化せても姉妹の目は誤魔化せないわよ？",
+    "translation": "That's not just because she's excited about the trip.\nEven if she can deceive Fu-kun,\nshe can't do the same to her sisters, you know?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "どうしたの？\n２人とも真剣な顔してるけど、なにかあった？",
+    "translation": "What's going on? Both of you look serious.\nDid something happen?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょどいいわ、あんたも手伝いなさい。\n一花を連れ出すわよ。",
+    "translation": "Perfect timing, help us out too.\nAnd bring Ichika along."
+  },
+  {
+    "character": "四葉",
+    "japanese": "へ？　なんで？",
+    "translation": "Huh? Why?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なーんーでーも、よ。",
+    "translation": "It's NOTHING."
+  }
+]

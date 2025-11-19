@@ -1,0 +1,447 @@
+[
+  {
+    "character": "五月",
+    "japanese": "はぁ……。\n今日は大変でしたね……。",
+    "translation": "*sigh*\nIt was a tough day today..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "本当に疲れたわ……。",
+    "translation": "I'm really exhausted..."
+  },
+  {
+    "character": "一花",
+    "japanese": "みんな、ゴメン。\n私がもうちょっと気をつけてれば、\nあんなに騒がれることもなかったのに。",
+    "translation": "Sorry, everyone. If I had been a little more careful,\nwe wouldn't have caused such a commotion."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ううん、一花のせいじゃないよ。",
+    "translation": "No, it's not your fault, Ichika."
+  },
+  {
+    "character": "四葉",
+    "japanese": "みんなで同じ格好してたんだし、\nあれだけ注目を集めちゃったら\nバレるのだって時間の問題だったと思う。",
+    "translation": "Since we were all dressed the same way, I think\nit was only a matter of time before we got caught,\nattracting that much attention."
+  },
+  {
+    "character": "二乃",
+    "japanese": "でも、あそこまで騒ぎになるとはね。\n公園のあとは、ほとんど観光できなかったし。",
+    "translation": "But I didn't expect it to cause such a commotion.\nAfter the park, we couldn't really do any sightseeing."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、終始逃げ回っていた気がします。",
+    "translation": "Yeah, I felt like we were\njust running around the whole time."
+  },
+  {
+    "character": "四葉",
+    "japanese": "相当、走り回ったよね。\n上杉さんや三玖はキツかったんじゃないかな。",
+    "translation": "Miku, I bet you and Uesugi-san had it \nreally tough with all that running around."
+  },
+  {
+    "character": "三玖",
+    "japanese": "もう限界……。",
+    "translation": "I'm at my limit..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はっ！？\n三玖の魂が抜け出てる！",
+    "translation": "WHA?!\nYour soul is leaving your body!"
+  },
+  {
+    "character": "五月",
+    "japanese": "三玖、しっかりしてください！",
+    "translation": "Miku, stay strong!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "だ、大丈夫。\nなんとか生きてるから。",
+    "translation": "I-it's okay.\nSomehow, I'm still alive."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、こういうのは久しぶり。\nなんだか小さな頃みたいだった。",
+    "translation": "But, it's been a while since I felt like this.\nIt's like being a kid again."
+  },
+  {
+    "character": "二乃",
+    "japanese": "確かに、懐かしくもあったわね。\nあの頃はいつもお揃いの格好してたから、\n初めて会う人には驚かれてたし。",
+    "translation": "Yeah, it was kind of nostalgic.\nWe always wore matching outfits back then,\nso people we met for the first time were surprised."
+  },
+  {
+    "character": "一花",
+    "japanese": "知らない人から見たら、五つ子自体が珍しいしね。",
+    "translation": "For strangers, quintuplets themselves \nare already quite rare."
+  },
+  {
+    "character": "四葉",
+    "japanese": "でも、さ。\nこのままだと上杉さんも困るんじゃないかな？",
+    "translation": "That may be so.\nIf we keep going on like this,\nwon't Uesugi-san also be in trouble?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ……。\n行く先々で騒がれていては、\n五つ子ゲームどころではありません。",
+    "translation": "Yeah... If we keep attracting attention\neverywhere we go, it won't be a quintuplets game anymore."
+  },
+  {
+    "character": "五月",
+    "japanese": "期限は明日の夕方ですが、\nこのままでは厳しいでしょうね。",
+    "translation": "The deadline is tomorrow evening,\nbut it'll be tough to finish like this."
+  },
+  {
+    "character": "二乃",
+    "japanese": "だからって、期限を延ばすなんてなしよ。",
+    "translation": "But that doesn't mean we should extend the deadline."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君が答えを出さずに旅行を終えたりしたら、\nまた、いままでのような関係が\nズルズル続くかもしれない。",
+    "translation": "If Fu-kun doesn't give an answer and finishes the trip,\nour relationship might continue to deteriorate."
+  },
+  {
+    "character": "二乃",
+    "japanese": "それだけは絶対に嫌。",
+    "translation": "That's the one thing I absolutely don't want."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。",
+    "translation": "Yeah."
+  },
+  {
+    "character": "五月",
+    "japanese": "彼も、私たちを見分けようと\n必死になっているようですし――",
+    "translation": "He also seems like he's desperately\ntrying to tell us apart%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "気持ちの整理も、\nしっかりとできているといいのですが。",
+    "translation": "I hope he can sort out his feelings properly, though."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あのぉ……。",
+    "translation": "Umm..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "四葉？",
+    "translation": "Yotsuba?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えーとね？\nいまやってる五つ子ゲームって、\n上杉さんの気持ちを確かめるためだよね？",
+    "translation": "So, like?\nThe quintuplet game we're playing now\nis to confirm Uesugi-san's feelings, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "もちろん、そうだけど。",
+    "translation": "Of course."
+  },
+  {
+    "character": "二乃",
+    "japanese": "変装してる私たちから、\nフー君が心に決めた人を見分けて告白する。\nそういうことだもの。",
+    "translation": "We dress up in disguise, and Fu-kun\nhas to identify the person he's chosen\nin his heart and confess to them."
+  },
+  {
+    "character": "四葉",
+    "japanese": "だよね！\nでも、いまの上杉さんって――",
+    "translation": "That's right!\nBut, the way Uesugi-san is right now%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "『どの五月が誰なのか』って、\nそれを見破ることを考えちゃってる気がするんだ。",
+    "translation": "I feel like he's just trying to figure out\n'which Itsuki is which.'"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……えっ？",
+    "translation": "...Eh?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、私も四葉と同じ。\nそんな感じがしてる。",
+    "translation": "Yeah, I'm with Yotsuba here.\nI feel the same way."
+  },
+  {
+    "character": "一花",
+    "japanese": "もしかして、やりすぎちゃったのかも。\n今回は変装するだけじゃなくて、\nフータロー君を惑わすようなことも色々としたし。",
+    "translation": "We might have gone too far this time.\nWe not only disguised ourselves,\nbut also did various things to confuse Futaro-kun."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あ～……。\n私もバレそうになった時に、\nあんたたちの真似して誤魔化したりしたわね。",
+    "translation": "Ah...\nI also pretended to be one of you\nwhen he was catching on."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それで、私たちの変装を見破ることに\nあんなに躍起になってたのかな？",
+    "translation": "So, I wonder if that's why he was so\ndetermined to see through our disguises?"
+  },
+  {
+    "character": "五月",
+    "japanese": "確かに……。\nここまで積み重ねたものを否定されたくない、と、\nそう躍起になって……。",
+    "translation": "Indeed...\nHe didn't want to deny everything he had built\nup to this point, so he became really desperate..."
+  },
+  {
+    "character": "一花",
+    "japanese": "うーん、フータロー君の中で\n目的と手段がごちゃごちゃになってるわけか。",
+    "translation": "Hmm, it seems like the purpose and the means\nare all jumbled up in Futaro-kun's mind."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが、期限は明日です。\nこのままでは……。",
+    "translation": "Yet, the deadline is tomorrow.\nIf we don't do something soon..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ううん、大丈夫だよ。",
+    "translation": "No, it's okay."
+  },
+  {
+    "character": "五月",
+    "japanese": "三玖？",
+    "translation": "Miku?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローは、恋愛が苦手だから\nこういう時にすぐ間違えちゃうけど、\nそれでも、一生懸命に考えてくれてる。",
+    "translation": "Futaro isn't good at romance,\nso he tends to make mistakes in situations like this,\nbut he's still trying his best."
+  },
+  {
+    "character": "三玖",
+    "japanese": "半年経ったとはいえ、\n今度こそ答えを出すって決めてくれたのも――",
+    "translation": "Even though half a year has passed,\nhe still decided to give us an answer this time%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローが、私たちと\nちゃんと向き合ってくれてるからなんだ。",
+    "translation": "It's because Futaro is facing us properly."
+  },
+  {
+    "character": "三玖",
+    "japanese": "だから私は、フータローを信じてる。",
+    "translation": "That's why I believe in him."
+  },
+  {
+    "character": "五月",
+    "japanese": "……そうですね。\nきっと彼なりに真剣なのでしょう。",
+    "translation": "...Well, I suppose so.\nHe's probably serious in his own way."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それに、１年前の温泉旅行の時、\nフータローは私を見分けることができたし。",
+    "translation": "And, during the hot springs trip a year ago,\nFutaro was able to tell it was me."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ……。\nおじいちゃんのところで五月の格好をしてた時？",
+    "translation": "Ah...\nWhen we were dressed like Itsuki at Grandpa's house?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ああ……。\nそうだったんだ。",
+    "translation": "Yeah...\nThat's right."
+  },
+  {
+    "character": "三玖",
+    "japanese": "その事実を越えてもらわないと……\n誰が選ばれるとしても、認めてあげられない。",
+    "translation": "He's got to have improved more from that time...\nNo matter who he chooses, we have to accept it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローには、ちゃんと全部知ってて欲しいから。",
+    "translation": "I want Futaro to know everything."
+  },
+  {
+    "character": "二乃",
+    "japanese": "同感ね。",
+    "translation": "I agree."
+  },
+  {
+    "character": "二乃",
+    "japanese": "私たちが同じ外見、同じ性格だったのは\nもう遠い昔のことだわ。",
+    "translation": "The time when we had the same appearance\nand personality is a thing of the past now."
+  },
+  {
+    "character": "二乃",
+    "japanese": "いまじゃ、好きも嫌いもバラバラ。\nみんな変わってしまった。",
+    "translation": "Now, we all have different likes and dislikes.\nEveryone has changed."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君が家庭教師として\n私たちの生活の中に入ってきてからは、\nもっと変わったわよね？",
+    "translation": "Since Fu-kun came into our lives as a tutor,\nthings have changed even more, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そう言ってる二乃が一番変わったんじゃない？",
+    "translation": "Nino, you say that,\nbut I think you're the one who has changed the most."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんただってかなり変わったわよ？",
+    "translation": "Well, you've changed a lot too, haven't you?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "まあ、この１年半の間に\nそれだけのことがあったってことよね。",
+    "translation": "Well, I guess there have been a lot of things\nthat have happened in the past year and a half."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そういうすべてを……\nフー君には、ちゃんとわかっていてもらいたいのよ。",
+    "translation": "I want Fu-kun...\nto understand all of that."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんたたちだって、そうなんじゃないの？",
+    "translation": "You guys feel the same way, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "……うん。\n見た目や言葉遣いなんて、いくらでも変えられる。",
+    "translation": "...Yeah.\nWe can change our appearance\nand way of speaking as much as we want."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、心の中の一番大切な部分だけは変えられない。",
+    "translation": "But we can't change\nthe most important part in our hearts."
+  },
+  {
+    "character": "一花",
+    "japanese": "そこに気づいてくれたなら、やっぱり嬉しいかな。",
+    "translation": "If he can realize that, then I'd be happy."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうじゃなきゃ納得いかないわ。",
+    "translation": "If not, I won't be satisfied."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君は、\n恋愛オンチで優柔不断な朴念仁だけど。",
+    "translation": "Futaro-kun may be inept at romance and indecisive,\nbut he tries his best."
+  },
+  {
+    "character": "一花",
+    "japanese": "なんだかんだで頑張り屋さんだから……\nできない、とか、無理だ、なんて言ったら失礼だ。",
+    "translation": "He's a hard worker, so it's impolite to say\nthat he can't do it or that it's impossible."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あとは上杉さんを信じるしかないよ。",
+    "translation": "We just have to trust Uesugi-san."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、彼を信じましょう。",
+    "translation": "Yes, let's trust him."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……いよいよ、明日なんだ。",
+    "translation": "...It's finally tomorrow."
+  },
+  {
+    "character": "五月",
+    "japanese": "明日……。",
+    "translation": "Tomorrow..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "さてと！\n私たちも明日に備えて休もっか。",
+    "translation": "Well then! Let's take a break,\nand prepare for tomorrow."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうね。\n三玖、部屋に戻りましょ。",
+    "translation": "Agreed. Miku,\nlet's head back to our room."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。\n四葉、おやすみ。",
+    "translation": "Okay. Yotsuba, good night."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん、おやすみー！",
+    "translation": "Good niiight!"
+  },
+  {
+    "character": "一花",
+    "japanese": "五月ちゃん、行こうか。",
+    "translation": "Itsuki-chan, shall we go?"
+  },
+  {
+    "character": "五月",
+    "japanese": "すみません。\n少し四葉と２人で話したいことがあるので。",
+    "translation": "Excuse me.\nThere's something I want to talk to Yotsuba about\nin private."
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉と？",
+    "translation": "With Yotsuba?"
+  },
+  {
+    "character": "一花",
+    "japanese": "……わかった。\nじゃあ、先に行くね。",
+    "translation": "...Alright.\nThen, I'll head out first."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "五月の答えは出た？",
+    "translation": "Have you made your decision, Itsuki?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……私も、あれから必死に考えました。",
+    "translation": "...I've been thinking hard since then, too."
+  },
+  {
+    "character": "五月",
+    "japanese": "『恋』という問題は、とても難しいのですね。\n上杉君が悩み苦労するのも、いまならよくわかります。",
+    "translation": "'Love' is a very complicated issue, isn't it?\nI can now understand why Uesugi-kun\nhas been struggling with it."
+  },
+  {
+    "character": "五月",
+    "japanese": "そして、四葉やみんなが、\nこの感情にどれだけ身を焦がす思いをしてきたのかも。",
+    "translation": "And, how much you all\nhave been burning with these feelings."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん……。",
+    "translation": "Yeah..."
+  },
+  {
+    "character": "五月",
+    "japanese": "これから先、どのような変化が訪れるとしても、\nそれを受け入れるだけの覚悟はできたつもりです。",
+    "translation": "I will be ready to accept\nwhatever may come, from here on out."
+  },
+  {
+    "character": "五月",
+    "japanese": "だからこそ、明日、\nどんな終わりを迎えようとも後悔はしません。",
+    "translation": "That's why I won't regret tomorrow,\nno matter how it ends."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そっか。\n間に合って良かった。",
+    "translation": "I see.\nI'm glad we made it in time."
+  },
+  {
+    "character": "五月",
+    "japanese": "……はい。",
+    "translation": "...Yes."
+  }
+]

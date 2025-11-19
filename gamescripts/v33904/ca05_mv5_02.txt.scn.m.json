@@ -1,0 +1,387 @@
+[
+  {
+    "character": "五月",
+    "japanese": "んんー、美味しいです！\nこれにして正解でした。",
+    "translation": "Mmm, this is delicious!\nChoosing this was the right answer."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、どんどん食べられちゃう味。",
+    "translation": "Yeah, I can just keep eating this flavor forever. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なに食ってんだ？",
+    "translation": "What are you eating?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、上杉君。",
+    "translation": "Oh, it's Uesugi-kun."
+  },
+  {
+    "character": "三玖",
+    "japanese": "タコライス。\n向こうのキッチンカーで売ってたんだ。",
+    "translation": "Taco rice.\nThey were selling it at the food truck over there."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……美味そうだな。",
+    "translation": "...Looks delicious."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君も食べたいんですか？\n私の分はあげませんよ？",
+    "translation": "Uesugi-kun, do you want to eat it too?\nI won't give you mine, though."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、そんなに威嚇しなくても\nお前のを取ったりはしないから安心しろ。",
+    "translation": "No need to be so threatening.\nI won't take yours, so relax."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私のもあげないから。",
+    "translation": "I won't give you mine either."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前らは俺をなんだと思ってる……。",
+    "translation": "What do you guys think of me...?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "せっかくだしフータローも買ってきたら？\n本場なんだよね、沖縄って。",
+    "translation": "Since you're here, why don't you get some too,\nFutaro?\nOkinawa has the real stuff."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、ソーキそばやゴーヤーチャンプルーと並ぶ、\n沖縄を代表する料理の１つですね。",
+    "translation": "Yes, along with soki soba noodles and goya champuru stir-fry,\nit's one of the representative dishes of Okinawa."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "国際通りでも、タコライスを売りにしてる店を\nいくつか見かけたよな。",
+    "translation": "Even on Kokusai dori,\nI saw some stores selling taco rice."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私、実は沖縄に来るまで知らなかった。",
+    "translation": "Actually, I didn't know about that\nuntil I came to Okinawa."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうなのか、意外だな。\n有名な話だと思ってたが。",
+    "translation": "Really? That's surprising.\nI thought it was well known."
+  },
+  {
+    "character": "三玖",
+    "japanese": "だって、タコスはメキシコ料理だし\nタコライスもそうなのかなって。",
+    "translation": "Well, tacos are Mexican food,\nso I was wondering if taco rice was also."
+  },
+  {
+    "character": "五月",
+    "japanese": "ふふふ、私は知っていますよ？",
+    "translation": "Heheh, I know the answer here."
+  },
+  {
+    "character": "五月",
+    "japanese": "タコスは具材をトルティーヤで包むもの。\nですが――",
+    "translation": "Tacos are when the ingredients are wrapped in a tortilla.\nBut%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "その具材を、ライスに載せちゃおうという発想は\n沖縄で生まれたものなのです！",
+    "translation": "The idea of putting those ingredients on rice\nwas born in Okinawa!"
+  },
+  {
+    "character": "五月",
+    "japanese": "タコスというメキシコ料理をもとに沖縄で生まれた、\nまったく新しい料理――それがタコライスなんですよ。",
+    "translation": "Taco rice is a completely new dish\nthat was created based on Mexican food,\ntacos, in Okinawa."
+  },
+  {
+    "character": "三玖",
+    "japanese": "なるほど、そういうことだったんだ。",
+    "translation": "I see, that's what it is."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月、よく知ってるな。",
+    "translation": "You know a lot, Itsuki."
+  },
+  {
+    "character": "五月",
+    "japanese": "予習していますので。\nなんなら、もっと詳しく話せますよ？",
+    "translation": "I studied in advance.\nIf you want, I can tell you more."
+  },
+  {
+    "character": "五月",
+    "japanese": "沖縄のどこで生まれたのか、とか、\nどう広まっていったのかとか！",
+    "translation": "Like where it was born in Okinawa,\nand how it spread!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そこまではいいかな……。",
+    "translation": "That's okay for now..."
+  },
+  {
+    "character": "五月",
+    "japanese": "はあ……。\nそんな話をしていたら、\nタコスも食べたくなってきました。",
+    "translation": "*sigh*\nTalking about them like this,\nI'm starting to want tacos too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "食べてるじゃないか。",
+    "translation": "Aren't you already eating them?"
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君？　私の話をちゃんと聞いていましたか？\nこれはタコライスで、タコスではありません。",
+    "translation": "Uesugi-kun? Were you listening to what I said?\nThis is taco rice, not tacos."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それはそうだが。\n似たようなもんではあるだろ？",
+    "translation": "Well, that's true, but\nthey're pretty similar, aren't they?"
+  },
+  {
+    "character": "五月",
+    "japanese": "確かに味の方向性は近くとも、\n料理としてはまったくの別物なんです！",
+    "translation": "Although the flavor profile is similar,\nthey're completely different dishes!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう、なんかすまん。",
+    "translation": "O-okay, my bad."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君のそういうところはどうかと思いますよ？\nもっと食に関心を持ってください。",
+    "translation": "You don't think that's the point, do you, Uesugi-kun?\nPlease pay more attention to food."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前が言うと説得力があるようなないような。",
+    "translation": "It's hard to take you seriously when you say it like that."
+  },
+  {
+    "character": "五月",
+    "japanese": "どういう意味ですか！",
+    "translation": "What's that supposed to mean?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……ふふっ！",
+    "translation": "...Heheh!"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ……。\nすみません、三玖。",
+    "translation": "Ah...\nExcuse me, Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "別に謝ることないよ。",
+    "translation": "No need to apologize."
+  },
+  {
+    "character": "三玖",
+    "japanese": "五月、いつも通りになったから。\n安心した。",
+    "translation": "Itsuki, things are back to normal.\nI feel relieved."
+  },
+  {
+    "character": "五月",
+    "japanese": "え？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローもそう思うよね？",
+    "translation": "Futaro, you feel the same way, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ノーコメントで。\nここで言うと五月が怒りそうだ。",
+    "translation": "No comment.\nIf I were to say anything, Itsuki might get angry."
+  },
+  {
+    "character": "五月",
+    "japanese": "それは言ったも同然ですが？\n怒りそうなことを思っているわけですよね？",
+    "translation": "Does that mean you're thinking of something\nthat might make her angry?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ノーコメントで。",
+    "translation": "...No comment."
+  },
+  {
+    "character": "三玖",
+    "japanese": "やっぱり、五月が美味しそうにご飯を食べてると\nいつも通りだなって安心する。",
+    "translation": "I feel relieved when I see Itsuki enjoying her meals,\njust like always."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そういう時の五月の笑顔は、\n私たちの平和の象徴なんだね。",
+    "translation": "Her smile at those times is a symbol of our peace."
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、そんな大げさな……。",
+    "translation": "I-isn't that a bit too exaggerated..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、食べるばかりじゃなくて\n作るのも練習したほうがいいよ。",
+    "translation": "Yet, it's true. You should also try\npracticing cooking, instead of just eating."
+  },
+  {
+    "character": "五月",
+    "japanese": "うぐ……。\n確かに料理は二乃や三玖に任せきりですが。",
+    "translation": "Uungh...\nI guess I leave the cooking to you and Nino a little too much."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、予習をちゃんとしてる辺りだな。\n五月はやはり真面目だ。",
+    "translation": "Yeah, with how prepared she came.\nItsuki is pretty serious."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それもそうだけど。\nもう１個あるんじゃないかな。",
+    "translation": "That's true, but I think there's one more thing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あとは、そうだな、\n食べ物を心置きなく楽しんでるところだな。",
+    "translation": "Well, yeah, I'd say it's being able\nto enjoy food without any worries."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、それ。\n私も同意見。",
+    "translation": "Yeah, that's it. I agree."
+  },
+  {
+    "character": "五月",
+    "japanese": "……褒められたと思っておきます。",
+    "translation": "...I'll take it as a compliment."
+  },
+  {
+    "character": "三玖",
+    "japanese": "やっぱり、五月が美味しそうにご飯を食べてると\nいつも通りだなって安心する。",
+    "translation": "I feel relieved when I see Itsuki enjoying her meals,\njust like always."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そういう時の五月の笑顔は、\n私たちの平和の象徴なんだね。",
+    "translation": "Her smile at those times is a symbol of our peace."
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、そんな大げさな……。",
+    "translation": "I-isn't that a bit too exaggerated..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、食べるばかりじゃなくて\n作るのも練習したほうがいいよ。",
+    "translation": "Yet, it's true. You should also try\npracticing cooking, instead of just eating."
+  },
+  {
+    "character": "五月",
+    "japanese": "うぐ……。\n確かに料理は二乃や三玖に任せきりですが。",
+    "translation": "Uungh...\nI guess I leave the cooking to you and Nino a little too much."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、安心するよな。\n五月が食べ物に目を輝かせてると。",
+    "translation": "Oh yeah, very relieved.\nWhen I see Itsuki's eyes shine at the sight of food."
+  },
+  {
+    "character": "五月",
+    "japanese": "む……。",
+    "translation": "Hmm..."
+  },
+  {
+    "character": "五月",
+    "japanese": "あら、それなら私も\nあなたがウンチクを言い出すと安心しますよ？",
+    "translation": "Ah, I see.\nThen I feel relieved\nwhen you start spouting trivia, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほほう？\nなんならタコス雑学にくわえて\nメキシコの歴史あたりを語ってやろうか？",
+    "translation": "Really now? How about I tell you some Mexican history\nto go with your taco trivia?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "それは勘弁して。\n授業受けてる気分になりそう。",
+    "translation": "I'll pass. I'll feel like I'm in class."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、フータローに反撃するなんて。\n五月もやるね。",
+    "translation": "But it's impressive that you could\ncounter Futaro like that."
+  },
+  {
+    "character": "五月",
+    "japanese": "ふふっ！\n私も言われっぱなしではありませんので。",
+    "translation": "Teehee!\nI haven't just been sitting here\ngetting talked at, you know."
+  },
+  {
+    "character": "三玖",
+    "japanese": "やっぱり、五月が美味しそうにご飯を食べてると\nいつも通りだなって安心する。",
+    "translation": "I feel relieved when I see you enjoying her meals,\njust like always."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そういう時の五月の笑顔は、\n私たちの平和の象徴なんだね。",
+    "translation": "Her smile at those times is a symbol of our peace."
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、そんな大げさな……。",
+    "translation": "I-isn't that a bit too exaggerated..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、食べるばかりじゃなくて\n作るのも練習したほうがいいよ。",
+    "translation": "Yet, it's true. You should also try\npracticing cooking, instead of just eating."
+  },
+  {
+    "character": "五月",
+    "japanese": "うぐ……。\n確かに料理は二乃や三玖に任せきりですが。",
+    "translation": "Uungh...\nI guess I leave the cooking to you and Nino a little too much."
+  },
+  {
+    "character": "三玖",
+    "japanese": "誰かに手料理を振る舞いたいって思う日も\n来ると思うし。",
+    "translation": "I think there will come a day\nwhen you want to treat someone to a home-cooked meal."
+  },
+  {
+    "character": "五月",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？\nなんの話をしてるんだ？",
+    "translation": "Wait, what are you talking about?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……ええ、そうですね。\n精進します。",
+    "translation": "...Yes, you're right. I'll keep that in mind."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "気にしなくていいよ。\nこっちの話だから。",
+    "translation": "Don't worry about it.\nIt's not about you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや気になるだろ……。",
+    "translation": "Nah, that does make me wonder..."
+  }
+]

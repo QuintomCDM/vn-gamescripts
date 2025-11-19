@@ -1,0 +1,517 @@
+[
+  {
+    "character": "五月",
+    "japanese": "昼間は賑やかな場所でしたが……\n少し雰囲気が変わっていますね。",
+    "translation": "During the daytime, it was a lively place, but...\nthe atmosphere has changed a bit, hasn't it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんつーか、落ち着いてるな。\nのんびり散歩するにはうってつけだ。",
+    "translation": "It's like it's calm now.\nIt's perfect for a leisurely walk."
+  },
+  {
+    "character": "五月",
+    "japanese": "はい、来てよかったです。",
+    "translation": "Yes, I'm glad we came."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（イルミネーションも派手なものじゃないが、\n　控え目な明かりに浮かび上がっている建物が\n　幻想的だ）",
+    "translation": "(The light show isn't so flashy,\n but the buildings floating in the dusky light\n are almost dreamy.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "ゆっくり歩きましょうか。\nせっかくの景色ですから。",
+    "translation": "Shall we walk slowly?\nWe shouldn't miss out on this scenery."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう。",
+    "translation": "Yeah."
+  },
+  {
+    "character": "五月",
+    "japanese": "……この音は。",
+    "translation": "...What's that sound?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三線（さんしん）だな。\n向こうに演奏してる人がいる。",
+    "translation": "That's a 'sanshin.'\nSomeone is playing it over there."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三線は……さすがに知ってるか？",
+    "translation": "You know...what a sanshin is, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、三味線に似た沖縄の伝統楽器でしょう？",
+    "translation": "Yes, it's a traditional Okinawan instrument\nsimilar to a shamisen, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "沖縄に来てまだ２日ですが、\nこの音はもう何度も耳にしていますね。",
+    "translation": "I've only been in Okinawa for two days, but\nI've heard this sound many times already."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、思った以上に\n沖縄の人々の生活に馴染んでるというか、\n当たり前にある物なんだと実感した。",
+    "translation": "Yeah, I guess we've become more familiar with\nOkinawa than expected.\nThis is just a natural part of Okinawan people's lives."
+  },
+  {
+    "character": "五月",
+    "japanese": "街並みはヨーロッパのような雰囲気なのに、\nこの音を聞くと沖縄なんだと思えます。",
+    "translation": "The cityscape is clearly filled\nwith a European atmosphere, and whenever\nI hear this melody, it reminds me of being in Okinawa."
+  },
+  {
+    "character": "五月",
+    "japanese": "でもミスマッチさは少しもなくて……。\nこれもまた当たり前のようで……。",
+    "translation": "Although they seem mismatched...\nIt feels perfectly natural..."
+  },
+  {
+    "character": "五月",
+    "japanese": "この空気は沖縄に来なければ楽しめないものですね。\nやはり見て聞かないとわからないものです。",
+    "translation": "This atmosphere is something that you can't appreciate\nunless you actually come here. After all, you really can't \nknow until you see and hear it for yourself."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まったくだ。",
+    "translation": "Absolutely."
+  },
+  {
+    "character": "五月",
+    "japanese": "それをこうして、うえす……\n風太郎と一緒に感じられて……嬉しいです。",
+    "translation": "I'm happy...that I can feel this way\nwith you, Uesu... Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……俺も同じだ。",
+    "translation": "...I feel the same way."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "いつまでも聞いていられそうですが、\nそろそろ行きましょうか。",
+    "translation": "I could listen to this forever,\nbut shall we go soon?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか、プロジェクションマッピングの\n開始時間がそろそろだな。",
+    "translation": "Oh, the projection mapping is about to start."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "案内だと、ここが会場なんだが。",
+    "translation": "According to the guide, this is the venue."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（他にも始まるのを待ってる風の人がいるし\n　間違いなさそうだが……）",
+    "translation": "(There are other people who seem to be waiting\n for it to start,\n so it looks like we're in the right place...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もしかして、この階段に映し出されるのか？",
+    "translation": "Could it be that they're going to project images\nonto these stairs?"
+  },
+  {
+    "character": "五月",
+    "japanese": "なるほど、これがスクリーンということですね。\n一体どんなものが見られるのでしょう？",
+    "translation": "I see, so this is the screen.\nI wonder what we'll be able to see?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……お、始まるみたいだぞ。",
+    "translation": "...Oh, looks like it's starting."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（音楽とともに、\n　階段に光の粒のようなものが表示される。\n　それは次第に数を増していき――）",
+    "translation": "(Particles of light appear on the stairs\n that go along with the music.\n Then it gradually increases%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（すげぇ、まるで青い光の海みたいだ。\n　これは沖縄の海を現してるってことか？）",
+    "translation": "(Wow, it's like a sea of blue light.\n This must be a representation\n of the sea in Okinawa.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "わあ……！",
+    "translation": "Wow...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（沖縄の海に、次々と生き物が現れる）",
+    "translation": "(Creatures from the sea of Okinawa\n come out, one after another.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（小さな魚が群れをなし、\n　巨大なエイやクジラが光の軌跡を描きながら\n　それを追い抜いていく――）",
+    "translation": "(Small fish form schools, and giant rays and whales\n follow their paths of light and overtake them%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これは……想像以上だな……。",
+    "translation": "This is...beyond imagination..."
+  },
+  {
+    "character": "五月",
+    "japanese": "はい！　こんなに幻想的だなんて！",
+    "translation": "Yes! It's so fantastical!"
+  },
+  {
+    "character": "五月",
+    "japanese": "クジラやウミガメ、それに様々な魚たちが\n本当に光の海を泳いでいるよう……。",
+    "translation": "Whales, sea turtles,\nand various types of fish\nreally seem to be swimming in a sea of light..."
+  },
+  {
+    "character": "五月",
+    "japanese": "こうしていると、なんだか……\n私たちも一緒に海を駆け回っているような\n気持ちになります。",
+    "translation": "Watching this...\nI feel like I'm swimming around in the sea with them.\nIt's such a great feeling."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ……。",
+    "translation": "Yeah..."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "……終わってしまいました。",
+    "translation": "...Looks like it's over."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "何分くらいの映像だったんだろうな。\nあっという間だった。",
+    "translation": "I wonder how long the program was.\nIt felt like it was over in an instant."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、最後まで無言で見入ってしまいました。\n他の人たちもそんな感じでしたね。",
+    "translation": "Yes, I was completely absorbed in it\nuntil the end without saying a word.\nOther people seemed to be feeling the same way."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "元気なのは子どもだけだったな。\n本当にそこにいるのかって、はしゃぎまくって。",
+    "translation": "Only the children seemed to be lively.\nThey were so excited,\nwondering if what they saw was real."
+  },
+  {
+    "character": "五月",
+    "japanese": "ふふ、とても不思議でしょうね。\nいるように見えても触れることもできませんから。",
+    "translation": "Teehee, the children must find it very magical.\nEven though it looks like they're really there,\nyou can't actually touch them."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あー、で、これからどうする？\n目的だったプロジェクションマッピングは\n終わっちまったわけだが……戻るか？",
+    "translation": "...Ah, so, what are we going to do now?\nThe projection mapping that we came for is over...\nshould we go back?"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "もう少しだけ……。",
+    "translation": "Just a little longer..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、もう少しだけならいいよな。",
+    "translation": "Okay, just a little longer wouldn't hurt."
+  },
+  {
+    "character": "五月",
+    "japanese": "はい……。",
+    "translation": "Yes..."
+  },
+  {
+    "character": "五月",
+    "japanese": "あれ？\n人が見当たりませんね。",
+    "translation": "Oh?\nWhere did everyone go?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "プロジェクションマッピングが終わったから\n引き上げちまったのかもな。",
+    "translation": "They might have left\nsince the projection mapping is over."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（俺たちだけ……他には誰も……\n　これは……！）",
+    "translation": "(It's just us... There's no one else...\n This is...!)"
+  },
+  {
+    "character": "五月",
+    "japanese": "……さすがに、この時間では海はよく見えませんね。",
+    "translation": "...Well, you can't really see the sea well\nat this time of the day."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう。",
+    "translation": "Y-yeah."
+  },
+  {
+    "character": "五月",
+    "japanese": "でも、いまこの瞬間にも、先ほどの映像のように\nたくさんの生き物たちが泳いでいるのでしょう。",
+    "translation": "But even now, at this moment,\nthere are surely many creatures swimming in the sea\nlike in the video we just saw."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ま、まあ、そうだろな。",
+    "translation": "W-well, I guess so."
+  },
+  {
+    "character": "五月",
+    "japanese": "映像では、彼らは海を飛び出して\n星空へと舞い上がっていきましたよね。",
+    "translation": "In the video, they jumped out of the sea\nand danced in the starry sky, didn't they?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、あそこが一番綺麗だった。",
+    "translation": "Yeah, that was the most beautiful part."
+  },
+  {
+    "character": "五月",
+    "japanese": "あの海で生きる彼らも、空を見上げて――",
+    "translation": "I wonder if even the creatures living in the sea,\nlook up at the sky%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "広い空へと旅立ち、どこまでも泳いでいきたい。\nそんな想像をしているのでしょうか。",
+    "translation": "And imagine swimming endlessly\nin the vastness of space."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうかもな。",
+    "translation": "They just might."
+  },
+  {
+    "character": "五月",
+    "japanese": "そう考えると、楽しくなりますね。",
+    "translation": "Thinking so is quite exciting, isn't it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう。",
+    "translation": "Y-yeah."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いかん、意識しすぎて\n　まともな受け答えができなくなってないか？\n　五月に変だと思われるぞ！）",
+    "translation": "(Uh oh, am I thinking too much\n and unable to respond properly?\n Itsuki might think I'm acting weird!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……！",
+    "translation": "...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、あの、五月？\n手が触れてるんだが……。",
+    "translation": "U-um, Itsuki?\nYou're kinda touching me with your hand..."
+  },
+  {
+    "character": "五月",
+    "japanese": "あっ！\nすみません……。",
+    "translation": "Ah!\nExcuse me..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もし宇宙へ飛び出したら、きっと広さに驚くだろうな。\n海も広いが、宇宙は無限みたいなもんだし。",
+    "translation": "They'd be surprised at how big it is,\nif they could fly out into space.\nThe ocean is vast, but space seems infinite."
+  },
+  {
+    "character": "五月",
+    "japanese": "ふふっ、本当ですね。\n怖くなってしまって、\n急いで海に帰ってくるかもしれません。",
+    "translation": "Heheh, that's true.\nThey might get scared and hurry back to the sea."
+  },
+  {
+    "character": "五月",
+    "japanese": "それでもきっと憧れは止まらなくて、\n少しずつ、少しずつ、先へ進んでいくのでしょう。",
+    "translation": "Even so, their longing would never stop,\nand bit by bit, they would keep moving forward."
+  },
+  {
+    "character": "五月",
+    "japanese": "明日は月の傍まで、\nその次の日は月の裏側を見に行く。\n……そんな風に。",
+    "translation": "Tomorrow, they'd go to the moon,\nand the next day, they'd go see\nthe far side of the moon...like that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……！",
+    "translation": "...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、あの、五月？\n手が触れてるんだが……。",
+    "translation": "U-um, Itsuki?\nYou're kinda touching me with your hand..."
+  },
+  {
+    "character": "五月",
+    "japanese": "あっ！\nすみません……。",
+    "translation": "Ah!\nExcuse me..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月も行ってみたいのか？",
+    "translation": "You wanna join them, Itsuki?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですね。\n星空を散歩するなんて夢があります。",
+    "translation": "Well, let me see.\nI do have a dream of taking a walk under the starry sky."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちなみに、宇宙飛行士になるには\n相当な努力が必要だぞ？\n無論、学力もだが。",
+    "translation": "Just for the record, becoming an astronaut\nrequires a considerable amount of effort."
+  },
+  {
+    "character": "五月",
+    "japanese": "もう、急に夢のないことを言わないでください。",
+    "translation": "Oh my goodness. Don't suddenly say things\nthat crush my dreams like that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー、いや、もし宇宙を目指すのなら\nもっと覚悟が必要だし、本気なら\n俺も手伝うっつーか、そういうつもりだったんだが。",
+    "translation": "Ah, no, if you are serious about aiming for space,\nI just meant you need to be more prepared.\nI mean, I was going to help you with that."
+  },
+  {
+    "character": "五月",
+    "japanese": "あ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "五月",
+    "japanese": "すみません、勝手なことを言って。\nあなたなりの優しさだったのに。",
+    "translation": "Oh, sorry for saying something so presumptuous.\nIt was your way of showing kindness, after all."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、俺も飛躍しすぎたよな。\nははは……。",
+    "translation": "Well, I guess I went too far.\nHahaha..."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうやって、どんな夢でも\n笑い飛ばしたりしないで寄り添い、\n真面目に向き合ってくれる――",
+    "translation": "I appreciate that no matter what my dreams are,\nyou'll take them seriously and I can lean on you for support%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "やっぱりあなたは、私の理想です。",
+    "translation": "You are my absolute, when I think about it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……！",
+    "translation": "...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、あの、五月？\n手が触れてるんだが……。",
+    "translation": "U-um, Itsuki?\nYou're kinda touching me with your hand..."
+  },
+  {
+    "character": "五月",
+    "japanese": "あっ！\nすみません……。",
+    "translation": "Ah!\nExcuse me..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや……いいんだ。",
+    "translation": "No... It's fine."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（って、違うだろ！\n　ここで気まずいだけで終わったら、\n　いままでの俺となにも変わってねぇ！）",
+    "translation": "(No, that's not it!\n If it were to end awkwardly here,\n I won't be able to change from who I was!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ここが勝負の時――\n　覚悟を決めて、一歩踏み込むんだ！）",
+    "translation": "(This is the time to show my determination\n and take a step forward!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "――五月。",
+    "translation": "{UNTRANSLATED}――五月。"
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ？\nう、上杉君……？",
+    "translation": "Huh?\nU-Uesugi-kun...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（五月が恋人らしくあろうとしてくれたように\n　俺も自分の気持ちを真っ直ぐに……）",
+    "translation": "(Just like Itsuki tried to be a girlfriend for me,\n I will be honest with my feelings for her...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺はこの先、お前とずっと一緒に歩んでいきたい。\n地球を飛び出して、星の海へだって一緒に。",
+    "translation": "I want to walk by your side forever.\nLet's leave Earth and explore the sea of stars together."
+  },
+  {
+    "character": "五月",
+    "japanese": "は、はい。",
+    "translation": "Y-yes."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（俺の想いをちゃんと伝える。\n　恋人らしくキスで――）",
+    "translation": "(I will express my feelings properly.\n With a kiss, like a lover%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月……。",
+    "translation": "Itsuki..."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "――え？",
+    "translation": "{UNTRANSLATED}――え？"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（頬に衝撃……？\n　な、なにが起きたんだ？）",
+    "translation": "(A strike to my cheek...?\n W-what happened?)"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ……。\nわ、私は……。",
+    "translation": "Ah...\nI-I..."
+  },
+  {
+    "character": "五月",
+    "japanese": "……っ！",
+    "translation": "...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ああ、そうか。\n　五月にキスしようとして\n　それで……ビンタされたのか……）",
+    "translation": "(Oh, that's what happened.\n I tried to kiss Itsuki,\n and then...she slapped me...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんで……なんでだよ……。",
+    "translation": "Why... Why would you...."
+  }
+]

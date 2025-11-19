@@ -1,0 +1,562 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "おおおおお……！",
+    "translation": "Ooohh...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これが沖縄の空気っ！\nこれが！　南国！！",
+    "translation": "This is the air of Okinawa!\nThis is it! The tropics!!"
+  },
+  {
+    "character": "一花",
+    "japanese": "うわぁ、テンション高いなぁ。",
+    "translation": "Wow, you're really excited."
+  },
+  {
+    "character": "四葉",
+    "japanese": "飛行機が着陸したあたりからずっとああだね。\nテンションが振り切れてるよ。",
+    "translation": "You've been like that since the plane landed.\nYour excitement is off the charts."
+  },
+  {
+    "character": "二乃",
+    "japanese": "声が大きいわよ。\n周りの人がこっち見てるじゃない。",
+    "translation": "You're so loud.\nPeople around us are looking at us."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すまんっ！\nしかし本州とはまったく違うんだな！\n同じ日本とは思えん！！",
+    "translation": "Sorry!\nBut it's completely different from mainland Japan!\nI can't believe it's the same country!!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "だから声が大きいのよ！",
+    "translation": "I said, you're being too loud!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ごめんなさい、こんなお兄ちゃんで。",
+    "translation": "I'm sorry big bro is acting like that."
+  },
+  {
+    "character": "三玖",
+    "japanese": "らいはちゃんが謝ることないよ。",
+    "translation": "You don't have to apologize, Raiha-chan."
+  },
+  {
+    "character": "一花",
+    "japanese": "らしいと言えばらしいもんね。\n結構俗っぽいというか、\n子どもっぽいところがあるというか。",
+    "translation": "Well, it is what it is.\nBeing kind of cheesy or maybe a little childish."
+  },
+  {
+    "character": "五月",
+    "japanese": "それに気持ちもわかります。\nなんというか、非日常な場所に来たという\n感じがしますから。",
+    "translation": "I can understand the feeling, though.\nIt's like we've come to an extraordinary place."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、ワクワクする！\n連れてきてくれて、ありがとうございます！",
+    "translation": "Yeah, it's so exciting!\nThank you for bringing us here!"
+  },
+  {
+    "character": "一花",
+    "japanese": "いえいえ。\nみんなで沖縄を楽しもうね。",
+    "translation": "No problem.\nLet's all enjoy Okinawa together."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、お前も無事に来られてよかったぜ。\n試験も合格！　晴れて堂々と卒業旅行だ！",
+    "translation": "Oh, I'm glad you made it here safely.\nYou passed the exams too!\nWe're officially on our graduation trip!"
+  },
+  {
+    "character": "一花",
+    "japanese": "君のおかげだよ。\nありがとね、フータロー君。",
+    "translation": "It's because of you.\nThanks, Futaro-kun."
+  },
+  {
+    "character": "三玖",
+    "japanese": "一花も頑張ったよ。",
+    "translation": "You worked hard too, Ichika."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん！\nちゃんと仕事と両立できてたのはさすがだね。",
+    "translation": "Yeah!\nIt's amazing that you managed\nto balance out both work and academics."
+  },
+  {
+    "character": "一花",
+    "japanese": "お？　これは、お姉ちゃんとしての威厳も\nアップしちゃったみたいだね。\nふふーん、もっと褒めてくれてもいいよ？",
+    "translation": "Oh? It looks like I've become an even better big sister.\nHehe, you could praise me more, you know?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "調子に乗らない。",
+    "translation": "Don't get carried away."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃ、まずは旅行プランの確認をしておきましょ。\nフー君たちにはまだ説明してないわよね。",
+    "translation": "Okay, let's first confirm the travel plan.\nI don't think we've explained it\nto Fu-kun and Raiha-chan yet."
+  },
+  {
+    "character": "一花",
+    "japanese": "そうだね。\nえっと……。",
+    "translation": "That's right.\nLet's see..."
+  },
+  {
+    "character": "一花",
+    "japanese": "はい、フータロー君。\nらいはちゃんもどうぞ。",
+    "translation": "Here, Futaro-kun.\nAnd also, one for Raiha-chan."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お？　わざわざしおりを作ってきたのか。\n気合い入ってるな。",
+    "translation": "Oh? Did you make an itinerary for us?\nYou're really into this."
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは、勢いで作っちゃったんだよね。\n最初のページにざっとした予定があるから。",
+    "translation": "Ahaha, I made it on a whim.\nThere's a rough schedule on the first page."
+  },
+  {
+    "character": "一花",
+    "japanese": "日程は６日間。\nと言っても、１日目の今日と\n最後の日は移動だから実質４日だね。",
+    "translation": "The trip is for six days.\nBut since the first day is today and the last day\nis for going back, it's really four days."
+  },
+  {
+    "character": "一花",
+    "japanese": "明日は、定番の首里城からスタート。\nその後は国際通り、それと、\n美浜アメリカンビレッジってところへ行きまーす。",
+    "translation": "Tomorrow, we'll start with the classic Shurijo Castle.\nThen we'll head to the international street, Kokusai dori\nand Mihama American Village."
+  },
+  {
+    "character": "一花",
+    "japanese": "３日目は海洋博公園、\n美ら海（ちゅらうみ）水族館がある所ね。\nその後は海のアクティビティで思いっきり遊ぶ！",
+    "translation": "On the third day, we'll go to\nOkinawa Churaumi Aquarium and Ocean Expo Park.\nThen we'll enjoy some ocean activities!"
+  },
+  {
+    "character": "一花",
+    "japanese": "４日目は沖縄の南のほうへ行きます。\nおきなわワールドと、その周辺だね。",
+    "translation": "On the fourth day, we'll head to the south of Okinawa.\nWe'll visit Okinawa World and the surrounding area."
+  },
+  {
+    "character": "一花",
+    "japanese": "最後の日は、もう一度\n沖縄の海を満喫して、バーベキューで締めです。",
+    "translation": "On the last day, we'll enjoy the Okinawa ocean again\nand finish with a barbecue."
+  },
+  {
+    "character": "らいは",
+    "japanese": "すごーい、あっちこっち行くんだ！",
+    "translation": "Wow, we're going all over the place!"
+  },
+  {
+    "character": "一花",
+    "japanese": "これでもかなり絞り込んだんだよ？\n沖縄って、行きたくなるところがたくさんで\nホント困っちゃった。",
+    "translation": "We actually narrowed it down quite a bit, you know?\nThere are so many places to go in Okinawa\nthat it was really difficult to decide."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うむうむ、いいんじゃないか。\n沖縄のいいところ取りだ。",
+    "translation": "Hmmm, I think it's good.\nWe'll be getting the best of Okinawa."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、今日はもう\nどこにも行かないってことだよな？",
+    "translation": "So, we're not going anywhere else today, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うん。\nホテルにチェックインして夕食にしようか。",
+    "translation": "We aren't.\nLet's check in at the hotel and have dinner."
+  },
+  {
+    "character": "五月",
+    "japanese": "では、旅行の日程を確認しましょうか。\n上杉君たちにはまだ説明していませんし。",
+    "translation": "Shall we confirm the itinerary for our trip?\nWe haven't explained it\nto Uesugi-kun and Raiha-chan yet."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうね。\nじゃあ……。",
+    "translation": "You're right.\nOkay..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はい、風太郎。\nらいはちゃんの分もあるわよ。",
+    "translation": "Here, for you, Futaro.\nAnd one for Raiha-chan too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お？　わざわざしおりを作ってきたのか。\n気合い入ってるな。",
+    "translation": "Oh? Did you make an itinerary for us?\nWow, you're on the ball."
+  },
+  {
+    "character": "二乃",
+    "japanese": "予定をノートに書き出したりしてたし、\nそれをまとめただけよ。",
+    "translation": "I wrote the schedule in my notebook\nand just put it together."
+  },
+  {
+    "character": "二乃",
+    "japanese": "日程は６日間だけど、実質は４日ね。\n１日目の今日と最後の日は移動に使うから。",
+    "translation": "The trip is planned for six days, but it's really only four.\nThe first day is arriving at Okinawa,\nand the last day is for going back."
+  },
+  {
+    "character": "二乃",
+    "japanese": "明日は１日使って古宇利島（こうりじま）観光よ。\nその次の日は、海水浴とバーベキュー。",
+    "translation": "Tomorrow, we'll spend the day\nsightseeing on Kouri Island.\nThe next day, we'll go to the beach and have a barbecue."
+  },
+  {
+    "character": "二乃",
+    "japanese": "４日目は首里城から国際通りの流れね。\nそれと、美浜アメリカンビレッジへ行きましょ。",
+    "translation": "On the fourth day, we'll visit Shurijo Castle\nand then head to Kokusai dori\nand Mihama American Village."
+  },
+  {
+    "character": "二乃",
+    "japanese": "５日目は海洋博公園。\n美ら海（ちゅらうみ）水族館なんかがある所よ。",
+    "translation": "On the fifth day,\nwe'll go to the Okinawa Churaumi Aquarium\nand the Ocean Expo Park."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ、結構あちこち行くんだな。",
+    "translation": "Wow, we're going all over the place."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ここまで決めるまでにかなり迷ったのよ？\n沖縄を全部楽しもうと思ったら、\n４日じゃとても足りないわ。",
+    "translation": "I had a hard time deciding on this itinerary.\nIf we want to enjoy all of Okinawa,\nfour days isn't enough."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、今日はもう\nどこにも行かないってことだよな？",
+    "translation": "So, we're not going anywhere else today, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うん。\nホテルにチェックインして夕食にしようか。",
+    "translation": "We aren't.\nLet's check in at the hotel and have dinner."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃ、まずは旅行プランの確認をしておきましょ。\nフー君たちにはまだ説明してないわよね。",
+    "translation": "Okay, let's first confirm the travel plan.\nI don't think we've explained it\nto Fu-kun and Raiha-chan yet."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、うん、そうだね。\nええっと……。",
+    "translation": "Ah, yeah, that's right.\nUmm..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、これ。\nらいはちゃんも。",
+    "translation": "Futaro, here.\nOne for you too, Raiha-chan."
+  },
+  {
+    "character": "らいは",
+    "japanese": "わ！　旅のしおり！\n作ってきてくれたんだ。",
+    "translation": "Wow! A travel guide!\nYou made it for us."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "気合い入ってるな。",
+    "translation": "You're really pumped up."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そ、そうだね。",
+    "translation": "I-I guess."
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっと、日程は６日間だけど、実質は４日。\n初日の今日と最後の日は飛行機での移動だから。",
+    "translation": "Um, the itinerary is for six days,\nbut actually, we're only here for four days.\nWe'll be traveling by plane on the first and last day."
+  },
+  {
+    "character": "三玖",
+    "japanese": "明日はまず、首里城。\nそのあと県立博物館へ行くつもり。",
+    "translation": "Tomorrow, we'll first go to Shurijo Castle.\nThen the plan\nis to go to the Okinawa Prefectural Museum."
+  },
+  {
+    "character": "三玖",
+    "japanese": "３日目は城の跡とか、\nガンガラーの谷とかを見に行く予定。",
+    "translation": "On the third day, we will see castle ruins\nand places like the Valley of Gangala."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おっ！　俺が見たいって言った所じゃないか！\nちゃんと取り入れてくれたんだな。",
+    "translation": "Oh! Isn't that the place I said I wanted to see?\nYou actually included it in the plan."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん……。",
+    "translation": "Yeah..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "４日目は国際通り。\nその後はビーチで遊ぶ感じ。",
+    "translation": "On the fourth day, we'll visit the international street, Kokusai dori.\nAfter that, we'll have fun at the beach."
+  },
+  {
+    "character": "三玖",
+    "japanese": "最後の日は海洋博公園。\n美ら海（ちゅらうみ）水族館とかを見て、\n旅行は終わり。",
+    "translation": "On the last day, we'll go to Ocean Expo Park.\nWe'll finish our trip\nby seeing places like Churaumi Aquarium."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うむうむ、やるじゃないか！\nきっちり沖縄らしいところを巡る形になってる。",
+    "translation": "Hmmm, impressive!\nIt's a well-planned trip, and we'll get to\nexperience all of the quintessential Okinawan places."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……うん、ありがと。",
+    "translation": "...Yes, thank you."
+  },
+  {
+    "character": "らいは",
+    "japanese": "？　三玖さん？",
+    "translation": "? Miku-san?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "なに？　らいはちゃん。",
+    "translation": "What, Raiha-chan?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "あ、ううん。\n素敵なプランをありがとうございます。",
+    "translation": "Ah, it's nothing.\nThank you for the wonderful plan."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、今日はもう\nどこにも行かないってことだよな？",
+    "translation": "So, we're not going anywhere else today, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うん。\nホテルにチェックインして夕食にしようか。",
+    "translation": "We aren't.\nLet's check in at the hotel and have dinner."
+  },
+  {
+    "character": "五月",
+    "japanese": "では、旅行の日程を確認しましょうか。\n上杉君たちにはまだ説明していませんし。",
+    "translation": "Shall we confirm the itinerary for our trip?\nWe haven't explained it\nto Uesugi-kun and Raiha-chan yet."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、そうだった！\nじゃあ……。",
+    "translation": "Oh, right!\nWell then..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はいっ！\nこちらが今回の旅のしおりになりまーす！",
+    "translation": "Here you go!\nThis is the travel guide for this trip!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おっ、こんな物まで用意したのか。\n張り切ってるな。",
+    "translation": "Woah, you went so far as to prepare this.\nYou're really pumped up."
+  },
+  {
+    "character": "四葉",
+    "japanese": "にしし～。\nでは最初のページをご覧ください。\nざっとした旅の流れになります。",
+    "translation": "Heehee.\nWell, please take a look at the first page.\nThis gives you an overview of the entire trip."
+  },
+  {
+    "character": "四葉",
+    "japanese": "日程は６日間ですが、実質は４日ですね。\n１日目の今日と最後の日は飛行機での移動です。\nそれで、明日は……。",
+    "translation": "The itinerary is for six days, but in reality,\nit'll only be four days. On the first and last day,\nwe'll be traveling by plane. So, for tomorrow..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "沖縄と言えばエメラルドグリーンの海！\nまずは海でたっぷり遊びましょう！",
+    "translation": "Let's start by playing in the sea to our\nheart's content! You know, when it comes to\nOkinawa, it's all about the emerald green sea!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "その次の日は国際通りですね。\nそこから海洋博公園に移動します。",
+    "translation": "The next day is the international street, Kokusai dori.\nFrom there, we'll move on to Ocean Expo Park."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ここには美ら海（ちゅらうみ）水族館なんかが\nありますよ。",
+    "translation": "That's where \nthe Okinawa Churaumi Aquarium is."
+  },
+  {
+    "character": "四葉",
+    "japanese": "３日目は首里城！　これも外せません！\nそこから県立博物館に行って、\n沖縄について勉強もしましょう。",
+    "translation": "On the third day, we'll visit Shurijo Castle!\nThis is a must-see! Then, we'll head to the\nOkinawa Prefectural Museum to learn more about Okinawa."
+  },
+  {
+    "character": "四葉",
+    "japanese": "最後の日は、美浜アメリカンビレッジと\nその周辺を１日かけて楽しみます。",
+    "translation": "On the last day, we'll spend the day enjoying\nthe area around Mihama American Village."
+  },
+  {
+    "character": "四葉",
+    "japanese": "と、こんな感じですね。\nどうです？",
+    "translation": "That's about it.\nWhat do you think?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "すごい、盛りだくさんだ！",
+    "translation": "Wow, this itinerary is packed with so much stuff!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、見てるだけでワクワクしてくるぜ。",
+    "translation": "Just looking at it makes me excited."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えへへ、お褒めにあずかり光栄です。",
+    "translation": "Hehehe, I'm honored by your kind words."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、今日はもう\nどこにも行かないってことだよな？",
+    "translation": "So, we're not going anywhere else today, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うん。\nホテルにチェックインして夕食にしようか。",
+    "translation": "Nope.\nLet's check in at the hotel and have dinner."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃ、まずは旅行プランの確認をしておきましょ。\nフー君たちにはまだ説明してないわよね。",
+    "translation": "Okay, let's first confirm the travel plan.\nI don't think we've explained it\nto Fu-kun and Raiha-chan yet."
+  },
+  {
+    "character": "五月",
+    "japanese": "わかりました。\nそれでは……。",
+    "translation": "Understood.\nWell then..."
+  },
+  {
+    "character": "五月",
+    "japanese": "こちらをどうぞ。",
+    "translation": "Here you are."
+  },
+  {
+    "character": "らいは",
+    "japanese": "わっ！　これ、旅のしおり？",
+    "translation": "Wow! Is this a travel guide?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、つい作ってしまいまして。\nはしゃぎすぎているみたいで恥ずかしいのですが。",
+    "translation": "Yes, I made it on a whim.\nThough, I feel a little embarrassed\nbecause it looks like I got a little too excited."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、わかりやすくていいと思うぞ。\nこっちとしては助かる。",
+    "translation": "No, I think it's easy to understand.\nIt's helpful for us."
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、そうですか。\nでは説明させて頂きますね。",
+    "translation": "O-oh, really? Well, then let me explain it to you."
+  },
+  {
+    "character": "五月",
+    "japanese": "日程は６日ですが、観光に使えるのは４日です。\n１日目の今日と最後の日は移動のみですから。",
+    "translation": "The trip is for six days, but we can use\nonly four days for sightseeing. The first and last days\nare for traveling only."
+  },
+  {
+    "character": "五月",
+    "japanese": "明日はまず、瀬長島（せながじま）ウミカジテラス\nという場所へ向かいます。",
+    "translation": "Tomorrow, we will first go to a place called\nSenagajima Umikaji Terrace."
+  },
+  {
+    "character": "五月",
+    "japanese": "その後は首里城を見学、\n国際通りの観光に向かいます。",
+    "translation": "After that, we will visit Shurijo Castle\nand go sightseeing at the international street, Kokusai dori."
+  },
+  {
+    "character": "五月",
+    "japanese": "３日目は海水浴です。\nやはり沖縄と言えば美しい海ですからね、\n１日楽しみましょう。",
+    "translation": "On the third day, we'll spend the entire day swimming.\nBecause you can't say Okinawa without thinking \nof the beautiful ocean, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "４日目は海洋博公園です。\nここは美ら海（ちゅらうみ）水族館が\n特に有名ですよ。",
+    "translation": "On the fourth day, we will go to Ocean Expo Park.\nThe Churaumi Aquarium here is particularly famous."
+  },
+  {
+    "character": "五月",
+    "japanese": "そのあとは美浜アメリカンビレッジへ向かいます。",
+    "translation": "After that, we will head to Mihama American Village."
+  },
+  {
+    "character": "五月",
+    "japanese": "最後の日は、おきなわワールドと\nその周辺の観光地を巡って終わりです。",
+    "translation": "On the last day, we will visit Okinawa World\nand other nearby sightseeing spots to end the trip."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ、有名どころとよく知らないところがあるな。\nこれは楽しみだ。",
+    "translation": "Wow, there are famous places\nand places I don't really even know. This is going to be fun."
+  },
+  {
+    "character": "五月",
+    "japanese": "見どころがあまりにも多くて、\nここまで絞り込むのに苦労しました。",
+    "translation": "There are just so many places to see,\nthat it was difficult to narrow it all down."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、今日はもう\nどこにも行かないってことだよな？",
+    "translation": "So, we're not going anywhere else today, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うん。\nホテルにチェックインして夕食にしようか。",
+    "translation": "We aren't.\nShall we check in at the hotel and have dinner?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、さっそくタクシーで――",
+    "translation": "Okay then, let's take a taxi%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いやいや！　それはもったいないぞ！",
+    "translation": "No, no! We should enjoy the view!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "へ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "沖縄に来たんだし、ゆいレールに乗ろうぜ！",
+    "translation": "Since we came to Okinawa, let's take the Yui Rail!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、はい。\nそうですね、せっかくですし。",
+    "translation": "Oh, yes. That's a good idea,\nconsidering we're here."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが、ゆいレールに乗るならば\n出口はここではありませんね。",
+    "translation": "However, if we're going to take the Yui Rail,\nthis isn't the exit we should use."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なにっ！？\nなんてこった、出だしから躓いてるじゃないか！\n急ぐぞ！",
+    "translation": "What?!\nOh no, we're stumbling right off the bat!\nLet's hurry up!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "別に急ぐ必要ないのに。",
+    "translation": "There's no need to hurry."
+  },
+  {
+    "character": "二乃",
+    "japanese": "本当にテンション高いわねー。\nモノレールに乗ってるあいだに\n少しは落ち着いてくれるといいけど。",
+    "translation": "You're really excited.\nI hope you can calm down a little\nwhile we're on the monorail."
+  },
+  {
+    "character": "らいは",
+    "japanese": "すみません、あんなお兄ちゃんで。",
+    "translation": "Sorry, but my big bro is always like that."
+  }
+]

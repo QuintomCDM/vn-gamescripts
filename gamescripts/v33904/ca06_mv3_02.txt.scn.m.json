@@ -1,0 +1,322 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "あれ、お前らここにいたのか。",
+    "translation": "Oh, you guys are over here."
+  },
+  {
+    "character": "五月",
+    "japanese": "あら、上杉君。\nあなたこそ、こんな所でなにをしているのですか？",
+    "translation": "Ah, Uesugi-kun?\nWhat are you doing here?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さっき観覧車の話をしてただろ。\nもしかしたらと思ってな。",
+    "translation": "You were just talking about the Ferris Wheel earlier,\nso I thought I'd check it out."
+  },
+  {
+    "character": "三玖",
+    "japanese": "聞いていたのですか。\n油断も隙もありませんね。",
+    "translation": "You were listening?\nWe have to be careful not to let our guard down."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前ら、アイス屋に行くんじゃなかったのか？",
+    "translation": "Weren't you guys supposed to go to the ice cream shop?"
+  },
+  {
+    "character": "五月",
+    "japanese": "時間は充分にありますから。\n町並みを楽しみながら、そちらへ向かうつもりです。",
+    "translation": "We have plenty of time.\nWe plan to enjoy the town's scenery on the way there."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……アイス屋へ直行してないところをみると、\n　この２人は五月以外って可能性が高い……か？）",
+    "translation": "(Since they didn't go straight to the\n ice cream shop, there's a high possibility\n these two are not Itsuki...right?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（よし、ちょっと仕掛けてみるか）",
+    "translation": "(Alright, let's try something.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー、そういえば以前、\n一緒に観覧車に乗ったことがあったな。",
+    "translation": "Ah, come to think of it,\nwe rode the Ferris Wheel together before."
+  },
+  {
+    "character": "三玖",
+    "japanese": "いえ、そのような覚えはありませんが。",
+    "translation": "I'm sorry, I don't recall such a memory."
+  },
+  {
+    "character": "五月",
+    "japanese": "誰かと勘違いしているのではないですか？",
+    "translation": "Are you perhaps mistaking me for someone else?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、そうだったか？",
+    "translation": "Oh, was that not you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（知らないってことは、この２人は四葉じゃないな）",
+    "translation": "(No one recognized that,\n so it's likely neither of them are Yotsuba.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いや、待て。\n　そもそもどちらかが四葉だとしても、いまは\n　『五月』だから知らないと言うのは当然で……）",
+    "translation": "(Hold on, wait.\n Even if one of them were Yotsuba, she's now\n acting as 'Itsuki,' so she wouldn't know...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "どうかしましたか？",
+    "translation": "Is everything okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、なんでもない。",
+    "translation": "No, it's nothing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（これは意外とやっかいだな……）",
+    "translation": "(This is surprisingly tricky...)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "せっかく観覧車がありますし、乗ってみますか？\nこの町並みだけでなく沖縄の海まで\n全部見渡せそうですよ。",
+    "translation": "Since there's a Ferris Wheel here,\nwhy don't we give it a try? Not only can we see \nthe scenery of the town but also the Okinawan ocean."
+  },
+  {
+    "character": "五月",
+    "japanese": "でしたら、夜に乗るのもいいかもしれません。",
+    "translation": "In that case, why don't we ride it at night, then?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "夜って、それだと暗くて\nせっかくの景色が見られないだろ？",
+    "translation": "At night? But then,\nit'll be too dark to see the view."
+  },
+  {
+    "character": "五月",
+    "japanese": "普通であればそうですね。\nですが、この時期は街全体に\nイルミネーションが施されているそうなんです。",
+    "translation": "Normally, that would be the case.\nHowever, during this time, the entire \ncity is decorated with light displays."
+  },
+  {
+    "character": "五月",
+    "japanese": "エリアごとに趣向を凝らしているので、\n観覧車から見たら、きっとロマンチックですよ。",
+    "translation": "Each area has a unique theme,\nso it should be romantic\nfrom the Ferris Wheel's perspective."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……こういう情報を持ってるのは二乃っぽいか？）",
+    "translation": "(...I feel like Nino would know \n this kind of information, right?)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そんなイベントがあったのですね。",
+    "translation": "There's that kind of event, huh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "沖縄といえば青く晴れた空で、\n夜景を見るというイメージはありませんでした。",
+    "translation": "When I think of Okinawa,\nI imagined seeing the clear blue skies, \nnot the night view. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "イルミネーションか。\n確かにそれは綺麗かもしれないな。",
+    "translation": "I see. Light displays, huh? That does sound beautiful."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが、日常の灯りだって捨てたもんじゃないだろ。\n人の営みがそこにある証なんだしな。",
+    "translation": "However, even the lights of everyday life \nshouldn't be disregarded.\nThey're proof of human existence."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そう考えると、ただの夜景も\n充分綺麗に見えたりするんじゃないか？",
+    "translation": "If you think about it that way,\neven a regular night view can look beautiful."
+  },
+  {
+    "character": "五月",
+    "japanese": "……そうですね。\nここは観光地ですが、普通に生活している人たちも\n大勢住んでいるのですから。",
+    "translation": "...That's true. This is a tourist destination,\nbut there are also many people\nliving their daily lives here."
+  },
+  {
+    "character": "三玖",
+    "japanese": "なるほど……。",
+    "translation": "I see..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私たちは、そういう場所に\nお邪魔させてもらっているという意識を\n持っておかなければいけませんね。",
+    "translation": "We have to be conscious of the fact\nthat we are guests in this place."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、それを忘れてしまうと\n知らないうちに迷惑をかけてしまうかもしれません。",
+    "translation": "Yes, if we forget that,\nwe might unintentionally cause trouble."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、急に真面目だな。",
+    "translation": "What? You're suddenly serious?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……もしかして馬鹿にしてます？",
+    "translation": "...Are you making fun of me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、そんなつもりじゃないぞ？\nちょっと驚いただけだ。",
+    "translation": "No, that's not what I meant.\nI was just a little surprised."
+  },
+  {
+    "character": "三玖",
+    "japanese": "もう……。\n私だって、それくらいは考えています。",
+    "translation": "Come on...\nEven I think about such things."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "観光地に来たからって\n羽目は外さないようにしないとな。",
+    "translation": "When you come to a tourist spot,\nyou have to be careful not to go overboard."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "地元の人に受け入れられたほうが、\nこっちとしてもいい思い出になるはずだ。",
+    "translation": "It should be a good memory for us\nif we're accepted by the locals."
+  },
+  {
+    "character": "三玖",
+    "japanese": "だからこそ、地元名産の食べ物も\n楽しまないといけませんね。",
+    "translation": "That's why we have to enjoy\nthe local specialties too, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういうのって、つい忘れがちだよな。\n当たり前のことなんだが。",
+    "translation": "That's the kind of thing you tend to forget.\nEven though it's just common sense."
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたは旅行となると\n妙にテンションが上がりますからね。",
+    "translation": "You get strangely excited\nwhen it comes to traveling."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、お前には言われたくないぞ！",
+    "translation": "I-I don't want to hear that from you!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ふふ。\nお互い、今回の旅ではきちんとしていきましょう。",
+    "translation": "Heheh.\nLet's both behave properly on this trip."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "観光地に来たからって\n羽目は外さないようにしないとな。",
+    "translation": "When you come to a tourist spot,\nyou have to be careful not to go overboard."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "地元の人に受け入れられたほうが、\nこっちとしてもいい思い出になるはずだ。",
+    "translation": "It should be a good memory for us\nif we're accepted by the locals."
+  },
+  {
+    "character": "三玖",
+    "japanese": "だからこそ、地元名産の食べ物も\n楽しまないといけませんね。",
+    "translation": "That's why we have to enjoy\nthe local specialties too, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういう意識を持つことは大事だよな。\nお互い気持ちよく交流したいもんだ。",
+    "translation": "It's important to have that kind of awareness.\nWe both want to have a pleasant exchange."
+  },
+  {
+    "character": "五月",
+    "japanese": "その通りです。\n私たちはあくまで観光客ですから。",
+    "translation": "That's right.\nAfter all, we're just tourists."
+  },
+  {
+    "character": "五月",
+    "japanese": "その土地の良さを教えてもらえるような、\n謙虚な態度も必要です。",
+    "translation": "We also need to have a humble attitude\nthat allows us to learn about the local area."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "観光地に来たからって\n羽目は外さないようにしないとな。",
+    "translation": "When you come to a tourist spot,\nyou have to be careful not to go overboard."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "地元の人に受け入れられたほうが、\nこっちとしてもいい思い出になるはずだ。",
+    "translation": "It should be a good memory for us\nif we're accepted by the locals."
+  },
+  {
+    "character": "三玖",
+    "japanese": "だからこそ、地元名産の食べ物も\n楽しまないといけませんね。",
+    "translation": "That's why we have to enjoy\nthe local specialties too, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……うん？\nどうしてそうなるんだ。",
+    "translation": "...Hm?\nHow does that work out?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "食を知ることは、その土地の歴史を知ること。",
+    "translation": "Knowing food is knowing the history of the land."
+  },
+  {
+    "character": "三玖",
+    "japanese": "地元の方と同じものを食べてこそ、\n真に受け入れられるものです。",
+    "translation": "Eating the same things as the locals\nis what truly makes you accepted."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……この食へのこだわりは五月か？）",
+    "translation": "(Is this Itsuki, and her obsession with food?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（だが、いまの言い回しは\n　どことなく三玖っぽい気も……）",
+    "translation": "(But the way it was said just now,\n seems a bit like Miku...)"
+  },
+  {
+    "character": "五月",
+    "japanese": "土地の食と言えば、沖縄には『ムーチー』という\n昔ながらのお菓子があるんですよ。",
+    "translation": "When it comes to local food, there's an old-fashioned\nOkinawan snack called 'muchi,' you know?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そして『ムーチーの日』もあって、\n厄払いや健康祈願として食べるそうなんです。",
+    "translation": "There's even a 'muchi Day' where people eat it\nto ward off bad luck, and pray for good health."
+  },
+  {
+    "character": "五月",
+    "japanese": "お餅のようなお菓子で、\n黒糖味や紅芋味などもあるらしいですよ？",
+    "translation": "It's kind of like a sweet rice cake.\nAnd apparently, there are flavors like \nbrown sugar and purple sweet potato."
+  },
+  {
+    "character": "三玖",
+    "japanese": "むむ……。\nそれは是非とも食べてみたいですね。",
+    "translation": "Hmm...\nI definitely want to try that."
+  },
+  {
+    "character": "五月",
+    "japanese": "はい！\n売っていないか探してみましょう。",
+    "translation": "Yes!\nLet's see if we can find it for sale."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こっちの五月も食い物の話題かよ。\n　どっちもどっちだな……）",
+    "translation": "(This Itsuki is also talking about food.\n It seems like they're two peas in a pod...)"
+  }
+]

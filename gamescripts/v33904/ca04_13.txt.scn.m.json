@@ -1,0 +1,512 @@
+[
+  {
+    "character": "らいは",
+    "japanese": "わあ～、人が多いね。\nまだ朝なのに。",
+    "translation": "Wow, it's still early,\nand there are so many people here already."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私たちと同じように、\n朝ご飯を食べに来てる人でしょうか？",
+    "translation": "Are they here to eat breakfast, like us?"
+  },
+  {
+    "character": "五月",
+    "japanese": "昨日も思いましたが、この街並みには\nどこか異国感がありますね。",
+    "translation": "I thought about this yesterday too,\nbut there's something exotic about this cityscape,\ndon't you think?"
+  },
+  {
+    "character": "五月",
+    "japanese": "では、旅行を満喫するためにも、\nまずは美味しい朝ご飯を頂きましょう。",
+    "translation": "Well, to fully enjoy our trip,\nlet's start with a delicious breakfast."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ここはやっぱり、\n沖縄ならではって感じのがいいよね。",
+    "translation": "Here, we've got to have something\nthat's only available in Okinawa."
+  },
+  {
+    "character": "四葉",
+    "japanese": "定番だと、沖縄そばやタコライス。\n手軽に食べられるポークたまごおにぎりとか。",
+    "translation": "Like the standard, Okinawa soba or taco rice.\nThere are also convenient options\nlike pork and egg rice balls"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あと、アメリカンスタイルもありかな。\nお店多いし、メニューも豊富だし。",
+    "translation": "Also, there are many American-style options.\nThe variety of items on menus,\nas well as restaurants themselves, is impressive."
+  },
+  {
+    "character": "五月",
+    "japanese": "ま、迷いますね……。",
+    "translation": "I-it's so hard to choose..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんはなにが――",
+    "translation": "Uesugi-san, what do you wa%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、朝食はおかゆがいいよ。",
+    "translation": "Futaro,\nI think rice porridge would be good for breakfast."
+  },
+  {
+    "character": "三玖",
+    "japanese": "沖縄っぽさはないけど、\n消化にいいし疲れた体にも優しい。",
+    "translation": "It's not very Okinawan,\nbut it's easy to digest and good\nfor our tired bodies."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "悪くないな。\n一昨日も昨日も豪華な食事だったし、\nここで胃を休めるわけか。",
+    "translation": "That's not a bad idea.\nWe've had many fancy meals for the past couple of\ndays, so we should give our stomachs a break."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローならわかってくれると思った。",
+    "translation": "I knew you'd understand, Futaro."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえ、フー君！\nすっごく良い香りがしない？",
+    "translation": "Hey, Fu-kun!\nDon't you think something smells REALLY good?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、言われてみれば香ばしい匂いがするな。",
+    "translation": "Yeah, now that you mention it,\nit does smell good."
+  },
+  {
+    "character": "二乃",
+    "japanese": "これ、きっと焼き立てのパンね！\n香りだけで絶対に美味しいってわかるわ。",
+    "translation": "It must be freshly baked bread!\nYou can tell just by the aroma how good it is."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やっぱり焼き立てだと違うのか？",
+    "translation": "Does it really make that much of a difference\nif it's fresh?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ええ、別物なのかって思うくらいに違うわよ？\n食べてみましょ！",
+    "translation": "Yes, it's totally different!\nYou can't even compare it.\nCome on, let's try it!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "さ、先を越されてる！？",
+    "translation": "Th-they beat me to the punch?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "おかゆだよね？",
+    "translation": "Rice porridge, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "パンよね。",
+    "translation": "Bread, obviously."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺はどっちでもいいが、みんなにも聞いて――",
+    "translation": "I don't really care either way, but let's ask everyone%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローに選んでほしい。",
+    "translation": "I want you to choose, Futaro."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君はどっちが好き？",
+    "translation": "Fu-kun, which do you like?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だ、だから、そんなにくっつく必要は……。",
+    "translation": "I-I said, you don't need to get so close to me..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、私を選んで。",
+    "translation": "Futaro, choose me."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ！？",
+    "translation": "HUH?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……ちらっ。",
+    "translation": "*peek*"
+  },
+  {
+    "character": "四葉",
+    "japanese": "へ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君が好きなのは私のほうよね？",
+    "translation": "Fu-kun, you like ME more, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えええっ！？",
+    "translation": "HUUHH?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……ちらっ。",
+    "translation": "*peek*"
+  },
+  {
+    "character": "四葉",
+    "japanese": "んん？",
+    "translation": "Hmmm?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "どっちが好き？",
+    "translation": "Which do you like better?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あわわ……！",
+    "translation": "Uwaaa!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わ、わかった！\n選ぶから、ちょっと離れてくれっ！",
+    "translation": "I-I got it!\nI'll choose, just get AWAY!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "むう……。",
+    "translation": "Mmphh...."
+  },
+  {
+    "character": "二乃",
+    "japanese": "もう、照れちゃって。",
+    "translation": "What're you so embarassed about."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ……。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（一体なんなんだよ、これは。\n　２人とも明らかに変だぞ）",
+    "translation": "(What's going on with these two?\n They're clearly acting weird.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー、そうだな。\nどっちかと言えばおかゆだな。",
+    "translation": "Hmm, let me see.\nI think I prefer rice porridge."
+  },
+  {
+    "character": "二乃",
+    "japanese": "え～？　どうして？",
+    "translation": "Huh? How come?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "胃に優しいものが食べたい気分なんだよ。\nお前らと違って、俺の胃は贅沢に慣れてない。",
+    "translation": "I feel like eating something gentle on my stomach.\nUnlike you guys, my stomach isn't used to luxury."
+  },
+  {
+    "character": "二乃",
+    "japanese": "もー、フー君がそう言うなら仕方ないわね。",
+    "translation": "Oh WELL, if you say so, Fu-kun,\nthere's nothing we can do about it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふふ、私の勝ち。",
+    "translation": "Teehee, I win."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、あのぉー……。",
+    "translation": "U-umm..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "四葉。\n朝ご飯、なに食べるか決まったよ。",
+    "translation": "Yotsuba.\nWe've decided what to have for breakfast."
+  },
+  {
+    "character": "四葉",
+    "japanese": "お、おかゆだよね！？",
+    "translation": "I-it's rice porridge, isn't it?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、おかゆ。\nきっと美味しいよ。",
+    "translation": "Yeah, it's rice porridge.\nIt'll definitely be good."
+  },
+  {
+    "character": "五月",
+    "japanese": "四葉、いいのですか？",
+    "translation": "Yotsuba, is that okay?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん。\n上杉さんが選んだんだし、問題ないよ。",
+    "translation": "Okay. Uesugi-san chose it and all that,\nso there's no problem."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "悪いな四葉。\nこっちで勝手に決めたみたいになっちまって。",
+    "translation": "Sorry Yotsuba, I feel like I made the decision\nwithout consulting you."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえいえ。\nみんなが食べたいものでオッケーですから。",
+    "translation": "No worries.\nI'm fine with it as long as\nit's okay with everyone else."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、早く行きましょ。\n朝食が済んだら行きたいところが\nたくさんあるんだから。",
+    "translation": "Fu-kun, come on, let's go quickly.\nThere are many places I want to go to after breakfast."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、引っ張るなって！",
+    "translation": "Hey, don't pull me like that!"
+  },
+  {
+    "character": "五月",
+    "japanese": "この調子で、本当に大丈夫なのでしょうか。",
+    "translation": "Do you think this is really okay?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃんは押しに弱すぎー。",
+    "translation": "Big bro is too weak to push back!"
+  },
+  {
+    "character": "一花",
+    "japanese": "まあ、フータロー君の次の頑張りに期待しよっか。",
+    "translation": "Well, let's look forward to Futaro-kun's next effort,\nshall we."
+  },
+  {
+    "character": "三玖",
+    "japanese": "おかゆ、美味しかったね。",
+    "translation": "The rice porridge was delicious."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、悪くなかったな。",
+    "translation": "Yeah, it wasn't bad."
+  },
+  {
+    "character": "一花",
+    "japanese": "さて！\nバッチリ目も覚めたし、\n四葉、今日の予定はどんな感じだっけ？",
+    "translation": "Now then!\nNow that I'm fully awake, Yotsuba,\nwhat are today's plans again?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "今日は――",
+    "translation": "Today%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえ、フー君！\n買い物に付き合ってくれない？",
+    "translation": "Hey, Fu-kun! Can you come shopping with me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別に構わないが、なにを買うんだ？",
+    "translation": "I don't mind, but what are we buying?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "いい感じの小物が揃ったお店があったのよ。\n覗いてみたいの。",
+    "translation": "There's a shop with some nice trinkets\nthat I want to check out."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー。\nそれより、お土産を見に行こうよ。",
+    "translation": "Futaro.\nLet's go look for souvenirs instead."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いきなり土産か？　まだ旅行は中盤だぞ？",
+    "translation": "Souvenirs, all of a sudden?\nWe're in the middle of the trip, aren't we?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "どんなのがあるか、目星をつけておきたくて。\n帰り際で迷ったら困るし。",
+    "translation": "I just want to get an idea of what's available,\nso we won't have trouble deciding later."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、あれ？\nなんかタイミング悪かったかな？",
+    "translation": "U-um?\nDid I perhaps have bad timing?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ほら、フータロー君。\nここは君がビシッとしないとダメなんじゃない？",
+    "translation": "Hey, Futaro-kun.\nYou have to make a good decision here, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、俺は別にどこでもいいんだが。",
+    "translation": "No, it doesn't matter to me where we go."
+  },
+  {
+    "character": "一花",
+    "japanese": "ええー……。",
+    "translation": "Yeah..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そもそも国際通りを見て回る予定なんでしょ？\nだったらいいわよね。",
+    "translation": "Aren't we planning to look around Kokusai dori?\nThen, that's fine, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、行きましょ。",
+    "translation": "Let's go, Fu-kun."
+  },
+  {
+    "character": "三玖",
+    "japanese": "待って二乃。\nまだどっちに行くかフータローが決めてない。",
+    "translation": "Wait, Nino. Futaro hasn't decided where to go yet."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は！？　またかよ！",
+    "translation": "Huh?! This again?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉、いいの？\nこのままだと、また２人に先を越されちゃうよ。",
+    "translation": "Yotsuba, are you okay with this?\nThose two are gonna butt in front of you again\nat this rate."
+  },
+  {
+    "character": "四葉",
+    "japanese": "別に競争してるわけじゃないし。\n二乃や三玖に行きたいとこがあるなら、\nそれでいいと思うよ。",
+    "translation": "It's not like I'm competing with them or anything.\nIf Nino or Miku wants to go somewhere,\nI think that's fine."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあさ、ここで四葉も提案したら、\nフータロー君は誰を選ぶんだろうね？",
+    "translation": "Then, if you suggest a place, Yotsuba,\nwhere do you think Futaro-kun will choose?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "へっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉は、フータロー君に誰を選んでほしい？",
+    "translation": "Yotsuba,\nwhose option would you like Futaro-kun to choose?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ちょ、ちょっと待って一花！\nなんか違う話になってない？",
+    "translation": "W-wait a second, Ichika!\nAren't you kind of getting off topic?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そう？\nそれほど違ってはないと思うけどな。",
+    "translation": "Really?\nI don't really think I am."
+  },
+  {
+    "character": "四葉",
+    "japanese": "だって上杉さんは……。",
+    "translation": "I mean, Uesugi-san is..."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君は、なに？",
+    "translation": "Futaro-kun, is what?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "私と、私とぉ……あうう～……。",
+    "translation": "D-dating...aawwwww..."
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉？",
+    "translation": "Yotsuba?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "一花、やりすぎです！",
+    "translation": "Ichika, you're going too far!"
+  },
+  {
+    "character": "一花",
+    "japanese": "あちゃあ、しまった。",
+    "translation": "Uh oh. Oops."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なあ、四葉。\n次に行く場所なんだが――",
+    "translation": "Hey, Yotsuba.\nAs for where we're going next%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "五月ちゃん、よろしく！",
+    "translation": "Itsuki-chan, you've got this!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええっ！？",
+    "translation": "Huhhh?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん？　どうしたんだ四葉は。",
+    "translation": "Hm? What's going on with Yotsuba?"
+  },
+  {
+    "character": "五月",
+    "japanese": "つ、つまりですね、こちらもまだ考えがまとまって\nおらず、ご質問にいますぐお答えできない状態でして、\nできれば少々お時間を置いてから改めてお話をっ！",
+    "translation": "W-well now, we haven't quite decided yet,\ntherefore, we can't answer your question right away.\nCould you give us some time to think about it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだそりゃ。\n行きたい場所がたくさんあるってことか？\nなら自由行動でいいかもな。",
+    "translation": "What's that supposed to mean?\nThat means you all have a lot of places you want to go?\nIn that case, maybe we should just have free time."
+  },
+  {
+    "character": "五月",
+    "japanese": "そう！　それです！　自由行動！\nさすがは上杉君、察しが良いですね！\nひとまず午前中は自由行動にしましょう！",
+    "translation": "Right! That's it! Free time it is!\nAs expected of you, Uesugi-kun, you're so perceptive.\nLet's have free time for the morning!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう。\nじゃあ、午前中は自由行動な。\n時間になったら集合ってことにしよう。",
+    "translation": "O-okay.\nSo, free time for the morning.\nLet's meet up when it's time to leave."
+  },
+  {
+    "character": "一花",
+    "japanese": "ナイス、五月ちゃん。\nありがとね。",
+    "translation": "Nice, Itsuki-chan.\nThanks."
+  },
+  {
+    "character": "五月",
+    "japanese": "もう勘弁してください。\n自分がなにを言ったのか自分でもわかりません。",
+    "translation": "I give up.\nI don't even know what I'm saying anymore."
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃんの察しが悪くて助かったねー。",
+    "translation": "Thank goodness for big bro's\npoor perception skills."
+  }
+]

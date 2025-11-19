@@ -1,0 +1,972 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "おおおお～！\nなんだか沖縄っぽい門だ！",
+    "translation": "Oooohh!\nThis gate looks very Okinawan!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "この門、テレビで見たことある。",
+    "translation": "I've seen this torii gate on TV before."
+  },
+  {
+    "character": "五月",
+    "japanese": "守礼門ですね。\n沖縄にある建築物でも有名なものですから、\nメディアにもよく取り上げられますよ。",
+    "translation": "That's Shureimon.\nIt's a famous building in Okinawa,\nso it's often featured in the media."
+  },
+  {
+    "character": "二乃",
+    "japanese": "門の上に額があるけど、\nあれで守礼って読むのかしら？",
+    "translation": "There's a plaque on top of the gate,\nis that how 'shurei' is read?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あれは、しゅれいのくに、と書かれてる。\n礼節を守るという意味だ。",
+    "translation": "That's read as 'shurei no kuni,'\nmeaning to uphold etiquette."
+  },
+  {
+    "character": "二乃",
+    "japanese": "へー、そうなの。\nさすがフー君。",
+    "translation": "Oh, I see.\nYou really know your stuff, Fu-kun."
+  },
+  {
+    "character": "四葉",
+    "japanese": "やっぱり、こういう知ってる風景に出会うと\n沖縄に来たぞーって感じがして\nテンション上がりますね！",
+    "translation": "When you find places you've known about but\nnever been to like this one, it really makes you feel like\nyou're in Okinawa and it's very exciting!"
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ、中に入る前にみんなで写真撮らない？\n沖縄観光一発目の記念写真。",
+    "translation": "Hey, before we go in,\nshould we all take a photo together?\nA commemorative photo of our first Okinawa sightseeing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう、こういう定番どころは押さえとかないとな。",
+    "translation": "Yeah, we should definitely hit up more of these famous spots much like this one."
+  },
+  {
+    "character": "三玖",
+    "japanese": "写真……フータローと……。",
+    "translation": "A picture...with Futaro..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖？\n写真撮るぞ、こっち来いって。",
+    "translation": "Miku?\nWe're gonna take a picture, c'mere."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ひゃあっ！？",
+    "translation": "HYAAH?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うおっ！？\nすまん、驚かせたか？",
+    "translation": "Woah?!\nSorry, did I startle you?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "わ、私、らいはちゃんと撮りたい！\n二乃！　撮って！",
+    "translation": "I-I wanna take a picture with Raiha-chan!\nNino! Take it!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はいはい。",
+    "translation": "Okay, okay."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えー！　三玖ズルい！\n私もらいはちゃんと撮りたーい！",
+    "translation": "Whaaa! Miku, you're so sneaky!\nI want to take a picture with Raiha-chan, too!"
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、らいはちゃんを真ん中にして――",
+    "translation": "Alright, Raiha-chan will be in the center, then."
+  },
+  {
+    "character": "一花",
+    "japanese": "ほら、両手に四葉と三玖。\nらいはちゃんはモテモテだなぁ。",
+    "translation": "Well aren't you just so popular, Raiha-chan."
+  },
+  {
+    "character": "らいは",
+    "japanese": "えへへー。",
+    "translation": "Ehehe."
+  },
+  {
+    "character": "二乃",
+    "japanese": "撮るわよー。\nはい、チーズ。",
+    "translation": "I'm gonna take a picture.\nAlright, say cheese."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえーい！",
+    "translation": "Cheeeeese!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "い、いえーい。",
+    "translation": "Ch-cheese."
+  },
+  {
+    "character": "一花",
+    "japanese": "……うーん。",
+    "translation": "Umm."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ次は全員で！",
+    "translation": "Alright, now let's take a group photo!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "全員って誰がシャッター押すのよ。",
+    "translation": "Who's gonna take the picture if everyone's gonna be in the photo?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ああ、私がやるよ。\nその後に誰か交代して、もう１枚撮ろ。",
+    "translation": "Okay, I will.\nI'll take one, then someone else can take the next one."
+  },
+  {
+    "character": "一花",
+    "japanese": "はい、並んで並んで。",
+    "translation": "Alright, line up, line up."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ？\n三玖、上杉さんの隣じゃなくていいの？",
+    "translation": "Hm?\nMiku, you don't need to be next to Uesugi-san?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっ！？\nべ、別に、いまはいいかなって！",
+    "translation": "HUH?!\nI-It's fine!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、もっと気を利かせないと。\nこういう時は隣にエスコートだよ。",
+    "translation": "Big bro, you need to be more attentive.\nYou should be standing next to her at times like these."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、だが……。",
+    "translation": "Yeah, but..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "いいよ！　これでいいから！\n一花、早く撮って！",
+    "translation": "Okay! This is good enough!\nIchika, take it quickly!"
+  },
+  {
+    "character": "一花",
+    "japanese": "はーい。\nそれじゃ行くよー。",
+    "translation": "Okay.\nAlright then, here we go."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ私が撮るから！\n一花、並んで！",
+    "translation": "Wait, let me take it!\nIchika, come line up!"
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、ありがとね。",
+    "translation": "Kay, thanks."
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "三玖、いいんですか？\n私が撮りましょうか？",
+    "translation": "Miku, are you alright?\nShall I take the picture?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "いいよ、大丈夫。\nじゃあみんな、撮るよ。",
+    "translation": "No don't worry about it. Everyone get ready."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はーい。",
+    "translation": "Right-o."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "！……\nフータローが、こっち見て……！",
+    "translation": "!...\nFutaro, look this way!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "～～～～～っ！",
+    "translation": "~~~~~!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "三玖？　どうしたのよ？",
+    "translation": "Miku? What's wrong?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ご、ごめん、いま撮るっ！",
+    "translation": "S-sorry! I'll take it now!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "オッケー撮れた！　じゃあ進もう！",
+    "translation": "Alright! I took it! Now, let's keep moving!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ！？\n三玖、そんなに急がなくても時間はあるよー！",
+    "translation": "Wait, what?\nMiku, there's no need to rush.\nWe have time, you know?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "三玖さーん！　待ってー！",
+    "translation": "Miku-saaan! Wait!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（本当になんなんだよ、三玖……）",
+    "translation": "(What the heck is going on, what's up with Miku...?)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、私たちも行きましょ。",
+    "translation": "Fu-kun, you too, let's go."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、ああ。",
+    "translation": "Y-yeah."
+  },
+  {
+    "character": "五月",
+    "japanese": "一花、これは……。",
+    "translation": "Ichika, this is..."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君に聞いてみるしかないよね、やっぱり。",
+    "translation": "We have no choice but to ask Futaro-kun, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "三玖、大丈夫？",
+    "translation": "Miku, are you okay?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "大丈夫……だと思う……。",
+    "translation": "I think...I'm okay..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "体力ないのに走ったりするからよ。",
+    "translation": "It's cause you tried to run when you don't even have stamina."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "首里城は意外に高低差があるからな。\n無理しないで、のんびり行こうぜ。",
+    "translation": "Shurijo Castle has a surprising amount\nof elevation changes.\nLet's take it easy."
+  },
+  {
+    "character": "三玖",
+    "japanese": "う、うん……。",
+    "translation": "O-okay..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "ここの門、すごいねー。\nなんていうか強そう！",
+    "translation": "This torii gate is amazing!\nIt looks so durable!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "これは瑞泉門（ずいせんもん）っていう門ですよ。\nおめでたい泉、という意味なんです。",
+    "translation": "This is Zuisenmon.\nIt means 'auspicious spring.'"
+  },
+  {
+    "character": "らいは",
+    "japanese": "へー！\n四葉さん、物知りだね。",
+    "translation": "Wow!\nYotsuba-san, you're so knowledgeable!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "でへへへ～、それほどでも～。",
+    "translation": "Hehehe, you're making me blush."
+  },
+  {
+    "character": "二乃",
+    "japanese": "四葉ー、パンフレットが\nポケットからはみ出してるわよー。",
+    "translation": "Yotsuba, your brochure is sticking out of your pocket."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はうっ！？\nバラさないでよ二乃ぉ！",
+    "translation": "AAGH?!\nDon't expose me like that, Nino!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふふっ。",
+    "translation": "Teehee."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（笑ってる。\n　いまはいつも通りの三玖だよな。\n　だが、さっきは明らかにおかしかった）",
+    "translation": "(She's laughing. Miku seems like her usual self now,\n but earlier, she was definitely acting strange.)"
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君、ちょっといい？",
+    "translation": "Futaro-kun, can I talk to you for a second?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん？　なんだよ。",
+    "translation": "Hm? What is it?"
+  },
+  {
+    "character": "五月",
+    "japanese": "三玖のことで、少し。",
+    "translation": "It's about Miku."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "一花",
+    "japanese": "おや？\nその顔、なにか聞かれたくないことが\nあるって感じだね。",
+    "translation": "Hmm? It looks like you don't want to be asked about something."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別にそんなんじゃ……。",
+    "translation": "It's not like that..."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君さ、\nもしかして三玖にオイタしちゃった？",
+    "translation": "Futaro-kun,\ndid you do something to upset Miku?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあっ！？\nオイタってなんだよ。",
+    "translation": "WHA%p-2;――%p;?!\nWhat do you mean, upset her?"
+  },
+  {
+    "character": "一花",
+    "japanese": "例えば、困らせるようなことを\nしたんじゃないかなって。",
+    "translation": "Like, you did something to bother her,\nor something like that."
+  },
+  {
+    "character": "五月",
+    "japanese": "沖縄に来てから三玖の様子がおかしいのです。\n思うに、あなたを避けているような……。",
+    "translation": "Since coming to Okinawa, Miku has been acting strange.\nI think she's avoiding you..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "図星かな？\nオイタしちゃいました？",
+    "translation": "I'm right, aren't I?\nCould it be that you unintentionally\nmade her upset?"
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君！？",
+    "translation": "Uesugi-kun?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや違う、濡れ衣だ！\n確かに避けられてる気はするが、\n理由は思いつかない！",
+    "translation": "No, that's not true! That's a false accusation!\nI do feel like I'm being avoided,\nbut I can't think of any reason why!"
+  },
+  {
+    "character": "五月",
+    "japanese": "本当ですか？\nあなたのことですから、無自覚のうちに\nなにかしてしまったのでは？",
+    "translation": "Really now?\nKnowing you,\ncould it be that you did something unconsciously?"
+  },
+  {
+    "character": "一花",
+    "japanese": "女の子の心は繊細なんだからね？\nなんでもない一言で、なんてこともあるんだよ？",
+    "translation": "Well, a girl's heart is delicate, you know?\nEven the smallest things can hurt a girl's feelings."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……とにかく、俺には心当たりがないんだよ。",
+    "translation": "Anyway, I have no idea what it could be about."
+  },
+  {
+    "character": "五月",
+    "japanese": "わかりました。\n一応、ここはあなたの言葉を信用しましょう。",
+    "translation": "Alright fine. For now, I'll trust your words."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うわぁ、綺麗……！",
+    "translation": "Wowww, it's so pretty!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "すごいね、これは……。",
+    "translation": "This is really amazing...."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、これほど鮮やかだとは\n思いませんでした。",
+    "translation": "Yes, I didn't expect it to be this beautiful."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ここって中にも入れるんですよね？",
+    "translation": "We can go inside, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう、入れるぞ。",
+    "translation": "Yeah, we can."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "正面の建物は正殿で\n左右にあるのは南殿と北殿っていうんだが、\n中に展示室もあるはずだ。",
+    "translation": "The building in front of us is the main hall, and the\nbuildings on the left and right are the south and\nnorth halls, with an exhibition room inside too."
+  },
+  {
+    "character": "一花",
+    "japanese": "へえ、かなり見応えありそう。",
+    "translation": "Wow, it looks very impressive."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なら、ここからは\nみんな好きに回ればいいんじゃない？",
+    "translation": "Then, why don't we all just explore freely for a while?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうだね。\n終わったら、ここに集合にしよっか。",
+    "translation": "Sounds good. Let's meet back here when we're finished."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（よし、ならここはやっぱり三玖と……）",
+    "translation": "(Okay, in that case, I'll stick with Miku...)"
+  },
+  {
+    "character": "五月",
+    "japanese": "では、私はさっそく中に入ってみます。\nらいはちゃんもどうですか？",
+    "translation": "Well, I'll go in and take a look.\nRaiha-chan, do you want to come too?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、行ってみたい。",
+    "translation": "Yeah, I wanna go too."
+  },
+  {
+    "character": "一花",
+    "japanese": "私はもう少し散歩してからにしようかな。\nこの素敵な風景、目に焼き付けておきたいから。\nじゃねー。",
+    "translation": "I think I'll take a walk for a little longer.\nI want to take in this beautiful scenery. See ya."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あの、フータ――",
+    "translation": "Um, Futa%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なあ、三玖。\n俺と一緒に――",
+    "translation": "Hey, Miku.\nYou wanna go with me to%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ひゃっ！？",
+    "translation": "HYAA?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "また逃げられたわね。",
+    "translation": "She ran away again."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "二乃、四葉……。",
+    "translation": "Nino, Yotsuba..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あの、上杉さんにお聞きしたいことがありまして。",
+    "translation": "Excuse me, Uesugi-san,\nthere's something I wanted to ask you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（そう言って２人が話し出したのは、\n　さっき一花と五月が言ってきたことと同じだった）",
+    "translation": "(As the two started talking,\n I quickly realized it was the same thing\n that Ichika and Itsuki mentioned earlier.)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そう、身に覚えはないわけね。",
+    "translation": "So, you don't have any recollection, do you."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ううーん、だとすると\nますます謎が深まっちゃいます。",
+    "translation": "Well, if that's the case,\nthe mystery only thickens."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "とりあえず、俺は三玖を捜しに行ってくる。",
+    "translation": "For now, I'll just go look for Miku."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こうなると三玖自身に聞くしかない。\n　また逃げられるかもしれないが、\n　その時は追うまでだ）",
+    "translation": "(At this rate I'll have to ask Miku myself.\n She might try to run away again,\n but I'll chase her down if I have to.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（だが、どこに行ったんだ？\n　闇雲に探しても見つからないかもしれない）",
+    "translation": "(But, where could she have gone?\n If I just start searching blindly,\n I'll never be able to find her.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（三玖が行きそうな所……）",
+    "translation": "(Where's a place Miku would likely go...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（！……\n　わかった、多分あそこだな）",
+    "translation": "(!...\n Got it, probably that place.)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "はあ……。\nなんで逃げちゃうのかな、私……。",
+    "translation": "*sigh*\nWhy did I run away..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、きっと怒ってる。",
+    "translation": "Futaro is definitely mad."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ホントはフータローと一緒に回りたいのに。\n沖縄で、２人の思い出を……。",
+    "translation": "Truth be told, I actually really wanted to tour around with him.\nTo make memories, just the two of us,\ntogether in Okinawa..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖。",
+    "translation": "Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふっ、フータロー！？",
+    "translation": "F-Futaro?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここは和風建築なんだな。\nまあ、書院って言うくらいだし当然か。",
+    "translation": "This place has a Japanese style to it.\nWell, it's called the 'shoin,'\nso I guess it's only natural."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（じりじりと俺から離れてる。\n　だが逃げないだけマシだ、\n　まずはこのまま会話を続けるんだ！）",
+    "translation": "(She's edging away from me, but at least\n she's not running away.\n I'll try to keep the conversation going!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やっぱり、お前はここにいたな。",
+    "translation": "You're here, I knew it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "『やっぱり』？　どうして？",
+    "translation": "'You knew it?' What do you mean?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "言葉にするのは難しいんだが……。",
+    "translation": "I don't know how to explain it..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖は和風が好きだろ。\nだからここ、奥書院（おくしょいん）にいると思った。",
+    "translation": "But, I knew you liked Japanese-style architecture, Miku.\nSo I figured you'd be here in the 'okushoin.'"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……そっか。",
+    "translation": "...Is that so."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローは……私のこと、よくわかってる。",
+    "translation": "Futaro...you know me well."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ま、まあな。\n俺はお前の……その、お前と付き合って……。",
+    "translation": "I-I guess so.\nI mean... I am, dating you, so..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "っ！",
+    "translation": "!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "わ、私、次行くね！\nじゃあ！",
+    "translation": "I-I'm gonna go check out other things!\nSee ya!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、おい三玖！？",
+    "translation": "Ah, hey, Miku?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いやあ、晴れてよかったなぁ。",
+    "translation": "Man, the weather sure is nice."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。\nよかった、ね。",
+    "translation": "Yeah.\nIt's great."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まだ、みんな戻ってきてないな。",
+    "translation": "Everyone's still not back."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。\nきて、ない、ね。",
+    "translation": "Yeah.\nTrue."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー……。",
+    "translation": "Ahhh..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（会話が続かない……！）",
+    "translation": "(I can't keep the conversation going!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（別に、俺たちのあいだでは\n　こういう沈黙は珍しくない。\n　２人で出かけても会話がない時間だってある）",
+    "translation": "(It's not like this kind of silence is uncommon between us.\n Even when we go out together,\n there are moments, we don't converse at all.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（普段はそれでもいいんだと思えていた。\n　それもまた、俺たちのあり方なんだと）",
+    "translation": "(Usually, I think it's okay.\n It's just how we are as a couple.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（だがいまは違う！\n　こんな気まずい沈黙は初めてだぞ！？）",
+    "translation": "(But this time, it's different!\n We've never had this much of an awkward silence before?!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうだ三玖！\n首里城のこんな話を知ってるか！？",
+    "translation": "Th-that's right, Miku!\nDo you know the story about Shurijo Castle?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "最初に通った守礼門、あるだろ。\nあれはなんと２千円札の絵柄になってるんだ！",
+    "translation": "Remember the first gate, Shureimon we passed through?\nIt's on the 2,000 yen bill!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "に、２千円札。\nそう、なんだ。",
+    "translation": "Th-the 2,000 yen bill.\nI, see."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、あとな！\nこの広場は御庭（うなー）って言うんだが、\n地面が赤と白の縞々になってるだろ。",
+    "translation": "A-and!\nThis plaza is called the 'una,'\nand the ground is striped with red and white, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これは、役人が儀式で整列する時、\n位（くらい）の順に並ぶための目印に使ってたんだ！",
+    "translation": "It was used as a marker to line up in order of rank for government officials\nduring ceremonies!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そう、なんだ。",
+    "translation": "I, see."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……ダメだ。\n　どうにも三玖の反応が薄い気がする）",
+    "translation": "(...It's no use.\n No matter what I say, Miku's not really reacting.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こういうのは興味ないか。",
+    "translation": "You're not interested in this stuff, eh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっ？\nそういうわけじゃない、けど。",
+    "translation": "Huh?\nThat's, not really the case."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうか。",
+    "translation": "I-I see."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あのさ、三玖――\nあのね、フータロー――",
+    "translation": "Hey, Miku%p-2;――\n%p;Um, Futaro%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すまん、こんなウンチク話ばかりで。\n勉強みたいで面白くないよな。",
+    "translation": "Sorry about the boring trivia questions.\nIt was like studying. I'm sure it wasn't interesting."
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっ？　そんなこと、ないけど。",
+    "translation": "Huh? That's not really true."
+  },
+  {
+    "character": "三玖",
+    "japanese": "その、フータローは面白いよ？",
+    "translation": "You're interesting, you know, Futaro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、俺じゃなくてウンチクのことなんだが。",
+    "translation": "Nah, I didn't mean me, but the trivia questions."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あっ！？\nそっちも、面白かったよ？",
+    "translation": "AH?!\nThose were interesting, too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうか。",
+    "translation": "I-I see."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あのさ、三玖――\nあのね、フータロー――",
+    "translation": "Hey, Miku%p-2;――\n%p;Um, Futaro%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なにか質問あるか？",
+    "translation": "Do you have any questions?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "質問？",
+    "translation": "Questions?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "首里城のことでも沖縄のことでもなんでもいい。\n三玖となにか話したいんだ。",
+    "translation": "Whether it's about Shurijo Castle, Okinawa,\nor anything else, it doesn't matter.\nIt could be about anything, I'd just like to talk to you Miku."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "沖縄に来てから、俺たち\nほとんど話せてなかっただろ？",
+    "translation": "Since we came to Okinawa,\nwe haven't really had a chance to talk, have we?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "う、うん。\nそう……だね。",
+    "translation": "Y-yeah.\nThat's...right."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私のこと、気にしてくれてたんだ。\nやっぱりフータローは優しい。",
+    "translation": "You were concerned about me, weren't you?\nYou're really kind after all, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "え？　なんだ？",
+    "translation": "Huh? What do you mean?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ううん。\n私も、フータローともっと話したいって思ってた。",
+    "translation": "No.\nI also wanted to talk to you more, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうか！",
+    "translation": "I-is that so!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あのさ、三玖――\nあのね、フータロー――",
+    "translation": "Hey, Miku%p-2;――\n%p;Um, Futaro%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん、なんだ？",
+    "translation": "Hm, what?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローが先でいいよ。",
+    "translation": "You go first."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか？\nじゃあ、その、今夜なんだが。",
+    "translation": "Oh, really? Well, then, I was thinking tonight%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "今夜……！",
+    "translation": "Tonight!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、もし三玖がよければ一緒に――",
+    "translation": "Yeah, if you're okay, we could go together to%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "一緒にっ！？",
+    "translation": "T-together?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "わ、私、もうちょっと見てくる。\nじゃあ後で。",
+    "translation": "I-I'm gonna go take a look at that.\nSee you later."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（わからん。\n　三玖がなにを考えてるのか、さっぱりだ）",
+    "translation": "(I don't understand.\n I don't have the slightest clue, what Miku is thinking.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（避けられているのは確かだろう。\n　とはいえ嫌われている感じでもない）",
+    "translation": "(It's certain that she's avoiding me,\n but it doesn't feel like she dislikes me either.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（これはもうなりふり構っている場合じゃない。\n　あいつらに探りを入れてみよう）",
+    "translation": "(There's no time to hesitate.\n Let's try to get some information out of the others.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（さっきはあいつらから俺に聞いて来たが、\n　むしろ、あいつらのほうが\n　なにか知ってるんじゃないか？）",
+    "translation": "(They'd asked me what's going on earlier,\n but maybe they actually know something?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（そもそも、三玖の様子がおかしい原因が\n　俺でない可能性だってあるわけで――）",
+    "translation": "(Besides, there's a possibility\n that I'm not the reason for Miku's strange behavior%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ぐああああっ！　なんだこのモヤモヤは！\n　それはそれで気に食わねぇ！！）",
+    "translation": "(GAAAAHH! What's this uneasy feeling?!\n I don't like it!!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ……。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（これが……三玖が、あいつらが\n　常に全力を出してきた恋愛ってものか）",
+    "translation": "(So this...is how it feels like to be the pursuer in the relationship?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確かに、全力でなきゃどうにもならないな。",
+    "translation": "Indeed, if you don't go all out,\nnothing good will come out of it."
+  }
+]

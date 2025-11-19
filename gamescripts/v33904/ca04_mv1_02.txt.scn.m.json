@@ -1,0 +1,382 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "よう五月、ここにいたのか。",
+    "translation": "Yo, is this where you've been, Itsuki?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あら？　上杉君も私になにか？",
+    "translation": "Oh, Uesugi-kun?\nWhat brings you here?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは、かち合っちゃいましたね。",
+    "translation": "Ahaha, it looks like we bumped into each other."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、四葉も来てたのか。",
+    "translation": "Oh, you're here too, Yotsuba."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、ちょうど五月に聞こうとしてたところでした。",
+    "translation": "Yeah, I was just about to ask Itsuki."
+  },
+  {
+    "character": "五月",
+    "japanese": "え？　２人とも同じ用件で来たのですか？",
+    "translation": "Huh? Did both of you come here for the same reason?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん。\n五月はこのあと、なにかしたいことってある？",
+    "translation": "Yeah. Itsuki, do you have anything you want to do\nafter this?"
+  },
+  {
+    "character": "五月",
+    "japanese": "それは……四葉が計画を立てていましたよね？",
+    "translation": "Well...didn't you make plans though, Yotsuba?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "なんだけど、ここでもう１回\nみんなの意見も聞いておこうと思って。",
+    "translation": "Yeah, but I thought\nI'd ask everyone what they want to do again, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別に、観光でも買い物でもなんでもいいぞ。",
+    "translation": "Sightseeing or shopping or whatever,\nI don't care."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですね。\nまずは、沖縄限定のスイーツでしょうか。",
+    "translation": "Well, let's see.\nFirst, how about some Okinawan sweets\nthat are only available here?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "スイーツ！\nうんうん、ホテルのレストランのデザート、\nすっごく美味しかったもんね。",
+    "translation": "Sweets!\nOh yeah, the desserts at the hotel restaurant\nwere REALLY delicious."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ！　まさに絶品でした！",
+    "translation": "Yes! They were delectable!"
+  },
+  {
+    "character": "五月",
+    "japanese": "他にも、熱帯特有の甘い果実や名産の紅いもを\nふんだんに使ったスイーツを出すお店が\nたくさんあるんです！",
+    "translation": "There are many shops that use\nplenty of tropical fruits and specialty \nOkinawan sweet potatoes in their sweets!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "沖縄と言えば、黒糖もよく聞くよな。\nあれは江戸時代初期に中国から\n製造技術が伝わったそうだ。",
+    "translation": "With Okinawa, you often hear about brown sugar, don't\nyou? The manufacturing technology for brown sugar was\napparently introduced from China in the early Edo era."
+  },
+  {
+    "character": "五月",
+    "japanese": "黒糖の色素のほとんどは\n糖蜜、ビタミンやミネラルですよね。",
+    "translation": "Most of the coloring of brown sugar comes from molasses,\nvitamins, and minerals, doesn't it?"
+  },
+  {
+    "character": "五月",
+    "japanese": "微量ではありますが、人によっては\n風味の違いなどを感じられるかもしれませんよ。",
+    "translation": "Although it's only in trace amounts,\nsome people may be able to sense differences in flavor."
+  },
+  {
+    "character": "四葉",
+    "japanese": "へえ～、そうなんだ。",
+    "translation": "Oh, wow, that's interesting."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほほう、なかなかやるな。\n元・赤点常連とは思えない知識だ。",
+    "translation": "My my, you really know your stuff.\nI can't believe you used to be a straight-F student."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君こそ、私を甘く見ているのでは？\n誰にでも得意分野はあります。\n甘いものに関しては、私が上であるかと。",
+    "translation": "It seems like you're underestimating me, Uesugi-kun.\nEveryone has their own areas of expertise.\nWhen it comes to sweets, I am a master."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……味覚に関しては反論できねぇ。\n今日のところは引き下がろう。",
+    "translation": "...I can't argue with you when it comes to taste.\nI'll back down for today."
+  },
+  {
+    "character": "四葉",
+    "japanese": "確かに、上杉さんには勝ち目がないですねー。",
+    "translation": "You're right, Uesugi-san doesn't stand a chance."
+  },
+  {
+    "character": "四葉",
+    "japanese": "でも五月すごいね。\nいつのまにそんなこと勉強したの？",
+    "translation": "But you're amazing, Itsuki.\nWhen did you have time to study all that?"
+  },
+  {
+    "character": "五月",
+    "japanese": "それは、好きが高じて、ですね。\nレビューを書く際にも役に立ちますし――",
+    "translation": "Well, it's because I have a strong interest in it.\nIt also comes in handy when I write reviews%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "って！　違いますよ！？\nレビューは、その、\n個人的につけているものですので！",
+    "translation": "Ah! No, I mean!\nMy reviews are, well, something I do personally!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（まだ隠す気なのか……。\n　有名レビュワー『Ｍ・Ａ・Ｙ』の正体は\n　とっくにバレバレなんだが）",
+    "translation": "(She's still trying to hide it...\n Everyone already knows that the famous reviewer\n 'M·A·Y' is really Itsuki.)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふむふむ、まずは沖縄スイーツ巡りだね。\n他にもなにかある？",
+    "translation": "Hmhm, let's start with a tour of Okinawan sweets.\nIs there anything else?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええと……。",
+    "translation": "Umm..."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうです。\n先ほど海の上に立っている人を見かけたのですが、\nあれもアクティビティでしょうか？",
+    "translation": "That's right.\nI saw someone standing on the ocean earlier.\nIs that also an activity?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "サーフィンじゃないのか？",
+    "translation": "Isn't that surfing?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ボードのような物には乗っていましたが、\nサーフィンではありませんでした。\nオールらしきなにかを持っていましたが……。",
+    "translation": "They were standing on something like a board,\nbut it wasn't surfing.\nThey also had something like an oar..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それ、多分スタンドアップパドルボードだよ。\n通称ＳＵＰっていう水上アクティビティ。",
+    "translation": "That's probably stand-up paddleboarding.\nIt's a marine activity also known as 'SUP.'"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほう、そんなのもあるのか。",
+    "translation": "Wow, there's something like that too."
+  },
+  {
+    "character": "四葉",
+    "japanese": "大型の専用ボードを使うんですが、\n色々な遊び方があるんです。",
+    "translation": "You use a large, specialized board,\nso there are many ways to enjoy it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "パドルを使ってカヤックみたいに漕いだり――",
+    "translation": "You can paddle like you're in a kayak%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "船頭さんみたいに立ったまま漕ぐこともできますよ。\n海の上を散歩する感じですね。",
+    "translation": "Or, you can paddle while you're standing up,\nlike a boatman.\nIt feels like you're taking a walk on the sea."
+  },
+  {
+    "character": "四葉",
+    "japanese": "他にもサーフィンだったり、\nボードの上でヨガをしたりもします。",
+    "translation": "You can also do things\nlike surfing or doing yoga on the board."
+  },
+  {
+    "character": "五月",
+    "japanese": "あ！　水上でやるヨガは雑誌で見たことがあります。\nあれがそうだったんですね。",
+    "translation": "Ah! I've seen water yoga in a magazine before.\nSo that's what it was."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "水上でヨガか。\n体幹強化が目的なのか？",
+    "translation": "Yoga on the water?\nIs that for core strength?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、不安定な分、体のバランスを保つのが\n重要になりますから。",
+    "translation": "Yes, the instability that the water has is\nimportant for building and maintaining balance\nin the body."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ……。",
+    "translation": "Wow..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺には厳しそうなアクティビティだな。",
+    "translation": "Seems like it'd be a challenging activity for me."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そんな、上杉さんだって\n練習すればすぐにできるようになりますよ。",
+    "translation": "Oh come on,\neven you, Uesugi-san, can do it if you practice."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いざとなれば座っててもＯＫですし、\n失敗しても水に落ちるだけですから。",
+    "translation": "You can sit down if it's feeling dicey,\nand if you do fall, you'll just fall into the water."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうそう！\n最近は、街中の観光地でも\nＳＵＰを使った川巡りツアーがあるんですよ。",
+    "translation": "That's right!\nRecently, even in tourist areas,\nthere are river tours using 'SUP.'"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "川巡り？\nへえ、それも初めて聞いたな。",
+    "translation": "River tours?\nWow, I've never heard of those before."
+  },
+  {
+    "character": "四葉",
+    "japanese": "見慣れた街でも、川から見上げれば\n新しい発見がありそうですよね。",
+    "translation": "Even in familiar towns,\npeople are finding new things\nwhen riding along the river."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉はすぐにできそうだな。\n運動神経も良いし、体幹も鍛えられてるし。",
+    "translation": "Yotsuba, you'd master it quick.\nWith your good motor skills and core strength."
+  },
+  {
+    "character": "四葉",
+    "japanese": "へへ～。\n実は割と自信あります。",
+    "translation": "Hehe, thanks but actually,\nI'm already pretty confident in my abilities."
+  },
+  {
+    "character": "五月",
+    "japanese": "さすがは四葉ですね。\n私もヨガは是非、挑戦してみたいです。",
+    "translation": "That's my Yotsuba.\nI want to try water yoga too."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんはサーフィンなんてどうです？",
+    "translation": "How do you feel about surfing, Uesugi-san?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ＳＵＰのボードはサーフボードよりも大きいので、\n初心者でもやりやすいみたいですよ。",
+    "translation": "The SUP is bigger than a surfboard,\nso even beginners can do it with ease."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "サーフィン……。",
+    "translation": "Surfing..."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君がサーフィン……。",
+    "translation": "Uesugi-kun, surfing..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そ、そこはほら、何事も挑戦ですよ。\n上杉さんの秘められた才能が開花するかも！",
+    "translation": "W-well, it's all about trying new things, right?\nYou might find a hidden talent, Uesugi-san!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……サーフィンは置いておくとして、\n海の上を散歩できるのはいいかもしれないな。",
+    "translation": "Let's put surfing aside\nand just take a walk on the water."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうそう！\n最近は、街中の観光地でも\nＳＵＰを使った川巡りツアーがあるんですよ。",
+    "translation": "I agree!\nRecently, even in tourist areas,\nthere are river tours using 'SUP.'"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "川巡り？\nへえ、それも初めて聞いたな。",
+    "translation": "River tours?\nWow, I've never heard of those before."
+  },
+  {
+    "character": "四葉",
+    "japanese": "見慣れた街でも、川から見上げれば\n新しい発見がありそうですよね。",
+    "translation": "Even in familiar towns,\npeople are finding new things\nwhen riding along the river."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "散歩はやってみたいな。\n気持ちよさそうだ。",
+    "translation": "I'd like to take a walk.\nSeems like it'd feel really nice."
+  },
+  {
+    "character": "四葉",
+    "japanese": "しかもこの綺麗な海を、ですからね。\n気持ちいいに決まってます。",
+    "translation": "Moreover, this beautiful ocean, you know.\nIt's definitely refreshing."
+  },
+  {
+    "character": "五月",
+    "japanese": "もしやれるのなら、私は水上ヨガに挑戦したいです。",
+    "translation": "If possible, I'd like to try water yoga."
+  },
+  {
+    "character": "四葉",
+    "japanese": "多分、ちょっと練習すれば\nすぐにできるようになると思うよ。",
+    "translation": "Maybe with a little practice,\nyou'll be able to pick it up quick."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうでしょうか？\nもし失敗したら……。",
+    "translation": "Really? But, what if I fail..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "初めてなら失敗したって変じゃないだろ。\nむしろ、失敗して当然くらいの気持ちで\n挑戦しないとな。",
+    "translation": "If it's your first time, it's not weird to fail.\nActually, you should try it keeping in mind\nthat it's natural to fail."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それに水着だから落ちても大丈夫！",
+    "translation": "Plus, since we're wearing swimsuits,\nit's okay to fall!"
+  },
+  {
+    "character": "五月",
+    "japanese": "それもそうですね。\n最初から失敗を恐れていてはなにもできません。",
+    "translation": "That's true.\nIf I'm afraid of failing from the beginning,\nI won't be able to do anything at all."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうそう！\n最近は、街中の観光地でも\nＳＵＰを使った川巡りツアーがあるんですよ。",
+    "translation": "That's right!\nRecently, even in tourist areas,\nthere are river tours using 'SUP.'"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "川巡り？\nへえ、それも初めて聞いたな。",
+    "translation": "River tours?\nWow, I've never heard of those before."
+  },
+  {
+    "character": "四葉",
+    "japanese": "見慣れた街でも、川から見上げれば\n新しい発見がありそうですよね。",
+    "translation": "Even in familiar towns,\npeople are finding new things\nwhen riding along the river."
+  },
+  {
+    "character": "五月",
+    "japanese": "新しい発見……。\nそれは楽しいかもしれません。",
+    "translation": "New discoveries...\nThat might be fun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "今回はＳＵＰに慣れるための\n予行練習と考えてもいいかもな。\nひとまず候補として挙げていいんじゃないか？",
+    "translation": "For now, we can consider it as practice\nfor getting used to 'SUP.'\nThat might be a good candidate, don't you think?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうですね。\nまだ全員の意見を聞いてませんし。",
+    "translation": "That's right.\nWe haven't heard everyone's thoughts yet."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それじゃ、聞き込み再開か。\n五月、またあとでな。",
+    "translation": "In that case, I'll resume the survey.\nSee you, Itsuki."
+  },
+  {
+    "character": "五月",
+    "japanese": "はい、ではまた後ほど。",
+    "translation": "Right, see you later."
+  }
+]

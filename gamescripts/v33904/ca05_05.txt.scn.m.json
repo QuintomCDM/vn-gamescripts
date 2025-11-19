@@ -1,0 +1,382 @@
+[
+  {
+    "character": "二乃",
+    "japanese": "はあ、美味しかったわ。\n終わってみればステーキで正解だったのかも。",
+    "translation": "Phew, that was delicious.\nMaybe steak was the right choice after all."
+  },
+  {
+    "character": "らいは",
+    "japanese": "二乃さん、結構食べてたね。",
+    "translation": "You ate quite a bit, Nino-san."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ソースが珍しいのもあって、ついね。\n酸味が独特だったわ。",
+    "translation": "Yeah, the sauce was unusual\nand I couldn't help myself.\nIt had a unique sourness to it."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、いままで味わったことのないソースでした。",
+    "translation": "Yes, it was a sauce unlike any I've tasted before."
+  },
+  {
+    "character": "三玖",
+    "japanese": "満足した？",
+    "translation": "Are you satisfied?"
+  },
+  {
+    "character": "五月",
+    "japanese": "はいっ！\nありがとうございます！",
+    "translation": "Yes! Thank you very much!"
+  },
+  {
+    "character": "一花",
+    "japanese": "お腹もいっぱいになったし、\n適当にブラブラしよっか。",
+    "translation": "Now that we're full, shall we wander around aimlessly?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "食後の運動だね！",
+    "translation": "Post-meal exercise, huh?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "待て、お前が運動というと嫌な予感しかしない。",
+    "translation": "Wait, whenever you mention exercise,\nI get a bad feeling."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは、大丈夫ですよ。\nここで競争なんて言い出したりしませんって。",
+    "translation": "Ahaha, don't worry.\nI won't suggest we have a competition\nor anything like that."
+  },
+  {
+    "character": "らいは",
+    "japanese": "どこからでも海が見えるんだねー。",
+    "translation": "You can see the ocean from anywhere here, huh-."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、見てて飽きない景色。",
+    "translation": "Yeah, it's a breathtaking view that never gets old."
+  },
+  {
+    "character": "二乃",
+    "japanese": "きっと日が沈む頃に来ても素敵でしょうね。",
+    "translation": "I bet it would be even more beautiful\nwhen the sun's setting."
+  },
+  {
+    "character": "一花",
+    "japanese": "さっき、お知らせのチラシで見かけたんだけど、\n夜はイルミネーションをやってるみたいだよ。",
+    "translation": "I saw a flyer earlier\nthat there are light-up shows at night."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "プロジェクションマッピングがどうのとかも\n書いてあったな。",
+    "translation": "I saw something mentioned somewhere\nabout projection mapping, too."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ここって街全体が白いから、\nスクリーンにするのにちょうどよさそうですもんね。",
+    "translation": "This whole town is white,\nso it would be perfect for turning it all into screens, huh."
+  },
+  {
+    "character": "二乃",
+    "japanese": "夜にまた来てみてもいいかもしれないわ。\nホテルから遠くないし。",
+    "translation": "We could come back at night.\nIt's not far from the hotel."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな。",
+    "translation": "That's right."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……おい、五月？\nどうかしたのか。",
+    "translation": "...Hey, Itsuki?\nIs something the matter?"
+  },
+  {
+    "character": "五月",
+    "japanese": "はい？　なにがですか？",
+    "translation": "Huh? What?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さっきからずっと俺の後ろにいるだろ。\nさすがに気になるんだが。",
+    "translation": "You've been following me closely from behind for a while now.\nI'm curious as to why."
+  },
+  {
+    "character": "五月",
+    "japanese": "さ、さあ～？　なんのことでしょう。\n私は普通に歩いているだけですよ？",
+    "translation": "I-I wonder? What a mystery.\nI'm just walking normally."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……まあ、それならいいんだが。",
+    "translation": "...Well, that's fine, then."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いや普通じゃないだろ。\n　至近距離で尾行を受けてる気分だぞこっちは）",
+    "translation": "(No, that's not normal.\n I feel like I'm being stalked.)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あら？",
+    "translation": "Oh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "どうしたの？",
+    "translation": "What's up?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "見て！\nこのお店のアクセサリー、よくない？",
+    "translation": "Look!\nAren't the accessories at this store super nice?"
+  },
+  {
+    "character": "一花",
+    "japanese": "お、ホントだ。\nシンプルだけど目を惹くね。",
+    "translation": "Ah, for sure. They're simple, but eye-catching."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、ちょっと見ていっていいかしら？",
+    "translation": "Fu-kun, can we take a look?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、好きにしてくれ。",
+    "translation": "Yeah, sure. Do as you please."
+  },
+  {
+    "character": "らいは",
+    "japanese": "面白い模様のもあるね。\nなんだろ、波かな？",
+    "translation": "Interesting patterns too.\nI wonder, are those waves?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええと、沖縄の伝統的な文様、みたいです。\nこっちに簡単な説明がありますよ。",
+    "translation": "Umm, it seems to be a traditional Okinawan pattern.\nThere's a brief explanation over here."
+  },
+  {
+    "character": "一花",
+    "japanese": "へえ～、いいかも。\n沖縄に来た記念にぴったりだよ。",
+    "translation": "Wow, that's cool.\nIt'd be perfect as a souvenir of our trip to Okinawa."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、オーダーメイドもできるんだ。",
+    "translation": "Oh, you can even have them made to order."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうなんですか？",
+    "translation": "Really?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ほら、書いてある。\n特にペアリングのオーダーが人気なんだって。",
+    "translation": "Look, it's written here.\nThey say that ring orders for couples\nare especially popular."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（へえ……。\n　付き合った記念、沖縄旅行記念などなど、\n　カップルでペアリングが人気、か）",
+    "translation": "(Oh, I see... Couple rings are popular for things\n like commemorating a relationship\n or going on a trip to Okinawa together.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こういうのもあるんだな。\n　いまは手が出ないが……覚えておこう）",
+    "translation": "(There are things like this too.\n I can't afford it now, but...\n I'll remember it.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "う、上杉君！",
+    "translation": "U-Uesugi-kun!"
+  },
+  {
+    "character": "五月",
+    "japanese": "これ買いませんか？",
+    "translation": "Would you like to get some rings?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあっ！？",
+    "translation": "WHAAA?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "お揃いの指輪なんて素敵ですよ！\n欲しいです、買ってください！",
+    "translation": "Matching rings are so wonderful!\nI want one! Please buy them!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちょ、五月、落ち着け！\n顔が近い！",
+    "translation": "Hey, Itsuki, calm down!\nYour face is too close!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ち、近くてもいいじゃないですか！",
+    "translation": "I-it's okay to be close to you, isn't it?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は！？",
+    "translation": "HUH?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "だ、だって、恋人なんですよ？\nせっかく恋人として沖縄まで来たんです、\n２人の思い出として買いましょう！",
+    "translation": "I-I mean, we're going out, and all that, right?\nWe came all the way to Okinawa as a couple,\nso let's buy rings to serve as our memory together!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、その考え自体はいいと思うんだが\n問題があってだな――",
+    "translation": "W-well, I think the idea itself is good,\nbut there's a problem%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "わ、私たちがお揃いの指輪を買うのに\nどんな問題があるんですかっ！",
+    "translation": "Wh-what kind of problem is there\nfor us to buy matching rings?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "五月。",
+    "translation": "Itsuki."
+  },
+  {
+    "character": "五月",
+    "japanese": "な、なんです！？",
+    "translation": "Wh-what?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "値段、ちゃんと見て。",
+    "translation": "Look at the price."
+  },
+  {
+    "character": "五月",
+    "japanese": "――あ。",
+    "translation": "%p-2;――%p; Ah."
+  },
+  {
+    "character": "五月",
+    "japanese": "す、す、すみませんっ！\nこんなに高価なものだとは思っていなくて！",
+    "translation": "I-I-I'm sorry!\nI didn't think it would be so expensive!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、別に謝ることないだろ。",
+    "translation": "Well, there's no need to apologize, you know."
+  },
+  {
+    "character": "五月",
+    "japanese": "いいえ、謝らせてください！\nまたさっきと同じようなことを……うう……。",
+    "translation": "No, please let me make an apology!\nI was doing the same thing as earlier...\nOoohh..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ま、こういうのは結婚指輪までとっておきなさい。",
+    "translation": "Well, maybe save this conversation for your wedding rings. "
+  },
+  {
+    "character": "五月",
+    "japanese": "けっ、結婚！？",
+    "translation": "W-wedding?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、頑張って\n五月に似合うのを贈ってくださいね。",
+    "translation": "Uesugi-san, do your best to find something\nthat will suit Itsuki."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう、当然だ。",
+    "translation": "Y-yeah, of course."
+  },
+  {
+    "character": "四葉",
+    "japanese": "おおっ！？\nこれってプロポーズになります？",
+    "translation": "Oohh?!\nAre you proposing, Uesugi-san?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "って、こら！　話を飛躍させるなっ！",
+    "translation": "Hey, quiet! Don't jump to conclusions like that!"
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、そのつもりでいてもらわないとねー。\nねえ五月ちゃん？",
+    "translation": "But you've got to be thinking about it, right-?\nIsn't that right, Itsuki-chan?"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……固まってる。",
+    "translation": "...She's frozen."
+  },
+  {
+    "character": "らいは",
+    "japanese": "五月さーん、戻ってきてー。",
+    "translation": "Itsuki-saaan, come back!"
+  },
+  {
+    "character": "一花",
+    "japanese": "うーん……。",
+    "translation": "Hmmm..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "もしかして、一花も変だって思ってる？",
+    "translation": "Could it be that you think something's off too, Ichika?"
+  },
+  {
+    "character": "一花",
+    "japanese": "五月ちゃんのことだよね？",
+    "translation": "About Itsuki-chan, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そう。\nなんか、らしくない感じがする。",
+    "translation": "Yeah.\nShe's acting kind of weird."
+  },
+  {
+    "character": "一花",
+    "japanese": "私も同じ。\n普段の五月ちゃんは、あんなふうに\nフータロー君にわがまま言ったりしない。",
+    "translation": "I agree.\nItsuki-chan isn't the type to be selfish like that\nand ask for things, like she was doing with Futaro-kun."
+  },
+  {
+    "character": "四葉",
+    "japanese": "んー、でも２人は付き合ってるんだし、\nわがままを言うこと自体は悪くないよね。",
+    "translation": "Hmm, but they're dating, so\nit's not necessarily a bad thing\nto be a little selfish, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "これは、あれかな？\n旅行なんだし、テンション上がって\nはしゃいじゃってるとか。",
+    "translation": "Maybe, you know?\nIt's just because they're on a trip,\nand their excitement is getting the best of them."
+  },
+  {
+    "character": "一花",
+    "japanese": "彼氏との旅行となれば、\n真面目な五月ちゃんでもウキウキしちゃうか。",
+    "translation": "If it's a trip with her boyfriend,\neven serious Itsuki-chan\nmight get a little carried away."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん、きっとそうだよ。",
+    "translation": "Uh-huh. That's probably it."
+  }
+]

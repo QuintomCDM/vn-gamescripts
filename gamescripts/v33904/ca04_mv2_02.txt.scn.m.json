@@ -1,0 +1,472 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "ああ、いたいた。\nおい……。",
+    "translation": "Hey, there you guys are.\nHey..."
+  },
+  {
+    "character": "五月",
+    "japanese": "なんです。",
+    "translation": "What do you want?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（な、なんだよ五月のやつ。\n　別に俺はなにもしてないよな？）",
+    "translation": "(Wh-what's up with Itsuki?\n I didn't do anything, did I?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、二乃。\n五月はどうしたんだ？",
+    "translation": "Hey, Nino.\nWhat's up with Itsuki?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっとご機嫌斜めモードなだけ。\nよくあることだから気にしないでいいわ。",
+    "translation": "She's just in a bit of a tizzy.\nDon't worry about it, it happens all the time."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（気にするなって言われても……）",
+    "translation": "(She told me not to worry but...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（なんで怒っているかは知らないが、\n　ここは触らぬ神に祟りなし、だ）",
+    "translation": "(I don't know why Itsuki's angry,\n but I'll leave her alone for now.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "二乃、このあとになにかしたいことってあるか？\n観光でも買い物でも、なんでも構わないぞ。",
+    "translation": "Nino, is there anything you want to do later?\nSightseeing, shopping, anything's fine."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あら？　急にどうしたのかしら。\nもしかしてデートのお誘い？",
+    "translation": "Oh? What's the sudden change for?\nAre you asking me out on a date or something?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "んなわけないだろ。\n四葉が、お前たちの意見を参考にしたいって言うから\n代わりに聞きに来たんだ。",
+    "translation": "Like that'll ever happen.\nYotsuba wants to hear your thoughts,\nso I came for her sake."
+  },
+  {
+    "character": "二乃",
+    "japanese": "四葉が？",
+    "translation": "Yotsuba?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあ……。\nあの子は相変わらずみたいね。",
+    "translation": "*sigh*\nThat girl really doesn't change."
+  },
+  {
+    "character": "二乃",
+    "japanese": "まったく。\n少しは自分を優先しなさいよね。",
+    "translation": "Come on, Yotsuba.\nLearn to put yourself first."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？\nやりたいことがあるなら言ってくれ。",
+    "translation": "What's up?\nIf you want to do something, just say it."
+  },
+  {
+    "character": "二乃",
+    "japanese": "私は特になし。\n四葉とフー君で決めていいわよ。",
+    "translation": "I don't have anything in particular.\nYou and Yotsuba can decide, Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なあ五月。\nちょっと聞きたいことがあるんだがいいか？",
+    "translation": "Hey, Itsuki.\nCan I ask you something?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……なんです？",
+    "translation": "...What's up?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "このあと、なにかしたいことはないか？\nほ、ほら！　お前の好きなスイーツ巡りとか！",
+    "translation": "Do you want to do something later?\nH-hey! Like, go on a sweets tour or something!\nYou'd love that!"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あれ？",
+    "translation": "...Huh?"
+  },
+  {
+    "character": "五月",
+    "japanese": "どうしてそんなことを聞くんです？",
+    "translation": "Why are you asking me that?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "四葉が私たちの意見を聞きたいんですって。\nほら、答えてあげなさい。",
+    "translation": "Yotsuba and Fu-kun want to hear our thoughts.\nCome on, answer."
+  },
+  {
+    "character": "五月",
+    "japanese": "……お二人のやりたいことで構いません。",
+    "translation": "...Whatever you two want to do is fine."
+  },
+  {
+    "character": "二乃",
+    "japanese": "だ、そうよ。",
+    "translation": "Is what she says."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう。\nサンキューな、五月。",
+    "translation": "O-okay.\nThanks, Itsuki."
+  },
+  {
+    "character": "二乃",
+    "japanese": "それで、フー君はどうしたのよ？\n私たちになにか用？",
+    "translation": "So, what's up, Fu-kun?\nDo you need something from us?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前たちはこのあと、なにかしたいことってあるか？\n四葉が予定の参考にしたいそうなんだ。",
+    "translation": "Do you two have anything you want to do later?\nYotsuba wants to adjust her plans to what\neveryone wants to do."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃあ、豪華郷土料理の\nグルメツアーなんてどうかしら？\nねえ、五月？",
+    "translation": "Alright then, how about a gourmet tour\nof tasting different local specialties?\nWhat do you think, Itsuki?"
+  },
+  {
+    "character": "五月",
+    "japanese": "うううぅぅ……。",
+    "translation": "Uuuuuuurk..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんて冗談よ、じょーだん。\nグルメツアーはなしで。",
+    "translation": "Oh, I'm kidding, just kidding.\nLet's skip the gourmet tour."
+  },
+  {
+    "character": "二乃",
+    "japanese": "それ以外だったらなんでもいいわ。\n四葉とフー君で決めちゃって。",
+    "translation": "Anything else is fine.\nYou and Yotsuba can decide, Fu-kun."
+  },
+  {
+    "character": "二乃",
+    "japanese": "五月もいいわよね？",
+    "translation": "Itsuki, you're okay with that too, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……ええ。",
+    "translation": "...Yes."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ひとまず目的は達成したが……）",
+    "translation": "(I've achieved my goal for now, but...)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ほら、五月。\nそろそろ機嫌直しなさいよ。\nフー君も心配してるわよ？",
+    "translation": "Come on, Itsuki.\nYou should cheer up.\nFu-kun is worried about you too, you know?"
+  },
+  {
+    "character": "五月",
+    "japanese": "二乃には私の気持ちなんてわからないでしょうね。\nだから簡単に言えるのです。",
+    "translation": "Nino, you probably just don't understand\nhow I feel.\nThat's why it's easy for you to say that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おいおい……。\n本当に、なにがあったんだよ？",
+    "translation": "Hey, hey...\nWhat's really going on here?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "買い食い。",
+    "translation": "Snacking."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "この子、途中にあったキッチンカーで\nタコスを買って――",
+    "translation": "Itsuki bought tacos\nfrom a food truck on the way here%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "わーっ！　二乃！\n言ってはダメですっ！",
+    "translation": "WAAA! NINO!\nDon't say anything!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "さっきも買ってくれた子じゃない！\n育ち盛りなんだね、たくさん食べてね！",
+    "translation": "Apparently, she was told by the food truck owner..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "って言われたそうよ。",
+    "translation": "'Aren't you the girl who bought some tacos here earlier?\nYou're still growing, so you need to eat a lot!'"
+  },
+  {
+    "character": "五月",
+    "japanese": "わ、私ではありませんっ！\n誰かが先に買いに来たのを勘違いしているんです！！",
+    "translation": "I-I'm not the one who bought them!\nI think someone else got them first,\nand confused them with me!!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちなみに私じゃないわよ？",
+    "translation": "By the way, it wasn't me, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、髪の長さ的に考えて三玖だろうが――",
+    "translation": "Well, judging from the length of her hair,\nit's probably Miku%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "結論を出すには早いな。",
+    "translation": "But it's too early to jump to conclusions."
+  },
+  {
+    "character": "二乃",
+    "japanese": "四葉と一花は変装道具がなくちゃ無理でしょ。",
+    "translation": "Yotsuba and Ichika wouldn't be able to do it\nwithout disguises."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いいや、五月自身が食い足りなくて\n無意識のうちにもう一度――",
+    "translation": "Well, maybe you were still hungry Itsuki,\nso you unconsciously went again%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "ちーがーいーまーすっ！\nあなたは本当に失礼な人ですね！",
+    "translation": "I DID NOT!\nYou are really just the RUDEST!"
+  },
+  {
+    "character": "五月",
+    "japanese": "はあ……。\nこれではまるで、私が大食いみたいじゃないですか。",
+    "translation": "*sigh*\nThis makes it seem like I'm a big eater or something."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いまのはなんですか？\nなにが言いたいんですか？\nはっきり言ってみてはどうですか？",
+    "translation": "What was that just now?\nWhat are you trying to say?\nWhy don't you just say it so all of us can hear?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "笑顔で圧迫してくんな！！\nめっちゃ怖い！！",
+    "translation": "Don't pressure me with that smile!!!\nIt's SUPER scary!!!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はいはい、２人とも静かに。\nフー君も話をややこしくないでよ。",
+    "translation": "Okay, okay, both of you, be quiet.\nAnd Fu-kun, please don't make things more complicated."
+  },
+  {
+    "character": "五月",
+    "japanese": "私は静かにしてます～！",
+    "translation": "I am being quiet!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……駄々っ子か、こいつは）",
+    "translation": "(...Is she throwing a tantrum?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しかし、ここでも見間違えか。\nやっぱり五つ子ってのはめんどくせーな。",
+    "translation": "I guess I misjudged the situation.\nMan, quintuplets are such a pain."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別に悪気はなかったんだろ。\nあくまで勘違いなんだろうし。",
+    "translation": "The food truck owner didn't mean anything bad by it.\nIt was just a misunderstanding, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もしくは、お前が変に意識しすぎて\nそう感じたのかもな。",
+    "translation": "Or maybe you were just too\nself-conscious about it,\nand that's why you feel the way you do."
+  },
+  {
+    "character": "二乃",
+    "japanese": "水着の時だと気になるものよね。\n特に――",
+    "translation": "When you're in your swimsuit you've got\nto be aware.\nEspecially%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "はっ！！",
+    "translation": "WHAAA!!"
+  },
+  {
+    "character": "五月",
+    "japanese": "見るのは禁止です！　禁止！\n上杉君も！！",
+    "translation": "No looking allowed! That's forbidden!\nYou too, Uesugi-kun!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや俺はなにも見てないぞ？\nてか、なんでいきなりしゃがんだ。",
+    "translation": "What? I'm not looking at anything?\nAnd why did you suddenly crouch down?"
+  },
+  {
+    "character": "五月",
+    "japanese": "それは……。",
+    "translation": "Well..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "無駄な抵抗してないで立ちなさい。\nこんな所で座り込んだら邪魔になるわよ。",
+    "translation": "Don't needlessly resist, and stand up.\nYou're getting in the way like that."
+  },
+  {
+    "character": "五月",
+    "japanese": "うう……。",
+    "translation": "Ooohh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しかし、ここでも見間違えか。\nやっぱり五つ子ってのはめんどくせーな。",
+    "translation": "I guess I misjudged the situation.\nMan, quintuplets are such a pain."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "向こうは嬉しかったんじゃないか？\nリピートするくらい気に入ってくれたと\n思ったんだろ。",
+    "translation": "I bet the food truck owner was happy, you know?\nThey probably loved that you\ncame back to buy more."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ああ、それは嬉しいでしょうね。",
+    "translation": "True, they must've been glad."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんた、買い食いする時はいつもニコニコしてるし、\n喜んでもらえたと思ったんじゃない？",
+    "translation": "You're always smiling when you're shopping for food.\nSo it's hard not to make the other person\nthink you love the food they make, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "確かに……もう一度買いたいくらい\n美味しかったです……。",
+    "translation": "Indeed...\nIt was so delicious\nthat I would want to buy it again..."
+  },
+  {
+    "character": "五月",
+    "japanese": "美味しかった……のですが……\nうううぅ……もう一度、あのお店に行ったら\nまた……。",
+    "translation": "It was delicious...but...\nOooohhh... If I went there again,\nI might be told..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はいはい、その時は私が代わりに\n買ってきてあげるわ。",
+    "translation": "Okay, okay.\nWhen that happens,\nI'll go and buy it for you instead."
+  },
+  {
+    "character": "五月",
+    "japanese": "本当ですか？\nでは、後でお願いしますね！",
+    "translation": "Really?\nThanks in advance, Nino!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（買うことは決定してるのか）",
+    "translation": "(She's already decided on \n buying another one, huh.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しかし、ここでも見間違えか。\nやっぱり五つ子ってのはめんどくせーな。",
+    "translation": "I guess I misjudged the situation.\nMan, quintuplets are such a pain."
+  },
+  {
+    "character": "二乃",
+    "japanese": "髪型とか水着で区別つかないものかしら？",
+    "translation": "I wonder if there's a way\nto distinguish ourselves with hairstyles or swimsuits?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、まあ、向こうは\n日に何十人も相手にしてるんだもんな。",
+    "translation": "Well, they have to deal\nwith dozens of people every day, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "客の髪の長さや服装なんて、\n意識してないとなかなか覚えないか。",
+    "translation": "If they don't consciously pay attention\nto the customers' hair length or clothing,\nit's hard for them to remember."
+  },
+  {
+    "character": "五月",
+    "japanese": "確かに……。",
+    "translation": "That's true..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いまのところ、お前らが揃っていても騒がれてないし、\n他人のことなんてそこまで気にして\nないんじゃないか？",
+    "translation": "For now, even if we're all together,\nno one has made a fuss about it,\nso maybe they're not that concerned about other people."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうよねぇ。\n周りの人たちだって、みんな遊びに来てるんだもの。",
+    "translation": "That's right. After all, everyone around\nis just here to have fun."
+  },
+  {
+    "character": "二乃",
+    "japanese": "まあ、私たちが全員\n同じ格好をすればまた別でしょうけど。",
+    "translation": "Well, if we all wear the same thing,\nit'd be a different story."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、そういうのは勘弁してくれ。\nいらん騒ぎが起きるだけだ。",
+    "translation": "Hey, spare us that.\nIt'll just cause a commotion."
+  },
+  {
+    "character": "五月",
+    "japanese": "……そうですね。\n私が気にしすぎていたのかもしれません。",
+    "translation": "...You're right.\nI was probably just worrying too much."
+  },
+  {
+    "character": "五月",
+    "japanese": "唐突に身に覚えのないことを言われて、\n少し動揺してしまったようです。",
+    "translation": "Yeah, it seems like I was just a little shaken\nby their comment."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、さっさと忘れちまえ。\n旅の恥は掻き捨てっていうだろ。",
+    "translation": "Right, so forget about it already.\nYou know what they say,\nwhat happens in Okinawa, stays in Okinawa."
+  },
+  {
+    "character": "五月",
+    "japanese": "私は別に恥などかいた覚えはありません。\nちょっと気になっただけです！",
+    "translation": "It's not like I did anything shameful\nto begin with.\nI was just a little curious!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あ、あれ？\n　フォローしたつもりだったんだが……）",
+    "translation": "(H-huh?\n Did I not give enough support there...?)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あーあ、せっかく機嫌が直ったのに。",
+    "translation": "Aaah, even though she seemed\nlike she was cheering up."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君は先に行ってて。\n話がややこしくなるだけだわ。",
+    "translation": "Anyway, Fu-kun, you go on ahead.\nIt'll just make things more complicated\nif you stick around."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう。\n悪いな、後はよろしく。",
+    "translation": "O-okay.\nSorry, I'll leave it to you guys."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（やっぱり、こういう時のフォローは\n　まだまだだな、俺……）",
+    "translation": "(I still have a lot to learn about\n supporting others in times like these...)"
+  }
+]

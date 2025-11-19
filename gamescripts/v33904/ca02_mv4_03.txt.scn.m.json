@@ -1,0 +1,407 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "あそこにいるの、らいはと四葉か。\nなにを見てるんだ？",
+    "translation": "Are those two over there Raiha and Yotsuba?\nWhat are they looking at?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あれって沖縄の民族衣装じゃないかしら？\nねえ、私たちも見に行きましょ！",
+    "translation": "Isn't that a traditional Okinawan costume?\nHey, let's take a closer look too!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よお、２人ともなにを見てるんだ？",
+    "translation": "Yo, what are you two looking at?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "あっ、お兄ちゃん。",
+    "translation": "Ah, big bro."
+  },
+  {
+    "character": "らいは",
+    "japanese": "そこのショーウィンドーに飾られてる服、\n沖縄の民族衣装なんだって。",
+    "translation": "That outfit on display in the shop window\nis a traditional Okinawan costume."
+  },
+  {
+    "character": "二乃",
+    "japanese": "やっぱりそうよね。\nえっと、名前はなんだったかしら？",
+    "translation": "I thought so. What was it called again?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "琉装（りゅうそう）！\n琉球王朝時代に、王様や貴族が着てた服だよ。",
+    "translation": "Ryusou!\nIt's a garment that was worn by kings and nobles\nduring the Ryukyu Kingdom era."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ、それに相応しい華やかな衣装だ。\nこういうのは模様や色にも意味があるんだろうな。",
+    "translation": "Wow, it's a really gorgeous costume.\nI bet the colors and patterns\nhave some special meanings too."
+  },
+  {
+    "character": "四葉",
+    "japanese": "おお、さすがは上杉さん！\nその通りですよ。\n色で、着てる人の身分がわかるそうなんです。",
+    "translation": "Oh, you're spot on, Uesugi-san!\nThe colors of the garment indicate\nthe wearer's social status."
+  },
+  {
+    "character": "四葉",
+    "japanese": "にしし～。\n実はさっき、お店の人が\n琉装についてちょっとお話ししてくれて――",
+    "translation": "Ehehe.\nActually, just a moment ago, a shop staff member\ntalked to me a little about Ryusou%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "もう、誰かに教えたくてウズウズだったので、\n上杉さんと二乃、グッドタイミングです！",
+    "translation": "I was itching to tell someone,\nso it's good timing\nthat I can tell you two!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はいはい、聞いてあげる。",
+    "translation": "Okay okay, go ahead and tell me."
+  },
+  {
+    "character": "四葉",
+    "japanese": "模様なんですけど、女性のものは\n自然をモチーフにした\n紅型（びんがた）染めっていうものが特徴的なのです。",
+    "translation": "First, it's about the patterns on kimono.\nFor women's kimono, they often use a type of dyeing\ncalled bingata that features natural motifs."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ああ、だから花や風景の模様なのね。",
+    "translation": "I see. The patterns are inspired\nby flowers and landscapes."
+  },
+  {
+    "character": "らいは",
+    "japanese": "どれも鮮やかで綺麗だよね。\n見てるだけで楽しくなっちゃう。",
+    "translation": "They're all so vivid and beautiful.\nJust looking at them makes you happy."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あと、琉装は、内側と外側の着物の色の\n組み合わせを楽しむものなんだって。\n赤と青とか、黄色と黒とか。",
+    "translation": "Also, with ryusou, you can have fun playing with\nthe color combinations of the inner and outer layers.\nLike pairing red and blue, or yellow and black."
+  },
+  {
+    "character": "二乃",
+    "japanese": "色の組み合わせ……。\nふうん、着る人のセンスが試されるわけ。",
+    "translation": "Color combinations, huh...\nIn other words, the wearer's sense of style\nis being put to the test."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえ、風太郎。\n風太郎は私にどんな色を合わせてくれる？",
+    "translation": "Hey, Futaro.\nWhat color do you think would look good on me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "二乃に似合う色か？\nそうだな、なんでも似合いそうに思えるが。",
+    "translation": "What color would look good on you?\nWell, I think any color would."
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、どうかしたか？",
+    "translation": "What? Is something wrong?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃーん。\n聞かれてるんだから、ちゃんと答えてあげないと。",
+    "translation": "Big bro.\nYou're being asked a question.\nYou need to give a proper answer."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、答えただろ。",
+    "translation": "I did answer."
+  },
+  {
+    "character": "らいは",
+    "japanese": "いまのは答えてないのと一緒！",
+    "translation": "Your answer was way too vague!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "いいのよ、らいはちゃん。\n風太郎だもの、あの返事も予想はしてたわ。",
+    "translation": "It's fine, Raiha-chan.\nIt's Futaro being Futaro. I could have expected that reply."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（なんでも似合いそうだと本心から思ったんだが\n　二乃にフォローされてしまった……）",
+    "translation": "(I was serious when I said she'd look good in anything,\n but even Nino helped me out here...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えーと……。",
+    "translation": "Umm..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "二乃はこういう着物っぽいのだと、\nよく黒とか紫を着てるよね！",
+    "translation": "If I had to say, when it comes to things like kimono,\nNino often wears black or purple!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "まあ、そうね。\nしっくりくるのよ。",
+    "translation": "Yeah, I suppose.\nThose colors suit me well."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うんうん、二乃は似合うよねー。\n黒とか紫！",
+    "translation": "Yeah, you look good in black and purple, Nino!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（そうだったのか。\n　……覚えておこう）",
+    "translation": "(Is that so?\n I'll remember that.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あれ。\nそっちに黒いのがあるな。",
+    "translation": "Hm.\nThey have something black over there."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、それは男性用なんだそうです。",
+    "translation": "Ah, that's for men."
+  },
+  {
+    "character": "二乃",
+    "japanese": "風太郎、似合いそうね。",
+    "translation": "It would look good on you, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうだろうな。\nいまいちピンと来ない。",
+    "translation": "I wonder.\nI can't quite picture it."
+  },
+  {
+    "character": "二乃",
+    "japanese": "絶対に似合うわよ。\n風太郎はシックな物が合いそうだもの。",
+    "translation": "It'll totally suit you.\nI bet you'd look good in something more stylish."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "シックね……。",
+    "translation": "Stylish, huh..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "まだピンと来ない顔ね。",
+    "translation": "Seems like you still don't get it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんはオシャレ下級者ですからねぇ。",
+    "translation": "Well, Uesugi-san is a fashion amateur, after all."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "う、うるさいぞ四葉！",
+    "translation": "Sh-shut up, Yotsuba!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そういえば、風太郎は好きな色ってないの？",
+    "translation": "Come to think of it,\ndo you have a favorite color, Futaro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "特にはない。",
+    "translation": "Not particularly."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "二乃とお揃いになるな。",
+    "translation": "I'll be matching with Nino."
+  },
+  {
+    "character": "二乃",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その、お前も黒が好みなんだろ？",
+    "translation": "Well, you like black too, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふ、そうね。\nお揃いもいいけど――",
+    "translation": "Teehee, that's right.\nMatching is good, but%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "その場合は黒じゃなくて、並んで映える色を選ぶわ。",
+    "translation": "In that case, we shouldn't necessarily choose black,\nbut colors that complement each other\nand look good side by side."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ただお揃いでいるより、\nお互いが引き立つ関係のほうがいいと思わない？",
+    "translation": "Don't you think it's better for us to stand out\nindividually rather than just matching each other?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確かに。\nお前らしいな、その意見は。",
+    "translation": "Indeed.\nThat opinion is so typical of you, Nino."
+  },
+  {
+    "character": "二乃",
+    "japanese": "でしょ？",
+    "translation": "Right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そういえば、風太郎は好きな色ってないの？",
+    "translation": "Come to think of it,\ndo you have a favorite color, Futaro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "特にはない。",
+    "translation": "Not particularly."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ……お前が言うなら着てみてもいいな。",
+    "translation": "Well... I'd wear it at your recommendation."
+  },
+  {
+    "character": "二乃",
+    "japanese": "本当！？\nじゃあ、一緒に着てみない？",
+    "translation": "Really?!\nThen, why don't we try them on together?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はっ！？\nマジか、いまここでか？",
+    "translation": "WHA%p-2;――%p;?!\nRight here, right now?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ここでよ。\nむしろ、いま以外に着る機会なんてないわよ？",
+    "translation": "Right here.\nActually, there won't be another chance to wear it,\ndon't you think?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "た、確かに。",
+    "translation": "Th-that's true."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ここ、レンタルできるお店でしょ？\n聞いてみましょ！",
+    "translation": "This shop rents them out, right?\nLet's ask!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あのー、二乃？\n盛り上がってるところ悪いんだけど――",
+    "translation": "Umm, Nino?\nSorry to rain on your parade, but%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "レンタルは予約制で、\n今日はもう受付してないんだって。",
+    "translation": "It's by reservation only,\nand they're not accepting any more today."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ええ？",
+    "translation": "Ehhh?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なにそれ。\n風太郎と一緒に着てみたかったのに。",
+    "translation": "What the hell.\nI wanted to try them on with Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、こういうのは観光客に人気だろうし\n仕方ないだろ。",
+    "translation": "Well, things like this are popular among tourists.\nThere's nothing we can do about it."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……そうね、ちゃんと調べておくべきだったわ。",
+    "translation": "I see, I should have looked it up properly."
+  },
+  {
+    "character": "二乃",
+    "japanese": "また今度、風太郎と一緒に来た時に、ね。",
+    "translation": "We can try it again\nwhen we come back next time, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうだな。",
+    "translation": "Y-yeah."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そういえば、風太郎は好きな色ってないの？",
+    "translation": "Come to think of it,\ndo you have a favorite color, Futaro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "特にはない。",
+    "translation": "Not particularly."
+  },
+  {
+    "character": "二乃",
+    "japanese": "即答なのね……。",
+    "translation": "Quick answer..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "でも、好きな色がないならないで、\n楽しみが増えるわね。",
+    "translation": "But, if you don't have a favorite color,\nit just means there are more things\nto look forward to, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なんだよ、その笑顔は。\nどういうことだよ。",
+    "translation": "Wh-what's with that smile?\nWhat do you mean?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "これから先、私がコーディネートしてあげる。\nその中で好きな色を見つけていきましょ。",
+    "translation": "I'll be coordinating your outfits from now on.\nLet's find your favorite color together."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、そういうことか。",
+    "translation": "Oh, I see."
+  },
+  {
+    "character": "らいは",
+    "japanese": "それって、お兄ちゃんが\n二乃さんの色に染められちゃうってこと？",
+    "translation": "Does it mean that Nino-san is going to dye you in her colors,\nbig bro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ぶっ！？",
+    "translation": "What?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふっ、そうとも言えるんじゃないかしら？",
+    "translation": "Teehee, I guess you could say that, hm?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえ、私を染めてくれるのと、\n風太郎を染めてしまうのと……どっちがいい？",
+    "translation": "Hey, which is better, you dyeing me,\nor me dyeing you, Futaro... Which do you prefer?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "これは……上杉さん、もっと頑張らないと！",
+    "translation": "This means... Uesugi-san, you have to try harder!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（まったくだ。\n　二乃は楽しそうではあるが、\n　これでは俺がリードしているとは言いがたい）",
+    "translation": "(Exactly.\n Nino seems to be having fun, but\n you can hardly say that I'm leading her.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（これは思った以上の難問だぞ……）",
+    "translation": "(This is a more vexing problem\n than I thought...)"
+  }
+]

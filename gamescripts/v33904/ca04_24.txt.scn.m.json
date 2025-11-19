@@ -1,0 +1,337 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "じゃーん！\n今日はアメリカンビレッジでショッピングです！",
+    "translation": "Tah-dah!\nToday, we're shopping in American Village!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ええええ？\nなんで沖縄にアメリカがあるの？",
+    "translation": "Whaaaa?!\nWhy is America in Okinawa?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ここ、アメリカ風のショッピングモールなんだ。",
+    "translation": "This is a shopping mall\nthat's designed like America."
+  },
+  {
+    "character": "五月",
+    "japanese": "らいはちゃんが驚くのもわかります。\n日本とは思えない街並みですね。",
+    "translation": "I can understand why you're surprised, Raiha-chan.\nThe cityscape doesn't look like Japan at all."
+  },
+  {
+    "character": "四葉",
+    "japanese": "この辺り一帯の街は、アメリカ西海岸を\nイメージして作られてるんだそうですよ。",
+    "translation": "I heard that this entire area was designed\nto resemble the west coast of the United States."
+  },
+  {
+    "character": "二乃",
+    "japanese": "かなり広いわね。\nしかも面白そうなショップがたくさんあるみたい。",
+    "translation": "It's pretty big.\nIt seems like there are a lot of interesting shops too."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふっふっふ、そんな二乃にはこれ！\nショップリストがあるから使ってね。",
+    "translation": "Hehehe, for you, Nino, I've got this!\nUse this shop list."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あら、用意がいいじゃない。",
+    "translation": "Oh, how thoughtful of you."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ししし～。",
+    "translation": "Teehee."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いつも通りの四葉……。\n　いや、それは違うか）",
+    "translation": "(Same old Yotsuba...\n No, something's a little different.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（話し方や行動で判断するのはもうやめないとな。\n　また、俺の独り善がりになっちまう）",
+    "translation": "(I shouldn't judge people\n based on their speech or actions anymore.\n That would just be my own self-centeredness.)"
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君、今日はなんだか静かだね。",
+    "translation": "Futaro-kun, you're surprisingly quiet today."
+  },
+  {
+    "character": "一花",
+    "japanese": "さては昨日、お父さんにガツンと言われたのが\n効いちゃった？",
+    "translation": "Did something Dad say to you yesterday\nget to you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、実際あれは堪えた。\nもっと色々としっかりしないとダメだな。",
+    "translation": "Yeah, that was honestly pretty tough.\nI really need to step up and be more responsible."
+  },
+  {
+    "character": "一花",
+    "japanese": "ふふっ、そっか。\n君もこの旅行で成長したんだね。",
+    "translation": "Teehee, I see.\nSo you've grown on this trip too, huh?"
+  },
+  {
+    "character": "五月",
+    "japanese": "では、どこから見ていきましょう？",
+    "translation": "Alright, where should we start?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前らのことだ、どうせ行きたい場所が\nバラバラなんだろ？",
+    "translation": "Knowing you guys,\nyou probably all want to go different places, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ、やっぱり自由行動？",
+    "translation": "So, shall we just do our own thing?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん……よし！",
+    "translation": "Hm... I got it!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "どうしたの？",
+    "translation": "What's up?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "私、上杉さんと一緒に\n行きたい所があるんだけど、いいかな？",
+    "translation": "I want to go somewhere with Uesugi-san.\nIs that okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "それって２人で？",
+    "translation": "Just the two of you?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "もちろん２人で。",
+    "translation": "Of course, just the two of us."
+  },
+  {
+    "character": "二乃",
+    "japanese": "別に私たちに気を遣う必要ないわよ？\nどこへでも行けばいいじゃない。",
+    "translation": "You don't have to worry about us.\nYou can go wherever you want."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、四葉がそうしたいのであれば\nこちらに異存はありません。",
+    "translation": "Yes, if you want to do that, Yotsuba,\nwe have no objections."
+  },
+  {
+    "character": "一花",
+    "japanese": "そうそう。\nゆっくりしてきていいからね。",
+    "translation": "That's right. Take your time and have fun, okay?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "いってらっしゃーい！",
+    "translation": "Have a good time!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんはどうですか？",
+    "translation": "And what about you, Uesugi-san?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんで聞くんだよ？\n俺が断るはずないだろ。",
+    "translation": "Why are you asking me?\nThere's no way I'd refuse."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……はいっ！",
+    "translation": "...Okay!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（四葉に先導されて歩き出した先は、\n　まるで迷路のように入り組んでいた）",
+    "translation": "(Led by Yotsuba, we started walking\n and ended up in a labyrinth-like area.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（どうやら、このショッピングモールは\n　いくつもの建物が組み合わさった\n　構造をしているらしい）",
+    "translation": "(It seems like this shopping mall\n is actually a combination of multiple buildings.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（そんな中、四葉は目についた路地を\n　適当に進んでるように見えたが――）",
+    "translation": "(In the midst of it all,\n Yotsuba seemed to be wandering down random paths,\n yet%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉？　俺たちはいま、どの辺りにいるんだ？\n俺はもう方角すらわからん。",
+    "translation": "Yotsuba? Where are we now?\nI don't even know which direction we're facing anymore."
+  },
+  {
+    "character": "四葉",
+    "japanese": "にしし～。\nさて、どこでしょう？",
+    "translation": "Tee-hee-hee.\nNow, I wonder?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、まさかお前、迷ってたりしてないよな？",
+    "translation": "Hey, don't tell me you're lost or something."
+  },
+  {
+    "character": "四葉",
+    "japanese": "でも、ここなら迷っても楽しいですよ。\n見てて飽きないし、テーマパークみたいですし！",
+    "translation": "But it's fun to get lost here.\nIt never gets boring to look at it all.\nIt feels like a theme park!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "マジで迷ってんのか？",
+    "translation": "We're actually lost, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "大丈夫ですよ。\n本当の迷路じゃないし、\n少しくらい迷ったって、いつかは抜け出せます。",
+    "translation": "Don't worry.\nIt's not a real maze, so even if you get a little lost,\nyou'll eventually find your way out."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "待て待て。\nそれってやっぱり迷ってるんじゃないのか？",
+    "translation": "Wait a minute.\nDoesn't that mean we're actually lost?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あははは！\n上杉さんは心配しすぎです。",
+    "translation": "Ahahaha!\nYou worry too much, Uesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ったく……。",
+    "translation": "Jeez..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "たまには、こんな風に\n気の向くままに歩くってのもいいもんだな。",
+    "translation": "Sometimes, it's nice to just walk around\nwithout a care in the world, like this."
+  },
+  {
+    "character": "四葉",
+    "japanese": "どこへ続いてるのか、\nちょっと不安もありますけど\nそれもスパイスですね。",
+    "translation": "It's a little unsettling not knowing where it leads,\nbut that's what makes it exciting, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "本当だな。\n確かにテーマパークみたいなもんだ。",
+    "translation": "For sure.\nIt IS like a theme park."
+  },
+  {
+    "character": "四葉",
+    "japanese": "面白そうなお店ばかりで、\nついつい立ち寄りたくなっちゃいますもんね。",
+    "translation": "All the shops look so interesting,\nit's hard not to stop by each and every one."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それに、飾り付けもいっぱいで\n見てるだけでもワクワクが湧き上がってきます！",
+    "translation": "Also, there are so many decorations\nthat just looking at them gets you excited!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、こういうのも悪くない。\nもっと先に進んでみようぜ。",
+    "translation": "Yeah, this isn't half bad.\nLet's keep going further ahead."
+  },
+  {
+    "character": "四葉",
+    "japanese": "よーし、行きましょう！",
+    "translation": "Yeah, let's go!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "たまには、こんな風に\n気の向くままに歩くってのもいいもんだな。",
+    "translation": "Sometimes, it's nice to just walk around\nwithout a care in the world, like this."
+  },
+  {
+    "character": "四葉",
+    "japanese": "どこへ続いてるのか、\nちょっと不安もありますけど\nそれもスパイスですね。",
+    "translation": "It's a little unsettling not knowing where it leads,\nbut that's what makes it exciting, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "迷ってもいいぞ。\n俺は別に構わないからな。",
+    "translation": "It's alright to get lost.\nI don't mind either way."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前となら迷っても構わないって……\nそういうことだ。",
+    "translation": "I mean, as long as I'm with you,\nI don't mind getting lost...\nis what I mean."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前となら、\nどんな道でも一緒に歩いて行けるからな。",
+    "translation": "With you,\nI feel like I can walk down any path I want."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……はい。",
+    "translation": "...Okay."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほ、ほら、行こうぜ！",
+    "translation": "C-come on, here we go!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、どんどん進みましょう！",
+    "translation": "Yeah! Let's keep on keepin' on!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "たまには、こんな風に\n気の向くままに歩くってのもいいもんだな。",
+    "translation": "Sometimes, it's nice to just walk around\nwithout a care in the world, like this."
+  },
+  {
+    "character": "四葉",
+    "japanese": "どこへ続いてるのか、\nちょっと不安もありますけど\nそれもスパイスですね。",
+    "translation": "It's a little unsettling not knowing where it leads,\nbut that's what makes it exciting, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……昔、お前が言ってたことが\nやっとわかった気がする。",
+    "translation": "I feel like I finally understand something\nyou said a long time ago."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ？　なんのことですか？",
+    "translation": "Huh? What are you talking about?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（好きな相手と一緒なら、\n　ただ歩いているだけでも楽しい。\n　デートってのは、こういうもんなんだろうな）",
+    "translation": "(If you're with someone you like,\n just walking around is enjoyable.\n I guess that's what a date is like.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それで、目的地はどこなんだ？",
+    "translation": "So, where are we heading?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "それは着いてのお楽しみです！\nさあさあ、こっちですよ！",
+    "translation": "That's a surprise for when we get there!\nCome on, this way!"
+  }
+]

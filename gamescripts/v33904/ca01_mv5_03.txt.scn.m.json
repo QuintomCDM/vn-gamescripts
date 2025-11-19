@@ -1,0 +1,392 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（お？\n　あそこのチェアで休んでるのは二乃と三玖か）",
+    "translation": "(Oh?\n Is that Nino and Miku\n resting by those chairs over there?)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふー……。\n遊ぶのもいいけど、やっぱり海に来たら\nこうしてくつろぐ時間も欲しいわ。",
+    "translation": "*sigh*\nWhile doing activities is great,\nI also need time to relax when I'm at the beach."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私もこっちのほうが好みかな。",
+    "translation": "I think I prefer to relax at the beach too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よう、優雅だな。",
+    "translation": "Yo, you guys look very relaxed."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ああ、フー君。",
+    "translation": "Oh, hi Fu-kun."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ええ、すっかり優雅な気分で\nしばらくここから動きたくないわ。",
+    "translation": "Yeah, I don't feel like moving, \nI'm in a VERY relaxed state right now."
+  },
+  {
+    "character": "三玖",
+    "japanese": "このまま一生、海を眺めて暮らそうかな。",
+    "translation": "Should we just spend our whole lives here,\nlooking at the sea?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そりゃちょっと優雅すぎるだろ。",
+    "translation": "Well, that's a bit too relaxing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "優雅なのは結構だが、ちゃんと水分補給はしてるか？\nなんだかんだ結構運動してるし、気をつけろよ。",
+    "translation": "It's important to feel relaxed but,\nhave you been drinking enough water?\nWe've been moving around quite a bit, so be careful."
+  },
+  {
+    "character": "二乃",
+    "japanese": "言われてみれば、してないわね。",
+    "translation": "Now that you mention it,\nI haven't been drinking enough."
+  },
+  {
+    "character": "三玖",
+    "japanese": "確かにちょっと喉渇いた。\nでも、動くのはめんどくさい。",
+    "translation": "I'm feeling a little thirsty,\nbut I don't want to move."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい。",
+    "translation": "Jeez."
+  },
+  {
+    "character": "二乃",
+    "japanese": "というわけでフー君、飲み物お願いしていい？",
+    "translation": "Sooo, can you get us some drinks, Fu-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんでだよ。\nそれくらい自分で行け。",
+    "translation": "Why me? Go get 'em yourself."
+  },
+  {
+    "character": "三玖",
+    "japanese": "このままじゃ、私たち干からびちゃう。\nフータローはそれでもいいの？",
+    "translation": "If you don't do something, \nwe are going to be severely dehydrated.\nAre you okay with that, Futaro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "飲み物も買いに行けない怠け者は\n干からびても仕方ないな！",
+    "translation": "If you're so lazy you can't even buy yourself a drink,\nit's your own fault if you get dehydrated!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "えー？\nフー君つめたーい。",
+    "translation": "Wha?\nYou're so cold, Fu-kun."
+  },
+  {
+    "character": "二乃",
+    "japanese": "仕方ないわね、\nじゃんけんで負けた人が買いに行きましょ。",
+    "translation": "Well, I guess we'll decide over rock-paper-scissors\nand the loser has to go buy the drinks."
+  },
+  {
+    "character": "三玖",
+    "japanese": "賛成。",
+    "translation": "Agreed."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "意地でも自分では行きたくないんだな……。",
+    "translation": "You just really don't want to go by yourself huh..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そんなことないわよ？\nもし私が負けたらちゃんと行くもの。",
+    "translation": "That's not true, you know?\nIf I lose, I'll gladly go."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ま、じゃんけんなら公平だな。\nわかった、受けて立つぜ。",
+    "translation": "Fine then, I guess that's fair.\nI'll accept the challenge."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "行くぞ。\nじゃんけん――",
+    "translation": "Here we go.\nRock, paper%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ぽん！",
+    "translation": "Scissors!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はい、フー君の負け。",
+    "translation": "Okay, you lose, Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……これは何回勝負だ？",
+    "translation": "...How many rounds are we doing?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "往生際が悪い。\nもうフータローの負けは決まった。",
+    "translation": "Don't be a sore loser.\nYou lost already, Futaro, so just go buy the drinks."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃ、いってらっしゃーい。",
+    "translation": "See you in a bit."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くっ……。\nわかった、結果は結果だからな。",
+    "translation": "Kkh....\nFine, the results are the results."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほら、買ってきたぞ。",
+    "translation": "Here, I bought the drinks."
+  },
+  {
+    "character": "三玖",
+    "japanese": "お疲れ様。",
+    "translation": "Appreciate it."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ありがと。",
+    "translation": "Thank you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前らから特に注文もなかったし、\nとりあえず沖縄っぽい味を選んできたぞ。",
+    "translation": "You didn't have any specific requests,\nso I just picked drinks that seemed Okinawa-ish."
+  },
+  {
+    "character": "二乃",
+    "japanese": "沖縄っぽい？\n色じゃわからないわね。",
+    "translation": "Okinawa-ish?\nIt's hard to tell just from the color."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こっちがシークヮーサー。\nパッション＆ドラゴンフルーツとかいうやつと、\nマンゴーだ。",
+    "translation": "This one is 'shikuwasa' citrus fruit flavour.\nThere's also a passionfruit, a dragonfruit,\nand a mango flavoured one."
+  },
+  {
+    "character": "三玖",
+    "japanese": "沖縄っぽいのはシークヮーサーだけじゃない？",
+    "translation": "Isn't shikuwasa the only Okinawa-ish one?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "文句言うな。\n南国っぽいからいいだろ。",
+    "translation": "Don't complain.\nAt least I picked all tropical fruit flavoured ones."
+  },
+  {
+    "character": "二乃",
+    "japanese": "でも、中々いいチョイスだと思うわよ？\nどれにしようか悩むわねー。",
+    "translation": "But, I think they're pretty good choices.\nI'm not sure which one to pick."
+  },
+  {
+    "character": "三玖",
+    "japanese": "むむ……。\n全部美味しそう。",
+    "translation": "Mmmhh...\nThey all look delicious."
+  },
+  {
+    "character": "二乃",
+    "japanese": "うーん……。",
+    "translation": "Hmmm..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いや、そんなに深刻に悩むとこか？）",
+    "translation": "(You're having trouble deciding that much?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんでもいいから早くしろ。",
+    "translation": "Hurry up and pick something."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、急かさないで。",
+    "translation": "Futaro, don't rush me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが、時間かけてるとぬるくなるぞ。\n冷えてるほうが美味いだろ。",
+    "translation": "But, If you take too long,\nit'll get lukewarm.\nIt tastes better when it's cold."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はいはい、わかったわよ。",
+    "translation": "Okay, okay, got it."
+  },
+  {
+    "character": "二乃",
+    "japanese": "決めた。\nいまはさっぱりな気分だしシークヮーサーで。",
+    "translation": "I've decided.\nI'm in the mood for some shikuwasa juice."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ私、パッション＆ドラゴンフルーツ。\n一番どんな味かわからないから。",
+    "translation": "Then I'll have the passion and dragon fruit.\nI have no idea what it'll taste like."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "んじゃ、残ったマンゴーが俺だな。",
+    "translation": "Okay, so that leaves the mango for me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "迷うよな。\n俺もそこそこ悩んで、この３つに絞ったわけだし。",
+    "translation": "It's hard to choose.\nI narrowed it down to these three\nafter thinking about it for a while."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なにが欲しいのか聞いてから\n買いに行けばよかったぜ。",
+    "translation": "I should have asked you guys\nwhat you wanted before going to buy them."
+  },
+  {
+    "character": "二乃",
+    "japanese": "先に聞かれてたら、\nそれはそれで悩んだでしょうね。",
+    "translation": "If you had asked me first,\nI think you would've still had a hard time deciding."
+  },
+  {
+    "character": "三玖",
+    "japanese": "きっと、フータローは\nまだジュースを買いに行けてない。",
+    "translation": "I bet you still wouldn't even have gone\nto buy the juice yet."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その状況、目に浮かぶな……。",
+    "translation": "I can just picture the situation..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "決めた。\nいまはさっぱりな気分だしシークヮーサーで。",
+    "translation": "I've decided.\nI'm in the mood for some shikuwasa juice."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ私、パッション＆ドラゴンフルーツ。\n一番どんな味かわからないから。",
+    "translation": "Then I'll have the passion and dragon fruit.\nI have no idea what it'll taste like."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "んじゃ、残ったマンゴーが俺だな。",
+    "translation": "Okay, so that leaves the mango for me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別の味が良かったか？\n他にもベリーミックスとかあったぞ。",
+    "translation": "Should I have gotten other flavors?\nThere was also a berry mix."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここまで来たら満足させたいからな。\nそうじゃないと買ってきた甲斐がない。",
+    "translation": "I want everyone to like the flavors I picked,\nsince I went all that way.\nOtherwise, it would be a waste of my effort."
+  },
+  {
+    "character": "二乃",
+    "japanese": "もー、選択肢増やされたら\nますます迷うじゃない。",
+    "translation": "Oh, come on, if there were more choices,\nit would be even harder to decide."
+  },
+  {
+    "character": "三玖",
+    "japanese": "絶対決められなくなる。",
+    "translation": "I wouldn't be able to decide."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "３つでも難儀してるし、それもそうか。",
+    "translation": "Even with just these three flavors it's hard, eh."
+  },
+  {
+    "character": "二乃",
+    "japanese": "でも大丈夫よ。\nフー君セレクトなんだから、この中から選ぶわ。",
+    "translation": "But don't worry.\nFu-kun chose them, so they should all taste good."
+  },
+  {
+    "character": "三玖",
+    "japanese": "だね、フータローのセンスを信じる。",
+    "translation": "That's right, I trust your instincts, Futaro."
+  },
+  {
+    "character": "二乃",
+    "japanese": "決めた。\nいまはさっぱりな気分だしシークヮーサーで。",
+    "translation": "I've decided.\nI'm in the mood for some shikuwasa juice."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ私、パッション＆ドラゴンフルーツ。\n一番どんな味かわからないから。",
+    "translation": "Then I'll have the passion and dragon fruit.\nI have no idea what it'll taste like."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "んじゃ、残ったマンゴーが俺だな。",
+    "translation": "Okay, so that leaves the mango for me."
+  },
+  {
+    "character": "二乃",
+    "japanese": "んっ！　これ美味しいわね！",
+    "translation": "Mmm! This is delicious!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "果物そのものじゃないかってくらいだな。\n一部は地元産を使ってるって話だったが。",
+    "translation": "It's almost like drinking the actual fruit.\nI heard they use local produce for some of it."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はー……。\nこうやってジュースを飲みながら\nただただ海を眺めるだけなんて、贅沢な時間よねぇ。",
+    "translation": "Ahh...\nJust sipping on juice like this\nand gazing out at the ocean. How marvelous."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、バカンスを満喫してる。",
+    "translation": "Yes, we're fully enjoying our vacation."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まったくだ。\nこんな時間を過ごせるとは思わなかったな。",
+    "translation": "Absolutely.\nI never thought we would experience something like this."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あっという間に飲んじゃったわ。",
+    "translation": "I drank it all in no time."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ちょっと物足りないかも……。",
+    "translation": "I might need a little more..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうねえ、もう１杯飲みたい気分。\n今度は違う味を試したいわね。",
+    "translation": "I feel the same way.\nI want another glass.\nI want to try a different flavor this time."
+  },
+  {
+    "character": "三玖",
+    "japanese": "というわけだから、フータロー。",
+    "translation": "Well then, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "また買ってこいと！？",
+    "translation": "You mean I have to buy more?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "もう１回じゃんけんでもいいわよ？\n多分、私たちが勝つと思うけど。",
+    "translation": "Should we play rock-paper-scissors again?\nI think we'll win once again."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし、受けて立つ！\n次は３回勝負だからな！",
+    "translation": "Alright, bring it on!\nBut this time it's best out of three!"
+  }
+]

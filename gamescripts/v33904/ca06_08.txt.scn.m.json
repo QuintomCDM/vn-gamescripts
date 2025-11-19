@@ -1,0 +1,742 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "本日のメイン、首里城にとうちゃーく！",
+    "translation": "Today's main event is a visit to Shurijo Castle!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "沖縄観光って言ったら、\nやっぱりここってイメージがあるわ。",
+    "translation": "When you think of Okinawa tourism,\nyou definitely imagine this place, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "お城って言われて想像してたよりも緑が多くて、\nいい所だね。",
+    "translation": "There's more greenery than I imagined in a castle.\nWhat a nice place."
+  },
+  {
+    "character": "三玖",
+    "japanese": "この門は見たことがある。\n守礼門……だよね？",
+    "translation": "I've seen this gate before.\nThis is...Shureimon, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、そうです。\n確かお札にも描かれていましたね。",
+    "translation": "Yes, that's right.\nI think it was also depicted on a banknote."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ほら、上杉さんも早く早く！\n置いてっちゃいますよ～！",
+    "translation": "Hey, Uesugi-san, hurry up!\nYou'll be left behiiind!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ああ、いま行く。",
+    "translation": "...Yeah, I'm coming now."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（姉妹揃ってどっか行っちまった時は\n　どうなるかと思ったが……俺の杞憂だったか）",
+    "translation": "(I was worried about what would happen if\n the sisters went somewhere together...\n But maybe I was just being paranoid.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（むしろ、戻ってきた後のほうが\n　雰囲気が良くなったくらいだな）",
+    "translation": "(Actually, the atmosphere is even better\n after they got back.)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん。\n門についてる看板、なんて書いてあるんですか？",
+    "translation": "Uesugi-san, what's written on the sign\nhanging on the gate?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "看板じゃなくて扁額（へんがく）だ。\n書かれてるのは、確か\n『守禮之邦（しゅれいのくに）』だったかな。",
+    "translation": "It's not a sign, it's a plaque.\nI think it says 'Shurei no Kuni.'"
+  },
+  {
+    "character": "四葉",
+    "japanese": "しゅれーのくに？",
+    "translation": "Shurei no Kuni?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "『礼節を重んずる国』って意味だ。",
+    "translation": "It means, 'a country that values etiquette.'"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はあ、なるほど。",
+    "translation": "Oooh, I see."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前、わかってないだろ。",
+    "translation": "You obviously don't. "
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえフー君！\n門の前で一緒に写真撮りましょ？",
+    "translation": "Hey, Fu-kun!\nLet's take a picture together\nin front of the gate!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ！\nじゃあ、私が撮ってあげるね。",
+    "translation": "Ah!\nThen, I'll take the picture for you."
+  },
+  {
+    "character": "一花",
+    "japanese": "あらら、先を越されちゃったか。\n三玖、どうしよっか？",
+    "translation": "Oh my, someone beat us to it.\nWhat should we do, Miku?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ここは礼節を守って順番待ちで。",
+    "translation": "Let's follow proper etiquette and wait in line."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？　二乃と２人でなのか？\nせっかくなんだし、みんなで撮ればいいだろ？",
+    "translation": "Huh? Just the two of us?\nWhy not take a group photo since we're all here?"
+  },
+  {
+    "character": "五月",
+    "japanese": "それは当然、撮りますが？\n私たちの集合写真はあなたが撮ってくださいね。",
+    "translation": "Of course we will.\nBut you'll take our group photo for us, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ほら、フー君！\nおしゃべりしてないでカメラのほうを向く！",
+    "translation": "Come on, Fu-kun!\nDon't talk, look at the camera!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、これは思い出です。\n最高の思い出を作るんですよね？",
+    "translation": "Uesugi-san, this is a memory.\nWe're making the best memories, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……まあ、そうだな。\n観光地で記念写真はお決まりみたいなもんか。",
+    "translation": "Well...yeah.\nTaking commemorative photos\nat tourist destinations is the thing to do."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふっ！\nじゃあ、腕組んじゃおうかしら。",
+    "translation": "Teehee!\nThen, let's link arms."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちょっと待て！\nくっつきすぎだって！",
+    "translation": "Wait a minute!\nYou're too close!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、逃げてちゃダメ。",
+    "translation": "Futaro, don't run away."
+  },
+  {
+    "character": "一花",
+    "japanese": "順番待ちがあるんだから早くしようねー？",
+    "translation": "There's a line, so could we speed things up a little, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、まさかお前らも……。",
+    "translation": "Hey, don't tell me you guys as well..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、笑って笑って！\nはいはーい、撮りますよー。",
+    "translation": "Uesugi-san, smile, smile!\nOkie dokie, and here we gooo!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえ、フー君。\n腕組んで歩きましょ？",
+    "translation": "Hey, Fu-kun.\nLet's walk while linking arms."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "腕なんか組んだら、歩きづらくて疲れちまうだろ。",
+    "translation": "If we link arms, it'll be hard to walk,\nand we'll get tired."
+  },
+  {
+    "character": "三玖",
+    "japanese": "だ、大丈夫。\nフータローが腕組んでくれたら、私も頑張れるから。",
+    "translation": "I-it's okay.\nIf you link arms with me,\nI can do my best, too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前、大分疲れてないか？",
+    "translation": "Are you sure you're not already tired?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "首里城って結構、高低差あるんだ。\n疲れてきた……。",
+    "translation": "There's quite a difference in elevation\nat Shurijo Castle.\nI'm starting to get tired..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、午前中から歩き回ってるからな。\n俺もさすがに疲れ気味ではあるが。",
+    "translation": "Well, we've been walking around since this morning.\nI'm also starting to feel a little tired."
+  },
+  {
+    "character": "一花",
+    "japanese": "疲れたらお姉さんのとこへ来てもいいんだよ？\n肩くらい、タダで貸してあげちゃう。",
+    "translation": "If you're tired, you can come to your big sis, you know?\nI'll lend you my shoulder for free."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "タダより高いものはないって言葉もあるよな？",
+    "translation": "There's a saying that there's nothing more expensive\nthan something free, you know?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "観光なんだから、のんびり歩けばいいのよ。\nね、フー君。",
+    "translation": "It's a tourist attraction,\nso we can just take it easy and have ourselves a stroll.\nRight, Fu-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そう言うなら、のんびりさせてくれ……。",
+    "translation": "If that's the case, please let me take it easy..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "みんな遅ーい！\nほら、また門が見えてきたよー！",
+    "translation": "You're all so SLOOOW!\nLook, we can see another gate!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それなら正殿までもう少しか。",
+    "translation": "Then let's go a little further to the main hall."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あっ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？　急に立ち止まって。\nまさか足を挫いたとか……。",
+    "translation": "What's wrong? Why did you suddenly stop?\nDid you twist your ankle or something?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ううん、大丈夫。",
+    "translation": "No, I'm fine."
+  },
+  {
+    "character": "三玖",
+    "japanese": "石垣に石段……。\nあの門、まるでお城の城門みたいだなって。",
+    "translation": "The stone walls and stone stairs...\nThat gate looks just like an actual castle."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "首里城も城だからな。\n本州の城とは造りが違うようだが、\n似てる雰囲気はあるんだろ。",
+    "translation": "Well, Shurijo Castle is a castle after all.\nAlthough the construction is different from the \nmainland castles, it does have a similar atmosphere."
+  },
+  {
+    "character": "三玖",
+    "japanese": "櫓門（やぐらもん）は、\n地形を活かした山城って感じがして格好いい。",
+    "translation": "The Yaguramon gate has a cool mountain castle vibe to it\nthat takes advantage of the surrounding terrain."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、石段のところで\n門をバックに記念写真撮っておくか。",
+    "translation": "Alright, how about taking a commemorative photo\nwith the gate in the background at the staircase?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "２人で？",
+    "translation": "Just the two of us?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "集合写真で。\nまた順番待ちとか言い出されたら、\n時間がかかっちまう。",
+    "translation": "A group photo.\nIf you say you're gonna take turns again, \nit'll take too long. "
+  },
+  {
+    "character": "三玖",
+    "japanese": "残念。",
+    "translation": "Too bad."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ、みんな集合で。",
+    "translation": "All right, gather around, everyone."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おお、ここが正殿か！\nさすがに豪華だな！",
+    "translation": "Wow, so this is the Seiden main hall!\nIt's really luxurious!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "青空に建物の色が映えて綺麗……！",
+    "translation": "The building's color looks beautiful \nagainst the blue sky...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あと首里城と言えば、やっぱり\nこの縞模様の中庭だよな！",
+    "translation": "And when someone says Shurijo Castle, \nyou definitely think of this striped courtyard!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うなーですよ、上杉さん！\nうなー！",
+    "translation": "Unaaa, Uesugi-san! Unaaa!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？　なんだ？",
+    "translation": "Huh? What now?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "この中庭のことだよ。\n御庭（うなー）って言うんだって。",
+    "translation": "She's talking about this courtyard.\nIt's called 'una' in the Okinawan dialect."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、そういう意味か。\n一応知ってたぞ、下調べはしたし。",
+    "translation": "Oh, I see. I actually did know that,\nsince I did some research beforehand."
+  },
+  {
+    "character": "三玖",
+    "japanese": "さっきの四葉の言い方だとね。",
+    "translation": "It's the way you were saying it before, Yotsuba. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だよな。\nなにを唸りだしたのかと思った。\n全然説明になってなかったし。",
+    "translation": "Exactly.\nI thought you were groaning or something.\nYour interjection didn't exactly help."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ししし～。\nあれくらい感覚で受け止めてください。",
+    "translation": "Heeheehee!\nJust take it as it is, please. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "無理言うな……。",
+    "translation": "Don't make me do the impossible..."
+  },
+  {
+    "character": "一花",
+    "japanese": "それじゃ、どこから見て回る？\n見所は多そうだけど。",
+    "translation": "Anyway, where should we go next?\nThere seems to be a lot to see."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私は奥書院に行ってみる。\n建物が和風らしいし、庭園も見てみたい。",
+    "translation": "I want to go to the Okushoin.\nIt's supposed to look like a traditional Japanese-style \nbuilding, and I want to see the garden too."
+  },
+  {
+    "character": "二乃",
+    "japanese": "左側にあるのが北殿かしら？\n確かショップが入ってるのよね。",
+    "translation": "Is that the Kitaden north hall on the left?\nI think there's a shop in there, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "右の南殿には、沖縄の伝統工芸品が\n展示されているようですね。\n見学してみたいです。",
+    "translation": "Traditional Okinawan crafts are being displayed \nin the Nanden south hall on the right.\nI'd like to visit it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……わかっちゃいたが、\n毎回、見事にバラバラだよな。",
+    "translation": "...I knew it.\nWe're all going in different directions again."
+  },
+  {
+    "character": "四葉",
+    "japanese": "五つ子あるあるです。\n上杉さんは、どこか見たい所はないんですか？",
+    "translation": "It's a common problem among quintuplets.\nUesugi-san, is there anywhere in particular \nthat you want to see?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "正殿は外せないとして、\n他は特には考えてなかったな。\nまあ、適当に見て回るとするか。",
+    "translation": "Well, you can't skip the Seiden main hall,\nbut I haven't really thought about where else to go.\nI'll just look around randomly."
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉、ちょっと。",
+    "translation": "Hey, Yotsuba."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ん？　一花？\nどうしたの？",
+    "translation": "Hm? What is it, Ichika?"
+  },
+  {
+    "character": "一花",
+    "japanese": "いいから、こっちこっち。",
+    "translation": "Never mind, come over here."
+  },
+  {
+    "character": "四葉",
+    "japanese": "どうしたの？",
+    "translation": "What's up?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あの、さ。\n私が言えたことじゃないんだけどね？",
+    "translation": "Well, it's not really my place to say."
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉も、本当にしたいことをしなよ。",
+    "translation": "Yotsuba, you should do what you really want to do."
+  },
+  {
+    "character": "四葉",
+    "japanese": "一花……。",
+    "translation": "Ichika..."
+  },
+  {
+    "character": "一花",
+    "japanese": "まあ、私も、\n四葉たちが背中を押してくれたおかげで\nやっとなんだけどさ。",
+    "translation": "I mean, thanks to you and the others pushing me forward,\nI finally made up my mind."
+  },
+  {
+    "character": "四葉",
+    "japanese": "前にも同じこと、言ってくれた。",
+    "translation": "You said the same thing before."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん。\nだけどもう一度、伝えたくて。\n四葉は――",
+    "translation": "Yes.\nBut I just wanted to say it again.\nYotsuba, you're%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "昔のことよりも、大切なのはいまなんだよね。",
+    "translation": "What's important now is the present,\nnot the past, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれから、私も色々あったんだ。",
+    "translation": "Since then, a lot has happened to me too."
+  },
+  {
+    "character": "四葉",
+    "japanese": "一花、私ね、もう過去には頼らないって決めたよ。",
+    "translation": "Ichika, I've decided not to rely on the past anymore."
+  },
+  {
+    "character": "一花",
+    "japanese": "それって……。",
+    "translation": "That means..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "一番大切なのはいまで――",
+    "translation": "The most important thing%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いまの自分がどう思って\nどうしたいのかを、ちゃんと考えてるから。",
+    "translation": "Is to think about how I feel\nand what I want in the present moment."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "だから大丈夫。",
+    "translation": "So, it's okay."
+  },
+  {
+    "character": "一花",
+    "japanese": "そっか。",
+    "translation": "Oh, I see."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん。\n心配してくれて、ありがと。",
+    "translation": "Yes.\nThank you for worrying about me."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私、一花のことも応援してるから。",
+    "translation": "I'm also supporting you, Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "ていうか、四葉。\nいま話してる時、フータロー君のこと見てなかった？",
+    "translation": "By the way, Yotsuba, when we were talking earlier,\nwere you not looking at Futaro-kun?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ！？\nさあ、なんのことでございましょう～？",
+    "translation": "Huh?!\nWhat do you mean?"
+  },
+  {
+    "character": "一花",
+    "japanese": "顔、赤くなってる。",
+    "translation": "Your face is turning red."
+  },
+  {
+    "character": "四葉",
+    "japanese": "きょ、今日は暑いよね！\nなんか火照っちゃったかな！",
+    "translation": "I-it's hot today, right?\nMaybe I'm feeling flushed!"
+  },
+  {
+    "character": "一花",
+    "japanese": "あっ、ほら。\nフータロー君、こっち来たよ。",
+    "translation": "Oh, look, Futaro-kun is coming this way."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うええっ！？　ええと！\n一花、見たいとこあるから一緒に行こ！\nほら早く早く！",
+    "translation": "WHAAA?! Umm!\nThere's somewhere I want to go,\nso let's go together. Hurry up, hurry up!"
+  },
+  {
+    "character": "一花",
+    "japanese": "仕方ないなぁ。\n付き合ってあげましょう。",
+    "translation": "Alright, I guess I have no choice.\nI'll tag along."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "もう答えを出してしまっているとしても……\n本当にそれでいいのですか？",
+    "translation": "Even if you've already given an answer...\nis it really okay?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そんなの、私は……。",
+    "translation": "I just can't handle it..."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "こだわっているのは、私だけなのでしょうか。",
+    "translation": "Am I the only one who's this fixated on that?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月か？\nこんな所でぼーっとして、どうした。",
+    "translation": "Itsuki?\nWhat are you doing spacing out here?"
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君！？\nい、いつからそこに！",
+    "translation": "Uesugi-kun?! H-how long have you been there?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ、俺が声をかけたらまずいのか？",
+    "translation": "What?\nIs it bad for me to call out to you?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そういうわけでは……。\nあの……聞いていたのですか？",
+    "translation": "It's not that...\nDid you...hear what I said?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん？　なにをだ？\n俺はいまここに来たばかりだが。",
+    "translation": "Huh? About what?\nI just got here."
+  },
+  {
+    "character": "五月",
+    "japanese": "……１人なんですね。",
+    "translation": "...You're alone."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、あいつら好き勝手に見て回りやがって、\n気が付いたら全員どっか行っちまってた。",
+    "translation": "Yeah, everyone else was looking around on their own\nand then they all disappeared."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですか。",
+    "translation": "I see."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それで？　なんかあったのか？\nさっきから溜め息ばっかついてるぞ。",
+    "translation": "So, did something happen?\nYou've been sighing a lot lately."
+  },
+  {
+    "character": "五月",
+    "japanese": "別に、なんでもありません。",
+    "translation": "No, it's nothing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかったぞ、腹が減ったんだろ？\nお前は腹が減るとすぐ元気がなくなるしな。",
+    "translation": "I know what it is. You're hungry, aren't you?\nYou always get weak when you're hungry."
+  },
+  {
+    "character": "五月",
+    "japanese": "……あなたが私を\nどのように見ているのか、よくわかりました。",
+    "translation": "...I understand now how you view me, Uesugi-kun."
+  },
+  {
+    "character": "五月",
+    "japanese": "もうすぐ大学生なのですから、\n少しはデリカシーというものを学んではどうです？",
+    "translation": "Since you'll be a university student soon,\nwhy don't you learn some subtlety?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう。\n考えておく。",
+    "translation": "S-sure.\nI'll think about it."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "とにかく、いまはまだ――",
+    "translation": "Anyway, for now%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ！\n五月、ここにいたんだ！\nついでに上杉さんも発見です！",
+    "translation": "Ah! Itsuki, you're here! And I found Uesugi-san too!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんか、悪かったな。",
+    "translation": "My bad, I guess."
+  },
+  {
+    "character": "五月",
+    "japanese": "なぜ、あなたが謝るのですか？",
+    "translation": "Why are you apologizing?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、俺が迷惑かけちまってるわけだし。",
+    "translation": "Well, I've been causing you trouble."
+  },
+  {
+    "character": "五月",
+    "japanese": "はぁ……。\n少しは気にしていたのですね。",
+    "translation": "*sigh*\nSo you do care a little bit."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが、あなただけが悪いわけではありませんから。",
+    "translation": "However, it's not simply your fault."
+  },
+  {
+    "character": "五月",
+    "japanese": "とにかく、いまはまだ――",
+    "translation": "Anyway, for now%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ！\n五月、ここにいたんだ！\nついでに上杉さんも発見です！",
+    "translation": "Ah! Itsuki, you're here! And I found Uesugi-san too!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんでもなくはないよな。",
+    "translation": "Doesn't seem like it's nothing."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なにか、俺に言いたいこととか\nできることがあるなら、遠慮なく言ってくれ。",
+    "translation": "If there's anything you want to say to me\nor anything I can do, don't hesitate to tell me."
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたという人は。\n普段あれだけノーデリカシーなのに……。",
+    "translation": "For someone like you,\nwho usually lacks all sense of subtlety..."
+  },
+  {
+    "character": "五月",
+    "japanese": "こういう時は気を遣えるのですから、不思議です。",
+    "translation": "It's strange how you're considerate at times like this."
+  },
+  {
+    "character": "五月",
+    "japanese": "とにかく、いまはまだ――",
+    "translation": "Anyway, for now%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ！\n五月、ここにいたんだ！\nついでに上杉さんも発見です！",
+    "translation": "Ah! Itsuki, you're here! And I found Uesugi-san too!"
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君も一緒だったんだね。",
+    "translation": "You were with Futaro-kun, huh?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あれ？\nもしかして、お邪魔だった？",
+    "translation": "Oh?\nWas I interrupting something?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そんなんじゃねーよ。\n違います。",
+    "translation": "Of course not.\nNot at all."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふーん、そうなの。",
+    "translation": "Mmm, I see."
+  },
+  {
+    "character": "五月",
+    "japanese": "それで、みんな揃ってどうしたんですか？",
+    "translation": "I see. So why did you all show up here?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。\n大体見終わったし、そろそろ休憩にしようかなって。",
+    "translation": "Well, we're almost done looking around,\nso I thought we should take a break soon."
+  },
+  {
+    "character": "四葉",
+    "japanese": "お土産屋さんやカフェがあるんだって。\nそこに行ってみない？",
+    "translation": "There's a souvenir shop and a cafe nearby.\nShall we go there?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "それと五月のお腹も心配だし。",
+    "translation": "I'm worried about Itsuki's stomach too."
+  },
+  {
+    "character": "五月",
+    "japanese": "も、もう！\nまだ我慢できるレベルです！",
+    "translation": "H-hey!\nI can still hold on!"
+  },
+  {
+    "character": "五月",
+    "japanese": "……ですが、我慢は体に毒とも言いますよね。\n行きましょうか。",
+    "translation": "But, they do say\nthat holding back is harmful to the body. Shall we go?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……五月、なにを言いかけてたんだ？）",
+    "translation": "(What was Itsuki about to say?)"
+  }
+]

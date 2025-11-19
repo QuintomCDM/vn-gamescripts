@@ -1,0 +1,347 @@
+[
+  {
+    "character": "一花",
+    "japanese": "うーん、お揃いの記念品か。\nどんなものがいいかな。",
+    "translation": "Hmm, matching souvenirs, eh?\nWhat kind of thing would be good?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "こう選択肢が多いと、目移りしちゃって難しいわね。",
+    "translation": "With so many choices, it's difficult to decide."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よう、なにを見てるんだ？",
+    "translation": "Yo, what are you looking at?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、フータロー君。",
+    "translation": "Oh, it's Futaro-kun."
+  },
+  {
+    "character": "一花",
+    "japanese": "お店に行く前に、どういう方針で記念品を探すか\n決めておこうと思って。",
+    "translation": "Before we go to the store, we were thinking of deciding\non the guidelines for searching for souvenirs."
+  },
+  {
+    "character": "二乃",
+    "japanese": "やっぱり身につける物がいいのかしら。\nせっかくなら持ち歩きたいわよね。",
+    "translation": "I wonder if it would be best to get some clothes.\nI'd like to carry them around with me if possible."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、ホタルガラスのアクセサリーが\nいいかもしれない。",
+    "translation": "Then how about a firefly glass accessory?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ホタルガラス？\n蛍石のこと？",
+    "translation": "Firefly glass? Do you mean fluorite?"
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃなくて、沖縄の海をイメージして作られた\n青っぽいトンボ玉なんだって。",
+    "translation": "No, they're bluish dragonfly beads\nmade to resemble the sea in Okinawa."
+  },
+  {
+    "character": "一花",
+    "japanese": "あっちにお店があったけど、\nネックレスとかピアスとか色々あって\nいい感じだったんだ。",
+    "translation": "There was a store over there\nwith lots of options for necklaces and earrings,\nand they looked good."
+  },
+  {
+    "character": "二乃",
+    "japanese": "へえ、いいじゃない。\n青ならフー君にも似合いそうだわ。",
+    "translation": "Oh, that's nice.\nIf it's blue, it would look good on Fu-kun too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、俺がアクセサリーはどうなんだ？",
+    "translation": "Wait, what about me wearing an accessory?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "おかしいってことはないわよ。\nブレスレットとかどう？",
+    "translation": "That's not strange at all.\nHow about a bracelet?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、ブレスレットなら……ありか？",
+    "translation": "Well, if it's a bracelet, then...maybe?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そんなに不安そうな顔しなくても大丈夫。\n私が似合うの選んであげるから。",
+    "translation": "Don't look so worried.\nI'll choose one that suits you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう。",
+    "translation": "O-okay."
+  },
+  {
+    "character": "一花",
+    "japanese": "大体２万円くらいだったし、\n候補に入れてもいいんじゃないかな。",
+    "translation": "The one I'm thinking of is around 20,000 yen,\nso it could be a good pick."
+  },
+  {
+    "character": "二乃",
+    "japanese": "まあ、それくらいならありね。",
+    "translation": "Well, if it's around that price,\nthen it's okay."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いや高いだろ！\n　いかん、こいつらの金銭感覚に合わせると危険だ！）",
+    "translation": "(Wow, that's expensive!\n I can't let myself be influenced\n by their sense of money!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほ、他にはどうだ？\nなんか良さそうなもの見かけたか？",
+    "translation": "What else did you see that looked good?\nDid you come across anything else?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あとは有名な染め物があったわよね。\n名前は……えっと、なんだったかしら。",
+    "translation": "I stumbled upon some famous dyed fabric.\nWhat was it called again?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "紅型染め（びんがたぞめ）か？\n俺も詳しくは知らないが\n沖縄伝統のものだと聞いたことがある。",
+    "translation": "Was it 'bingata-zome'?\nI don't know much about it,\nbut I heard it's a traditional Okinawan product."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そう、それよ！",
+    "translation": "Yes, that's it!"
+  },
+  {
+    "character": "一花",
+    "japanese": "染め物か。\n小物なら手軽そうだね。\n着物もあったりするのかな？",
+    "translation": "Dyeing, eh.\nIt seems like an easy option for small items.\nI wonder if they also have kimonos?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "どうせなら、本場の職人さんのところに行って\nオーダーメイドなんていいかもしれないわね。",
+    "translation": "We should go to a craftsman in the area\nand consider ordering a custom-made one."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ま、また値の張りそうな提案を。\n　それは確実に俺の財布では耐えきれないぞ）",
+    "translation": "(A-another suggestion that's likely to be expensive.\n My wallet won't be able to handle it for sure.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、オーダーメイドは時間がかかりそうだな。\n別の物のほうがいいんじゃないか？",
+    "translation": "C-custom-made might take a while.\nShould we consider something else?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あ、そうね。\n７人分なんて相当時間がかかりそう。",
+    "translation": "Oh, right.\nMaking seven of them\nwill definitely take a long time."
+  },
+  {
+    "character": "一花",
+    "japanese": "んー、思った以上に難しいなぁ。",
+    "translation": "Hmm, this is harder than I thought."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあさ、フータロー君は\nどんなものがいいと思う？",
+    "translation": "So, Futaro-kun, what do you think would be good?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうよ、まだフー君の意見を聞いてないわ。",
+    "translation": "That's right. We haven't heard your opinion yet,\nFu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺か？\nそうだな……。",
+    "translation": "Mine?\nLet's see..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こいつらの金銭感覚に任せっぱなしだと、\n　どんな高級品になるかわからん。\n　となると、こうだ！）",
+    "translation": "(If I just leave them to decide on their own,\n who knows what kind of luxurious item\n they might choose. Now is the time to act!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんにするかは置いておいて、\nとりあえず予算から考えよう！",
+    "translation": "Instead of deciding what to get,\nlet's consider the budget first!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "予算から？",
+    "translation": "The budget?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あっ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "一花",
+    "japanese": "そうだよね、予算も大事だよ。\nうんうん、私もそう思うなぁ。",
+    "translation": "Oh, that's right. The budget is important.\nYeah, I think so too."
+  },
+  {
+    "character": "一花",
+    "japanese": "ほら、堅実な金銭感覚っていうのかな。\nこういうお土産選び１つとっても、\n普段からの心がけが試されるよね。",
+    "translation": "Hey, I guess you could call it having a sound\nfinancial sense. Even choosing a souvenir\nputs your everyday mindset to the test, you know?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……なに？\n急にどうしたのよ。",
+    "translation": "...What's up?\nWhy are you suddenly acting weird?"
+  },
+  {
+    "character": "一花",
+    "japanese": "大切なことを思い出しただけだよ！\nお財布の紐はしっかりしておかないと。\nちゃんと家計簿つけたりしてさ。",
+    "translation": "Oh, I just remembered something important!\nYou have to keep a tight hold on your wallet.\nMaybe even keep track of your finances if you're on a budget."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前は稼いでるけどな。",
+    "translation": "Although you're making good money."
+  },
+  {
+    "character": "一花",
+    "japanese": "まあ、それなりにね？",
+    "translation": "Well, it's not too bad, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だからこそ、自分で稼いだ分はちゃんと管理しろよ？\nお前の言う通り金銭感覚は大事だからな。",
+    "translation": "But, that's all the more reason\nto manage the money you earn, right?\nLike you said, having a good sense of money is important."
+  },
+  {
+    "character": "一花",
+    "japanese": "もちろん。\n頂いたお給料はちゃーんと堅実に貯金しております。",
+    "translation": "Of course.\nI always save a good portion of my paycheck."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よろしい。",
+    "translation": "Good to hear."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……なんの話よ、なんの。",
+    "translation": "...What are we even talking about?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんか、いつもと違うわね。\n朝も私より早く起きてたし、\n急に変なこと言い始めたりするし。",
+    "translation": "You're acting different today.\nYou woke up earlier than usual,\nand you're saying strange things."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、金銭感覚は大事だぞ。\nお前らも、いつまでもお父さんの世話に\nなるわけじゃないだろ。",
+    "translation": "Yeah, having a sense of money is important.\nYou guys won't be relying on your dad forever."
+  },
+  {
+    "character": "一花",
+    "japanese": "そ、それってつまり……。",
+    "translation": "D-does that mean..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？",
+    "translation": "What is it?"
+  },
+  {
+    "character": "一花",
+    "japanese": "う、ううん、なんでもない！",
+    "translation": "N-nothing, never mind!"
+  },
+  {
+    "character": "一花",
+    "japanese": "独り立ちした時のことを想像してただけ。\nあは、あはは……。",
+    "translation": "I was just imagining what it would be like\nto stand on my own two feet.\nAha, ahaha..."
+  },
+  {
+    "character": "一花",
+    "japanese": "独り立ちって言っても、\n想像してたのは……君との……。",
+    "translation": "Well, even if I said standing on my own two feet,\nwhat I was imagining was...being with you..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんか、いつもと違うわね。\n朝も私より早く起きてたし、\n急に変なこと言い始めたりするし。",
+    "translation": "You're acting different today.\nYou woke up earlier than usual,\nand you're saying strange things."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さすが、一花はわかってるな。\nアパート生活の頃は\nお前が家計簿を管理してたんだろ？",
+    "translation": "You really get it, Ichika. Back when you were\nliving in an apartment, you were the one\nmanaging the household budget, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、まあね。\n毎日数字とにらめっこで大変だったよ。",
+    "translation": "Yeah, well, I guess.\nIt was tough staring at numbers every day."
+  },
+  {
+    "character": "一花",
+    "japanese": "ま、まあ、おかげでそういうのは\n得意になったような気がするし？",
+    "translation": "W-well, thanks to that,\nI feel like I've become good at that kind of thing,\nyou know?"
+  },
+  {
+    "character": "一花",
+    "japanese": "な、なんてね！",
+    "translation": "J-just kidding!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いやいや、まだらいはのやり繰り上手には敵うまい。\nなにしろ年季が違うからな。",
+    "translation": "Hold on, hold on, you're no match for Raiha\nwhen it comes to managing finances.\nAfter all, she's got much more experience than you."
+  },
+  {
+    "character": "一花",
+    "japanese": "そ、そっかぁ～。\nやっぱりらいはちゃんには敵わないかぁ～。",
+    "translation": "O-oh, I see.\nI guess I can't compete with Raiha-chan after all."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だからこそ、俺ががっつり稼げるようになって\nらいはに楽をさせてやらねば……！",
+    "translation": "That's why I need to earn enough money\nso I can make things easier for Raiha...!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……なんなの、このやりとり。",
+    "translation": "...What's with this dialogue?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんか、いつもと違うわね。\n朝も私より早く起きてたし、\n急に変なこと言い始めたりするし。",
+    "translation": "You're acting different today.\nYou woke up earlier than usual,\nand you're saying strange things."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん？　どうしたの二乃。\n私の顔になにかついてる？",
+    "translation": "Huh? What's up, Nino?\nIs there something on my face?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "別になんでもないわ。\nおしゃべりはこれくらいにして、\n記念品探しを再開しない？",
+    "translation": "No, it's nothing.\nLet's stop chatting and get back to our souvenirs search, 'kay?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、うん。",
+    "translation": "Ah, okay."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君のおかげで\n予算って目安もできて、決めやすくなったしね。\nお手頃で良さそうなものを探していこう。",
+    "translation": "Thanks to Futaro-kun,\nwe have a budget to work with now,\nso let's look for something affordable and nice."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、そうしてくれ。",
+    "translation": "Yeah, let's do that."
+  }
+]

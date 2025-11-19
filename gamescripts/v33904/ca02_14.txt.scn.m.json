@@ -1,0 +1,667 @@
+[
+  {
+    "character": "五月",
+    "japanese": "みなさん、お待たせしました。\nお昼の時間ですよ。",
+    "translation": "Okay everybody listen, it's lunchtime now."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "みんなっつーか五月お待ちかねの時間だろ。",
+    "translation": "Hey Itsuki, aren't you the one who is looking forward to\nlunchtime the most?"
+  },
+  {
+    "character": "五月",
+    "japanese": "わ、私だけではありませんよね？\nみんな楽しみにしていましたよね？",
+    "translation": "It's not just me okay?\nEveryone was looking forward to this, right guys?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "もちろんだよ！\n浜辺でバーベキューなんて最高だもん！",
+    "translation": "Of course we were!\nA barbecue on the beach is awesome!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "炭も燃えてますし準備はバッチリですね！\nでは、じゃんじゃん焼いて\nじゃんじゃん食べましょーう！",
+    "translation": "The charcoal is smoldering, and we're all set.\nLet's throw the meat on the grill and eat as much as we can!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "四葉、トングをカチカチしない。",
+    "translation": "Yotsuba, don't gnash the tongs together like that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うおおおっ！？\nなんだこの豪華な食材の群れはっ！",
+    "translation": "WOOOW?!\nLook at the different kinds of meat and fish!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "海辺だし海鮮メインかと思ったけど、\nお肉もたっぷりあるわね。",
+    "translation": "I thought it would be mainly seafood\nsince we're in Okinawa,\nbut they have plenty of different meat too."
+  },
+  {
+    "character": "一花",
+    "japanese": "良かったね、五月ちゃん。",
+    "translation": "Good for you, Itsuki-chan."
+  },
+  {
+    "character": "五月",
+    "japanese": "え、ええ、出されたからには\n残さず食べるのが礼儀ですよねっ！",
+    "translation": "Y-yes, since they've prepared all of this for us,\nit's only polite to eat everything, right guys?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "どれから焼くのがいいのかな。\nお肉の後に海鮮を焼くのはちょっと……。",
+    "translation": "I wonder what to grill first.\nIt might not be a good idea to grill seafood\nafter the meat..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "だったら別にしましょ。\nいくつか鉄板が用意されてるし。",
+    "translation": "Then let's use a different grill.\nThere are a few of them prepared for us, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういうものなのか？\n人数が多いからかと思ったが。",
+    "translation": "Is that so?\nI thought other people will be using them."
+  },
+  {
+    "character": "二乃",
+    "japanese": "かもしれないけど、使い方は工夫しないと。",
+    "translation": "That might be true. That's why we need to figure out\nhow to use them effectively."
+  },
+  {
+    "character": "二乃",
+    "japanese": "うん、焼き網はしっかり温まってるみたいね。",
+    "translation": "Yeah, it looks like the grills are heated up already."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あとは炭の量を調節して、\n強火と弱火、それと保温する場所を作るのがよさそう。",
+    "translation": "Adjusting the amount of charcoal to create high and low heat \nzones might be a good idea. We also need a spot to\nkeep the food warm."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ああ、そっか。\n火の通りやすさで分けるんだ。",
+    "translation": "Ah, I see.\nWe should separate the food by cooking time."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そういうこと。\nコンロみたいにうまくはいかないでしょうけど、\nやらないよりはマシよ。",
+    "translation": "That's right.\nIt might not work as well as a stove,\nbut it's better than nothing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし、火の調節は俺がやろう。",
+    "translation": "Alright, I'll be the fire keeper."
+  },
+  {
+    "character": "二乃",
+    "japanese": "お願い。\n火傷に気をつけて。",
+    "translation": "Please be careful not to burn yourself."
+  },
+  {
+    "character": "四葉",
+    "japanese": "よーし、じゃあこっちの網は\nお肉係ということで、さっそく……。",
+    "translation": "Okay, then I'll take care of the meat on this grill. \nNow let's start with..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "待って。\nこっちにホイルがあるから、\nお肉にはこれを使いましょ。",
+    "translation": "Wait.\nI have some foil here,\nlet's use it for the meat."
+  },
+  {
+    "character": "らいは",
+    "japanese": "二乃さん、私も手伝う！",
+    "translation": "Nino-san, I'll help you too!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ありがと。\nそれじゃ、海鮮の網を見てもらえる？",
+    "translation": "Thanks. Could you take care of the seafood grill?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "はーい！",
+    "translation": "Okay!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "火の通りにくい野菜を弱火に置いて、\nそれからメインのお肉の塊を強火で焼いて――",
+    "translation": "Put the hard-to-cook vegetables on the low heat zone, then\ngrill the main chunks of meat on the high heat one%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "お肉の表面が焼き上がったら、\nホイルでしっかりつつんで少し休ませる。",
+    "translation": "When the surface of the meat is done,\nwrap it tightly with foil and let it rest for a bit."
+  },
+  {
+    "character": "二乃",
+    "japanese": "５分休ませたら切り分けて完成よ。",
+    "translation": "After resting for five minutes, all we have to do is\ncut the meat and it's ready to be served."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "手慣れてるな……。",
+    "translation": "You're really good at this..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "もう食べられるものはここに置いていくから、\n遠慮なくどうぞ。",
+    "translation": "We'll leave everything that's ready to eat on this plate,\nso please help yourselves."
+  },
+  {
+    "character": "一花",
+    "japanese": "それじゃお言葉に甘えて、いただきまーす。",
+    "translation": "Alright, let's dig in!"
+  },
+  {
+    "character": "五月",
+    "japanese": "……！",
+    "translation": "...!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "美味しい……。",
+    "translation": "It's delicious..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "火加減ばっちり！\nさすが二乃。",
+    "translation": "It's cooked perfectly!\nAs expected from Nino."
+  },
+  {
+    "character": "二乃",
+    "japanese": "これくらい当然よ。\n風太郎も、どんどん食べてね。",
+    "translation": "I'm a natural!\nFutaro, you can eat as much as you want."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう。",
+    "translation": "Okay."
+  },
+  {
+    "character": "一花",
+    "japanese": "ホントに美味しいなぁ。\nこの野菜、ガーリックオイル使ってる？",
+    "translation": "This is really delicious.\nAre you using garlic oil for these vegetables?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん。\n調味料もいっぱい用意されてたから。\nちょっと変化があるといいかなって、二乃さんが。",
+    "translation": "Yeah.\nWe got plenty of seasonings,\nand Nino-san thought a little change would be nice."
+  },
+  {
+    "character": "五月",
+    "japanese": "素材の新鮮さもあるとは思いますが、\nその良さをしっかりと引き出していますね。",
+    "translation": "I think fresh ingredients are also important,\nbut the flavors have really been brought out."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はい、焼きそばできたわよ。\n食べる人ー？",
+    "translation": "Alright, the yakisoba is done.\nWho's ready to eat?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はーい！",
+    "translation": "ME!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私も。",
+    "translation": "Me too."
+  },
+  {
+    "character": "二乃",
+    "japanese": "盛ってあげるから、お皿、寄こしなさい。",
+    "translation": "Give me your plate, I'll serve you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "って、目玉焼き付き！？\nいつの間に。",
+    "translation": "Wait, there's a fried egg in there too?!\nWhen did you prepare that?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "くずして麺と一緒に食べて。\nそれでちょうどいい味付けになるはずよ。",
+    "translation": "Crush it and mix it with the noodles.\nIt should make for a perfect seasoning."
+  },
+  {
+    "character": "一花",
+    "japanese": "二乃、私にもお恵みを～！",
+    "translation": "Nino, bless me with your cooking too!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はいはい、たっぷり盛ってあげるわよ。",
+    "translation": "Sure, I'll give you a big chunk of meat!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、しかし……この肉の焼き加減といい\n絶妙な野菜の焼き方といい……。",
+    "translation": "Man, really... The way the meat is prepared and\nhow you grilled the vegetables...\nThis is just...*chef's kiss*"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺の知ってるバーベキューの\nクオリティじゃないんだが。",
+    "translation": "This barbecue is on a whole different level. I've never tasted\nanything like it before."
+  },
+  {
+    "character": "二乃",
+    "japanese": "惚れ直した？",
+    "translation": "Have I strengthened the bond between us?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なっ……、\nおま、それはその……。",
+    "translation": "Hey...\nWh-what are you talking about...?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、ここで味噌汁ですよっ！\n俺のために毎日作ってくれって言うチャンスです！",
+    "translation": "Uesugi-san, here's your miso soup!\nIt's your chance to ask her \nto make it for you every day!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よ、四葉！？",
+    "translation": "Y-Yotsuba?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なにそれ、いつの時代？",
+    "translation": "What is this? The '50s?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "でも風太郎が朝は和食派なら、いいわよ。\n美味しいの作ってあげても。",
+    "translation": "But, if you're into Japanese cuisine for breakfast,\nthat's fine.\nI'll make you something delicious."
+  },
+  {
+    "character": "らいは",
+    "japanese": "おおお、逆プロポーズ……！",
+    "translation": "Ooohh, a reverse proposal...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いやいや、そういう状況じゃないだろ！？",
+    "translation": "No, it's not like that! You're getting it wrong!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あははっ！\nそうね、焼きそば片手にプロポーズは、\nどう考えてもなしだわ。",
+    "translation": "Ahaha!\nWell, he's right. Proposing with yakisoba in one hand\nis definitely out."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そんなことよりだ！\n二乃もらいはも、そろそろ休憩したらどうだ？\n調理係、代わってやる。",
+    "translation": "A-anyway, I have an idea!\nHow about Nino and Raiha take a break,\nand I'll take over as the cook?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "私は別に大丈夫よ？",
+    "translation": "I'm fine with preparing the food, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー、いや、その……\n他人の肉を焼いてばかりで２人とも食ってないだろ？",
+    "translation": "Ah, well, um...\nYou two haven't even eaten yet\nsince you've been cooking the food for all of us, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺が焼いてやるから、\nお前たちも食ったらどうかと思ってな。",
+    "translation": "For now, I'll be cooking for you guys,\nso why don't you grab something to eat too?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……風太郎、もしかして気を遣ってくれてる？",
+    "translation": "...Are you perhaps being considerate of us, Futaro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほら！　へらと菜箸、こっちに寄こせ！",
+    "translation": "Come on! The spatula and chopsticks, hand 'em over!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふっ！\nじゃあ、お任せしちゃおうかしら。",
+    "translation": "Teehee!\nWell then, I'll leave it to you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（野菜と肉を鉄板の上に乗せる。\n　二乃と同じように火加減を見て焼いていけば\n　失敗はしないはず……だろ）",
+    "translation": "(I've placed the vegetables and meat on the griddle.\n As long as I watch the heat like Nino does\n and cook it properly, it should work out...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、大丈夫？",
+    "translation": "Big bro, are you okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すまん、焦がした。\nなぜなんだ……。",
+    "translation": "Sorry, I burned it.\nWhy'd that happen...?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "バーベキューは簡単に見えて難しいんだよ？",
+    "translation": "Barbecuing looks easy\nbut it's actually difficult, you know?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "コンロみたいに火の調整ができないから、\n焼き加減を見て、お肉をひっくり返して\n調節しなきゃいけないの。",
+    "translation": "Unlike a stove, you can't adjust the fire,\nso you have to keep an eye on the grill\nand flip the meat to prepare it properly."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうか。\n言われてみればそうだよな。",
+    "translation": "I-I see.\nNow that you mention it, it's not as easy as it looks."
+  },
+  {
+    "character": "二乃",
+    "japanese": "風太郎。\nそのお肉、ちょうだい。",
+    "translation": "Futaro.\nPass me the meat, please."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、これはちょっと！",
+    "translation": "No, you can't eat this!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "いいのよ。\n風太郎が私たちのために焼いてくれたんだから、\nその気持ちだけで充分。",
+    "translation": "It's fine. You cooked it for us and I appreciate the effort."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "って、おい、本当に止めとけって！\n二乃……！",
+    "translation": "Hey, seriously, stop it!\nNino...!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ぱくっ！\nうん、美味しい！\nよく焼けてるわ。",
+    "translation": "Nom!\nMmm, it's delicious!\nYou did a good job."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……すまん。",
+    "translation": "...Sorry about that."
+  },
+  {
+    "character": "二乃",
+    "japanese": "どうして謝るのよ。\n風太郎は気にしすぎ。",
+    "translation": "Why are you apologizing?\nYou're overthinking, Futaro."
+  },
+  {
+    "character": "二乃",
+    "japanese": "せっかくだから、焼き方教えてあげるわね。\n次はもっと美味しいのを食べさせて。",
+    "translation": "Since we're here,\nlet me teach you how to improve your cooking.\nNext time will be our yummiest meal ever!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう、わかった。",
+    "translation": "Okay, got it."
+  },
+  {
+    "character": "五月",
+    "japanese": "はぁ……。\nお腹いっぱいです。\nお肉も海鮮も、美味しかったですね。",
+    "translation": "*sigh*\nI'm so full.\nBoth the meat and seafood were fantastic."
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃とらいはちゃんのおかげで、\nすごく充実したランチだった。\nありがと。",
+    "translation": "Thanks to Nino and Raiha-chan,\nwe had a wonderful lunch.\nMuch appreciated."
+  },
+  {
+    "character": "らいは",
+    "japanese": "どういたしまして！",
+    "translation": "You're welcome!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "普段も、それくらい感謝の気持ちを\n見せてくれてもいいのよ？",
+    "translation": "You should show your gratitude like that more often,\neven on regular occasions."
+  },
+  {
+    "character": "一花",
+    "japanese": "はーい。",
+    "translation": "Okay."
+  },
+  {
+    "character": "男性Ａ",
+    "japanese": "あ、あのぉ、すみません。",
+    "translation": "U-umm, excuse me."
+  },
+  {
+    "character": "一花",
+    "japanese": "はい？　なにか？",
+    "translation": "Yes? Can I help you?"
+  },
+  {
+    "character": "男性Ｂ",
+    "japanese": "やっぱり！\n中野　一花さんっすよね！",
+    "translation": "Oh, no way!\nYou're Nakano Ichika-san, right?"
+  },
+  {
+    "character": "男性Ｂ",
+    "japanese": "お、俺たちファンなんです！\n握手してもらえませんか！？",
+    "translation": "W-we're fans of yours!\nCan we get a handshake?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "いつも応援してくれてありがとう。\n握手くらい、構わないよ。\nはい。",
+    "translation": "Thank you for always cheering me on.\nI'd love giving you a handshake.\nHere you go."
+  },
+  {
+    "character": "男性Ｂ",
+    "japanese": "ありがとうございますっ！\nマジ、応援してます！",
+    "translation": "We love your work so much!"
+  },
+  {
+    "character": "一花",
+    "japanese": "こちらこそ。",
+    "translation": "Thank you too."
+  },
+  {
+    "character": "一花",
+    "japanese": "だけど、いまはプライベートだから騒がないでね。\n家族とゆっくり楽しみたいの。",
+    "translation": "This is a private event,\nso please don't get too excited, now.\nI'd like to relax with my family."
+  },
+  {
+    "character": "男性Ａ",
+    "japanese": "は、はい！　もちろんです！\nありがとうございましたっ！",
+    "translation": "Y-yes! Of course!\nThank you so much!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おお、さすが芸能人。\n対応も堂に入ってるな。",
+    "translation": "Wow, you handled the situation so well, like a real celebrity."
+  },
+  {
+    "character": "三玖",
+    "japanese": "たまにこういうことがあるけど、\nあしらい方がどんどんうまくなってる。",
+    "translation": "Sometimes things like this happen,\nbut I'm getting better at handling them."
+  },
+  {
+    "character": "二乃",
+    "japanese": "大女優様の風格かしらね。",
+    "translation": "You really have the aura of a great actress, Ichika."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（バーベキューに夢中で気にしてなかったが\n　俺たち、割と目立ってるのか？\n　注目を集めてるような……）",
+    "translation": "(I was too focused on the barbecue and didn't notice,\n but are we standing out?\n It feels like we're drawing attention...)"
+  },
+  {
+    "character": "男性Ｃ",
+    "japanese": "おい、あそこのグループなんだよ？\n可愛い子ばっかじゃん。",
+    "translation": "Hey, who are those people over there?\nAll the girls are so cute."
+  },
+  {
+    "character": "男性Ｄ",
+    "japanese": "つーか同じ顔してねぇ？\nめちゃくちゃ似てる姉妹だなー。",
+    "translation": "Are they all siblings or something?\nThey look so alike."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あー……。\n　そうか、こいつらか）",
+    "translation": "(Ah...\n Those guys over there are talking.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（さすがに五つ子だとは思うまいが、\n　女優の一花と同じ顔をしてるんだ。\n　そりゃ、５人とも美人ってことになるよな）",
+    "translation": "(It's hard to believe that someone as beautiful as Ichika has\n four other siblings that look exacty like her.\n I would imagine they're all beautiful.)"
+  },
+  {
+    "character": "男性Ｃ",
+    "japanese": "あんな美人と一緒にいるとか何者だよ、あいつ。\nどういう集まり？",
+    "translation": "What kind of gathering is that guy at,\nto be with such beautiful women? It doesn't make sense."
+  },
+  {
+    "character": "男性Ｄ",
+    "japanese": "明らかに釣り合ってねぇよなぁ。",
+    "translation": "One guy and five girls? That's obviously unbalanced."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……つまり俺のことか）",
+    "translation": "(...Is he talking about me?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（まあ、確かにこいつらと一緒にいると\n　俺１人浮いてしまうことは否めないが）",
+    "translation": "(Well, it's true that I stick out\n when I'm with them.)"
+  },
+  {
+    "character": "一花",
+    "japanese": "はー、ビックリした。\nさすがに油断してたなぁ。",
+    "translation": "Ah-that surprised me.\nI was really caught off guard."
+  },
+  {
+    "character": "五月",
+    "japanese": "きちんと対応できていましたよ。",
+    "translation": "You handled it very well."
+  },
+  {
+    "character": "一花",
+    "japanese": "ならよかった。\n仕事中ならいいんだけど、\nオフの日に声かけられると断りづらくて。",
+    "translation": "I'm glad you said that.\nIt's just that it's hard\nto turn down requests on my days off."
+  },
+  {
+    "character": "一花",
+    "japanese": "まあ、無茶な要求じゃなければ、\nきちんと対応するつもりだけどね。",
+    "translation": "Well, as long as it's not an unreasonable request,\nI intend to take care of my admirers."
+  },
+  {
+    "character": "一花",
+    "japanese": "ファンになってくれたことは、純粋に嬉しいし。",
+    "translation": "I'm genuinely happy that they've become my fans."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、ごめん。\nみんなもビックリしちゃったでしょ。",
+    "translation": "But, I'm sorry that\neveryone got startled."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ううん、そんなことないよ。\nファンは大事にしないと。",
+    "translation": "It's okay. You need to take care of your fans."
+  },
+  {
+    "character": "五月",
+    "japanese": "それに、見ていて嬉しくなりますから。\n一花を応援してくれる人がたくさんいるのだと\n実感できます。",
+    "translation": "Plus, it makes me happy to see it.\nIt makes me realize that there are a lot of people\nout there cheering for you, Ichika."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、それは私も思う。",
+    "translation": "Yeah, I feel the same way."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こいつらは、みんなすげーいい奴らだ）",
+    "translation": "(All of the girls are so awesome.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（おまけに金持ちだし……\n　ある意味、俺とはかけ離れた世界の住人だ）",
+    "translation": "(And they're rich too...\n They're living in a completely different world\n than me.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（中でも二乃は、\n　姉妹思いで心優しく、面倒見もいい）",
+    "translation": "(Especially Nino is kindhearted\n and caring towards her sisters.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（それでいて自分を主張することは忘れず、\n　一途で情熱的……。\n　ちょっとやることが過激なのも愛嬌だ）",
+    "translation": "(She's always asserting herself,\n she is passionate and dedicated...\n Even if she can be a bit extreme sometimes.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（考えれば考えるほど……\n　なんつーか……可愛いよな）",
+    "translation": "(The more I think about her...\n she's, like...really cute.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（俺は、そんな二乃に告白して\n　彼氏として付き合っているんだよな……）",
+    "translation": "(After confessing to her, I'm actually DATING\n Nino as her boyfriend...)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっと風太郎？\nなによ、人をじっと見たりして。",
+    "translation": "Hey, Futaro?\nWhat's up? Why are you staring at me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ……。\nいや、なんでも……。",
+    "translation": "Ah...\nNah, it's nothing..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……なに？",
+    "translation": "...What?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "本当になんでもないんだ。",
+    "translation": "It's really nothing."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そう。\nまあ、いいわ。",
+    "translation": "I see.\nWell, okay then."
+  },
+  {
+    "character": "二乃",
+    "japanese": "デザートにアイスクリームがあるんですって。\nクーラーボックスに入ってるから、\n好きなのを選んだら？",
+    "translation": "I heard there's ice cream for dessert.\nIt's in the cooler box,\nso pick your favorite one, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、そうなのか。\nじゃあ、取ってくるかな。",
+    "translation": "Oh, really.\nThen, I'll go grab it."
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  }
+]

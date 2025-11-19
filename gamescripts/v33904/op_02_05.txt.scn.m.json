@@ -1,0 +1,297 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "よぉ、待たせたな。",
+    "translation": "Hey, sorry to have kept you waiting."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "どうして、ここに……。",
+    "translation": "Why are you here...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前に会うためだ。",
+    "translation": "To see you."
+  },
+  {
+    "character": "五月",
+    "japanese": "……っ！",
+    "translation": "...!"
+  },
+  {
+    "character": "五月",
+    "japanese": "なにをやっているんですかっ！",
+    "translation": "What are you doing?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "！？",
+    "translation": "?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたが来るべきなのはここじゃありません！\nだって、あなたはずっと、あの子のことを、\n京都での出会いを――",
+    "translation": "You shouldn't be here to meet me!\nYou've always been thinking about that girl\nand meeting her in Kyoto%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "！",
+    "translation": "!"
+  },
+  {
+    "character": "五月",
+    "japanese": "っ！",
+    "translation": "!"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、えっと、その、いまのは……。",
+    "translation": "Um, well, that, just now..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "６年前は関係ない。",
+    "translation": "What happened six years ago is irrelevant."
+  },
+  {
+    "character": "五月",
+    "japanese": "！！",
+    "translation": "!!"
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、それは……もう、本当に、あの子のことは\nどうでもいいってこと……なんですか？",
+    "translation": "Th-that means...you really don't care about her anymore?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それも違う。",
+    "translation": "That's not it."
+  },
+  {
+    "character": "五月",
+    "japanese": "え……。",
+    "translation": "Huh...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あの時、彼女が俺に道を示してくれたことには\nいまでも感謝している。",
+    "translation": "I'm still grateful to her for showing me the way back then. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あの出会いがなければ、俺は\n自分を変えるって考えに至らないまま\n生き方に迷い続けていただろうな。",
+    "translation": "If it weren't for that meeting,\nI would have continued to wander through life\nwithout thinking about changing myself."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "情けない話だが、俺にはいつだって\n道を示してくれる誰かが必要なんだよ。",
+    "translation": "It's pretty pathetic,\nbut I always need someone to show me the way."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いまの俺にとって、それはお前だ。\n『五月』という存在だ。",
+    "translation": "For me now, that someone is you.\nA person named 'Itsuki.'"
+  },
+  {
+    "character": "五月",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この１年半、進むべき方向に迷った時には\nお前が行き先を示してくれた。",
+    "translation": "For the past year and a half,\nwhen I was unsure which direction to go,\nyou showed me the way."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これからも、お前に傍にいて欲しい。\nそして――",
+    "translation": "I want you to stay by my side from now on.\nAnd%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺自身もまた、五月が迷う時には\n道を示せるような存在となりたい。\n五月に、必要だと思ってもらえるような人間に。",
+    "translation": "I also want to become someone who can show you the way\nwhen you're lost, Itsuki.\nI want to be someone that you need."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前のことが好きだ、五月。",
+    "translation": "I like you, Itsuki."
+  },
+  {
+    "character": "五月",
+    "japanese": "え……。",
+    "translation": "Huh...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "……私は……。",
+    "translation": "I..."
+  },
+  {
+    "character": "五月",
+    "japanese": "……っ！",
+    "translation": "...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……五月？",
+    "translation": "...Itsuki?"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月。\nお前の気持ちを聞かせてくれないか？",
+    "translation": "Itsuki.\nWould you tell me how you feel?"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "嫌いでも、そういう対象として見てないでもいい。\nそんな答えかもしれないってのは覚悟してる。",
+    "translation": "It's okay if you don't like me or just don't see me in that way.\nI'm prepared for that answer as well."
+  },
+  {
+    "character": "五月",
+    "japanese": "……わかりません。",
+    "translation": "...I don't know."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "え？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "五月",
+    "japanese": "嫌いだなんてことは決してありません。\n私はあなたを友人として尊敬しています。",
+    "translation": "I don't dislike you.\nI respect you as a friend."
+  },
+  {
+    "character": "五月",
+    "japanese": "けれど……いま、あなたに……。",
+    "translation": "However...right now, for you..."
+  },
+  {
+    "character": "五月",
+    "japanese": "……そう、言われて……。",
+    "translation": "...to say that..."
+  },
+  {
+    "character": "五月",
+    "japanese": "こんなにも心が苦しくて、\nでも決して嫌なだけの苦しみではなくて……\n嬉しいとも違う……気持ちもあって……。",
+    "translation": "My heart is in so much pain, but it's not just\nan unpleasant pain... There are also feelings...\nthat are different from happiness..."
+  },
+  {
+    "character": "五月",
+    "japanese": "これは……この想いはなんなのでしょう……。",
+    "translation": "What...exactly are these feelings...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月……。",
+    "translation": "Itsuki..."
+  },
+  {
+    "character": "五月",
+    "japanese": "そもそも、恋という気持ちがなんなのかも\n私にはわからなくて……だから……。",
+    "translation": "To begin with,\nI don't even know what love feels like...\nThat's why..."
+  },
+  {
+    "character": "五月",
+    "japanese": "いま、ここで答えることが……できません。",
+    "translation": "I can't answer you...here and now."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……そうか。",
+    "translation": "...I see."
+  },
+  {
+    "character": "五月",
+    "japanese": "でも。",
+    "translation": "However."
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたの想いから逃げたくはありません。",
+    "translation": "I don't want to run away from your feelings."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "え……。",
+    "translation": "Huh...?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたに覚悟を強いておいて、\nおかしな話だというのはわかっています。",
+    "translation": "I know it's strange to ask you to strengthen your resolve."
+  },
+  {
+    "character": "五月",
+    "japanese": "けれど、どうか時間をください。\n必ず答えを出します。",
+    "translation": "But please give me time.\nI will definitely give you an answer."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……わかった。",
+    "translation": "...I understand."
+  },
+  {
+    "character": "五月",
+    "japanese": "すみません……。",
+    "translation": "I'm sorry..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "謝ることねぇよ。\n俺だって答えを出すのに\nここまでお前らを待たせたんだ。",
+    "translation": "You don't have to apologize.\nI've kept you waiting this long\nto give my answer too."
+  },
+  {
+    "character": "五月",
+    "japanese": "その上、こんな答えだなんて……まさかすぎます。",
+    "translation": "And to top it off,\nyour response...is just as unexpected."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はは、だろうな。\n俺だって思ってる。",
+    "translation": "Haha, I know.\nI'm thinking the same thing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それだけ……この問題は難しかった。",
+    "translation": "That's how difficult...of a problem this was."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まったく、お互い\n難問に取り組むことになっちまったな。",
+    "translation": "For sure,\nwe both ended up tackling a tough problem."
+  },
+  {
+    "character": "五月",
+    "japanese": "……ええ。\n答えが出るまで付き合ってくださいね、先生。",
+    "translation": "...Yes.\nPlease just stay with me until I can answer, Sensei. "
+  }
+]

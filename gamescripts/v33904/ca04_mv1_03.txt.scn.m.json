@@ -1,0 +1,367 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "２人とも、ここにいたのか。",
+    "translation": "Hey, both of you are here."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君？　１人なの？",
+    "translation": "Fu-kun? You're alone?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "四葉と一緒じゃないんだ。",
+    "translation": "You're not with Yotsuba."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、ちょっとお前らに聞きたいことがあるんだ。",
+    "translation": "Well, actually, I wanted to ask you guys something."
+  },
+  {
+    "character": "三玖",
+    "japanese": "え？　なにかあった？",
+    "translation": "Huh? Did something happen?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういうわけじゃなくてだな、\n２人は、この後になにかやりたいことがあるか？\n観光でも買い物でも、なんでも構わない。",
+    "translation": "It's not anything like that.\nDo you two have anything you want to do after this?\nSightseeing, shopping, anything is cool."
+  },
+  {
+    "character": "二乃",
+    "japanese": "は？　急に言われても……。\n計画は四葉が立ててくれてるはずだけど。",
+    "translation": "Huh? Even if we told you what we want to do...\nYotsuba should have made a plan for us, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その四葉が、\nみんなの意見を聞いておきたいって言い出したんだ。",
+    "translation": "Well, that Yotsuba's said\nshe wanted to hear everyone's thoughts."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあ……。\nまたあの子は……仕方がないんだから。",
+    "translation": "*sigh*\nThere she goes again...\nbut I guess there's no helping it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "性格ってそうそう変わらないよ。\nそれに四葉は、\nこういう時こそ自分の出番だって張り切るし。",
+    "translation": "People's personalities don't change that easily.\nBesides, Yotsuba is always enthusiastic\nabout taking charge in situations like this."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、それも四葉なりの考えがあってのことだ。",
+    "translation": "Well, that's just how Yotsuba thinks."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "で、なにか意見はあるか？",
+    "translation": "So, do you guys have any thoughts?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "なら、四葉の好きなことでいいんじゃないかな？",
+    "translation": "Then, why not do something that Yotsuba likes?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "卒業旅行、すごく楽しみにしてたし、\n沖縄のことも色々と調べてたみたいだから。",
+    "translation": "She was really looking forward to this graduation trip\nand seemed to have researched a lot about Okinawa."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうなのか？",
+    "translation": "That so?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、ガイドブックをたくさん買ったり、\nネットで調べたりしてた。",
+    "translation": "Yeah, she bought a lot of guidebooks\nand did some research on the internet."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ガイドブックなんて付箋だらけになってたわよ。\n貼ってる意味がないってくらい。",
+    "translation": "The guidebooks were full of sticky notes.\nThey were so covered in them that they\nlost all meaning."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ、入念に計画を立ててたんだな。",
+    "translation": "Oh, so she planned everything thoroughly."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "んじゃ、とりあえず２人は特に希望なしでいいか？",
+    "translation": "So, pretty much,\nthe two of you don't have any specific requests?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "私は構わないわ。\nもともと四葉に任せてるし。",
+    "translation": "I don't mind.\nI've already entrusted everything to Yotsuba."
+  },
+  {
+    "character": "二乃",
+    "japanese": "急に決めても、予約が必要だったり\n施設が休みだったりしたら時間がもったいないでしょ。",
+    "translation": "If we decide too hastily and the facilities are closed\nor we need reservations,\nit'll just be a waste of time, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、わかった。\nそう伝えておく。",
+    "translation": "Oh, I see. I'll let her know."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あっ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "今回の旅行プランは四葉が立てたのか？",
+    "translation": "Yotsuba made the plan for this trip?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、大体は四葉。\n私たちも意見を出したけど。",
+    "translation": "Yes, mostly Yotsuba did.\nWe also gave our thoughts though."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あの子、旅行が決まってすぐに調べ始めてたのよ。",
+    "translation": "She started researching\nright after we decided to go on this trip."
+  },
+  {
+    "character": "三玖",
+    "japanese": "手伝おうと思ったけど、自分に任せてって言って\nノート片手に走り回ってた。",
+    "translation": "I wanted to help her, but she said\nto leave it to her and ran about,\nnotebook in hand."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あれじゃ、旅行に行く前に疲れちゃわないか\n見てるほうが心配だったわ。",
+    "translation": "I was worried that she might get tired\nbefore the trip even started."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ずいぶん頑張ってたんだな。",
+    "translation": "She really tried her best, eh."
+  },
+  {
+    "character": "三玖",
+    "japanese": "元々そういう性格だけど、今回は\n付き合って初めてのフータローとの旅行だから。\nそういう意味でも特別なんだよ。",
+    "translation": "Yotsuba's normally the type to work really hard,\nbut this is a special trip for her, because\nit's her first trip with her new boyfriend."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう……。",
+    "translation": "I-I see..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "と、とりあえずだ。\n２人は特に希望なしでいいか？",
+    "translation": "S-so, pretty much,\nthe two of you don't have any specific requests?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "私は構わないわ。\nもともと四葉に任せてるし。",
+    "translation": "I don't mind.\nI've already entrusted everything to Yotsuba."
+  },
+  {
+    "character": "二乃",
+    "japanese": "急に決めても、予約が必要だったり\n施設が休みだったりしたら時間がもったいないでしょ。",
+    "translation": "If we decide too hastily and the facilities are closed\nor we need reservations,\nit'll just be a waste of time, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、わかった。\nそう伝えておく。",
+    "translation": "Oh, I see. I'll let her know."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あっ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その気持ちはわかるぞ！\nキッチリした計画を立てられると快感だしな！",
+    "translation": "I understand how she feels!\nMaking a solid plan is so much fun!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローはそうだろうね。",
+    "translation": "You would feel the same way, wouldn't you, Futaro?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんまりカッチリしすぎてるのも、\n現地でトラブった時に対応できなくて\n困りそうだけど。",
+    "translation": "But if the plan is too rigid,\nit might be difficult\nto handle unexpected situations on-site."
+  },
+  {
+    "character": "三玖",
+    "japanese": "四葉はその点、大丈夫そう。\nちゃんと天気が悪かった場合の予定も考えてたし。",
+    "translation": "Yotsuba seems to be okay with that.\nShe's even considered alternative plans\nin case of bad weather."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ、やるな。",
+    "translation": "Wow, she knows what she's doing."
+  },
+  {
+    "character": "二乃",
+    "japanese": "それだけ気合いが入ってるってことでしょ。\n今回の旅行は特別だもの。",
+    "translation": "That's just how pumped up she is.\nThis vacation is really special to her."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな、卒業旅行は\nいま、この時にしか来られないからな。",
+    "translation": "That's right.\nIt IS our graduation trip,\nwe can only have one."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それもあるけど――",
+    "translation": "That's true%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "付き合って初めての旅行だから。\nそういう意味でも特別なんだよ。",
+    "translation": "But also, it's your first trip together\nas a couple. It's special for that reason, too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ……。\nそ、そうだな……。",
+    "translation": "Ah...\nTh-that's right..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "と、とりあえずだ。\n２人は特に希望なしでいいか？",
+    "translation": "S-so, pretty much,\nthe two of you don't have any specific requests?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "私は構わないわ。\nもともと四葉に任せてるし。",
+    "translation": "I don't mind.\nI've already entrusted everything to Yotsuba."
+  },
+  {
+    "character": "二乃",
+    "japanese": "急に決めても、予約が必要だったり\n施設が休みだったりしたら時間がもったいないでしょ。",
+    "translation": "If we decide too hastily and the facilities are closed\nor we need reservations,\nit'll just be a waste of time, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、わかった。\nそう伝えておく。",
+    "translation": "Oh, I see. I'll let her know."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あっ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？\nやりたいことを思い出したか？",
+    "translation": "What's up? Did you remember something you want to do?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ううん、そうじゃない。\nただ、四葉に合わせてたら\n体力的について行けないかもって。",
+    "translation": "No, it's not that. I just thought that if I go along\nwith whatever Yotsuba wants to do,\nI might not be able to keep up with her physically."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……その問題があったか。\n考えてみれば、らいはだってまだ中学生なんだし\n激しいアクティビティは危ないな。",
+    "translation": "I get your point. Now that you mention it,\nRaiha is still a middle school student,\nso intense activities would be dangerous for her."
+  },
+  {
+    "character": "二乃",
+    "japanese": "さすがに、その辺は考えてるでしょ。",
+    "translation": "She's definitely considered that, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、三玖にはキツそうだと思ったら\n俺が止めるから安心しろ。",
+    "translation": "Well, Miku, if you think it's too much for you,\nI'll stop Yotsuba."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なーんて言ってるけど、\n三玖がついて行けないとなると\n確実にフー君もついていけないものね。",
+    "translation": "Yeah, you SAY that,\nbut if Miku can't keep up with her,\nthen you won't be able to keep up either, Fu-kun."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それもそうだった。\nフータローも体力ない組だね。",
+    "translation": "That's true.\nYou're also pretty weak, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "返す言葉がない……。",
+    "translation": "I can't say anything to that..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そんな調子だと、これから先、\n四葉をがっかりさせちゃうかもしれないわよ？",
+    "translation": "If you keep going like this,\nyou might disappoint Yotsuba in the future, you know."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "う……。\nまあ、それは、思わなくもないが。",
+    "translation": "Oof...\nI mean, there's a part of me,\nthat thinks that as well."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうそう、さっき海で泳いでいた時、\n前を行く四葉に追いつけずに困ってたわね。",
+    "translation": "That's right. When we were swimming in the sea earlier,\nyou were having trouble keeping up\nwith Yotsuba, weren't you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "見てたのかよ！",
+    "translation": "You saw that?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "それに、フータローは\n自分が体力ないってわかってるくせに\nすぐ無理するから。",
+    "translation": "Also, you're the type to push themselves\neven though you know you're not as\nphysically capable."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そういうところ、四葉も心配してると思う。",
+    "translation": "Yotsuba is probably worried about that too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確かに……。\n四葉と同じなんてとても言えないが、\nせめて人並み程度には鍛えたいところなんだが。",
+    "translation": "For sure... I can't say that I'm the same as Yotsuba,\nbut I want to at the very least, I want to train to be\nas strong as the average person."
+  },
+  {
+    "character": "二乃",
+    "japanese": "っていうか、それこそ四葉に頼めばいいじゃない。",
+    "translation": "I mean, you could ask Yotsuba for help with that."
+  },
+  {
+    "character": "三玖",
+    "japanese": "きっと張り切ってトレーニングしてくれるよ。",
+    "translation": "She'd be really eager to train you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あー、その、俺にも一応、\nプライドってものはあってだな？\nこういうのは相手に気づかれずにやりたいっつーか。",
+    "translation": "Ahh, well, I have SOME pride, you know?\nI'd like to do it without the other person noticing."
+  },
+  {
+    "character": "二乃",
+    "japanese": "変な見栄張っちゃって。",
+    "translation": "You're just being proud for no reason."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローは\n見栄なんて気にしてるレベルじゃないと思う。",
+    "translation": "Futaro, I didn't think you cared\nabout appearances THAT much."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうよ、諦めて四葉に頼っちゃいなさい。\nきっとあの子も喜ぶわ。",
+    "translation": "Yeah, just give up and ask Yotsuba for help.\nShe'll be happy to help, I'm sure."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……そうだな、少し考えてみるか。\n２人ともありがとな。",
+    "translation": "Right, let me think about it for a bit.\nThanks, you two."
+  }
+]

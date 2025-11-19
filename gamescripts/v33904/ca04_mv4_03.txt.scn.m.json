@@ -1,0 +1,382 @@
+[
+  {
+    "character": "らいは",
+    "japanese": "あ、お兄ちゃん！",
+    "translation": "Ah, big bro!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あれ？\n２人はなにしてるんだ？",
+    "translation": "Hmm?\nWhat are the two of you doing?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ちょっと休憩。\n喉が渇いちゃって。",
+    "translation": "Just taking a break.\nWe're thirsty."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか、ゆっくりしててくれ。\n俺は他を見てくるから集合時間には遅れるなよ。",
+    "translation": "I see, take your time and rest.\nI'll go check out some other things,\nso don't be late for our meeting time."
+  },
+  {
+    "character": "三玖",
+    "japanese": "行っちゃダメ。",
+    "translation": "Don't go."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うわっ！？\nなんだよ急に。",
+    "translation": "Uwaaa?!\nWhat's up, all of a sudden?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローも一緒に休憩しよう。\n歩き回って疲れてるよね？",
+    "translation": "Futaro, why don't you take a break too?\nYou must be tired from walking around."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ……。\n確かに多少は疲れてはいるが。",
+    "translation": "*sigh*\nWell, I am a little tired."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ、決まり。",
+    "translation": "Okay, then it's settled."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかったよ。",
+    "translation": "Alright."
+  },
+  {
+    "character": "らいは",
+    "japanese": "そうだ、見てお兄ちゃん。\nほら、沖縄限定のお茶が売ってたんだ。\nさんぴん茶っていうんだって。",
+    "translation": "That's right, look, big bro.\nSee, there's a tea that's only available in Okinawa.\nIt's called sanpin-cha."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ、確かに初めて見るな。",
+    "translation": "Wow, for sure, I've never seen it before."
+  },
+  {
+    "character": "三玖",
+    "japanese": "これ、緑茶とか紅茶とは違う感じで、\n癖はあるけど美味しいよ。",
+    "translation": "It's different from green tea and black tea.\nIt has a unique taste, but it's delicious."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほう、味が気になるな。\nらいは、一口くれないか？",
+    "translation": "Oh, I'm curious about the taste.\nCan I have a sip?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "あ、ごめんなさい。\n私はもう飲み終わっちゃったんだ。",
+    "translation": "Oh, sorry. I already finished mine."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふ、フータロー？",
+    "translation": "F-Futarooo?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？",
+    "translation": "What's up?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "これ、私の……半分残ってて……。",
+    "translation": "Um, well... I have half of mine left..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "や、やっぱり、なんでもないっ！",
+    "translation": "A-actually, nevermind!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、あそこに見えるお店に売ってるから。\nフータローも買ってみて。",
+    "translation": "Th-they sell it at that shop over there.\nWhy don't you buy some, Futaro?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "あ、じゃあ私の分も！\nもう１本飲みたい。",
+    "translation": "Ah, get me one too!\nI want one more."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかった、ちょっと待ってろ。",
+    "translation": "Sure, wait a minute."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、これは確かにすっきりするな。\nそれに微かに甘い香りもする。",
+    "translation": "Oh, this is really refreshing.\nAnd there's a faint sweet fragrance too."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、美味しいよね。\n甘いお菓子に合うと思う。",
+    "translation": "Yeah, it's delicious.\nI think it goes well with sweet snacks."
+  },
+  {
+    "character": "らいは",
+    "japanese": "これ、ジャスミン茶に似てるかも。",
+    "translation": "I think this is like jasmine tea."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、ジャスミン茶の一種みたい。\nさんぴん茶って名前は沖縄の言葉なんだって。",
+    "translation": "Yeah, it's a type of jasmine tea.\nSanpin-cha is actually a word in the Okinawan language."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ジャスミン茶は中国茶の一種だったか？\nお茶のことなら俺より三玖のほうが詳しそうだが。",
+    "translation": "Jasmine tea is a type of Chinese tea, right?\nYou seem to know more about tea than I do, Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっ？　私？",
+    "translation": "Huh? Me?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ええと、前に緑茶と紅茶の違いは\n調べたことはあるけど……。",
+    "translation": "Well, I think I read somewhere..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "確か、あれは発酵具合の違いだったはず。\nジャスミン茶もそうなのかな？",
+    "translation": "That, the difference between green tea and black tea\nis the degree of fermentation.\nIs jasmine tea the same?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖も知らないとなると手詰まりか。",
+    "translation": "If you don't know, Miku, then we're stuck."
+  },
+  {
+    "character": "三玖",
+    "japanese": "待って、スマホで調べる。",
+    "translation": "Wait, let me check on my phone."
+  },
+  {
+    "character": "三玖",
+    "japanese": "え～と……。",
+    "translation": "Um..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ジャスミン茶は\n緑茶にジャスミンの香りを付けたフレーバーティー。",
+    "translation": "Jasmine tea is green tea scented with jasmine."
+  },
+  {
+    "character": "三玖",
+    "japanese": "緑茶の茶葉とジャスミンの花を積み重ねて、\n花の香りを茶葉に移す。",
+    "translation": "You stack green tea leaves and jasmine flowers\nto transfer the fragrance of the flowers\nto the tea leaves."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ってことは、これも緑茶なんだ。",
+    "translation": "So, this is also green tea."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なかなかにややこしいな。\nお茶の種類ってのは。",
+    "translation": "That's pretty complicated.\nTea types can be quite complex."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そうだけど、そこが面白くもある。",
+    "translation": "That's true, but that's what makes it interesting."
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃんは麦茶が好きだけど、\n麦茶はやっぱり麦が元なんだよね？",
+    "translation": "Big bro, you like barley tea,\nand it's actually made from barley, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、大麦を煮出したりするからな。",
+    "translation": "Yeah, they boil barley to make it."
+  },
+  {
+    "character": "らいは",
+    "japanese": "あ、じゃあ玄米茶ってお米から作るの？",
+    "translation": "Oh, then is genmaicha made from rice?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっと……\n玄米に緑茶を混ぜて作るって書かれてる。",
+    "translation": "Let me see...\nit says here that genmaicha is made\nby mixing green tea and roasted brown rice."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここでも緑茶か。\nなにと一緒にするかでかなり変わるんだな。",
+    "translation": "Green tea again here, too.\nIt seems it makes a big difference\ndepending on what you mix it with."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "香りを付けるとなにか効果があるのか？",
+    "translation": "Does adding a fragrance have an effect?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ジャスミンの香りにはリフレッシュ作用があるって、\n二乃が言ってた気がする。",
+    "translation": "I feel like Nino said that the scent of jasmine\nhas a refreshing effect."
+  },
+  {
+    "character": "三玖",
+    "japanese": "このお茶にも同じ効果があるのかも。",
+    "translation": "Maybe this tea is the same."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、確かにリフレッシュはできた気はする。",
+    "translation": "Well, I do feel refreshed, that's for sure."
+  },
+  {
+    "character": "らいは",
+    "japanese": "香りの効果って大切なんだね。",
+    "translation": "A scent's effect is important, isn't it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういえば誕生日に二乃からもらったな。\n疲労回復効果があるとかいう香りが出るやつ。",
+    "translation": "Come to think of it, on my birthday,\nNino gave me something with a scent that's\nsupposed to have a fatigue-reducing effect."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだったっけ……アロハ？",
+    "translation": "What was it again... Aloha?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、それは服。",
+    "translation": "Big bro, that's clothing."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふふっ。\nアロハシャツなら沖縄にも売ってるかも。",
+    "translation": "Teehee. If it's an Aloha shirt you want,\nthey might sell it in Okinawa too."
+  },
+  {
+    "character": "らいは",
+    "japanese": "あ、じゃあ玄米茶ってお米から作るの？",
+    "translation": "Oh, then is genmaicha made from rice?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっと……\n玄米に緑茶を混ぜて作るって書かれてる。",
+    "translation": "Let me see...\nit says here that genmaicha is made\nby mixing green tea and roasted brown rice."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここでも緑茶か。\nなにと一緒にするかでかなり変わるんだな。",
+    "translation": "Green tea again here, too.\nIt seems it makes a big difference\ndepending on what you mix it with."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "緑茶のポテンシャルには驚くな。",
+    "translation": "I'm impressed by the potential of green tea."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。\n加工方法だけで、こんなに変わってくるんだ。",
+    "translation": "Yeah. Just by changing the processing method,\nit can change so much."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それに、ポテンシャルを引き出してきた\n昔の人の知恵もすごい。",
+    "translation": "And the wisdom of the people from the past\nwho brought out its potential is also amazing."
+  },
+  {
+    "character": "らいは",
+    "japanese": "他のお茶、もっと色々飲んでみようかな。\nお気に入りが見つかるかも。",
+    "translation": "Maybe we should try drinking more of other types of tea.\nWe might find a new favorite."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私はやっぱり緑茶がいいかな。",
+    "translation": "But I still think green tea is the best."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さんぴん茶も気に入ってるみたいだったが、\nさすがに緑茶には勝てないか。",
+    "translation": "It seems sanpin-cha was pretty good.\nBut, it just can't beat green tea, huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そろそろ、抹茶ソーダの味が\n恋しくなったんじゃないか？",
+    "translation": "Aren't you starting to crave matcha soda now?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふふ、まだ沖縄に来て３日目だけどね。",
+    "translation": "Haha, we've only been in Okinawa for three days,\nyou know."
+  },
+  {
+    "character": "らいは",
+    "japanese": "あ、じゃあ玄米茶ってお米から作るの？",
+    "translation": "Oh, then is genmaicha made from rice?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっと……\n玄米に緑茶を混ぜて作るって書かれてる。",
+    "translation": "Let me see...\nit says here that genmaicha is made\nby mixing green tea and roasted brown rice."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここでも緑茶か。\nなにと一緒にするかでかなり変わるんだな。",
+    "translation": "Green tea again here, too.\nIt seems it makes a big difference\ndepending on what you mix it with."
+  },
+  {
+    "character": "三玖",
+    "japanese": "人だって同じだよ。\n誰と一緒にいたかで大きく変わる。",
+    "translation": "People are the same way. They can change drastically\ndepending on who they're with."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ずっと一緒にいれば、それだけ影響も大きくなる。\nフータローも知ってるよね？",
+    "translation": "If you're with someone for a long time,\ntheir influence also becomes significant.\nYou know that too, right, Futaro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、わかる気はするが……。",
+    "translation": "Well, I understand what\nyou're trying to say..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私も、フータローに変えられちゃった。",
+    "translation": "You changed me into who I am, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい……。\n誤解を生むような言い方はしないでくれ。",
+    "translation": "Hey...\nDon't say that in a way that could be misunderstood."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふふっ、でも本当のことだから。",
+    "translation": "Teehee, but it's true."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ホテルを出た時から妙な様子だったが、\n　本当になんなんだ？）",
+    "translation": "(Since we left the hotel, something's been off.\n What's going on?)"
+  }
+]
