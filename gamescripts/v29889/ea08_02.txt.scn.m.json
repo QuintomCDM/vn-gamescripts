@@ -1,0 +1,37 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "なあ三玖、これはなんだ？",
+    "translation": "Hey Miku, what is this?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……食べ物？",
+    "translation": "...Food?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふむふむ……ほほう……なるほど……。\n私が推理するに――",
+    "translation": "Hmm-hmm... Oho-hoho...I see...\nFrom my reasoning%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "これは野菜炒めです！",
+    "translation": "This is stir-fried vegetables!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "下にパスタが見えるんだが。\nパスタ入り野菜炒めとは斬新だな。",
+    "translation": "You can see pasta underneath it.\nStir-fried vegetables with pasta is pretty innovative."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……野菜パスタ、なのかな？",
+    "translation": "...Vegetable pasta, I guess?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（他の具材不足を\n　野菜の物量でごまかしたってところか。\n　まあ、これはこれでアリかな）",
+    "translation": "(I guess the amount of vegetables makes up\n for the lack of other ingredients.\n Whatever, I can get on board with this.)"
+  }
+]

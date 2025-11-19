@@ -1,0 +1,477 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（ふう……。\n　テストの結果は上々だったな）",
+    "translation": "(Phew...\n Everyone did well on their tests.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（一番の問題だった四葉も伸びてきている。\n　とはいえ、相変わらずケアレスミスが多いのは\n　もう性格だろうな……）",
+    "translation": "(Yotsuba, who was the most challenging to mentor,\n is improving. Although, making careless mistakes\n might just be part of her personality...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（俺もあいつらも、ここからが正念場。\n　そして、この夏が１つの山場だ！）",
+    "translation": "(All of us are at a turning point now.\n And this summer is going to be a big one!)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれれ？\n上杉さん、まだ起きてたんですか？",
+    "translation": "Ohhh?\nWere you still up, Uesugi-san?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん？　なんだ四葉か。\nお前こそ、まだ起きてたのか？",
+    "translation": "Hm? Oh, it's you, Yotsuba.\nYou're still up, too?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "こんな夜中に、こっそり１人で\n何をしてたんですか？\nむむむ～、これは怪しいですね！",
+    "translation": "What were you doing alone at this time of night?\nMmmmm, quite suspicious!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "怪しいとはなんだ。\nお前たちのテスト結果を見て、\n今後必要になりそうな問題集を作ってたんだ。",
+    "translation": "What's suspicious about it? I'm putting together\npractice tests that seem likely to be needed\nin the future, by looking at your test results."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それぞれ見えてきた弱点部分を\nこの問題集で補えれば、もっと上を目指せるぞ。",
+    "translation": "If you make up for your weak areas\nthat have become visible with these practice tests,\nyou can aim even higher."
+  },
+  {
+    "character": "四葉",
+    "japanese": "も、問題集……。\nテストが終わったばかりなのに、もうですか？",
+    "translation": "N-new practice tests...\nAlready? Just after our tests?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こういうのは早めがいいんだよ。\n手応えを覚えているうちに作っておかないと、\n忘れちまう。",
+    "translation": "It's better to do it early.\nIf you don't study while it's still fresh,\nyou'll forget."
+  },
+  {
+    "character": "四葉",
+    "japanese": "でも、ダメですよ！\n明日からはみんなで想い出作りなんですから、\nしっかり休んでおかないと。",
+    "translation": "But, we can't! Starting tomorrow,\nwe're going to make memories together,\nso we need to rest properly."
+  },
+  {
+    "character": "四葉",
+    "japanese": "なので、今日はもう問題集作り禁止です！",
+    "translation": "So, no more practice tests today!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、今いいとこなんだよ。\nもう少しだけ……。",
+    "translation": "No, this is a good time.\nJust a little more..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ぬぬぬぬ……。\nどうしてもやると言うなら――",
+    "translation": "Grrr...\nIf you're gonna insist like this%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "――えい！　これは没収です！",
+    "translation": "%p-2;――%p; Hyah! This is confiscated!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あっ、こいつ問題集を！）",
+    "translation": "(Ah, she got the practice tests!)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふっふっふ。\nこれを返してほしければ、\n今日はもうお休みしてください。",
+    "translation": "Teehee.\nIf you want these back,\ntake the rest of the day off, please."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかったよ。\n今日はやめとくから、さっさと返してくれ。",
+    "translation": "Fine.\nI'll call it quits for today,\nso give them back."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ホントですよね？\n返した途端に、ふはははだまされたなー！\nとか言いだしたりしませんよね？",
+    "translation": "Really?\nYou won't say 'Hahahaha, I fooled you!'\nas soon as I give them back, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "言わねぇよ！\nなんでそこで疑ってくるんだよ。",
+    "translation": "I won't say it!\nWhy do you have to doubt me there?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "だって上杉さんですからねー。",
+    "translation": "I mean, you ARE Uesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ……。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それで？　お前はなにしてんだ？\nいつもならもう寝てる時間だろ。",
+    "translation": "So, what are you doing?\nYou're usually asleep at this time."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ああ、私はですね、\n明日に備えて、何か遊びに使えるものが\nないかと探してるところです。",
+    "translation": "Oh, I'm searching for something fun to do,\nin preparation for tomorrow."
+  },
+  {
+    "character": "四葉",
+    "japanese": "みんな色々と大変でしたし、\n最後はパーッと楽しんでもらいたいじゃないですか！",
+    "translation": "Everyone had a hard time with this and that,\nso in the end,\nI want them to have a blast and enjoy themselves!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "明日は、みんなが素敵な想い出を作れるように\n私、頑張っちゃいますよ！",
+    "translation": "Tomorrow, I'll do my best\nso that everyone can create wonderful memories!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なるほどな、お前らしいな。",
+    "translation": "I see, that's just like you."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えへへ……。\n今のうちに準備をしておけば、その分、\n明日遊べる時間が増えますからね。",
+    "translation": "Hehe...\nIf we prepare now,\nwe'll have more time to play tomorrow, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確かに一理あるな。",
+    "translation": "That makes sense."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんも、明日を楽しみにしててくださいね。\nでは、私は倉庫に……。",
+    "translation": "Uesugi-san, you'd best look forward to tomorrow too.\nWell then, I'll head to storage..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし、四葉、俺も手伝おう！",
+    "translation": "Hey, Yotsuba, I'll help too!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええっ！？",
+    "translation": "Huh?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そんな、いいですよ。\n疲れている上杉さんのお手を煩わせるわけに\nいきません！",
+    "translation": "No, it's okay.\nI can't bother you, Uesugi-san. You've got to be tired!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "疲れてるのはお前も一緒だろ。",
+    "translation": "But you're tired too, aren't you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それに、想い出作りは俺たちみんなでするもんだ。\nその準備をお前にだけ任せるのはおかしい。",
+    "translation": "Besides, making memories\nis something we all do together.\nIt's weird to leave all the preparations to you."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それは……。",
+    "translation": "Well..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さあ、とっとと始めるぞ。\nあの倉庫は色々と物が詰め込まれてるから\n時間がかかりそうだ。",
+    "translation": "Come on, let's get started.\nSince storage is packed with lots of stuff,\nit might take some time."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あー！　いえー！\n大丈夫ですから、先に休んでてください！",
+    "translation": "Ah! No, no!\nI'm fine by myself, so please get some rest!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ？　どうして。",
+    "translation": "Huh? Why?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "どうしてもです！\nじゃあ、ちょっと行ってきますね！",
+    "translation": "Just go rest!\nAlright, I'll be back soon!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "――あっ、おい！？",
+    "translation": "%p-2;――%p; Ah, hey?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（もう行っちまった……。\n　相変わらず慌ただしいやつだな）",
+    "translation": "(She's already gone... \n That girl is always so active.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（しかし、本当に１人で大丈夫なのか？\n　よくわからん荷物をいじって壊しでもしたら――）",
+    "translation": "(But, can she really handle it alone?\n If she messes around with things she doesn't understand\n and breaks something.)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うひゃぁーーっ！？",
+    "translation": "WAAH?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（――って、さっそくか！！）",
+    "translation": "(%p-2;――%p; Not ALREADY?!)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あいててて……。\nあ～、荷物、崩しちゃった……。",
+    "translation": "Ow...\nOh no! Everything fell over..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、四葉！",
+    "translation": "Hey, Yotsuba!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ、上杉さん？",
+    "translation": "Huh? Uesugi-san?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "大丈夫か！？　怪我はないか？",
+    "translation": "Are you okay?! Did you get hurt?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ？\nあ、はい、大丈夫……みたいです。",
+    "translation": "Huh?\nOh, yes, I'm okay...I think."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だったらいいが……。\nって、ずいぶんと派手にひっくり返したな。",
+    "translation": "Well, that's good, then...\nThat was an impressive fall!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "戸棚の上の箱を取ろうとしたら\n手元が滑っちゃいまして。",
+    "translation": "I was trying to get a box from the top of the cupboard\nand my hands slipped."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "危険な物が置いてなくてよかったな。\nほら、手を貸してやるから……立てそうか？",
+    "translation": "It's a good thing there wasn't anything dangerous\nin there. Here, let me help you up...\nCan you stand?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ありがとうございます。",
+    "translation": "Thank you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、本当に大丈夫なんだろうな。\n痛むところがあったら言えよ？",
+    "translation": "Hey, I hope you're really okay.\nIf you're hurt, let me know, okay?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうですねー、上杉さんが親切すぎて\n何か裏があるんじゃないかって心配になっています。",
+    "translation": "Well, you're so kind... It makes me worry\nthat you're hiding something."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そういう意味では、\nちょっと頭痛がするかもしれません。",
+    "translation": "If you see it this way,\nit might give me a bit of a headache."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "またそんなことを……俺は真面目に聞いてるんだぞ？",
+    "translation": "That again...\nI'm being serious, you know?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ごめんなさい。\n大丈夫です、痛いところは本当にありません。",
+    "translation": "Sorry.\nI'm okay. I'm really not hurt."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まったく、もう少し注意しろよ。\n怪我なんてしたら、お前が楽しめなくなるんだからな。",
+    "translation": "Seriously, be more careful.\nIf you get hurt,\nyou won't be able to enjoy yourself, you know."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えへへ、それもそうですね。",
+    "translation": "Teehee, you're right about that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "笑うとこじゃないだろ。",
+    "translation": "That's nothing to laugh at."
+  },
+  {
+    "character": "四葉",
+    "japanese": "だって、駆けつけてくれたときの上杉さん、\nちょっと格好よかったので……\n思い出すとニコニコしちゃいます。",
+    "translation": "But, when you came to help me, Uesugi-san,\nyou looked kinda cool... Remembering it\nis making me smile."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "格好いいって……。",
+    "translation": "I looked cool, eh..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ビックリしちゃいましたよ。\n転んだ途端に駆けつけてくれるなんて、\nまるでヒーローみたいでした。",
+    "translation": "I was so surprised! Just as I fell,\nyou came rushing over like a hero.\nIt was like something out of a movie."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "急になに言い出すんだよ。\nあれくらい……普通だろ？",
+    "translation": "What are you talking about all of a sudden?\nIt's not...that big a deal, is it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "おやおやぁ、照れましたね？",
+    "translation": "Oh, you're embarrassed, aren't you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ったく、照れてねーよ。",
+    "translation": "C'mon, I'm not embarrassed."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、いい。\nそれより、倉庫を散らかしたままじゃまずいな。\n確かこの前、五月たちが整理してたはずだし。",
+    "translation": "Well, whatever. More importantly, we shouldn't\nleave the storage room this messy. I'm pretty sure\nItsuki and the others organized it recently."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はっ！？\nせっかく綺麗に片付けてあったのに！",
+    "translation": "WHA?!\nOh no! It had just been cleaned up, too!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちゃんと反省してるか？\n頼むから余計な心配をさせないでくれ。",
+    "translation": "Are you really reflecting on what you did?\nPlease don't make me worry needlessly."
+  },
+  {
+    "character": "四葉",
+    "japanese": "すみません。\nしっかり反省してますので大丈夫です！",
+    "translation": "I'm sorry.\nI'm really thinking about it!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……本当だろうな？",
+    "translation": "...Really?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "もちろんです！",
+    "translation": "Of course!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（笑顔でそう言われてもなぁ。\n　まあ、こいつは素直だからしていると信じよう）",
+    "translation": "(She's saying that with a smile on her face...\n But I'll trust her since she's honest.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、いい。\nそれより、倉庫を散らかしたままじゃまずいな。\n確かこの前、五月たちが整理してたはずだし。",
+    "translation": "Well, whatever. More importantly, we shouldn't\nleave the storage room this messy. I'm pretty sure\nItsuki and the others organized it recently."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はっ！？\nせっかく綺麗に片付けてあったのに！",
+    "translation": "WHA?!\nOh no! It had just been cleaned up, too!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺がいてよかったな。\n１人なら大変だっただろ。",
+    "translation": "I'm glad I was there for you.\nWhat would you have done by yourself?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんは、大事なときに必ず来てくれます。\nホントに……なんででしょうか。",
+    "translation": "You always come through for me when it counts,\nUesugi-san.\nWhy...is that?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "今回はたまたまだ。\nまあ、なんとなく、危なっかしいとは思ってたがな。",
+    "translation": "It was just a coincidence this time.\nAlthough,\nI did have a feeling that something might happen."
+  },
+  {
+    "character": "四葉",
+    "japanese": "心配してくれてたんですね。\nありがとうございます。",
+    "translation": "You were worried about me?\nThank you so much."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前は後先考えず行動するところがあるからな。\nなんか、ほっとけねぇんだよ。",
+    "translation": "Well, you have a tendency to act\nwithout thinking things through.\nI just can't just leave you alone."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……えへへ、お手数かけます。",
+    "translation": "...Hehe, sorry about that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、いい。\nそれより、倉庫を散らかしたままじゃまずいな。\n確かこの前、五月たちが整理してたはずだし。",
+    "translation": "Well, whatever. More importantly, we shouldn't\nleave the storage room this messy. I'm pretty sure\nItsuki and the others organized it recently."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はっ！？\nせっかく綺麗に片付けてあったのに！",
+    "translation": "WHA?!\nOh no! It had just been cleaned up, too!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うぅ、私はまたみんなに迷惑を……。",
+    "translation": "Oooh, I've caused trouble for everyone again..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あまり気にするな。\nお前だって、みんなのためにと思って\nやってたんだろ？",
+    "translation": "Don't worry about it.\nYou were doing it for everyone's sake, weren't you?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "それはそうですけど……。",
+    "translation": "That's true, but..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほら、さっさと片付けちまうぞ。\n俺も手伝う。",
+    "translation": "Come on, let's clean it up quickly.\nI'll help."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえいえ！\n散らかしたのは私なんですから、\n上杉さんに手伝ってもらうなんて、とんでもない！",
+    "translation": "No, no!\nI made the mess, so there's no way\nI'm going to ask you to help me, Uesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だからって見て見ぬ振りなんて\nできるわけないだろ。",
+    "translation": "But I can't just turn a blind eye to it, can I?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん……。",
+    "translation": "Uesugi-san..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "よーし！\nでは、元よりもっと綺麗に\n整理整頓しちゃいましょう！",
+    "translation": "Alrighty!\nLet's make it even cleaner than before!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そこまでやらなくてもいいと思うが……。\nほら、行くぞ。",
+    "translation": "I don't think we need to go that far...\nBut alright, let's do it!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はーい！",
+    "translation": "Okaaay!"
+  }
+]

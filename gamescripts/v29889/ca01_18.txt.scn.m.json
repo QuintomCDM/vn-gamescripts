@@ -1,0 +1,537 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（今日は色々ありすぎて疲れた……。\n　だが、最後の最後でいい夏の想い出を作れたよな）",
+    "translation": "(There was so much today, I'm so tired...\n But, we were able to make some nice summer memories\n in the end.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（明日には迎えが来る。\n　ようやく元の生活に戻れるのか）",
+    "translation": "(They'll come get us tomorrow.\n We can finally get back to our previous lives.)"
+  },
+  {
+    "character": "一花",
+    "japanese": "や、フータロー君。",
+    "translation": "Hey, Futaro-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん？　どうした？\nみんなと一緒に明日の準備をするって言ったよな。",
+    "translation": "Hm? What's up?\nYou said you were going to prepare for tomorrow\nwith everyone."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、もう終わったよ。\nあとは寝坊することがないように気をつけるだけ。",
+    "translation": "Yeah, we're already finished.\nNow all I have to be careful about is not oversleeping."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前の場合、そいつが一番の問題だな。",
+    "translation": "For you, that's the toughest problem, isn't it?"
+  },
+  {
+    "character": "一花",
+    "japanese": "その上、困ったことに、まだ撮影の興奮が\n冷めてないっていうか……眠れなくて。",
+    "translation": "Besides, the trouble is, the excitement of the shooting\nhasn't worn off yet... I couldn't sleep."
+  },
+  {
+    "character": "一花",
+    "japanese": "だからさ、少し散歩につきあってくれない？",
+    "translation": "So, would you go on a walk with me for a little?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかった。\n夜風にあたれば落ち着くだろ。",
+    "translation": "Got it.\nThe cool night air will calm you down, huh."
+  },
+  {
+    "character": "一花",
+    "japanese": "うわぁ、今日も満天の星だね。",
+    "translation": "Uwaah, another starry sky tonight."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "また星の観察か？\n新しい星を教えてやろうか？",
+    "translation": "Looking at stars again?\nShall I teach you a new star?"
+  },
+  {
+    "character": "一花",
+    "japanese": "嬉しいけど、それはまた次の機会に。",
+    "translation": "I'm happy, but let's leave that for next time."
+  },
+  {
+    "character": "一花",
+    "japanese": "あのね、君をここに誘ったのは……謝りたくて。",
+    "translation": "Um, the reason I brought you here...\nwas to apologize."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺に謝る？　なんでだよ。",
+    "translation": "Apologize? Why?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そんな反応されると、ちょっと言いづらいなぁ。",
+    "translation": "It's hard to say with a reaction like that."
+  },
+  {
+    "character": "一花",
+    "japanese": "あのね、昨日の私って、フータロー君の\n『みんなで楽しみたい』っていう\n気持ちを蔑ろにしてたと思うんだ。",
+    "translation": "Well, I feel that I made light of your\nfeelings yesterday, Futaro-kun,\nof wanting to 'have fun with everyone.'"
+  },
+  {
+    "character": "一花",
+    "japanese": "私も楽しんでるふりをして、\n実際は、みんなから一歩、距離を取ってた。",
+    "translation": "I was only pretending to have fun,\nbut actually,\nI was distancing myself from everyone else."
+  },
+  {
+    "character": "一花",
+    "japanese": "君だって気がついてたよね。",
+    "translation": "Even you noticed that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……お前がどうしてそんな態度を取っていたか、\n事情は知らない。",
+    "translation": "...I don't know the circumstances\nbehind why you acted like that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あいつらは察してたようだがな。\nだが、理由は言いたくないってさ。",
+    "translation": "The others were guessing, though.\nBut, they said they didn't want to tell the reason."
+  },
+  {
+    "character": "一花",
+    "japanese": "そう……。",
+    "translation": "Right..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ただ、どんな事情であれ、\nお前ら５人は一緒にいて、仲良くしているのがいい。\n俺はいつもそう思ってる。",
+    "translation": "But whatever the circumstances, it's great\nthat the five of you are together, and get along.\nI've always thought that."
+  },
+  {
+    "character": "一花",
+    "japanese": "一緒かぁ……。",
+    "translation": "Together, huh..."
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ、一緒ってなんだろう？",
+    "translation": "Hey, I wonder what it is means to be together?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ただ同じ空間にいること？\nそれとも同じ価値観を共有していること？",
+    "translation": "Does it mean to just be in the same space?\nOr to share the same values?"
+  },
+  {
+    "character": "一花",
+    "japanese": "よく、同じ空の下、とか言うでしょ？\nでも地球の裏側にいる人と一緒にいるなんて\n思えないよね。",
+    "translation": "We often say we're all under the same sky,\nbut you can't imagine being with someone\non the other side of the world."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一花、ちょっといいか？",
+    "translation": "Ichika, can I say something?"
+  },
+  {
+    "character": "一花",
+    "japanese": "えっ――",
+    "translation": "Huh%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "ちょっ……！\nフータロー君、近いよ……これじゃ……。",
+    "translation": "Woah!\nFutaro-kun, you're so close...right now..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな、これは『近い』だな。",
+    "translation": "Yes, this is 'close,' isn't it."
+  },
+  {
+    "character": "一花",
+    "japanese": "……？",
+    "translation": "?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、これはどうだ？",
+    "translation": "Then, how's this?"
+  },
+  {
+    "character": "一花",
+    "japanese": "……離れた、よね。",
+    "translation": "...Now you're far away."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな、これは『遠い』だ。",
+    "translation": "I see, so this is 'far.'"
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ、一体なんのことを言って――",
+    "translation": "Come on, what exactly are you talking abou%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "ひゃっ！",
+    "translation": "HYAA!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "改めて確認だが、これは『近い』だ。",
+    "translation": "Just to reconfirm, this is 'close,' right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "……うん。\n近いよ……でも……。",
+    "translation": "...Yes.\nIt's close...but..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こんな風に近くにいても、遠くに離れても、\n俺たちは『一緒にいる』んじゃないか？",
+    "translation": "Whether we're close or far away like this,\naren't we 'together'?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そ、それって、物理的な距離の話じゃなくて……。",
+    "translation": "W-well, that's not about physical distance..."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君が言いたいのは、\n気持ちのこと、なのかな？",
+    "translation": "What you want to talk about is our feelings,\nright, Futaro-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういうことだ。\nこの先、今のように一緒にいることは\nできなくなるかもしれない。",
+    "translation": "That's right.\nYou don't know if you guys can be together\nthe way you are now from here on out."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが、それがなんだ？\nお前たちが五つ子である事実は\nいつまでも変わらないだろ。",
+    "translation": "But, does that matter?\nThe fact that you are quintuplets will never change."
+  },
+  {
+    "character": "一花",
+    "japanese": "う、うん！　そうだよね！\nわかったんだけど、その、あの……近い……。",
+    "translation": "Y-yeah! That's right!\nI understand that, but, um...you're so close..."
+  },
+  {
+    "character": "一花",
+    "japanese": "ちょ、ちょっと？\n今の音って……写真撮ったの！？",
+    "translation": "H-hold on?!\nWas that...a camera shutter?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はっはっは！\nお前の素を捉えた最高の１枚が撮れたな！",
+    "translation": "HA HA HA!\nI took one of the best shots of you!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これで、想い出のアルバムの見出し写真は\n決まったようなものだ。",
+    "translation": "Now, the headline photo\nfor the memorial album has been decided."
+  },
+  {
+    "character": "一花",
+    "japanese": "不意打ちは卑怯だよ！\n消して、絶対変な顔してたから！",
+    "translation": "A sneak attack! How cowardly!\nI was DEFINITELY making a weird face!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やなこった！",
+    "translation": "I'd better run!"
+  },
+  {
+    "character": "一花",
+    "japanese": "むう、意地悪しないでよ。\n子どもじゃないんだから。",
+    "translation": "Grr, don't you be mean.\nI'm not a child."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "今は子どもで結構だ。\nどんな抗議を受けようとも、\nこれは絶対に消さないからな！",
+    "translation": "It's fine to be a kid now.\nBecause, no matter what anyone says,\nI'll never erase this picture!"
+  },
+  {
+    "character": "一花",
+    "japanese": "いたずらっ子みたいなことをして\nお姉さんを困らせないでってば。",
+    "translation": "Don't you trouble me with your childish antics!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くくく……。\n早くみんなにも見せてやりたいぜ。",
+    "translation": "He-He-He...\nI want to show everyone else."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前も撮ってただろ。",
+    "translation": "You were taking pictures too, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "何が？",
+    "translation": "What?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "とぼけるな。\n俺の寝顔の写真だよ。\nあれで何度、脅迫してきた？",
+    "translation": "Don't play dumb.\nThe picture of my sleeping face.\nHow many times have you threatened me with that?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あっ……！",
+    "translation": "Ahh!"
+  },
+  {
+    "character": "一花",
+    "japanese": "そ、それはそれ！\n軽いジョークなんだし、いつまでも\n根に持たないでよ、男らしくない！",
+    "translation": "Th-that is neither HERE nor THERE!\nIt was a simple joke.\nHolding a grudge about that isn't manly!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ？　なに開き直ってんだよ。",
+    "translation": "Huh? What are you getting all fired up for?"
+  },
+  {
+    "character": "一花",
+    "japanese": "いたずらっ子みたいなことをして\nお姉さんを困らせないでってば。",
+    "translation": "Don't you trouble me with your childish antics!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くくく……。\n早くみんなにも見せてやりたいぜ。",
+    "translation": "He-He-He...\nI want to show everyone else."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確認しないでありのまま、だろ？",
+    "translation": "We keep the pictures just as they are, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ど、どういうこと？",
+    "translation": "Wh-what do you mean?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "昼間、撮った写真を確認しようとしたときに\nお前がそう言ったんだが？",
+    "translation": "This afternoon, when we were about to check the photos,\nyou said that, didn't you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "嬉しいことも、悲しいことも、恥ずかしいことも\n全部収めておく、だったな？",
+    "translation": "That, you wanted to include all the happy, sad,\nand embarrassing things."
+  },
+  {
+    "character": "一花",
+    "japanese": "ううう……。\nそんなにしっかり覚えてるなんて、\n君っていやらしい……。",
+    "translation": "Ooohh...\nYou are so devious,\nable to remember stuff like that..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんでいやらしいんだよ！",
+    "translation": "Why am I devious?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "いたずらっ子みたいなことをして\nお姉さんを困らせないでってば。",
+    "translation": "Don't you trouble me with your childish antics!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くくく……。\n早くみんなにも見せてやりたいぜ。",
+    "translation": "He-He-He...\nI want to show everyone else."
+  },
+  {
+    "character": "一花",
+    "japanese": "むーっ！\nもういいよーだ！　ふんっ！",
+    "translation": "Grrr!\nWell, do whatever then! HMPH!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ、それ。\nどっちが子どもだ。",
+    "translation": "What the hell is that?\nWho's the child now?"
+  },
+  {
+    "character": "一花",
+    "japanese": "つーん。",
+    "translation": "Hmm."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おーい、そっぽ見てないで機嫌直せよ。",
+    "translation": "Hey, don't look the other way.\nCheer up."
+  },
+  {
+    "character": "一花",
+    "japanese": "……あ。",
+    "translation": "...Ah."
+  },
+  {
+    "character": "一花",
+    "japanese": "見て、フータロー君。\n月が出てる。",
+    "translation": "Look, Futaro-kun.\nThe moon's coming out."
+  },
+  {
+    "character": "一花",
+    "japanese": "星もだけど、月も、ここで見ると\nいっそう、綺麗だよね。",
+    "translation": "The stars are nice too, but seeing the moon here\nis all the more beautiful."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "機嫌は直ったのか？",
+    "translation": "Are you feeling better?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そうだね……。\nこんな月を見てたら、\nどうでもよくなってきちゃった。",
+    "translation": "Yeah...\nSeeing the moon,\nI suddenly stopped caring about things."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "なに見てるの？",
+    "translation": "What are you looking at?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "い、いや、なんでもない。",
+    "translation": "N-no, nothing."
+  },
+  {
+    "character": "一花",
+    "japanese": "ん～？　もしかして……。",
+    "translation": "Hm? Perhaps..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ。",
+    "translation": "What?"
+  },
+  {
+    "character": "一花",
+    "japanese": "私に見とれちゃってたのかな？",
+    "translation": "Were you perhaps gazing at me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そんなことありえないな。\nたまたま視線の先にお前の顔があっただけだ。",
+    "translation": "Th-that's impossible.\nYour face just happened to be in front of my vision."
+  },
+  {
+    "character": "一花",
+    "japanese": "へ～え、そうなんだぁ。",
+    "translation": "Uh-huh, is that so?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（これは、明らかにバレてるな。\n　見とれちまってたって）",
+    "translation": "(I've obviously been caught here.\n I was gazing at her, wasn't I.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（さっきの一花は……\n　女優でもない、五つ子の長女でもない、\n　ただ『中野一花』だと……そんな気がして……）",
+    "translation": "(It feels like the Ichika I just saw...\n wasn't the actress, or the oldest sister of the\n quintuplets, just 'Nakano Ichika'...)"
+  },
+  {
+    "character": "一花",
+    "japanese": "まだ見てる。\nいいの？　せっかくの月を見なくても。",
+    "translation": "You're looking again.\nIs that alright?\nNot looking at the moon while you have the chance."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうだな、うん、月はいいものだからな。\n知ってるか、月にある影は日本じゃウサギに\n例えられるが海外では違ったりするんだぞ！",
+    "translation": "Y-yeah, well, the moon is pretty nice, huh.\nYou know, the shadow on the moon in Japan\nis looks like a rabbit, but it's different overseas!"
+  },
+  {
+    "character": "一花",
+    "japanese": "ふーん、そうなんだ。\n私は、月と言えばかぐや姫を思い出すね。",
+    "translation": "Hmm, is that so.\nIf we talk about the moon,\nfirst thing I think of is Kaguya-Hime."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ、だったら今度は\nかぐや姫の役でもやってみたらどうだ？",
+    "translation": "Oh, in that case,\nwhy don't you try playing Kaguya-Hime next time?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前なら、うまく演じられそうじゃないか。\n貴公子たちを見事に手玉に取りそうだ。",
+    "translation": "I bet you could depict her really well.\nYou'd really wrap those young noblemen\naround your finger."
+  },
+  {
+    "character": "一花",
+    "japanese": "ふふっ！　それ褒めてるつもり？\nそれに……。",
+    "translation": "Teehee! Are you giving me a compliment with that?\nAnd..."
+  },
+  {
+    "character": "一花",
+    "japanese": "そんなこと言って、フータロー君は\n私が月に帰っちゃってもいいの？",
+    "translation": "Saying that, would you be okay with me going back\nto the moon, Futaro-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "え……。",
+    "translation": "Wha..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（芝居の役のこと……だよな？）",
+    "translation": "(She's talking about a role...isn't she?)"
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、一花。\n今のって――",
+    "translation": "Hey, Ichika.\nWhat you said just now%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "そろそろ戻ろっか。\n体が冷えてきちゃったよ。",
+    "translation": "Let's head back soon.\nI'm getting cold."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一花、話を……。",
+    "translation": "Ichika, listen to me..."
+  },
+  {
+    "character": "一花",
+    "japanese": "風邪引いたら困るでしょ？\n話があるなら、また今度ね。\nおやすみー。",
+    "translation": "It'd be no good if we caught colds, right?\nIf you want to talk, let's do it next time.\nGood night."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あいつ、一体……どういうつもりで……）",
+    "translation": "(W-What exactly did she mean by that?)"
+  }
+]

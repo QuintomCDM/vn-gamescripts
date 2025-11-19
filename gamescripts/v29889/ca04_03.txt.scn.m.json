@@ -1,0 +1,757 @@
+[
+  {
+    "character": "らいは",
+    "japanese": "海だーっ！",
+    "translation": "Yay, the beach!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "らいはちゃん。\n走ると危ないわよ？",
+    "translation": "Raiha-chan,\nit's dangerous to run around, okay?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "準備体操も忘れちゃダメ。\n一緒にやろ？",
+    "translation": "We can't forget the warm-up exercises.\nLet's do them together, okay?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "はーい！",
+    "translation": "Okaaay!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "よいしょっと！",
+    "translation": "Here we go!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ビーチチェアとテーブル、ここでいいよね？",
+    "translation": "Is it okay to set up the beach chairs and table here?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、問題ないと思います。\n組み立て、手伝いますね。",
+    "translation": "Yes, I think it's fine.\nI'll help you set them up."
+  },
+  {
+    "character": "四葉",
+    "japanese": "大丈夫、これくらい私がやっておくから、\n五月はらいはちゃんたちと泳いできなよ。",
+    "translation": "It's okay, I can handle it.\nItsuki, go swim with Raiha-chan and the others."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが、それでは四葉に負担が……。\nここまで運んできたのだって、あなたなのに。",
+    "translation": "But that's not fair, Yotsuba...\nYou carried everything here."
+  },
+  {
+    "character": "四葉",
+    "japanese": "心配ないよ。\n体力だけは自信あるんだから。",
+    "translation": "Don't worry!\nI have confidence in my stamina."
+  },
+  {
+    "character": "四葉",
+    "japanese": "五月も遠慮しないで、\n私にできることがあったらなんでも言ってね。",
+    "translation": "If there's anything I can do to help, \nlet me know, Itsuki."
+  },
+  {
+    "character": "五月",
+    "japanese": "え、ええ……わかりました。",
+    "translation": "O-okay... I got it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（うう……。\n　このクーラーボックス、相変わらず重たいな）",
+    "translation": "(Ugh...\n This cooler is always so heavy.)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ、上杉さん。\nお疲れ様です、重くなかったですか？",
+    "translation": "Ah, Uesugi-san.\nThank you. Was it heavy?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へ、平気だ、これくらい。\nそれより、手伝うからさっさと休憩所を作っちまおう。",
+    "translation": "N-no problem, this much was nothing.\nMore importantly, I'll help you, so\nlet's hurry up and make a resting spot."
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、私も手伝います！",
+    "translation": "Ah, I'll help too!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、じゃあビーチチェアを頼む。",
+    "translation": "Okay, then you take care of the beach chairs."
+  },
+  {
+    "character": "五月",
+    "japanese": "ビーチチェアですね。\n……ところで、これはどうすればいいのですか？",
+    "translation": "You mean these beach chairs?\n...By the way, how do you set these up?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "折りたたんであるのを\n広げればいいだけなんじゃないか？",
+    "translation": "They're folded up,\nso you just need to unfold them, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "それはわかってます。\nただ、その広げ方がわからなくて……。",
+    "translation": "I understand that.\nI just don't know how to unfold them..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、貸して。\nやっぱり五月より私がやったほうが早いよ。",
+    "translation": "Here, let me do it.\nI'm faster than you at this sort of thing, Itsuki."
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "こんな感じで適当に……えいやっと！",
+    "translation": "Just do it like this...and voila!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ついでにこっちもやっちゃいますねー。",
+    "translation": "Let me do these as well."
+  },
+  {
+    "character": "五月",
+    "japanese": "あっという間ですね……。",
+    "translation": "So fast..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺たちの出る幕がないな……。",
+    "translation": "We're not needed at all..."
+  },
+  {
+    "character": "一花",
+    "japanese": "３人ともお疲れ様。\nごめんね？　荷物任せちゃって。",
+    "translation": "Good work, the three of you.\nSorry for leaving all the stuff to you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これくらい大したことない……と言いたいところだが、\nほとんど四葉が１人でやっちまったよ。",
+    "translation": "It's not a big deal...\nYotsuba pretty much did everything by herself anyway."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっへん！\nこの手のことは慣れっこですから！",
+    "translation": "Teehee!\nI'm used to this sort of thing!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ただいまー！",
+    "translation": "We're back!"
+  },
+  {
+    "character": "五月",
+    "japanese": "おかえりなさい。\n海はどうでしたか？",
+    "translation": "Welcome back.\nHow was the ocean?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっと波が高いわ。\nらいはちゃんだと、泳ぐのは危ないかも。",
+    "translation": "The waves were a bit high.\nIt might be dangerous for Raiha-chan to swim."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ、いっそ、海に入らないで、\n何か別の遊びをするのもいいかも。",
+    "translation": "Then, how about doing something else\nbesides swimming?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "海に入らない遊びっていうと……砂で遊ぶとか？",
+    "translation": "Besides swimming...\nlike playing in the sand or something?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふっふふ～、ここは任せてください。\nこんなこともあろうかと、\n準備しておいたものがあるんですよ。",
+    "translation": "Teehee, leave it to me.\nI found something we could play with\nwhile I was searching for things to do last night."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃじゃーん！",
+    "translation": "Tah-dah!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これは……水鉄砲か。",
+    "translation": "These are...water guns?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい！\n夕べ、何か遊べる物がないか探し回ってたときに\n倉庫で見つけちゃったんです！",
+    "translation": "Yes!\nI found them in storage last night \nwhile we were searching for something to play with."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ああ、あのときの箱か……。\n　こんな物が入ってたとはな）",
+    "translation": "(Ah, those boxes...\n I didn't expect that things like these would be in there.)"
+  },
+  {
+    "character": "一花",
+    "japanese": "ちゃんと人数分あるんだ？\nじゃあ、これで撃ち合いっこでもしよっか。",
+    "translation": "Are there enough for everyone?\nLet's have a water gun fight."
+  },
+  {
+    "character": "らいは",
+    "japanese": "常夏バトルロイヤルぼっぱつ！",
+    "translation": "It's an everlasting summer battle royale!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "今このとき、この島は戦国の世に。\n周りはすべて敵国……！",
+    "translation": "From this moment on,\nthis island is in the Warring States period.\nWe are now surrounded by enemies!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふーん、面白いじゃない。\n勝ち残るのは誰かしらね？",
+    "translation": "Well, isn't that interesting.\nI wonder who will be the last one standing."
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、あの！　もう少し平和的にいきましょう？\nチーム分けして試合形式にしませんか？",
+    "translation": "Uh, um! Maybe we should play something more peaceful?\nHow about we split into teams and have a match?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ん～？　それだと１人余っちゃうよね？\n７人だから割り切れないし。",
+    "translation": "Hmm, but that would leave one person without a team,\nsince there are seven of us."
+  },
+  {
+    "character": "四葉",
+    "japanese": "だったら、私が水鉄砲の水入れ係をやるね！\nそうすれば――",
+    "translation": "Then I'll be in charge of refilling the water guns!\nThat way%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、水入れ係ってなんだよ。\nどうせやるなら、全員が参加できる\nゲームじゃないとな。",
+    "translation": "Wait, what do you mean by in charge of\nrefilling the guns? If we're going to play,\nit should be a game that everyone can participate in."
+  },
+  {
+    "character": "五月",
+    "japanese": "では、どうしましょうか。\nどうやっても公平にはなりませんよね？",
+    "translation": "Well, what should we do then?\nThere's no way to make it completely fair, is there?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なら、とりあえず鬼役を１人決めて、\n鬼は全員を水鉄砲で追いかけるってのはどうだ？",
+    "translation": "Then how about we just choose one person to be 'it'\nand they chase everyone else with a water gun?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "つまり、水鉄砲を使った鬼ごっこってわけ？",
+    "translation": "So, it's like playing tag with water guns?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういうことだ。\nよりゲームっぽくしたほうが面白いしな。",
+    "translation": "Yeah, exactly.\nIt'll be more fun if we make it more game-like.\nHow about these rules?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "制限時間内に鬼が全員を倒せば、鬼の勝ち。\n逃げる側が１人でも逃げ切れば鬼の負け。\nそういうルールでどうだ？",
+    "translation": "If the person who's 'it' manages to tag everyone\nwithin the time limit, they win. If even one person\nmanages to escape, then the person who's 'it' loses."
+  },
+  {
+    "character": "四葉",
+    "japanese": "おお、いいですね！\nじゃあ、私が鬼をやります！",
+    "translation": "Ohh, that sounds good!\nThen, I'll be 'it' first!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "フッ、四葉には悪いが……鬼役は俺だ！！",
+    "translation": "Hmph, sorry Yotsuba, but...I'm going to be 'it!'"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええっ！？",
+    "translation": "WHAAA?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここで普段のうっぷんをはらす！\nこんな役得、他のやつには譲れん！",
+    "translation": "Time to release some pent-up frustration!\nNo way I'm giving this kind of privilege to others!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "う、上杉さんが、まさに鬼の形相に！？",
+    "translation": "Y-you're actually looking like a demon, Uesugi-san?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前らにはいつも困らされているからな。\nこの機会を見逃す手はないぜ、くっくっく。",
+    "translation": "You are all always causing me trouble.\nSo, I can't miss this chance, mwahaha."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "セオリーだからな。\n鬼役をするのは男だろ？",
+    "translation": "It's the established rule.\nMen should be the demon when playing tag, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "せおりー？　ってなんですか？",
+    "translation": "What rule is THAT?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー、そうだな、お約束みたいなものだ。\n昔話の中だと、鬼ってのは\n大体、女の生け贄を求めるだろ？",
+    "translation": "Well, let's see, it's like a convention.\nIn old stories,\ndemons usually go after female sacrifices, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えええっ！？\nな、なんだかキケンな香りが！？",
+    "translation": "Whaaa?!\nTh-that sounds kind of dangerous!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、昔話の中ではの話だからな？\n変な想像すんな。",
+    "translation": "Hey, it's just stories from the olden days.\nDon't imagine anything weird."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えへへ。\nそうでした、すみません。",
+    "translation": "Hehe.\nOh, right! Sorry! "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺の華麗な銃捌きを見せてやる！\nよっと――",
+    "translation": "I'll show you my incredible shooting skills!\nCheck this out%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "おお、まるで西部劇のガンマンのように\n水鉄砲をクルクルと――",
+    "translation": "Ohhh, you're like a cowboy from a Western movie\ntwirling the water gun%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ。",
+    "translation": "Ah."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……落としましたね？",
+    "translation": "...You dropped it, huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こ、これは相手を油断させるテクニックだ。\n本番だったら、四葉はすでに撃たれてたぞ？",
+    "translation": "Th-this is a technique\nto catch your opponent off guard. If it were real,\nyou would have been shot by now, Yotsuba."
+  },
+  {
+    "character": "四葉",
+    "japanese": "なんと！　気づきませんでした！",
+    "translation": "What?! I didn't realize that!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この程度も見抜けないくせに\n鬼役をやりたいなんて……１００年早い！",
+    "translation": "If you can't even see through that,\nfor you to be 'it,' the role of the demon...\nyou're a hundred years too early!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふふ、あははっ！\nじゃあ、鬼役は上杉さんにお願いしますね。",
+    "translation": "Hehe, hahaha!\nWell then, Uesugi-san, please be 'it.'"
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君が鬼か。\nよかった、四葉を相手にするよりは楽だよ。",
+    "translation": "Is Futaro-kun 'it'?\nGood, it's easier than dealing with Yotsuba."
+  },
+  {
+    "character": "二乃",
+    "japanese": "というか四葉が鬼じゃ勝てる気がしないんですけど。",
+    "translation": "Like, I don't feel like we could win against her\nif she were 'it.'"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローなら勝ち目がある、というか勝てそう。",
+    "translation": "If it's Futaro, there's a chance we can win,\nor rather, it seems like we can win."
+  },
+  {
+    "character": "四葉",
+    "japanese": "みんな、上杉さんを侮りすぎ！\n油断してると負けちゃうよ？",
+    "translation": "Everyone, you're underestimating Uesugi-san too much!\nIf you let your guard down, you'll lose, you know?"
+  },
+  {
+    "character": "五月",
+    "japanese": "確かに……。\n勝つためであれば、どんな手を使ってくるか\nわからない部分はありますね。",
+    "translation": "That's true...\nIf it's to win, we don't know what he's capable of."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、そこ。\n俺をなんだと思ってる。",
+    "translation": "Hey, you there.\nJust what kind of person do you think I am?"
+  },
+  {
+    "character": "一花",
+    "japanese": "大丈夫だって。\n楽勝で逃げ切れるでしょ。",
+    "translation": "Don't worry.\nThis will be a piece of cake."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（確かに、俺には体力がない。\n　だが、戦いは体力だけでするもんじゃないんだ。\n　それを教えてやるぜ！）",
+    "translation": "(Certainly, I don't have the stamina.\n But battles aren't just about stamina.\n I'll show you!)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "じゃあ、そろそろ始めよっか！\nよーい……スタートー！",
+    "translation": "Well then, let's start!\nReady... GO!"
+  },
+  {
+    "character": "一花",
+    "japanese": "……あれ？\nフータロー君、どこへ行ったのかな？\nてっきり追いかけてくると――",
+    "translation": "...Huh?\nWhere did Futaro-kun go?\nI thought he would chase us%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ふははは！　ここだ一花！\nそらっ！",
+    "translation": "Mwahaha! Right here, Ichika!\nTake that!"
+  },
+  {
+    "character": "一花",
+    "japanese": "きゃっ！？",
+    "translation": "Ahhhh?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "ええ～。\n岩の陰に隠れてるとかズルくない？",
+    "translation": "Wha?!\nIsn't it cheating to hide behind a rock?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ズルいわけがない、これも作戦だ。\n大人しく負けを認めるんだな。",
+    "translation": "There's no way that's cheating.\nThis is strategy.\nJust accept your defeat quietly."
+  },
+  {
+    "character": "一花",
+    "japanese": "は～い。\nちぇっ、悔しいなぁ。",
+    "translation": "Okaaay.\nTch, that's frustrating."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "安心しろ、一花。\n残りのやつらも、すぐにお前のところへ送ってやる！",
+    "translation": "Don't worry, Ichika.\nI'll send everyone your way soon!"
+  },
+  {
+    "character": "一花",
+    "japanese": "はいはい、頑張ってね～。",
+    "translation": "Alright then, do your best."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うわぁ！？　あ、足がつったぁ！\n誰かぁ～！",
+    "translation": "Aaah?! M-my leg is stuck!\nSomebody help!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君！？",
+    "translation": "Fu-kun?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あっちから声がした！",
+    "translation": "I heard a voice from over there!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君！　だいじょうぶ――きゃ！？",
+    "translation": "Fu-kun! Are you okay%p-2;――%p; AHH?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃？　――ひゃん！？",
+    "translation": "Nino? ...WHAA?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これで２人アウトだ！",
+    "translation": "Both of you are out!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふ、不覚……。\nこんな手に引っかかるなんて。",
+    "translation": "I-I was careless...\nHow could I fall for such a trick."
+  },
+  {
+    "character": "二乃",
+    "japanese": "もう、騙すなんてひどいわ！\n心配したんだからね！？",
+    "translation": "That's terrible to deceive us like that!\nI was worried, you know?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すまん。\nだが、勝つためには心を鬼にすることも必要なんだ。\nなにせ今の俺は――鬼だからな！",
+    "translation": "I'm sorry. But in order to win,\nsometimes you have to be ruthless.\nAfter all, I'm 'it'!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、ノリノリだ……。",
+    "translation": "Futaro, you're really into this..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さて、残りは３人か！\nじゃあな！",
+    "translation": "Right, three more to go!\nSee you in a bit!"
+  },
+  {
+    "character": "五月",
+    "japanese": "二乃と三玖がやられたようです。",
+    "translation": "It seems like Nino and Miku are down as well. "
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃんもなかなかやるね。",
+    "translation": "Big bro is doing pretty well, huh?"
+  },
+  {
+    "character": "五月",
+    "japanese": "私たちも注意しなければ。\nらいはちゃん、私から離れないでください。",
+    "translation": "We have to be careful too.\nRaiha-chan, don't leave my side."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おーい、五月！\nスイカがあったから、いったん休憩にするぞ！",
+    "translation": "Hey, Itsuki!\nI found some watermelon, so let's take a break!"
+  },
+  {
+    "character": "五月",
+    "japanese": "あっ！　はい！　いま行きます！",
+    "translation": "Ah! Okay! I'm coming!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "えっ？　ええっ！？\n五月さん、待って～！",
+    "translation": "Huh? Huhhh?!\nItsuki-san, wait!"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まさか本当に来るとはな。",
+    "translation": "I didn't think you'd actually come."
+  },
+  {
+    "character": "五月",
+    "japanese": "……それで、スイカはどこでしょうか？",
+    "translation": "...And, where's the watermelon?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ねぇよ。",
+    "translation": "There's no watermelon."
+  },
+  {
+    "character": "らいは",
+    "japanese": "五月さん、こんなお兄ちゃんでごめんなさい……。",
+    "translation": "Itsuki-san, I'm sorry about my big bro..."
+  },
+  {
+    "character": "五月",
+    "japanese": "うぅぅ……。",
+    "translation": "Oooohh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（残るは四葉だが……\n　それにしても、すばしっこすぎるだろ。\n　不意打ちすら避けられるとか、どうしろと）",
+    "translation": "(Only Yotsuba is left, but...\n she's too agile. I can't even land a surprise attack.\n I have to do something.)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うーえすーぎさーん！\nどこに隠れてるんですかー？\n早く出てこないと時間切れになっちゃいますよー？",
+    "translation": "Ueeesuuugiii-saaan!\nWhere are you hiding?\nIf you don't come out soon, time will run out?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（これじゃ、どっちが鬼だかわからん……。\n　正面からじゃ勝てるわけがねぇし残り時間もない。\n　仕方がないな、ここは……）",
+    "translation": "(I can't tell which of us is the demon...\n I can't win head-on, and there's no time left.\n Oh well, here goes nothing...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉！　残ったのはお前だけだ！\nどうだ？　俺と一騎打ちで勝負しようじゃないか！",
+    "translation": "Yotsuba!\nYou're the only one left!\nHow about it? Want to fight me one-on-one?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "おお！？　一騎打ち、いいですね！\n受けて立ちますよ！",
+    "translation": "Oh?! A one-on-one?\nSounds good to me! I accept your challenge!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "それじゃ、いざ尋常に――勝負です！",
+    "translation": "Very well, it is time...for a glorious battle!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（予想通りだ、のって来たな。\n　これで追いかける必要はなくなったし、\n　あともう一押しだ！）",
+    "translation": "(As expected, she took the bait.\n I don't need to chase her anymore.\n One more push and I'll win!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうした、四葉！\nそんな逃げ腰じゃ、俺には勝てないぞ！",
+    "translation": "What's wrong, Yotsuba?!\nYou won't win by running away like that!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "言いましたね？\nそれなら私も手加減しませんよ！",
+    "translation": "You said it yourself, didn't you?\nIn that case, I won't hold back either!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "調子に乗って前に出たな！\nこれで俺の勝ち――って、うお！？",
+    "translation": "You're getting ahead of yourself\nby coming forward like that!\nI shall be victorious%p-2;――%p;! Hey, WOAH?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "惜しい！",
+    "translation": "So close!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "次は必ず当ててみせますよ！　――それ！",
+    "translation": "I'll definitely hit you next time! ...Yah!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちょっと待て！\n急に本気出しすぎだろ！？",
+    "translation": "Wait a minute!\nYou're suddenly getting too serious, aren't you?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、息が上がってますよ？\nもしかして降参ですか？",
+    "translation": "Uesugi-san, are you out of breath?\nAre you going to surrender?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くっ！　俺を侮るなぁ！",
+    "translation": "Ugh! Don't underestimate me!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そんな動きで、いつまで避けきれますかね！？",
+    "translation": "How long can you avoid me\nwith moves like that?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こうなったら絶対に！　当ててやる！",
+    "translation": "I will definitely get you!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは！\n私だって負けませんよ～！",
+    "translation": "Hahaha!\nI won't lose, either!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（よしよし、四葉も楽しめてるみたいだな。\n　準備だのなんだのばかりやってないで、\n　もっと自分も楽しめば――）",
+    "translation": "(Good, good. It seems like Yotsuba is enjoying herself.\n Instead of just preparing and worrying,\n she should enjoy herself more too%p-2;――%p;)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "……隙きありです！　――えいや！",
+    "translation": "An opening! ...Ha!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "し、しまったぁ！",
+    "translation": "O-oh no!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "やったぁ！\n上杉さん、討ち取ったり！",
+    "translation": "I did it!\nI defeated Uesugi-san!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くそ、油断しちまった……。",
+    "translation": "Shit, I was careless..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふっふっふ！\n私の優勝ですね！",
+    "translation": "Teehee!\nI win!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "優勝って、そういうゲームじゃなかったでしょ。",
+    "translation": "This wasn't a competition for victory, though."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はっ！？　そうだった！\nつい鬼を倒すことに夢中に……。",
+    "translation": "Huh?!\nOh...right!\nI got too caught up in defeating the demon..."
+  },
+  {
+    "character": "一花",
+    "japanese": "もう時間切れだし、フータロー君の負けには\n変わりないんだけどね。",
+    "translation": "Well, time's up, and Futaro-kun would have lost anyway."
+  },
+  {
+    "character": "四葉",
+    "japanese": "みんなを待たせちゃったよね？\nごめんね、勝手なことしちゃって。",
+    "translation": "I'm sorry for making everyone wait.\nI was so focused on the battle."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別に、楽しかったからいいだろ。\nなんだかんだ言って、俺も四葉以外は倒せたしな。",
+    "translation": "It's fine.\nIt was fun,\nand I was able to defeat everyone except Yotsuba."
+  },
+  {
+    "character": "一花",
+    "japanese": "あーあ、フータロー君を侮りすぎちゃった。\nあの負け方は悔しいし、ここはリベンジしたいよ。",
+    "translation": "Aa-ah, I underestimated you too much, Futaro-kun.\nI'm frustrated with that loss,\nso I want to get revenge now."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、次は負けない。",
+    "translation": "Yes, I won't lose next time."
+  },
+  {
+    "character": "五月",
+    "japanese": "私だって、あの倒され方は納得いきません！\n次は私が鬼をやります！",
+    "translation": "I'm not satisfied with how I was defeated either!\nNext time, I want to be 'it'!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "じゃあ、私も！\n五月さんと２人で鬼をやってみたい！",
+    "translation": "Me too, then!\nI want to be 'it' together with Itsuki-san!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いいんじゃないか？\n厳密にルールを決めてるわけじゃないし。",
+    "translation": "That's fine, isn't it?\nWe're not strictly following the rules anyway."
+  },
+  {
+    "character": "らいは",
+    "japanese": "五月さん、よろしくね。",
+    "translation": "Itsuki-san, let's win."
+  },
+  {
+    "character": "五月",
+    "japanese": "はい、一緒に上杉君を倒しましょう！",
+    "translation": "Yes, let's defeat Uesugi-kun together!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺限定かよ！！",
+    "translation": "Why is it just me?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉も、あまり気にするな。\n遊びなんだから、もっと気軽に楽しもうぜ。",
+    "translation": "Yotsuba, too. Don't worry too much about things.\nIt's just a game.\nLet's enjoy ourselves more casually."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、ありがとうございます。",
+    "translation": "Okay, thanks a lot."
+  }
+]

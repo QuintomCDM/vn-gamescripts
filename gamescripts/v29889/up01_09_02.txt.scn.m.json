@@ -1,0 +1,127 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君？\nなにキョロキョロしてるの？",
+    "translation": "Futaro-kun?\nWhy so restless?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、竿以外に魚を捕る道具がないかと思ってな。",
+    "translation": "Well, I was thinking if there are any other tools\nto catch fish, other than a rod."
+  },
+  {
+    "character": "一花",
+    "japanese": "確かに、モリとか網があったら、\nお魚ゲットのチャンスが上がるよね。",
+    "translation": "If we had a harpoon or a net,\nour chances of getting fish would indeed increase."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、勝率が高い方法は試しておきたい。",
+    "translation": "Yeah, I'd like to try something with a high chance\nof success."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが、ここは放棄されてから\nだいぶ時間が経ってるし、\n道具も残されているかはわからん。",
+    "translation": "However, this place has been abandoned for\na long time,\nso I don't know if there are any tools left."
+  },
+  {
+    "character": "一花",
+    "japanese": "そうだねぇ、運次第だね。",
+    "translation": "That's right, it'll depend on luck."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どこかに燃料満タンで\n魚群探知機つきのボートが\n係留されていないだろうか……。",
+    "translation": "I wonder if there's a boat moored somewhere\nwith a full tank of fuel and a fish detector..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ついでに最新のリールや上等の餌に撒き餌も\n完備してたら言うことなしだ。",
+    "translation": "Incidentally, if we had the latest reels\nand fine bait,\nwe'd have nothing to complain about."
+  },
+  {
+    "character": "一花",
+    "japanese": "あの、フータロー君？\nそんな船がここにあったら逆に怖くない？",
+    "translation": "Hey, Futaro-kun?\nWouldn't it be kind of scary\nif we found a boat like that around here?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……すまん、ちょっと現実逃避してしまった。",
+    "translation": "...Sorry, I was in fantasy-land."
+  },
+  {
+    "character": "一花",
+    "japanese": "昔の人が使っていたっぽい手こぎの小舟は\nあるけど、ちょっと頼りないよねぇ。",
+    "translation": "There are hand-rowed boats\nthat look like they were used by people in the past,\nbut they seem a little unreliable."
+  },
+  {
+    "character": "一花",
+    "japanese": "……あれ？\nねえフータロー君、あそこの小舟の近くに\n見えるのって――",
+    "translation": "...Hm?\nHey, Futaro-kun, you can see something\nnear that little boat over there."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まさか本当にボートが！？",
+    "translation": "Wait, could the fantasy boat really be there?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "違うって、網だよ網。\n近くに行って確かめてみよう。",
+    "translation": "No, it's a net.\nLet's get up close and check it out."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おお！　本当に網だ！\nこれで投網ができるかもしれないぞ！",
+    "translation": "Ohh! It really is a net!\nWe might be able to cast it out!"
+  },
+  {
+    "character": "一花",
+    "japanese": "私たちでもできるの？\n網をただ投げても捕まえられそうにないけど。",
+    "translation": "Is that something we can do?\nIt doesn't seem like we can catch fish just by\ncasting out a net like this."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もちろん練習は必要だと思うが……。",
+    "translation": "Well, of course, we'd need to practice, but..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、それ以前にかなり古そうだし\nほつれていたら使えないな。\nまずは確認してみるか――",
+    "translation": "Well actually, it looks pretty old,\nand we can't really use it if it's frayed.\nLet's check it out first%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "あれ、何か落ちて――",
+    "translation": "Hey, something fell on the ground%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "きゃぁぁぁ！？",
+    "translation": "YEEEEEEP?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うわあっ！？\nへ、へ、蛇ぃ！？",
+    "translation": "WOOAAAHH?!\nA SN-SN-SNAKE?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "に、逃げよう！\n毒蛇かもしれないよ！",
+    "translation": "L-let's get out of here!\nIt might be venomous!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、無理に網を使う必要はないしな！",
+    "translation": "Yeah, there's no reason to use a\nnet at the expense of our lives!"
+  },
+  {
+    "character": "一花",
+    "japanese": "ごめんね、起こしちゃって！\nお邪魔しました～！",
+    "translation": "Sorry for waking you up!\nPlease excuse our abrupt visit!"
+  }
+]

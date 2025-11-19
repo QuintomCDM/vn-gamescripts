@@ -1,0 +1,207 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（あいつらの息抜きになるようなことか。\n　この島にあるもので、手軽にできることを\n　考えないとな……）",
+    "translation": "(Something that can help them relax, huh?\n There's gotta be something on the island\n that's not too hard to set up...)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "おはよう、お兄ちゃん！\nねえ、聞いて聞いて！",
+    "translation": "Good morning, big bro!\nHey, listen to this!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "朝からご機嫌だな。\n何かいいことでもあったのか？",
+    "translation": "You're in a good mood this morning.\nDid something good happen?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "昨日の夜ね、窓から星がいっぱい見えたんだ！\nすっごく綺麗だったんだよ！",
+    "translation": "Yesterday night, I could see so many stars\nfrom my window!\nThey were so pretty!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、アパートからじゃ星なんて見えないもんな。\nそんなに綺麗だったのか？",
+    "translation": "Yeah, we can't see stars from our apartment, can we.\nWere they that pretty?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、お星さまから元気をもらえたのかな？\nドキドキしちゃって、なかなか眠れなかったよ。",
+    "translation": "Yes, I wonder if the stars gave me some energy?\nMy heart was pounding,\nand it took a while for me to fall asleep."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか、よかったな。\nなら天体観測でもしてみるか？\nこの時期なら確か――",
+    "translation": "Great, that's wonderful.\nPerhaps you should try some stargazing then?\nAt this time of year%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はっ！！　そうだ、あれがあったか！",
+    "translation": "OH!! That's right!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ナイスだぞ、らいは！\nこれならきっとあいつらも満足するはずだ！",
+    "translation": "Nice, Raiha!\nYou've given me a great idea to satisfy the quintuplets!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "え？　何が？",
+    "translation": "What? What're you talking about?"
+  },
+  {
+    "character": "五月",
+    "japanese": "天体観測ですか？",
+    "translation": "Stargazing?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、ここでなら星がよく見えるからな。\n今日の夜、浜辺に行くぞ！",
+    "translation": "Yeah, because we can see the stars well from here.\nLet's go to the beach tonight!"
+  },
+  {
+    "character": "一花",
+    "japanese": "急にどうしちゃったの？\n夜は勉強っていつも言ってるのに。",
+    "translation": "Why are you changing your tone all of a sudden?\nYou always say night is for studying."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前ら、息抜きがほしいと言ってただろう？\nこれでも一応、配慮したつもりなんだが。",
+    "translation": "You guys said you wanted a break, right?\nI considered about that and thought this would\ngive you some time off."
+  },
+  {
+    "character": "一花",
+    "japanese": "ああ、そういうことか。\nちゃんと考えてくれたんだね。",
+    "translation": "Ah, that's what this is about.\nYou gave it some thought, huh."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ありがと、フー君！",
+    "translation": "Thank you, Fu-kun!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別に礼を言われることじゃない。\nリーダーとして考えた結果だからな。",
+    "translation": "You don't really need to thank me.\nI'm the leader, it's my job."
+  },
+  {
+    "character": "三玖",
+    "japanese": "けど、すごくいい考えだと思う。\n確かに星がよく見えるし。",
+    "translation": "Well, it's a really good idea, I think.\nWe'll be able to see the stars really clearly."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くっくっく、甘いな。\nただの星の観測じゃないぞ？\n見るのは流星群だ！",
+    "translation": "Heheheh, how naive.\nYou thought I was just talking about normal stargazing?\nWhat we're going to watch is a meteor shower!"
+  },
+  {
+    "character": "五月",
+    "japanese": "流星群ですか。\n写真で見たことはありますが……\n本物が見られるのですか。",
+    "translation": "A meteor shower?\nI've seen them in photos, but...\nnever the real thing."
+  },
+  {
+    "character": "四葉",
+    "japanese": "流れ星っていつ流れるかわからないものですよね？",
+    "translation": "But, it's hard to know\nwhen there will be a meteor shower, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "心配ない。\n流星群はそれぞれ見られる時期が決まってるんだよ。",
+    "translation": "Don't you worry.\nThe periods of time where meteor showers can be seen\nbasically don't change."
+  },
+  {
+    "character": "四葉",
+    "japanese": "おお！　なら私は賛成です！",
+    "translation": "Oh! Then I'm in!"
+  },
+  {
+    "character": "一花",
+    "japanese": "私も賛成。\nそれにしても星を見に行こうなんて、フータロー君も\n意外とロマンチックなところがあるじゃない。",
+    "translation": "I'm in as well.\nBut even so, going to see the stars, huh?\nFutaro-kun, you have an unexpected romantic side to you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほっとけ。\n似合わないのは自分もわかってる。",
+    "translation": "Leave me alone.\nI know that I don't usually act like this."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私もフータローと星が見たい。",
+    "translation": "I want to watch the stars with you, Futaro."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君の提案なんだから行くに決まってるわ。\nそれに……。",
+    "translation": "It's Fu-kun's idea, so of course we're going to go.\nAnd then..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "夜のビーチ……ロマンチックな星空の下……。\nふふ、これはチャンスね！",
+    "translation": "The beach at night... Beneath a romantic,\nstarry sky...\nHehe, it'll be my chance!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃、聞こえてる。",
+    "translation": "Nino, we can hear you."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが、夜に出歩くのは危険ではないでしょうか？\n見るなら浜辺ではなく別荘からでも……。",
+    "translation": "However, won't walking outside at night be dangerous?\nWe could watch it from the villa, not the beach..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、天体観測は\n開けた場所のほうが適しているんだ。\nここの浜辺ならうってつけだ。",
+    "translation": "No, stargazing is better in an open space.\nThe beach here would be the perfect place to do it."
+  },
+  {
+    "character": "一花",
+    "japanese": "大丈夫だよ、みんなで一緒に行くんだから\n暗くても怖くないって。",
+    "translation": "It's okay, we'll all go together,\nso even if it's dark, it won't be scary."
+  },
+  {
+    "character": "五月",
+    "japanese": "こ、怖がってなんていません。",
+    "translation": "I-It wasn't like I was scared or anything!"
+  },
+  {
+    "character": "一花",
+    "japanese": "それに、いざとなったらフータロー君が\n守ってくれるよね。",
+    "translation": "And, if things get bad, Futaro-kun will protect us.\nRight?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんな危険はない、はずだ。",
+    "translation": "Nothing's gonna happen."
+  },
+  {
+    "character": "一花",
+    "japanese": "もー、そこは男らしく『任せろ』って\n言ってほしかったな。",
+    "translation": "Oh come on, you should've said 'leave it to me'\nin a manly way."
+  },
+  {
+    "character": "五月",
+    "japanese": "別に私は、上杉君に\n守ってもらわなくても問題ないです。",
+    "translation": "I don't really need to be protected\nby Uesugi-kun."
+  },
+  {
+    "character": "らいは",
+    "japanese": "五月さんも行こう？\n星、本当に綺麗なんだよ？",
+    "translation": "Let's go together, Itsuki-san!\nThe stars are SO pretty."
+  },
+  {
+    "character": "五月",
+    "japanese": "……そ、そうですね。\nせっかくですから行きましょうか。",
+    "translation": "...W-well, I suppose.\nWe have this chance, so why not?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よーし、なら決定だな！",
+    "translation": "Right then, it's decided!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "楽しみだね、お兄ちゃん。\n早く夜にならないかな～。",
+    "translation": "How fun, big bro.\nI hope night will come soooon."
+  }
+]

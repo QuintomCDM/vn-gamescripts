@@ -1,0 +1,712 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "ふーむ。\n正面の建物の中には何もなかったな。",
+    "translation": "Hmm.\nThere was nothing in the building in front of us."
+  },
+  {
+    "character": "二乃",
+    "japanese": "石碑もないし、空振りだったかしらね。",
+    "translation": "There's no monument, so I guess we struck out."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "他に調べられそうなのは、こっちの建物くらいか。",
+    "translation": "The only other building we could investigate\nis this one over here."
+  },
+  {
+    "character": "一花",
+    "japanese": "すごく頑丈そうだけど、窓もないし、\nこれは人が住む場所じゃないっぽいなぁ。",
+    "translation": "It looks really sturdy, but there are no windows,\nso it doesn't seem like a place for people to live."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ひょっとすると、宝物殿かもしれないな。",
+    "translation": "It might be a shrine repository."
+  },
+  {
+    "character": "三玖",
+    "japanese": "宝物って……もしかして財宝が入ってるの？",
+    "translation": "A repository... Could it be filled with riches?"
+  },
+  {
+    "character": "一花",
+    "japanese": "おお、ここでまさかの埋蔵金的なもののお出まし？",
+    "translation": "Oh, could there really be some treasure here?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、財宝ってわけじゃない。\n神社に伝わる古い道具とか、祭りに使う物とか\n奉納された品物を保管しておく場所だ。",
+    "translation": "No, it's not necessarily treasure. It's a place\nto store old tools and items used in festivals,\nand offerings given to the shrine."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それに、もし貴重品が収められていたとしても、\n島から住人が出ていくときに\n中身も持っていってるだろ。",
+    "translation": "Also, even if valuable items were once stored here,\nthose things must have been taken by the islanders\nwhen they left."
+  },
+  {
+    "character": "一花",
+    "japanese": "一応、入って調べてみる？\n鍵は掛かってないみたいだし。",
+    "translation": "But shall we still take a look inside?\nIt doesn't look like the door is locked."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょ、ちょっと？　この中に入るの？\nもう何年も放置されてたのよね？",
+    "translation": "W-wait a minute? Are we going inside there?\nIt's been abandoned for years."
+  },
+  {
+    "character": "二乃",
+    "japanese": "見た目は頑丈そうだけど扉を開けたら崩れる、\nなんてありそうなんだけど。",
+    "translation": "It might collapse as soon as we open the door,\neven though it looks sturdy."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうだろうな……。\nとりあえず開けてみるか。",
+    "translation": "I'm not sure...\nBut let's try opening it for now."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……ん？　立て付けが悪いのか？\n　この引き戸、やけに重いな）",
+    "translation": "(...Hmm? Is the fit not good?\n This sliding door is unusually heavy.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よっと――",
+    "translation": "Here we go%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "うわ……。\n中、真っ暗じゃない。\nそれに変な臭いがするし……。",
+    "translation": "Wow...\nIt's completely dark inside.\nAlso, there's a strange smell..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "明かり取りの窓すらないのか、\nそれともふさがっちまったのか……。\nスマホのライトで照らすしかなさそうだな。",
+    "translation": "There aren't even any windows to let in light,\nor maybe they're just blocked.\nLooks like we have to use the lights on our smartphones."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君、気をつけてね。",
+    "translation": "Futaro-kun, please be careful."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……床板は腐ってない。\n　見た感じ、危険なものはなさそうだな）",
+    "translation": "(...The floorboards aren't rotten.\n It doesn't look like there's anything dangerous.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "入っても大丈夫そうだ。\n何か残ってないか調べてみる。",
+    "translation": "It should be safe to go in.\nI'm going to see if there's anything left behind."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あっ、フー君！\n待って、１人じゃ危険よ！",
+    "translation": "Ah, Fu-kun! Wait, it's dangerous to go alone!"
+  },
+  {
+    "character": "一花",
+    "japanese": "うわぁ、本当に真っ暗だね。",
+    "translation": "Wow, it really is pitch-dark in here."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前ら、ついてくるなら足下には気をつけて――",
+    "translation": "If you're going to follow me, watch your step%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……ん？　何か踏んだ？）",
+    "translation": "(...Hm? Did I step on something?)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あっ！？",
+    "translation": "Ahh?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "きゃあああ！？",
+    "translation": "EEEEP?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "えっ？　なに？　なんで！？\n扉が閉まっちゃった！？",
+    "translation": "Huh? What? WHY?!\nThe door closed by itself?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "一花、二乃！　フータロー！\n大丈夫！？",
+    "translation": "Ichika, Nino! Futaro! Are you okay?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "み、三玖！！\nなに勝手に閉めてるのよ！　開けなさい！",
+    "translation": "M-Miku!!\nWhy did you close it on us?! Open it!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私じゃない！\n勝手に閉まったの！",
+    "translation": "It wasn't me!\nIt shut on its own!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあっ！？　なにそれ！？",
+    "translation": "Whaaat?! What the hell?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……おい、マジかよ。",
+    "translation": "...Oh, seriously?"
+  },
+  {
+    "character": "一花",
+    "japanese": "なに、フータロー君？",
+    "translation": "What, Futaro-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この扉、引き手がついてない。\nこっち側からじゃ開けられねぇ。",
+    "translation": "This door doesn't have a handle on this side.\nWe can't open it from inside."
+  },
+  {
+    "character": "一花",
+    "japanese": "ええっ！？",
+    "translation": "Whaaat?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖！　内側からじゃ無理だ！\n外から開けてくれ！",
+    "translation": "Miku! We can't open it from inside!\nOpen it from the outside!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "さ、さっきから開けようとしてる……けど……。\nダメ……すごく重くて開けられない……！",
+    "translation": "I-I've been trying to open it...\nBut..it won't budge. It's really heavy...!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "嘘でしょ……。\n私たち、閉じ込められた……？",
+    "translation": "No way...\nAre we shut in...?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "四葉と五月を呼んできて、手伝ってもらう！\n待ってて！",
+    "translation": "I'll go call Yotsuba and Itsuki to help us!\nWait there!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、頼んだ！",
+    "translation": "Ok, we're counting on you!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ううぅぅ……。\n私たち、どうなっちゃうの？",
+    "translation": "Ooooohh...\nWhat's gonna happen to us?"
+  },
+  {
+    "character": "一花",
+    "japanese": "二乃、大丈夫だから安心して。",
+    "translation": "Nino, it's okay. Don't worry."
+  },
+  {
+    "character": "二乃",
+    "japanese": "だって閉じ込められちゃったのよ？\n安心なんてできるわけないじゃない……。",
+    "translation": "But aren't we're trapped in here?\nThere's no way I can't worry..."
+  },
+  {
+    "character": "一花",
+    "japanese": "三玖が、四葉や五月ちゃんを呼びに行ってくれてる。\n３人の力があれば開くって。\nそれに、四葉はとっても力持ちだしさ。",
+    "translation": "Miku's going to get Yotsuba and Itsuki.\nIf the three of them work together, they can open it.\nBesides, Yotsuba is really strong."
+  },
+  {
+    "character": "二乃",
+    "japanese": "でも……それで開かなかったら……。",
+    "translation": "But...if it doesn't open, even then..."
+  },
+  {
+    "character": "一花",
+    "japanese": "ほら、悪いほうに考えちゃダメ。\nこういうときはいいことを考えよう？\n例えば――",
+    "translation": "Hey, don't think about the worst-case scenario.\nLet's think positive at times like this. For example%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "二乃は１人じゃない。\n私もフータロー君も一緒にいる。\nね？",
+    "translation": "You're not alone, Nino.\nI'm here and so is Futaro-kun.\nRight?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……うん。\nそうよね、私は１人じゃない。\nフー君も一花も一緒だから……。",
+    "translation": "...Yeah.\nYou're right, I'm not alone.\nFu-kun and Ichika are here with me..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……すまない。\n俺が迂闊に行動したせいで、\nこんなことになっちまって。",
+    "translation": "...I'm sorry.\nIt's my fault for acting recklessly\nand getting us into this mess."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君のせいじゃないって。\n私が神社を調べたいなんて言い出さなきゃ\nよかったんだから。",
+    "translation": "It's not your fault, Futaro-kun.\nIf I hadn't suggested we investigate the shrine,\nthis wouldn't have happened."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……誰も悪くないわ。\n私たちが勝手に入ったから、\n神様が怒っちゃったのかもしれないし。",
+    "translation": "...No one is to blame.\nWe trespassed into the god's territory,\nso maybe he got angry."
+  },
+  {
+    "character": "一花",
+    "japanese": "勝手に入ったことは、もう反省してるしね。\nきっと神様もすぐに許してくれるよ。",
+    "translation": "And we've already regretted our actions.\nI'm sure the god will forgive us soon."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（神様のせいなんてことはないはず。\n　何か原因が……）",
+    "translation": "(It can't be a punishment or anything.\n There must be a reason...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（待てよ？\n　そう言えばさっき……！\n　確か、この辺りだったはずだ！）",
+    "translation": "(Wait a minute.\n Just before, I stepped on something...!\n It should be around here somewhere!)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君？\nなにしてるの？",
+    "translation": "Fu-kun?\nWhat are you doing?"
+  },
+  {
+    "character": "一花",
+    "japanese": "床に這いつくばっちゃって、何か落とした？",
+    "translation": "Crawling around on the floor,\nare you looking for something?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あった！\nここの床板が、少しだけ踏み込めるようになってる。",
+    "translation": "...Here it is!\nWhen you step on here, the floorboard sinks a little."
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、本当だ。\n床板が下がるんだね。",
+    "translation": "Oh, it's true. The floorboard sinks here."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さっき戸が閉まる前に、何かを踏んだ気がしたんだ。",
+    "translation": "I felt like I stepped on something\nbefore the door closed."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "誰かがここを踏むと、\n自動で戸が閉まる仕掛けになってたんだな。",
+    "translation": "If someone steps here,\nthe door will automatically close.\nThat's how it works."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんで……そんな仕掛けが……。",
+    "translation": "Why...would there be such a mechanism...?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あ～、なるほどね。\n宝物目当てに忍び込んじゃう\nいたずらっ子へのトラップってわけだ。",
+    "translation": "Ah, I get it.\nIt's a trap for pranksters who sneak in\nlooking for treasure."
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは、見事に捕まっちゃった。",
+    "translation": "Ahaha, we fell into their trap perfectly."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ふん、真面目に生きてるこの俺を\nいたずらっ子認定するとは心外だな。\nそういうのは一花の役目だろ？",
+    "translation": "Hmph, it's outrageous to label me,\nwho lives honestly, as a prankster.\nIsn't that one of your roles, Ichika?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ええ～？\n私も結構、真面目に生きてるつもりなんだけどなぁ。\nねえ、二乃？",
+    "translation": "Huhhh?\nI also consider myself as living honestly.\nWhat do you think, Nino?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "い～や！　俺のほうが真面目だろ。\n二乃ならわかってるよな？",
+    "translation": "Whaaat?!\nI'm the one who lives honestly!\nNino, you understand that, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "もう……。\n２人とも、どっちもどっちじゃない？",
+    "translation": "Come on...\nboth of you are the same, aren't you?"
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、この勝負は引き分けってことで。",
+    "translation": "Then, let's call this a tie."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なにぃ？\n汚部屋に住んでる一花と同じ扱いを\nされるのは納得いかんなぁ。",
+    "translation": "What?!\nI can't accept being treated the same way\nas someone who lives in a dirty room."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ああ、それもそうね。\nやっぱりフー君の勝ちかしら？",
+    "translation": "Oh, that's right.\nSo Fu-kun wins, after all?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ええ？　あれくらいは普通でしょ？",
+    "translation": "Huh? Isn't that normal?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "普通じゃないから。\n普通じゃないぞ。",
+    "translation": "That's not normal.\nIt's not normal."
+  },
+  {
+    "character": "一花",
+    "japanese": "もう、ハモって言わなくてもいいじゃん。",
+    "translation": "Come on, you don't have to harmonize like that."
+  },
+  {
+    "character": "四葉",
+    "japanese": "一花！　二乃！　上杉さん！\nここにいますか！？",
+    "translation": "Ichika! Nino! Uesugi-san!\nAre you there?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉か！\nああ、ここだ！　扉を開けられるか！？",
+    "translation": "Is that you, Yotsuba?!\nYeah, we're here! Can you open the door?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "任せてください！\nいきますよー……そーれっとぉ！",
+    "translation": "Leave it to me!\nHere we go... And THERE!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "お待たせしました！\n３人とも大丈夫ですか！？",
+    "translation": "Thank you for waiting!\nAre you three okay?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、大丈夫だ。\n来てくれて助かったぞ、四葉。\nしかし早かったな。",
+    "translation": "Yeah, we're okay.\nThanks for coming to help, Yotsuba.\nThat was so fast."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんたちがピンチと聞いて、\n全力で走ってきましたから。",
+    "translation": "I ran as fast as we could\nwhen I heard you three were in trouble."
+  },
+  {
+    "character": "五月",
+    "japanese": "はぁ、はぁ……！\n一花！　二乃！\nう、上杉君も、け、怪我は、ありませんか！？",
+    "translation": "*gasp* *gasp*\nIchika! Nino!\nU-Uesugi-kun, a-are you, okay?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、平気。\nごめんね、心配かけちゃって。",
+    "translation": "Yeah, we're fine.\nSorry for worrying you."
+  },
+  {
+    "character": "三玖",
+    "japanese": "はぁ、はぁ……はぁ……。\nみんな、無事だった？",
+    "translation": "*gasp* *gasp* *gasp*\nEveryone, are you okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖、四葉たちを呼んできてくれて、ありがとな。\n助かった。",
+    "translation": "Miku, thank you for calling them.\nYou were a big help."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……うん。",
+    "translation": "...Yeah."
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃんたち、無事でよかったぁ……。",
+    "translation": "Everyone, I'm glad you're okay..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "勝手に扉が閉まったと三玖から聞きましたが、\nどういうことなんですか？\nまさかオバケが……！",
+    "translation": "I heard from Miku that the door closed on its own.\nWhat's going on?\nIt could've been a ghost...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "違うぞ。\nなんでもオバケのせいにするんじゃない。",
+    "translation": "It isn't.\nDon't blame everything on ghosts."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いいか？\nこの引き戸、普通よりかなり重い上に、\n少し傾斜をつけて取り付けてあったんだ。",
+    "translation": "Are you listening? \nThis sliding door is heavier than usual\nand is also installed with a slight slope."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しかも、ご丁寧に車輪まで付いている。\nつまり開けたら勝手に閉まるようになってんだよ。",
+    "translation": "Also, it even has wheels attached.\nThat means, when you open it, it'll automatically close."
+  },
+  {
+    "character": "四葉",
+    "japanese": "おお！　そう言えばそうですね。\nでも、今は開きっぱなしになってますよ？",
+    "translation": "Oh! That makes sense.\nBut, it's open right now. Why?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほら、ここに留め金が出てるだろ？\n一定以上開けると、これがストッパーになるんだ。",
+    "translation": "See, there's a latch here.\nWhen the door is opened beyond a certain limit,\nit acts as a stopper."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "開けられた戸板をここで固定して、\n部屋の中で誰かが踏み板を踏むと、留め金が外れて\n自動的に閉まっちまう仕掛けだろうな。",
+    "translation": "It's a mechanism that fixes the open door panel here,\nand when someone steps on the floorboard in the room,\nthe latch comes off and the door automatically closes."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "外から閉めるときは、この留め金を押し込めば……。",
+    "translation": "When you close it from the outside,\nyou just need to push in this latch..."
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ？　勝手に閉まりましたよ！？",
+    "translation": "Huh? It closed on its own?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、説明しただろ？\nそういう仕掛けなんだよ。",
+    "translation": "I just explained that, didn't I?\nThat's how the mechanism works."
+  },
+  {
+    "character": "一花",
+    "japanese": "なるほどね。\nこうして聞いてみれば、結構、単純な仕掛けなんだ。",
+    "translation": "I see.\nNow that you mention it, it's a pretty simple device."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、今言われてもねぇ？\n引っかかる前に仕掛けを見抜いてくれたら\nすっごくカッコよかったのに。",
+    "translation": "But it's too late, right?\nIt would have been so cool if you had\nnoticed the mechanism before we got trapped."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "無理言うな！\nこんな仕掛けがあるなんて想像できるか！",
+    "translation": "Don't ask for the impossible!\nWho could have imagined such a thing?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "他にも仕掛けがあったりしそう。",
+    "translation": "There might be other tricks or traps as well."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、ここは思った以上に危険そうだ。\n調べるのは諦めよう。",
+    "translation": "Yeah, this place seems more dangerous than I thought.\nLet's give up searching."
+  },
+  {
+    "character": "一花",
+    "japanese": "う～ん、残念。\nここには手掛かりがありそうな気がしたのに。",
+    "translation": "Awww, too bad.\nI really thought there might be some clues here."
+  },
+  {
+    "character": "二乃",
+    "japanese": "手掛かりなら、もう手に入ってるわよ？",
+    "translation": "We already have a clue, actually."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？　どういうことだ？",
+    "translation": "Huh? What do you mean?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ほら、これ。",
+    "translation": "Here."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……本！？",
+    "translation": "...A book?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "出てくるときに見つけたの。\n私は転んでもタダでは起きないのよ。",
+    "translation": "When we were coming out of there, I found it.\nI make the best of everything, even when I'm in trouble."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "めざといな、お前。\nあの状況でよく見つけたもんだ。",
+    "translation": "You're so astute.\nTo find this in those conditions."
+  },
+  {
+    "character": "二乃",
+    "japanese": "めざといってなによ。\nもうちょっと他の言い方ないわけ？",
+    "translation": "What do you mean, astute?\nIsn't there a better way to put it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんでだ？\nめざといって言葉に悪い意味はないし、\n俺は褒めたつもりだったんだが。",
+    "translation": "Why?\nI didn't say it in a negative way.\nI meant it as a compliment."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……でも、なんかいい気分じゃないんですけど。\n他の言葉で褒めて。",
+    "translation": "But, I don't really feel good about it.\nPraise me using different words."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（めんどくせぇな……）",
+    "translation": "(What a bother...)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……フー君、顔に出てるから。",
+    "translation": "...Fu-kun, I can see that written on your face."
+  },
+  {
+    "character": "一花",
+    "japanese": "まあまあ、言葉って\n人によって受け取り方が変わるからさ。",
+    "translation": "Well, well, words can be interpreted differently\nby different people."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ……わかりやすく行くか。\nとっさによくやった！",
+    "translation": "Alright... Let me put it in simpler terms.\nGood job for reacting on the spot!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……ありがと。",
+    "translation": "...Thank you."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、さっそく別荘に戻って中を確認しようか。\nよろしくねー、フータロー君。",
+    "translation": "Shall we go back to the villa and check the contents?\nYou're up, Futaro-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、当然のような顔で言うな。\nせめてもうちょっと労いを込めろ……。",
+    "translation": "Hey, don't just say it like it's a given.\nAt least show a little gratitude..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お手柄じゃないか。\nあの暗がりで、よく見つけられたな。",
+    "translation": "What an achievement.\nWell done finding this in that dark."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふん。\n私にかかれば、これくらい当然よ。",
+    "translation": "Hehe.\nIt's nothing for me to do something like this."
+  },
+  {
+    "character": "一花",
+    "japanese": "うんうん。\n直前までシクシク泣いてたとは思えないよね。",
+    "translation": "Right, right.\nIt's hard to believe\nthat you were crying just a little while ago."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっと一花！？",
+    "translation": "What?! Ichika?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃、泣いてたの？",
+    "translation": "Nino, were you crying?"
+  },
+  {
+    "character": "五月",
+    "japanese": "気持ちは、よーく、わかります。\nこんなところに閉じ込められて、\nさぞ怖かったことでしょう。",
+    "translation": "I understand verrry well how you must have felt.\nBeing trapped in a place like this\nmust have been so scary."
+  },
+  {
+    "character": "四葉",
+    "japanese": "まだ泣きたいのなら……\nさあ、この胸に飛び込んでおいで！",
+    "translation": "If you still want to cry...\nCome on, jump into my arms!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "だから、泣いてないったら～！",
+    "translation": "I said, I wasn't cryiiing!"
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、さっそく別荘に戻って中を確認しようか。\nよろしくねー、フータロー君。",
+    "translation": "Shall we go back to the villa and check the contents?\nYou're up, Futaro-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、当然のような顔で言うな。\nせめてもうちょっと労いを込めろ……。",
+    "translation": "Hey, don't just say it like it's a given.\nAt least show a little gratitude..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さすがは二乃だな！\nあの状況でとっさに見つけるとは、恐れ入ったぜ。",
+    "translation": "Well done, Nino!\nTo find it in that situation, I'm impressed."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふーん。\nもっと褒めてくれてもいいのよ？",
+    "translation": "Hehe.\nYou can praise me even more."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もっと？",
+    "translation": "Even more?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "たとえば、そうね……\nあ、頭をなでてくれる……とか？",
+    "translation": "For example, um...\nAh, like patting my head...or something like that?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "頭か。\nまあ、そうだな、お前がしてほしいなら……。",
+    "translation": "Your head, eh.\nWell, I see, if you want me to do that..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……こうか？",
+    "translation": "...Like this?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふっ……。\nうん、すっごく褒められた感じ。",
+    "translation": "Hehe...\nYes, I feel like I've been praised so much."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえ、これから家庭教師のときも\n難しい問題が解けたらこうしてくれない？\nもっと頑張れちゃいそう。",
+    "translation": "Hey, if I can solve difficult problems\nduring my studies, can you do this again?\nI feel like I can work even harder."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ダメ。",
+    "translation": "NO."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょ、三玖！",
+    "translation": "Hey, Miku!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "いちいちそんなことしてたら\n勉強する時間がなくなっちゃうから。\nね、フータロー。",
+    "translation": "If he keeps doing that,\nyou won't have enough time to study.\nRight, Futaro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だな、毎回はなしだ。",
+    "translation": "Yeah, not every time."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はいはい、わかったわよ。",
+    "translation": "Fine, fine, got it."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、さっそく別荘に戻って中を確認しようか。\nよろしくねー、フータロー君。",
+    "translation": "Shall we go back to the villa and check the contents?\nYou're up, Futaro-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、当然のような顔で言うな。\nせめてもうちょっと労いを込めろ……。",
+    "translation": "Hey, don't just say it like it's a given.\nAt least show a little gratitude..."
+  }
+]

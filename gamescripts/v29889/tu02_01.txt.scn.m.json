@@ -1,0 +1,167 @@
+[
+  {
+    "character": null,
+    "japanese": "育成シーンのチュートリアルを見ますか？",
+    "translation": "Do you want to watch the scheduling scenes tutorial?"
+  },
+  {
+    "character": "中野父",
+    "japanese": "私から、育成シーンのシステムについて説明しよう。",
+    "translation": "I will now explain how scheduling scenes work."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……は？　え？\nい、いきなりなんですか？\n育成シーン？　何のことですか！？",
+    "translation": "...What? Um?\nWh-what is this, all of a sudden?\nScheduling scenes? What do you mean?!"
+  },
+  {
+    "character": "中野父",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "し、失礼しました！\nどうぞ、説明をお願いします！！",
+    "translation": "E-excuse me!\nPlease, explain, sir!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（親父に続いて、何が何だかわからんが\n　大人しく聞いておこう……）",
+    "translation": "(After my own dad's explanation,\n I still don't get what's going on at all,\n so I'll just shut up and listen...)"
+  },
+  {
+    "character": "中野父",
+    "japanese": "ゲームは、朝、昼、夕と３つの区切りで進行する。",
+    "translation": "The game is divided into three time slots:\nMorning, Afternoon, and Evening."
+  },
+  {
+    "character": "中野父",
+    "japanese": "特に出来事がなければ、それぞれの時間帯で\n育成シーンと料理シーンが発生することになる。",
+    "translation": "If there is no particular event, a Study Scene\nand a Cooking Scene will occur in each slot."
+  },
+  {
+    "character": "中野父",
+    "japanese": "育成シーンでは、娘たちのスケジュールと、\n君が誰をサポートするのかを決めることができる。",
+    "translation": "In the Study Scenes, you can determine my daughters'\nschedules as well as who you support."
+  },
+  {
+    "character": "中野父",
+    "japanese": "娘たちのパラメータを確認し、\n適切なスケジュールを組み、\nそれぞれの能力をアップさせてほしい。",
+    "translation": "I'd like you to check my daughters' parameters,\nmake an appropriate schedule,\nand improve their abilities."
+  },
+  {
+    "character": "中野父",
+    "japanese": "注意すべきパラメータは、「機嫌」と「ＨＰ」だ。",
+    "translation": "The parameters you should be extra aware of are 'Mood'\nand 'HP.'"
+  },
+  {
+    "character": "中野父",
+    "japanese": "「ＨＰ」は、体力を表しているのだと\n思ってくれたまえ。",
+    "translation": "Think of 'HP' as displaying one's physical stamina."
+  },
+  {
+    "character": "中野父",
+    "japanese": "この２つのパラメータのいずれかが低い場合、\n一定確率で倒れてしまう。",
+    "translation": "If either of these two parameters are low,\nthere is a certain probability that the person\nin question will collapse."
+  },
+  {
+    "character": "中野父",
+    "japanese": "倒れてしまうと、\nスケジュールを１回分、こなせない。\n加えて、学力が大幅に落ちてしまう。",
+    "translation": "If they do,\ntheir one scheduled slot will not be completed.\nAlso, their academic ability will greatly decrease."
+  },
+  {
+    "character": "中野父",
+    "japanese": "そうなれば、君が計画しているテストで\n結果を出せないことになるだろう。",
+    "translation": "And if that happens, they won't be able to perform well\non the test you plan for them, will they?"
+  },
+  {
+    "character": "中野父",
+    "japanese": "この点は気を付けてほしい。",
+    "translation": "I'd like you to exercise caution here."
+  },
+  {
+    "character": "中野父",
+    "japanese": "もっとも、リーダーを申し出ておいて\n体調管理に気を遣えないなど、論外とも言えるがね。",
+    "translation": "Of course, it is out of the question\nfor you to offer yourself as a leader and fail\nto take care of everyone's physical conditions."
+  },
+  {
+    "character": null,
+    "japanese": "（勉強、食料調達では、\n　２人以上同じ教科、同じ場所を\n　設定することはできません）",
+    "translation": "(When planning schedules,\n two or more quintuplets can not study the same subject,\n or gather food in the same place.)"
+  },
+  {
+    "character": null,
+    "japanese": "（充分、注意しましょう）",
+    "translation": "(Please be careful.)"
+  },
+  {
+    "character": "中野父",
+    "japanese": "次に、料理シーンだ。",
+    "translation": "Next, for the Cooking Scenes."
+  },
+  {
+    "character": "中野父",
+    "japanese": "ここでは、誰が料理を作るのか、\nそして、どの料理を作るのか選択してほしい。",
+    "translation": "Here, I would like you to choose who will cook,\nas well as what you would like them to make."
+  },
+  {
+    "character": "中野父",
+    "japanese": "当然、材料がなければ料理は作れない。\n料理が作れなければ、機嫌とＨＰが\n大幅に下がってしまう。",
+    "translation": "Naturally, if you don't have the ingredients,\nyou can't cook. Not cooking will make their\nMood and HP greatly decrease."
+  },
+  {
+    "character": null,
+    "japanese": "（１日に同じキャラクターを複数回\n　料理当番に指定することはできません）",
+    "translation": "(You can't designate the same character\n for cooking duty more than once per day.)"
+  },
+  {
+    "character": null,
+    "japanese": "（こちらも充分、注意しましょう）",
+    "translation": "(That is another point you should pay\n close attention to.)"
+  },
+  {
+    "character": "中野父",
+    "japanese": "育成シーンの説明は以上。",
+    "translation": "This concludes the training of the \nscheduling scenes explanation."
+  },
+  {
+    "character": "中野父",
+    "japanese": "勉強、料理、食材収集。",
+    "translation": "Studying, Cooking, Food Gathering."
+  },
+  {
+    "character": "中野父",
+    "japanese": "この３つをバランスよく管理することで、\n娘たちの成績が伸びていくはずだ。",
+    "translation": "By managing the balance of these three activities,\nmy daughters' grades should definitely improve."
+  },
+  {
+    "character": "中野父",
+    "japanese": "では、上杉君。",
+    "translation": "Okay then, Uesugi-kun."
+  },
+  {
+    "character": "中野父",
+    "japanese": "娘たちが無事に戻って来てくれると、\n私は信じているよ。",
+    "translation": "I trust that my daughters will\nreturn home safely."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は、はいっ！",
+    "translation": "Y-yes!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん？　急にどうしたの？",
+    "translation": "Big bro? What's the matter, all of a sudden?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、ああ、なんでもない……。",
+    "translation": "O-oh, it's nothing..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（親密度？　エンディング？　育成シーン？\n　なんだ、わけがわからん！\n　今の夢はなんだったんだ！？）",
+    "translation": "(Intimacy? Endings? Study Scenes?\n What the%p-2;――%p; I don't get it!\n What was that dream just now?!)"
+  }
+]

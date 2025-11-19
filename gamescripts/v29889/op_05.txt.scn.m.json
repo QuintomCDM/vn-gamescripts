@@ -1,0 +1,682 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "おお～！\n見てください、いい天気ですよ！\n昨日の嵐が嘘みたいです！",
+    "translation": "Oohh!\nLook, the weather is great!\nIt's like yesterday's storm never happened!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ホントだ！　空が綺麗！",
+    "translation": "It's true! The sky's so pretty!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあ……。\nどうなることかと思ったけど、\nあっさり通りすぎてくれてよかったわ。",
+    "translation": "*sigh*\nI was worried about what might happen,\nbut thankfully it passed by so quickly."
+  },
+  {
+    "character": "一花",
+    "japanese": "昨日は一日中、勉強になっちゃったけどね。",
+    "translation": "Even though, we studied all day yesterday."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも時間はまだある。",
+    "translation": "We still have some time left."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうよ！\n迎えの船は午後に来るんだから\n少しくらいは遊べるはずだわ。",
+    "translation": "That's right!\nThe return boat will come in the afternoon,\nso we should be able to play a little."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ海に行こう！\nやっぱり夏なんだし泳いでおかないと。",
+    "translation": "So, let's go to the beach!\nSince it's summer, we've got to\ngo swimming at least once, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや待て、昨日あれだけ荒れてたんだぞ？\nまだ波が高いだろうし危険だ。",
+    "translation": "Hold on, the storm yesterday was really bad, remember?\nThe waves are probably still high. It's dangerous."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あ……。\nそっか、そうね海はダメね。",
+    "translation": "Ah...\nI see, you're right. \nThe ocean's off-limits then."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃ、じゃあ他に何か！\nええと、ええと……うーん……うーん！",
+    "translation": "Th-then, something else!\nLet's see, let's see... Ummm...ummm!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんなに必死に考えなくてもいいだろ。",
+    "translation": "You don't have to think that hard."
+  },
+  {
+    "character": "四葉",
+    "japanese": "でも……。",
+    "translation": "But..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "安心しろ、さすがに今日も勉強と言うつもりはない。\n昨日はお前たちも真面目に頑張ってたしな。",
+    "translation": "Take it easy, I don't plan on making you study\ntoday too. You all did your best yesterday."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……これじゃ、来た意味がない。",
+    "translation": "...In that case, there was no point in coming here."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローにお礼をしたかったのに、\nむしろ、ますますお世話になっちゃった。",
+    "translation": "We wanted to thank you with this trip,\nFutaro, but you ended up just taking\ncare of us even more."
+  },
+  {
+    "character": "五月",
+    "japanese": "らいはちゃんにまで、\nおやつを作ってもらってしまいました。",
+    "translation": "Even Raiha-chan made snacks for us."
+  },
+  {
+    "character": "らいは",
+    "japanese": "えっ？\nだって、頑張ってたから応援したくて。",
+    "translation": "Huh?\nBut you were all working so hard. \nI wanted to cheer you on."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいはもこう言ってるし気にするな。",
+    "translation": "Even Raiha is telling you not to worry.\nSo please, don't worry about it."
+  },
+  {
+    "character": "一花",
+    "japanese": "いや気にしちゃうよ。\n今回は仕方ないとしても、\nまた別の形でお礼をさせてほしいな。",
+    "translation": "Well, I do worry about it.\nEven if you say we can't do anything about it.\nWe'd like to express our gratitude in another way."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん？",
+    "translation": "Uesugi-san?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "い、いや、わかった。\nまたの機会だな。",
+    "translation": "I-it's nothing, okay, I understand.\nAt the next opportunity, then."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（本当は、気持ちだけでも充分なんだが……）",
+    "translation": "(Even though just the sentiment is enough...)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん。\n今思ってること、ちゃんと言ってみたら？",
+    "translation": "Big bro.\nWhat if you said what you're thinking now?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいはっ！？",
+    "translation": "Raiha?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "なんですなんです？\n気になりますよ？",
+    "translation": "What, what, what?\nI'm so curious!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そんなことより！\nおそらく島の周りの海も波が高いはずだ、\n迎えの船が来られるのか不安があるな。",
+    "translation": "M-more importantly! The ocean around the island \nprobably has some strong waves, so I'm worried\nabout if the return boat will be able to make it here."
+  },
+  {
+    "character": "五月",
+    "japanese": "言われてみれば……。",
+    "translation": "Now that you mention it..."
+  },
+  {
+    "character": "一花",
+    "japanese": "大丈夫かな？\nちょっと連絡来てないか確かめてくるね。",
+    "translation": "I wonder if things will be okay?\nI'll check if we've gotten any messages."
+  },
+  {
+    "character": "四葉",
+    "japanese": "一花、お帰り。\nどうだった？",
+    "translation": "Ichika, welcome back.\nHow'd it go?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ええっとね、それが……。",
+    "translation": "Umm, about that..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やっぱり遅れるのか。",
+    "translation": "So the boat's going to be late."
+  },
+  {
+    "character": "一花",
+    "japanese": "遅れることには間違いないかな。\nやっぱり今回の嵐の影響で\n船を出すのが難しいんだって。",
+    "translation": "Yep, definitely.\nAs expected, it's tough to send a boat out\nbecause of the storm."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だろうな。\n２、３日は様子見ってところか。",
+    "translation": "I see.\nI guess it'll be another two to three days."
+  },
+  {
+    "character": "五月",
+    "japanese": "そんなにですか！？",
+    "translation": "TWO OR THREE DAYS?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ということは。",
+    "translation": "Which means..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君ともう少し一緒にいられる？",
+    "translation": "We can stay here longer with you, Fu-kun?"
+  },
+  {
+    "character": "一花",
+    "japanese": "それがね、２、３日じゃすまないみたい。\n天気はいいんだけど、島の周りの海が大荒れで\n船をいつ出せるかわからないんだって。",
+    "translation": "Well, it'll probably be a bit longer than two or three days.\nThe weather's nice, but the ocean around the island's\nso choppy, they don't know when a boat can come out."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "え？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "一花",
+    "japanese": "少なくとも２週間くらいは難しいって……。",
+    "translation": "They said it'll be at least two weeks..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なっ……。",
+    "translation": "Wha...?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええええええ～っ！？",
+    "translation": "HUUUUUUUHH?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "に、に、２週間！？\n２週間もかかるの？　嘘でしょ！？",
+    "translation": "T-T-TWO WEEKS?!\nIt's gonna take two weeks? You're KIDDING?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "つまり私たちは、この島に\n閉じ込められてしまったわけですか！？",
+    "translation": "So you're saying, we're stuck on this island?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そんな……２週間もここで……。",
+    "translation": "That can't be... Two weeks here..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "少なくともってことは、それ以上もあり得る。",
+    "translation": "At least two, meaning it could be even longer."
+  },
+  {
+    "character": "二乃",
+    "japanese": "無理！　無理だわ！\n私たちだけでどうやって生きてくのよ！",
+    "translation": "Impossible! That's IMPOSSIBLE!\nHow can we live here by ourselves?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "そうです！\n食べ物も飲み物もないのですよ！？",
+    "translation": "That's right!\nWe don't have any food or water!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "落ち着け、叫んでも無駄だ。",
+    "translation": "Calm down, screaming won't help."
+  },
+  {
+    "character": "五月",
+    "japanese": "落ち着けません！\n命に関わる問題なのですよ！？",
+    "translation": "I can't calm down!\nThis is a life-threatening situation, you know?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "まさかバカンスがサバイバルになってしまうなんて\n想像もしていませんでした！",
+    "translation": "I didn't imagine that our vacation\nwould turn into SURVIVING HERE, of all things!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（当然だが、みんな予想外の事態に混乱してる。\n　俺だってそうだ）",
+    "translation": "(Naturally, everyone is confused by this unexpected\n turn of events. Even me.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんてこった！\nど、どど、どうすれば！？",
+    "translation": "Oh NO!\nWh-wh-wh-what do we DO?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "もう、フータロー君まで取り乱して。\n気持ちはわかるけどさ、ここは男の子に\n頑張ってほしいかな。",
+    "translation": "My, even Futaro-kun has lost his cool.\nI understand how he feels, but I'd like\nfor the only man here to try harder."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん……。",
+    "translation": "Yes..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。\nすまん、そうだな。\n頭を抱えてる場合じゃない。",
+    "translation": "......\nYou're right, sorry.\nI shouldn't be freaking out."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（当然だが、みんな予想外の事態に混乱してる。\n　俺だってそうだ）",
+    "translation": "(Naturally, everyone is confused by this unexpected\n turn of events. Even me.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいはを巻き込んじまった……。",
+    "translation": "I can't believe I got Raiha into this..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "よかれと思ったんだけど、\nまさかこんなことになるなんて。",
+    "translation": "I thought everything was okay,\nbut I never thought something like this would happen."
+  },
+  {
+    "character": "四葉",
+    "japanese": "すみません！\n私が誘ってしまったばかりに！",
+    "translation": "I'm sorry!\nI was the one that invited you!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ううん、そんな！\n誘ってもらえてすごく嬉しかったよ？",
+    "translation": "Don't worry about it!\nI'm so glad that you invited me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（当然だが、みんな予想外の事態に混乱してる。\n　俺だってそうだ）",
+    "translation": "(Naturally, everyone is confused by this unexpected\n turn of events. Even me.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（だが、混乱のまま右往左往していたら\n　迎えが来るまで生き残れない）",
+    "translation": "(Yet, if we keep going in circles with this confusion,\n we won't be able to survive until we get picked up.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（落ち着け、冷静になるんだ。\n　こんなところでこいつらやらいはを\n　失わせるなどあってはならない！）",
+    "translation": "(Calm down. Don't lose your head.\n I can't lose the girls or Raiha\n in a place like this!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "みんな、聞いてくれ。",
+    "translation": "Everyone, listen."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君？",
+    "translation": "Futaro-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "状況を整理しよう。\nまず迎えの船は、少なくとも２週間はこない。\nそのあいだ、俺たちだけで生き抜く必要がある。",
+    "translation": "Let's sort things out. First, the return boat\nwon't come for at least two weeks. In the meantime,\nwe'll need to survive here by ourselves."
+  },
+  {
+    "character": "五月",
+    "japanese": "それはわかってます。\nでも、どうやって……。",
+    "translation": "I understand.\nBut, how can we...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "簡単なことじゃない。\nそれでも全員で協力し、\nなんとか成し遂げなくてはならない。",
+    "translation": "It won't be easy.\nHowever, if everyone works together,\nwe can get it done."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だから、ここは俺に任せてくれないか？",
+    "translation": "So, would you leave things to me?"
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ？　上杉君にですか？",
+    "translation": "Huh? To you, Uesugi-kun?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "もしかして、こういう経験あるの？",
+    "translation": "Have you done something like this before?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "無論ない。",
+    "translation": "Of course not."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ないんだ。",
+    "translation": "You haven't?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ないが、この困難に対し\n誰かがリーダーになり団結する必要がある。\n俺がもっとも適任だろう。",
+    "translation": "No, but for a problem this serious,\nsomeone needs to be a leader to unite everyone.\nI believe I am the most suitable."
+  },
+  {
+    "character": "五月",
+    "japanese": "それは……。",
+    "translation": "Well..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "確かに、私はどうすればいいのかさっぱりですけど、\n上杉さんならなんとかしてくれそうです。",
+    "translation": "I have no idea what to do, that's for sure.\nBut Uesugi-san might be able to do something."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、必ずなんとかする。\nお前たちの命とらいはの命を預かるからにはな。",
+    "translation": "Yes, I definitely will.\nI'll make sure you girls' and Raiha's lives\nare all taken care of."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君……！",
+    "translation": "Fu-kun...!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私はフータローになら全部、預けるよ。",
+    "translation": "I'll entrust everything to you, Futaro."
+  },
+  {
+    "character": "二乃",
+    "japanese": "私もフー君に任せるわ！",
+    "translation": "I'll leave it to you too, Fu-kun!"
+  },
+  {
+    "character": "一花",
+    "japanese": "だね、むしろフータロー君しかいないよ。",
+    "translation": "That's right, more like,\nonly Futaro-kun can do it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "よろしくお願いします、上杉さん！",
+    "translation": "It's in your hands, Uesugi-san!"
+  },
+  {
+    "character": "五月",
+    "japanese": "私も上杉君に協力します。",
+    "translation": "I will also cooperate with you, Uesugi-kun."
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、責任重大だね。",
+    "translation": "Big bro, what a strong sense of responsibility you have."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ。\nだが、やり遂げてみせる。",
+    "translation": "Yeah.\nHowever, this time I'm gonna follow through."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さっそくだが、まずは食料と飲み水だ。\nどれだけ備蓄があるのか確認するぞ！",
+    "translation": "Right off the bat, our first priority should be food and water.\nWe need to check how much is stored!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、倉庫にあった食べ物のリストできたわ。",
+    "translation": "Fu-kun, I made a list of food that's in storage."
+  },
+  {
+    "character": "五月",
+    "japanese": "備蓄はあまりありません。\nそもそも滞在予定が３日でしたから。",
+    "translation": "There's not much stock right now because,\nwe were only originally scheduled to stay here\nfor three days."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、逆にこれだけあるのが驚きだ。\n多めに用意されてて助かったな。",
+    "translation": "On the contrary,\nI'm surprised there's this much here.\nIt's a huge help that there's already so much prepared."
+  },
+  {
+    "character": "らいは",
+    "japanese": "飲み水はどうしよう？\n温泉のお湯？",
+    "translation": "What should we do for water?\nWater from the hot springs?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、ここの温泉は酸性が強いので\n飲み水には向いていません。",
+    "translation": "No, the hot springs here are very acidic.\nThey won't do for drinking water."
+  },
+  {
+    "character": "四葉",
+    "japanese": "だったら、別荘の裏にある滝か\n川から汲んでくればいいよね。",
+    "translation": "In that case, we could get it from the waterfalls\nor the rivers behind the villa."
+  },
+  {
+    "character": "三玖",
+    "japanese": "となると、食べ物かな。",
+    "translation": "And then, there's the food situation."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、島中から食べられるものを集めよう。",
+    "translation": "Yes, let's gather things we can eat on the island."
+  },
+  {
+    "character": "一花",
+    "japanese": "あ！　そうそう、それなんだけどね？\nこの島って今は無人だけど、\n昔は人が住んでたんだって。",
+    "translation": "Ah! Yes, about that.\nThis island is uninhabited now,\nbut people used to live here."
+  },
+  {
+    "character": "一花",
+    "japanese": "その人たちが植えた野菜とかくだものが\nそのままになってるって聞いたことがある。",
+    "translation": "I've heard that the fruits and vegetables\nthat people used to grow are still around."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あと、港に魚がたくさんいましたよね？\n釣りをしたら簡単に釣れそうです。",
+    "translation": "Also, there should be are a lot of fish at the harbor, right?\nI bet we could catch some fish pretty easily."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なるほど。\nいけそうな気がしてきたな。",
+    "translation": "I see.\nI'm starting to feel we can do this."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ええ、こうして落ち着いて考えたら\n無理じゃなさそう。\nフー君に任せてよかったわ。",
+    "translation": "Yes, it doesn't seem impossible,\nthinking about it calmly like this.\nI'm glad we left it to you, Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その台詞は島から出られたらにしてくれ。",
+    "translation": "Save your praise for when we get off the island."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これで食料については一段落だな。\nもう１つ、俺から提案がある。",
+    "translation": "That checks off food but...\nI have one more suggestion."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なに？",
+    "translation": "What?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "迎えが来るまで勉強もするぞ。",
+    "translation": "We study until the boat comes."
+  },
+  {
+    "character": "二乃",
+    "japanese": "は？",
+    "translation": "Wha?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あの、上杉君？\nさすがに、それどころではないのでは？\n食料を集めなくてはならないのに。",
+    "translation": "Um, Uesugi-kun?\nI really don't think this is the time for studying.\nDon't we need to gather food?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その日に食べる分を集めるわけだし、\n全員そろって行く必要はないだろ？",
+    "translation": "We just need to gather food for that day, right?\nNot everyone has to go out."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そうかも。\nたくさん集めても食べきれなくてもったいない。",
+    "translation": "That might be true.\nIf we gather so much we can't eat it all,\nit'll be a waste."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だから食料集めは手分けするとして、\n残ったやつは勉強するんだ。",
+    "translation": "Therefore, we'll split food-gathering duties,\nand the rest of the group can study."
+  },
+  {
+    "character": "一花",
+    "japanese": "いや、なんでそこで勉強？",
+    "translation": "Oh no, why do we have to study?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ聞け。\nこういうときこそ、平常心を保つためにも\n普段通りの生活を心がけるべきだ。",
+    "translation": "Just listen.\nIn times like these, to maintain a sense of normalcy,\nwe should strive to live our daily lives as we do every day."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "普段通りに勉強をすることに意味がある。\nなによりも、継続しないと学力が下がる。\n夏休みが明けたら成績が急降下なんて笑えん！",
+    "translation": "It makes sense to study as usual. Above all, if you\ndon't continue to study, your academic ability will fall.\nIt'll be no joke if your grades plummet after summer break!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ですね、３年生に進級したときみたいに\n頭がリセットされたら困ります。",
+    "translation": "That's right, it would be a problem if my brain reset,\nlike when I became a third-year student."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……わかったわ。\nフー君なりに私たちのことを考えてくれるんだもの。",
+    "translation": "... I understand.\nFu-kun is thinking about us, in his own way."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そうだね。\n勉強もやろっか。",
+    "translation": "I see.\nI won't neglect my studies, then."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだ！\nやるにしても目標がないと張り合いがないよな。\nよし、迎えが来る前にテストをやろう。",
+    "translation": "Here's an idea! If we study with no goal in mind,\nit'll feel like a waste of time.\nOkay, I'll give you a test before the return boat comes."
+  },
+  {
+    "character": "二乃",
+    "japanese": "え？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "問題は任せろ。\n俺がお前たち１人１人に合わせて作ってやる。",
+    "translation": "Leave the test questions to me.\nI'll make your tests custom-made for each of you."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょ、ちょっと？　テスト？",
+    "translation": "W-wait? A TEST?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いいのではないでしょうか。\n平常心も学力も保てるのなら一石二鳥です。",
+    "translation": "Isn't that nice? If we can maintain both a stable mind\nAND our academic abilities, it's two birds, one stone."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私も上杉さんのやる気に応えてみせますよ！",
+    "translation": "I'll match your drive, Uesugi-san!"
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、テストまでやる必要あるかなぁ？",
+    "translation": "But do we really NEED to have a test?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ある！",
+    "translation": "Of course!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "言い切った。",
+    "translation": "You really said it, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ご不満なようだが、\nお前ら、さっき俺に任せると言ったぞ？\n確かにこの耳で聞いたぞ？",
+    "translation": "You complain, but you guys JUST said\nbefore that you'd leave it to me.\nIs that not what I heard with my own two ears?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うっ、それを言われちゃうとなんとも。",
+    "translation": "Ooh, you got us there."
+  },
+  {
+    "character": "二乃",
+    "japanese": "わかったわ。\nテストに向けて勉強もする。",
+    "translation": "I understand.\nI'll study for the test."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私もちゃんとやる。",
+    "translation": "I'll study as hard as I can, too."
+  },
+  {
+    "character": "一花",
+    "japanese": "頑張りまーす。",
+    "translation": "I'll do my beeest."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よーし、さっそく行動開始だ！\nこの島で見事に生き残ってみせるぞ！！",
+    "translation": "Alriiight, let's get moving then!\nWe are going to SURVIVE on this island!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "おーー！！",
+    "translation": "YEAAAH!!"
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君、テンションおかしくなってない？",
+    "translation": "Futaro-kun, aren't you a little too over-excited?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そういえばフー君ってこういうところあったわね。",
+    "translation": "Come to think of it, Fu-kun's just that kind of guy."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、頼りになることには変わりないよ。",
+    "translation": "But on the other hand, he's just as dependable as ever."
+  },
+  {
+    "character": "五月",
+    "japanese": "どうしてでしょうね、\n本当になんとかしてくれそうな気が\nしてしまうのは……。",
+    "translation": "I have a feeling that,\nFutaro will find a way to figure it out..."
+  }
+]

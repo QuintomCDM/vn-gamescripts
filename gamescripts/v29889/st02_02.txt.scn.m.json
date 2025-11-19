@@ -1,0 +1,512 @@
+[
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、どう？\n新しい水着似合ってる？",
+    "translation": "Big bro, how is it?\nDoes my new swimsuit look good on me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、似合ってるぞ！",
+    "translation": "Yeah, it looks great!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "はあ……。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（なんでため息！？）",
+    "translation": "(Why did she sigh?!)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、これ、いつもと同じ水着だよ？\nもうちょっと周りを見るようにしようよ。",
+    "translation": "Big bro, this is the swimsuit I always use.\nCouldn't you be a little more observant?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "間違っても、五月さんたちに\nそういう態度を取っちゃダメだからね！",
+    "translation": "Don't act that way toward\nItsuki-chan and the others, no matter what!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、それとこれとは……。",
+    "translation": "Well, the way I act around you and them..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、お待たせしましたー！",
+    "translation": "Uesugi-san, thank you for waiting!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "待たされた。\nただ着替えるのにどれだけ時間がかかってるんだ。",
+    "translation": "Yeah, I was waiting!\nHow long does it take to simply change clothes?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そういうことは思っても言わないのがマナーだよ。",
+    "translation": "One does not simply change clothes.\nIt's bad manners to say something like that,\neven if you think it's true."
+  },
+  {
+    "character": "五月",
+    "japanese": "マナーというのはさすがに大げさかと思いますが。",
+    "translation": "I think calling it bad manners\nis a bit of an exaggeration."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あれ？　二乃と三玖はどうした？",
+    "translation": "Huh? Where are Nino and Miku?"
+  },
+  {
+    "character": "一花",
+    "japanese": "だから、女の子には色々と準備が必要なの。\nそれとも２人の水着姿が楽しみで仕方ないのかな？",
+    "translation": "Like I said, girls have to prepare a few things.\nOr are you just that excited\nto see those two in their swimsuits?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別に、そんなつもりで言ったんじゃない。",
+    "translation": "That's not what I meant."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君！",
+    "translation": "Fu-kun!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "はぁはぁ……フータロー……！",
+    "translation": "Haah, haah... Futaro...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだお前たち、遅かったじゃ――うわ！？",
+    "translation": "COME ON, you guys are so late%p-2;――%p; UWOOAH?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "水着、見ると着るとじゃ印象違うでしょ？\nどう？　似合ってる？",
+    "translation": "The impact of a swimsuit is different when\nyou put it on, right?\nWhat do you think? Does it look good on me?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "は、走ってきたから水着がズレたかも。\nどこか変じゃない？　ちゃんと似合ってるかな？",
+    "translation": "I-I came running, so my swimsuit might have slipped.\nIs it weird anywhere?\nDoes it look good?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう……。\nまあ、似合ってると思うぞ？",
+    "translation": "Y-yeah...\nYeah, I'd say it suits you."
+  },
+  {
+    "character": "二乃",
+    "japanese": "どっちが！？",
+    "translation": "WHO ARE YOU TALKING TO?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ど、どっちも似合ってるから、\nもうちょっと離れてくれ。",
+    "translation": "Th-they both look good.\nI need you to give me a little more space please."
+  },
+  {
+    "character": "二乃",
+    "japanese": "もう、そんなに照れる必要なんてないのに。",
+    "translation": "You really don't need to be so embarrassed, come on."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ねえ、フータロー。\n日焼け止め塗ってくれる？\nこのままじゃ真っ赤になっちゃう。",
+    "translation": "Hey, Futaro. Can you put sunscreen on me?\nAt this rate, I'll turn beet-red."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あっ！　私も塗ってほしいわ！\nね、いいでしょ？",
+    "translation": "Ah! I want you to put some on me too!\nIt's okay, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんで俺が？\nお前らがお互いで塗ればいいだろ。",
+    "translation": "Why me?\nWhy don't you put it on each other?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "私はフー君に塗ってほしいの！",
+    "translation": "I want YOU to put it on me, Fu-kun!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私が先。\nね、フータロー？",
+    "translation": "Me first.\nRight, Futaro?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、あの、二乃も三玖も待ってください。\n上杉君が困ってますよ？",
+    "translation": "U-um, please wait, Nino and Miku.\nYou're giving Uesugi-kun a hard time, aren't you?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なに？\nまさかあんたも……。",
+    "translation": "What?\nCould it be, you...?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローに日焼け止めを……。",
+    "translation": "Also want Futaro to put sunscreen on you...?"
+  },
+  {
+    "character": "五月",
+    "japanese": "だ、断じて違います！\nそうではなくて……ええっと……。",
+    "translation": "O-of course!\nThat's not what I meant...ummm..."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうです！\nせっかく海に来たのですから\nみんなでビーチバレーをしましょう！",
+    "translation": "That's right!\nWe've come down to the beach,\nso let's all play beach volleyball!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな！　やろうぜ！\nビーチバレー、いいじゃないか！",
+    "translation": "Yeah! Let's do it!\nBeach volleyball sounds great!"
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、そうですよね？\nきっと楽しいですよね！",
+    "translation": "I-it does, doesn't it?\nIt'll be really fun!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんで急にビーチバレーなのよ？\n私は――",
+    "translation": "Why are we playing beach volleyball?\nI%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "いいじゃない。\nフータロー君もああ言ってることだし、やろうよ。",
+    "translation": "It's fine, isn't it?\nFutaro-kun was the one who agreed, so let's do it."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあ……。\nわかったわ、別に嫌じゃないしやりましょ。",
+    "translation": "*sigh*\nI understand, it's not like I don't hate volleyball\nor anything."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もう戻ろうぜ……。\n泳ぐ前から疲れちまったよ。",
+    "translation": "Let's head back...\nWe haven't even swam yet, and I'm tired."
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっ！？",
+    "translation": "Wha?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "いやいや、ここまで来ておいて\nそれはないんじゃない？",
+    "translation": "No, no, we can't do that,\nafter coming this far, right?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "せっかく水着に着替えたんだよ？\n私は遊びたいなー。",
+    "translation": "We changed into swimsuits, didn't we?\nI want to play."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そーですよー！\nまだ何もしてないじゃないですかー！",
+    "translation": "Yeah, that's right!\nWe haven't done anything yet!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……そ、そうだな。\nじゃあ五月一押しのビーチバレーでもやるか。",
+    "translation": "...Th-that's right.\nAlright, let's play some beach volleyball,\nlike Itsuki recommended!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ！　そうしましょう！",
+    "translation": "Yeah! Let's do it!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "バレー？　泳がないのか？",
+    "translation": "Volleyball? You don't want to swim?"
+  },
+  {
+    "character": "五月",
+    "japanese": "お、泳ぐのもいいですけど、\nここはみんなでですね……。",
+    "translation": "W-well, it's nice to swim,\nbut we're all here together..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "泳ぐ前に日焼け止めを塗っておきたいから\nお願いしていい？",
+    "translation": "I'd like to apply sunscreen before swimming,\nso could you do it for me?"
+  },
+  {
+    "character": "五月",
+    "japanese": "わ、私はビーチバレーをしたいんです！\nぜひ！　お願いします！",
+    "translation": "I-I want to play beach volleyball!\nPlease! Definitely!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "五月さん、どうしたの？\nなんか変だよ。",
+    "translation": "Itsuki-san, what's wrong?\nYou're acting a little strange."
+  },
+  {
+    "character": "五月",
+    "japanese": "へ、変じゃありませんよ？\n夏と言えばビーチバレーですから！",
+    "translation": "I-I'm not acting strange, okay?\nSummer is all about beach volleyball!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そうかな……？",
+    "translation": "I wonder...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ビーチバレーでも海水浴でも、\nどっちでもいいから早く決めてくれ……。",
+    "translation": "I don't care if it's beach volleyball or swimming,\njust hurry up and decide..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……あ！\nそうだわ、ただのビーチバレーじゃ\n面白くないし、どうせなら……。",
+    "translation": "...Ah!\nLike, just normal beach volleyball\nis a little boring, so to make it interesting..."
+  },
+  {
+    "character": "五月",
+    "japanese": "え？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君に日焼け止めを塗ってもらう権利を賭けて――\n勝負よ！！",
+    "translation": "Let's have it be a match, for the privilege%p-2;――\n%p;to have Fu-kun apply your sunscreen!!"
+  },
+  {
+    "character": "五月",
+    "japanese": "えええええ～！？",
+    "translation": "WHAAAA?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "その勝負、受けて立つ。",
+    "translation": "I'll accept the challenge."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、チーム分けは公平になるように、\nくじ引きで決めよっか？",
+    "translation": "So, why don't we draw straws\nto make sure the teams are divided fair and square?"
+  },
+  {
+    "character": "五月",
+    "japanese": "一花まで！？",
+    "translation": "Even you, Ichika?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だから、なんで俺が――",
+    "translation": "So, why do I%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、急いでくじを用意するね。\nちょっと待ってて！",
+    "translation": "Alright, I'll get some straws ready in a jiffy.\nJust hold on!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ま、待ってください四葉ぁ～！",
+    "translation": "P-please wait, Yotsuba!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おーい、誰か１人くらい\n俺の意見を聞いてくれてもいいんじゃないかー？",
+    "translation": "Hey, could just ONE person listen to what I think?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "私はらいはちゃんとペアね。",
+    "translation": "I'm pairing with Raiha-chan."
+  },
+  {
+    "character": "らいは",
+    "japanese": "よろしくお願いしまーす！",
+    "translation": "Here we go, Nino!"
+  },
+  {
+    "character": "一花",
+    "japanese": "私は五月ちゃんとか。",
+    "translation": "I'm with Itsuki-chan, then."
+  },
+  {
+    "character": "五月",
+    "japanese": "はい……。",
+    "translation": "Okay..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "三玖は残った私とペアだね。\n任せておいて、私が三玖の分まで頑張っちゃうから！",
+    "translation": "And that means I'm with you, Miku.\nLeave it to me, I'll do my best for both of us!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私も頑張る。",
+    "translation": "I'll try my best, too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（まったく聞いてない……聞こうともしてない……）",
+    "translation": "(They're not listening to me at all... \n They're not even trying to listen...)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃんは審判よろしくねー。",
+    "translation": "Big bro, you be ref, okay?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ホイッスルも持ってきましたよ。\nどうぞ使ってください。",
+    "translation": "I brought a whistle for you.\nPlease use it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へいへい、もう好きにしてくれ。",
+    "translation": "Yeah, yeah, do whatever."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はいはい、ナイスサーブ。\n試合終了ー。",
+    "translation": "Okay, nice serve!\nThe match is over."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それでお前が勝つのかよ。",
+    "translation": "You won, huh."
+  },
+  {
+    "character": "一花",
+    "japanese": "まさか私と五月ちゃんが勝っちゃうとはね。\nじゃ、ご褒美に日焼け止め塗ってもらおっかな？",
+    "translation": "I never thought that Itsuki-chan and I would win.\nSo, please put some sunscreen on us, Futaro-kun."
+  },
+  {
+    "character": "五月",
+    "japanese": "私は自分で塗りますので結構です！",
+    "translation": "I'll put it on myself, so I'll be fine!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その前に俺はやるなんて一言も言ってないぞ。",
+    "translation": "Also, I never said I would do that."
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは、まあそう来るよね。\n無理にやらせる気はないから安心してよ。",
+    "translation": "Ahaha, so that's how it goes.\nI'm not gonna force you to, so take it easy."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、優勝のご褒美なしは寂しいし、\nこの後の時間は私たちに付き合ってほしいな。\n五月ちゃんも、それでいいよね。",
+    "translation": "But, it's sad to go without a reward.\nI want you to hang out with us for the rest of the day.\nItsuki-chan, you're fine with that, too, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "はい……。",
+    "translation": "Okay..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "やったー！　優勝しちゃった！",
+    "translation": "Yay! We won!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まさか、らいはと二乃が勝つとは。\n頑張っていたとは思うが意外だな。",
+    "translation": "For Raiha and Nino to win.\nIt's unexpected, even though they did their best."
+  },
+  {
+    "character": "二乃",
+    "japanese": "私の作戦勝ちね。\nこっちの秘密兵器で、\n四葉と五月を骨抜きにしてやったのよ。",
+    "translation": "It was thanks to my strategy.\nWith this secret weapon,\nI could weaken Yotsuba and Itsuki."
+  },
+  {
+    "character": "らいは",
+    "japanese": "は～い、秘密兵器でーす！",
+    "translation": "Yeaaah, I'm the secret weapon!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ナイスアピールだったわ。\nあの２人の目、バッチリ釘付けになっていたもの。",
+    "translation": "You were really something, Raiha-chan.\nTheir eyes were glued to you!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "くううっ！\n頑張ってるらいはちゃん、可愛すぎます！",
+    "translation": "Urkkk!\nRaiha-chan trying her best is so CUTE!"
+  },
+  {
+    "character": "五月",
+    "japanese": "卑怯ですよ、二乃！",
+    "translation": "How cowardly, Nino!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あー、そういうことか。\n　意外に策士だな）",
+    "translation": "(Ah, I see now.\n Nino's quite devious.)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "それでねフー君、優勝のご褒美だけど……。",
+    "translation": "Now, Fu-kun, about my reward for winning..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいは、大活躍だったんだな。\n疲れただろ、ちょっと休憩するか。",
+    "translation": "Raiha, you've been so active.\nYou're tired, right? Let's take a break."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょ、ちょっとフー君！？",
+    "translation": "W-wait, Fu-kun?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "はぁはぁ……はぁ……。\n勝ったよ、フータロー……！",
+    "translation": "Haah, haah...haah...\nWe won, Futaro...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前、大丈夫か？",
+    "translation": "Hey, are you okay?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "だ、だい、じょうぶ……。\nウソ……やっぱり、限界……かも。",
+    "translation": "I-I'm, okay...\nJust kidding... This might be...the end."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ほらほら上杉さん、\nもっと三玖のことを褒めてあげてください！",
+    "translation": "Look now, Uesugi-san,\nyou've got to praise Miku more!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（試合してたのはほとんど四葉だったが、\n　三玖も充分、頑張ってたもんな……）",
+    "translation": "(Yotsuba did most of the work,\n but Miku really tried her best, didn't she...)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー……日焼け止め……。",
+    "translation": "Futaro...sunscreen..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、わかったから。\n疲れてるのに無理してしゃべるな。\nとにかく涼しいところで休むぞ。",
+    "translation": "Okay, I heard you.\nDon't force yourself to talk. You're tired.\nNow, rest up somewhere cool."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん……ありがとう……。",
+    "translation": "Okay... Thanks..."
+  }
+]

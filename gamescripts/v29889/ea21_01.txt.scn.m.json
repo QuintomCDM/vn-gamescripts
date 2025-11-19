@@ -1,0 +1,27 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "これはホイル焼きか？",
+    "translation": "Is this foil-wrapped fish?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "んん？\nなんだか生臭いような……。",
+    "translation": "Hmm?\nThis smells a little fishy..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ホイルで包まれてたから\n匂いも残ってたりするんじゃないか？",
+    "translation": "It's wrapped in foil,\nso isn't the smell supposed to stay in there,\nor something?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、このホイル焼きは未完成ですね。\n全然火が通ってません。",
+    "translation": "No, this foil-wrapped fish isn't ready.\nThe heat hasn't gone all the way through."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うわ、マジだ。\nやり直しだな……。",
+    "translation": "Waaa, you're right.\nLet's try it again..."
+  }
+]

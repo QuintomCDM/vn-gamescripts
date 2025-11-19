@@ -1,0 +1,617 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "全員、ちゃんとついて来てるよな？\n今度ははぐれたりするんじゃないぞ。",
+    "translation": "Is everyone following properly?\nDon't get separated this time, okay?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ずいぶんと自信ありそうな足取りですが、\n何か根拠があるのですか？",
+    "translation": "You seem pretty confident,\nbut do you have anything to back that up?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "泉とか、水の湧いている場所は\n地形から推測できるんだよ。\nそれほど大きい島じゃないし、おそらく――",
+    "translation": "You can ascertain where springs or water sources\nare located from the surrounding terrain.\nThis island isn't that big, so most likely%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お？　どうやら正解だったか。",
+    "translation": "Oh? Looks like I had the right answer."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ！　泉だ！\nこんなところにあったんだぁ！",
+    "translation": "Ah! There's the spring!\nWe found it!"
+  },
+  {
+    "character": "五月",
+    "japanese": "本当にありましたね……。",
+    "translation": "It was really here..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "すごい、フータロー。",
+    "translation": "Amazing, Futaro."
+  },
+  {
+    "character": "二乃",
+    "japanese": "さすがねっ！\nこういうときは頼りになるわ。",
+    "translation": "As expected!\nYou can always rely on Fu-kun in times like this."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こういうときだけとか思ってるんだろ？",
+    "translation": "You're thinking ONLY during times like this, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そんなことないわよ！\nフー君はいつだって頼りになるもの。",
+    "translation": "That's not true!\nYou're always reliable."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へいへい。",
+    "translation": "Right, right."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それで？　水晶を探すんなら手早く頼むぞ。\nできれば日が暮れる前には別荘へ戻りたい。\nらいはを１人で留守番させちまってるしな。",
+    "translation": "So, if we're looking for the crystals, let's hurry\nand find them. Ideally, we should return to the villa\nbefore the sun sets. Raiha is alone at home."
+  },
+  {
+    "character": "二乃",
+    "japanese": "三玖、一緒に探しましょ。\nあと一花も来るのよ。",
+    "translation": "Miku, let's search together.\nIchika, you come too."
+  },
+  {
+    "character": "一花",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "探しているうちに\n三玖が森に迷い込んだりしないように、\nあんたが見張ってなさい。",
+    "translation": "So that Miku won't get lost in the forest\nwhile searching, you should keep an eye on her."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……私じゃなくて二乃を見張って。\n一花、お願いしていい？",
+    "translation": "...Not me, keep an eye on Nino instead.\nCan I ask you to do it, Ichika?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ふふっ！\nうん、わかった。\nちゃんと２人とも見張っててあげるよ。",
+    "translation": "Heheh!\nOkay, got it.\nI'll keep an eye on both of you."
+  },
+  {
+    "character": "四葉",
+    "japanese": "よーし！\nじゃあ、私も探そっと！",
+    "translation": "Alrighty!\nI'll start looking too!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（走って探しに行くもんじゃないだろ。\n　まずは足下を見回してみればいいだろうに……）",
+    "translation": "(Don't just run off to search.\n First, look around your feet first...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ん？　なんか光ったか？）",
+    "translation": "(Hm? What was that light?)"
+  },
+  {
+    "character": "五月",
+    "japanese": "あの、上杉君もどうでしょう？\nせっかくここまで来たんです、\n私たちもみんなと一緒に水晶を……。",
+    "translation": "Hey, Uesugi-kun, how about searching with us?\nSince we're already here, we should all look\nfor crystals together..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すまん、もう見つけちまったわ。",
+    "translation": "Sorry, I've already kinda found one."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええっ！？",
+    "translation": "HUHHH?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "目の前に落ちてた。\nこうもあっさり見つかるとはな。\n無欲の勝利ってやつか。",
+    "translation": "There's one on the ground in front of me.\nI didn't expect to find it so easily.\nIt's an empty victory."
+  },
+  {
+    "character": "五月",
+    "japanese": "……まさか、とは思いますが、\n見つけたのに見なかったことにするなんてことは\nしませんよね？",
+    "translation": "...I would think that was impossible, but you wouldn't \nhave pretended you didn't see it even though you \nhad found it, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、取りあえずこれはらいはへの土産にする。\nほしがってたからな。",
+    "translation": "Well, for now, I'll bring this as a souvenir for Raiha.\nShe was wanting one."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですか……。",
+    "translation": "Is that so..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "五月ー？　どうしたの？\n一緒に水晶、探そうよ。",
+    "translation": "Itsukiii? What's wrong?\nLet's look for crystals together."
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、はい――",
+    "translation": "Ah, okay%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、いえ！\n私は探しに来たというわけではないので！\n上杉君と見回りに来ただけですので！",
+    "translation": "Ah, no!\nI didn't come here to search for anything!\nI'm just here to patrol with Uesugi-kun!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "意地張ってないで、ほしいなら探してこい。\nここまできたんだし。",
+    "translation": "Don't be stubborn. If you want one, then go find it.\nWe've come this far, haven't we?"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですね。\nでは、少し探してきます。",
+    "translation": "You're right.\nThen, I'll go search for a bit."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（やっぱり五月も水晶が目当てだったってことか。\n　あいつまでなんで……）",
+    "translation": "(As expected, Itsuki is also after the crystals.\n Even her, huh...?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（それに、いつもならもっと\n　意固地になって言い返してくるのに、\n　いやに素直に探しに行ったな）",
+    "translation": "(Also, she would usually argue more\n and not follow so obediently.\n Why did she go search in such earnest?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（い、いや、別に俺には関係ないだろ！\n　自意識過剰だぞ！　自重しろ俺！）",
+    "translation": "(N-no, it's not like it has anything to do with me!\n I'm being self-conscious! Control yourself, Futaro!)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あったー！　水晶発見です！",
+    "translation": "Heeere's ooone! I found a crystal!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、意外と早かったな。",
+    "translation": "What? That was pretty fast."
+  },
+  {
+    "character": "五月",
+    "japanese": "ううう……。\n私には探しものの才能がないようです。",
+    "translation": "Oooohh...\nIt seems like I don't have any talent\nfor finding things."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ？　ほら、そこ！\n五月の目の前にあるじゃん！",
+    "translation": "Huh? Look, there!\nIt's right there in front of you!"
+  },
+  {
+    "character": "五月",
+    "japanese": "え、えええっ！？\nありました！　こんな近くにあったんですね！",
+    "translation": "EH, EHHHHH?!\nIt was here! It was really this close to me?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "五月は目が悪いから、\nうっかりスルーしちゃってたんじゃない？",
+    "translation": "Your eyesight is bad, Itsuki,\nso didn't you just miss it?"
+  },
+  {
+    "character": "五月",
+    "japanese": "指摘してくれてありがとうございます、四葉。",
+    "translation": "Thank you for pointing it out, Yotsuba."
+  },
+  {
+    "character": "五月",
+    "japanese": "四葉は……その水晶はどうするのですか？",
+    "translation": "Yotsuba...\nwhat are you going to do with your crystal?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "……え～と、まだ考えてなかったなぁ。",
+    "translation": "...Umm, I haven't really thought about it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こういうとき、五つ子ってのも大変だな。\n姉妹で交換するにしても相手が多すぎだ。",
+    "translation": "At times like this, being quintuplets is tough too.\nEven if you were to exchange them amongst sisters,\nthere are too many of you."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうなんですよね～。\nどうしようか迷っちゃいますよ。",
+    "translation": "That's true, isn't it?\nI'm not sure what to do, either."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "さすが、伝説になるだけあって\n簡単に見つかる物じゃないみたいだね。",
+    "translation": "As expected,\nbeing legendary means it's not easy to find."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっと待って！\n三玖、そこで何か光ってる！",
+    "translation": "Wait a minute! \nMiku, something is shining over there!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……あ！　あった！",
+    "translation": "...Ah! I see it!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "はい、二乃。",
+    "translation": "Here you go, Nino."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ありがと――",
+    "translation": "Thank you%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "って、なんで私に渡してるのよ！？",
+    "translation": "Wait, why are you handing it to me?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "だって二乃が先に見つけたから。",
+    "translation": "Because you saw it first."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうだけど……。",
+    "translation": "That's true, but..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあ……\nじゃ、あんたの分が見つかるまで一緒に探すわ。\nそれで貸し借りなしよ？",
+    "translation": "*sigh*\nWell, I'll search with you until we find yours.\nNo borrowing or lending until then, okay?"
+  },
+  {
+    "character": "一花",
+    "japanese": "……あ！　あった！",
+    "translation": "...Ah! I found one!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "一花も見つけた？\nよかったね。",
+    "translation": "You found one too, Ichika?\nThat's great."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、ありがと。\nあと見つけてないのは三玖か。",
+    "translation": "Yeah, thanks.\nOnly you haven't found one yet, Miku."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんた、やっぱり不器用よね。",
+    "translation": "You really are clueless, aren't you?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……探し物に不器用って関係ある？",
+    "translation": "...Is being clueless\nconnected to the inability to find things?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "不器用って、要領が悪いって場合もあるのよ。\nあんたの料理のやり方を見てるとわかるわ。",
+    "translation": "Well, sometimes being clueless\nmeans you're not good at finding your way around.\nI can tell by watching you cook."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ、三玖。\nあの辺はもう探したの？",
+    "translation": "Hey, Miku.\nHave you searched over there yet?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ううん、そっちはまだ。\n……見てみようかな。",
+    "translation": "No, not yet.\n...Let's take a look."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、そうしなよ。\n一ヶ所を丁寧に探すのもいいけど、\n他の場所を見たら、ひょっこり見つかるかもよ？",
+    "translation": "Yeah, let's. It's good to search thoroughly\nin one place, but if we look in other places,\nwe might find them unexpectedly."
+  },
+  {
+    "character": "二乃",
+    "japanese": "それもそうね。\nほら、探してみましょ。",
+    "translation": "That's true.\nCome on, let's look for some crystals."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん……。",
+    "translation": "Yeah..."
+  },
+  {
+    "character": "一花",
+    "japanese": "大丈夫だよ。\n三玖の分も、きっと見つかるから。",
+    "translation": "It's alright.\nI'm sure we'll find yours too, Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あっ……！\nあった！　あったよ、水晶！",
+    "translation": "Ah...!\nThere! There's a crystal!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんだ、こんなにあっさり見つかるなんて。\n確かに一花の言うとおりだったわね。",
+    "translation": "What, you found it so easily.\nIchika was right."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ありがと、一花。",
+    "translation": "Thanks, Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "どういたしまして。",
+    "translation": "My pleasure."
+  },
+  {
+    "character": "一花",
+    "japanese": "ね、お姉ちゃんの言うことは\n聞いても損はないでしょ？\nなにしろ、ちょっとだけ人生の先輩なんだから。",
+    "translation": "Hey, it doesn't hurt to listen\nto your older sister's advice, you know? After all,\nI'm a little more experienced in life than you."
+  },
+  {
+    "character": "二乃",
+    "japanese": "同じ日に生まれたくせに、なに言ってんのよ。",
+    "translation": "What are you saying? We were born on the same day."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃあ、あとはこれをフー君に渡すタイミングね。\n受け取ってもらえるように、一番効果的な\nシチュエーションを考えなきゃ。",
+    "translation": "Okay then, now I just need to find the right timing\nto give this to Fu-kun. I have to think\nof the most effective situation where he can receive it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……私、そこまで考えてなかった。",
+    "translation": "...I haven't thought that far ahead."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふん。\nなら、ここで差をつけさせてもらうわ。",
+    "translation": "Heheh.\nThen, let me take the lead here."
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは。\nどんなシチュエーションで\nフータロー君を困らせる気なのかなー？",
+    "translation": "Ahaha.\nI wonder what situation you have in mind\nto make Futaro-kun uncomfortable."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（一花のやつ、自分で見つけた水晶を三玖に――）",
+    "translation": "(Ichika is giving the crystal she found to Miku%p-2;――%p;)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "すみません！\n私、ちょっと行ってきます。",
+    "translation": "Excuse me!\nI'll be back in a bit."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あいつ、もしかして……）",
+    "translation": "(Is she, perhaps...)"
+  },
+  {
+    "character": "一花",
+    "japanese": "……うん、これでいいんだ。",
+    "translation": "...Yeah, this is perfect."
+  },
+  {
+    "character": "四葉",
+    "japanese": "一花、ちょっといい？",
+    "translation": "Ichika, can I talk to you for a second?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ん？　どうしたの四葉。\nそっちはもう水晶見つけた？",
+    "translation": "Hm? What's up, Yotsuba?\nDid you find your crystals already?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん、私も五月も見つけたよ。\nそれでね、やっぱりこれは一花にあげようと思って。",
+    "translation": "Yeah, I found mine and Itsuki's as well.\nAnd, I'd still like to give this to you, Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、受け取って！\nこれからもよろしくね、お姉ちゃん！",
+    "translation": "Here, take it!\nTake care, big sis!"
+  },
+  {
+    "character": "一花",
+    "japanese": "待って四葉。\nもしかして、さっきの見てた？\nだから……。",
+    "translation": "Wait, Yotsuba.\nWere you watching earlier?\nIf so..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私、一花のことも、ちゃんと応援してるから。",
+    "translation": "I'm properly rooting for you too, Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉……。",
+    "translation": "Yotsuba..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……やっぱりか。",
+    "translation": "...As expected."
+  },
+  {
+    "character": "五月",
+    "japanese": "四葉、もしかして自分が見つけた水晶を一花に？",
+    "translation": "Yotsuba, did you give the crystal you found to Ichika?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あいつのことだ。\nおそらく、そうだろうな。",
+    "translation": "It's likely.\nThat's something she'd do."
+  },
+  {
+    "character": "五月",
+    "japanese": "……私の分を四葉に渡してきます。",
+    "translation": "...I will give Yotsuba mine."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前もかよ……。",
+    "translation": "You too, eh..."
+  },
+  {
+    "character": "五月",
+    "japanese": "いいんです。\nそもそも、これは……こういうときのために\n探したものですから。",
+    "translation": "It's okay.\nAfter all, I was searching for the crystals...\nfor situations like this."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ああ、なるほど。\n　こいつが妙に積極的だったのは、\n　四葉のためだったわけか）",
+    "translation": "(Ah, I see.\n That's why she was strangely proactive.\n It was for Yotsuba's sake.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "四葉には、この水晶が必要なんです。\n私の……勝手な想いかもしれませんが。",
+    "translation": "Yotsuba needs this crystal.\nIt may be...my selfish desire, though."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前らなりの事情があるってことか。",
+    "translation": "So, you guys have your own circumstances."
+  },
+  {
+    "character": "五月",
+    "japanese": "……あなたには教えられません。\nですので、ここで待っていてください。",
+    "translation": "...I can't tell you that.\nSo, please wait here."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "待て。\nそれを渡したところで、四葉は受け取らないぞ。\n今度はお前の分がなくなっちまうからな。",
+    "translation": "Wait.\nEven if you give it to her, Yotsuba won't accept it.\nThen, you will lose your share."
+  },
+  {
+    "character": "五月",
+    "japanese": "それは……では、どうすれば……。\nこのままだと本当に四葉だけが水晶を……。",
+    "translation": "Then...what should I do...\nAt this rate, Yotsuba will really be\nthe only one without a crystal..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほら、持ってけ。",
+    "translation": "Here, take it."
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ？\nこれは、上杉君が見つけた水晶ですよね？",
+    "translation": "Huh?\nIsn't this the crystal that you found, Uesugi-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "変な勘違いすんなよ？\nお前が２個拾ったことにして、\n四葉に片方を分けてやればいい。",
+    "translation": "Don't make weird assumptions.\nJust say that you found two of them,\nand give one to Yotsuba."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これで姉妹全員１個ずつだ。",
+    "translation": "Now, each sister has one."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが……。",
+    "translation": "But..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいはの土産にと思ってたが、\n今の状況を見れば、らいはもきっとこうする。",
+    "translation": "I was thinking of it as a souvenir for Raiha,\nbut considering the situation,\nRaiha would probably do the same."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "……ありがとうございます。",
+    "translation": "...Thank you so much."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（まったく、どいつもこいつも……。\n　五つ子ってのは本当にめんどくせーな）",
+    "translation": "(Geez, all of them are so...\n Quintuplets are reeaally troublesome.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ともかく、これで満足しただろ）",
+    "translation": "(Anyway, I'm sure they're satisfied with this.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、お前ら！\n目的のものは見つけたんだろ、帰るぞ！",
+    "translation": "Hey, you guys!\nYou found what you were looking for,\nso let's go home!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君は？\n水晶、見つけたの？",
+    "translation": "What about you, Fu-kun?\nDid you find a crystal?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、見つけてないが。",
+    "translation": "Nah, I didn't."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃあ、もう少し探しましょうよ！",
+    "translation": "Then let's search a little more!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "探さねぇよ。\nというか、俺はそもそも\n探しに来たわけじゃないと言っただろ。",
+    "translation": "I'm not searching anymore.\nBesides, I didn't even come here to search\nfor crystals in the first place."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ええー……。\nせっかくここまで来たのに。",
+    "translation": "Wha...\nEven though we came this far."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "五月？　どうしたの？",
+    "translation": "Itsuki? What's wrong?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、なんでもありません。",
+    "translation": "No, it's nothing."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "character": "一花",
+    "japanese": "おお、この包丁なかなかの切れ味だ。",
+    "translation": "Ohh, this knife is pretty sharp."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、スパスパ切れて気持ちいいな！",
+    "translation": "Yeah, the blade is so sharp it's so satisfying cutting \nwith it."
+  },
+  {
+    "character": "一花",
+    "japanese": "笑顔でそう返されるとなんか怖いんだけど……。",
+    "translation": "Grinning at me, while saying this is kinda scary..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんでだよ。\nおかしなことは言ってないだろ。",
+    "translation": "Why?\nI didn't say anything strange."
+  },
+  {
+    "character": "らいは",
+    "japanese": "包丁の切れ味が悪いと\n材料がボロボロになっちゃうからね。\n手入れは大事だよ。",
+    "translation": "If the knife isn't sharp it'll tear up all of our ingredients.\nYou have to look after it."
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、それ、どこかで聞いたな。\n魚をさばくとき、包丁がダメだと\n身がダメになっちゃうって。",
+    "translation": "Ah, I've heard this somewhere before.\nCutting a fish with a dull knife will tear the fish apart."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確かに、一流の料理人は\n道具にも手を抜かないイメージがあるな。",
+    "translation": "First-class chefs will take good care of their \nkitchen tools I guess."
+  },
+  {
+    "character": "一花",
+    "japanese": "魚さばけるのってすごいよね。\n私は無理。",
+    "translation": "People who can prepare fish are amazing.\nFor me it's impossible."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さばくと言えば……知ってるか？\n東西でウナギのさばき方が違うんだ。",
+    "translation": "Speaking of preparing fish...\nEel is prepared different in the east and west."
+  },
+  {
+    "character": "一花",
+    "japanese": "なにそれ？　東西？　ウナギ？",
+    "translation": "What now? East and west? Eel?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "関東と関西だ。\n関東では背開き、つまり背から開く。\n関西では腹から開く、腹開きだ。",
+    "translation": "Kanto and Kansai, I mean.\nIn Kanto, they'll slice it open from the back.\nAnd in Kansai, they slice it from the belly."
+  },
+  {
+    "character": "一花",
+    "japanese": "ふーん、なんでそんな差があるんだろ？",
+    "translation": "Hmm, I wonder why the cutting technique differs?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "関東は武士の社会だから、\n切腹をイメージさせる腹開きは避けられたってのが\n通説だな。",
+    "translation": "In Kanto existed a large community of samurai. \nCutting open the belly of a fish resembled seppuku. \nThat's why they used a different cutting technique."
+  },
+  {
+    "character": "一花",
+    "japanese": "へー、武士か。\n三玖が好きそうな話だ。",
+    "translation": "Wow, samurai, huh?\nMiku would like to hear that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな、今度、三玖にも教えてやるか……\nと思ったが、あいつのことだし、もう知ってそうだ。",
+    "translation": "Oh right, next time I'll see her I'm going to tell \nher...but she might know about it already."
+  },
+  {
+    "character": "一花",
+    "japanese": "それで、フータロー君はさばけるの？",
+    "translation": "Now, can you prepare fish, Futaro-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "え？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "一花",
+    "japanese": "え、じゃなくて。\nウナギでも魚でもいいけど、さばけるの？",
+    "translation": "Don't 'huh' me.\nCan you prepare eel or any other fish?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "ああ、できないんだ。\nごめんごめん、聞いちゃダメなことを聞いちゃった。",
+    "translation": "I see, you can't do it, huh.\nSorry! I shouldn't have asked you about it."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うちの料理係は私だからね。",
+    "translation": "That's because I'm preparing everything at home."
+  },
+  {
+    "character": "一花",
+    "japanese": "ホント、フータロー君は頭でっかちだなぁ。",
+    "translation": "You're such a dork, Futaro-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……自覚はある。\n今後、改善していくつもりだ。",
+    "translation": "I'm aware of that.\nI'll try to fix it from now on."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、頑張って……なんて、私もできないんだし\n偉そうなことは言えないよ。",
+    "translation": "Yes, do your best...\nWait, I can't do it either, I'm not in any position to \nboss you around."
+  }
+]

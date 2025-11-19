@@ -1,0 +1,442 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "……さん！　……すぎさーん！",
+    "translation": "...San! ...Sugi-saan!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（よつ……ば……？）",
+    "translation": "(Yotsu...ba?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉――！？",
+    "translation": "YOTSUBA%p-2;――%p;?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふひゃ！？",
+    "translation": "HYAA?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あがっ！\nあいたっ……たた……。",
+    "translation": "AGGH!\nOwww... Ouch..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いたたた……。",
+    "translation": "Owowow..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さーん、急に起き上がらないでくださいよぉ。\n頭ぶつかっちゃいました……。",
+    "translation": "Uesugi-saaan,\nplease don't suddenly sit up like that, okay?\nI bumped my head..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、ああ、悪い……。\nしかし、痛いってことは夢じゃないんだな。",
+    "translation": "Y-yeah, sorry...\nBut if it hurts, that means it wasn't a dream."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……ほっぺたもつねりましょうか？",
+    "translation": "...Shall I pinch your cheek?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、つねらなくてもいい。\nもう充分、目は覚めた。",
+    "translation": "No, that's quite okay.\nI'm fully awake now."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それにしても……四葉、お前が無事で\n本当によかったよ。",
+    "translation": "Anyway...\nYotsuba, I'm really glad you're okay."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんも無事でよかったです。\nもし目を覚まさなかったら、どうしようかと……。",
+    "translation": "I'm also glad that you're okay too, Uesugi-san.\nI was really worried\nabout what would happen if you didn't wake up..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺、気絶してたのか。",
+    "translation": "Was I unconscious?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい。\nと言っても、私もついさっき\n目が覚めたところなんですが……。",
+    "translation": "Yeah.\nWell, I say that but I woke up just before you..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "気がついたらここに倒れていて、\nすぐ横に上杉さんもいたんです。",
+    "translation": "When I came to, I was collapsed here, and\nyou were right next to me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（運良く、海浜流に運ばれたのか？\n　なんにせよ危ないところだった……）",
+    "translation": "(Were we lucky and got carried in by the ocean current?\n In any case, that was a close call...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "声をかけても全然起きてくれないので、\nすっごく心配したんですよ？",
+    "translation": "I was really worried because you didn't wake up,\neven when I called out to you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（体に痛むところはない。\n　海水も飲まずにすんだみたいだし……\n　体調も大丈夫そうだな）",
+    "translation": "(I don't feel any pain in my body.\n It seems like I didn't swallow any seawater...\n And my condition seems to be okay.)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "聞いてますか？　上杉さーん？",
+    "translation": "Are you listening? Uesugi-saaan?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉、お前は怪我してないか？\n気分が悪かったり、どこか痛いところは？",
+    "translation": "Yotsuba, are you injured?\nAre you feeling sick or does anywhere hurt?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、大丈夫です。\n上杉さんに頭突きされたとこが\n少し痛いくらいですね。",
+    "translation": "No, I'm fine.\nIt hurts a little where you headbutted me though."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はは、そうか。\nとりあえずは一安心だな。",
+    "translation": "Haha, that so?\nAnyway, that's a relief."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ところで……ここ、どこでしょう？",
+    "translation": "By the way...where are we?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "暗くてよくわからんが、いつも行ってた\n別荘近くの浜辺じゃないみたいだな。",
+    "translation": "It's too dark to see, but it doesn't seem like\nthe beach near the villa that we always go to."
+  },
+  {
+    "character": "四葉",
+    "japanese": "っていうか！\nいつの間にか夜になっちゃってますよね？\nまさか、あれから何日もたってるのでは！？",
+    "translation": "But like!\nIt's already become night without us noticing, right?\nCould it have been several days since then?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "落ち着け、四葉。\n何日なんてたってるわけないだろ。",
+    "translation": "Calm down, Yotsuba.\nThere's no way several days have passed."
+  },
+  {
+    "character": "四葉",
+    "japanese": "で、ですが！",
+    "translation": "B-but!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いいから、ほら。\n星を見てみろ。",
+    "translation": "It's fine, look.\nLook at the stars."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええ！？\nお星様にお願いだなんて、\nそんなの上杉さんらしくありませんよ？",
+    "translation": "Huh?!\nUesugi-san,\nit's not like you to make a wish upon a star, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんな非科学的なことに頼るわけないだろ。\nこの前、星の観察をしたのを忘れたのか？",
+    "translation": "I wouldn't rely on such unscientific things.\nDidn't I teach you about star observation the other day?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ？　ええっと……。",
+    "translation": "Huh? Ummm..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちゃんと教えただろ？\nほら、あそこに見えてるのが北極星だ。",
+    "translation": "I taught you properly, didn't I?\nLook, that one over there is the North Star."
+  },
+  {
+    "character": "四葉",
+    "japanese": "北極星！\nはい、覚えてます！",
+    "translation": "The North Star!\nThat's right, I remember!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "北極星が、こないだ観測したときよりも\nだいぶ東の位置にある。",
+    "translation": "The North Star is quite a bit east\nof where we observed it the other day."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "つまり、日が沈んでから\nそれほど時間が経過していないってことだ。",
+    "translation": "In other words, not much time has passed\nsince the sun set."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……そうなんですか？",
+    "translation": "...Is that so?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あのな、地球は自転してるんだぞ？\n太陽と同じように星だって動いて見えるんだよ。\n東から登ってくるんだ。",
+    "translation": "You see, the Earth rotates, yeah?\nStars also appear to move like the sun.\nThey rise from the east."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "となると、日没前に船から投げ出されちまってから、\nあまり時間は経ってないわけだ。",
+    "translation": "So, not much time has passed since\nwe were thrown off the boat, before the sunset,\nto now."
+  },
+  {
+    "character": "四葉",
+    "japanese": "つまり、そんなに長い時間\n流されてたわけじゃないってことに？",
+    "translation": "So, in other words,\nwe didn't drift for too long, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういうことだな。",
+    "translation": "Yes, that's right."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別荘のある島の周りに、他の島はなかったはず。\nとなると、同じ島にいると考えるのが妥当だ。",
+    "translation": "I know there weren't any other islands\naround our island with the villa. So, it's reasonable\nto assume that we're on the same island."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "北極星の位置とこの海岸線の向きからして、\nおそらく島の裏……北側に流れ着いたんじゃないか？",
+    "translation": "Judging from the North Star's position and the\ndirection of the coastline, we probably washed up\nin the back... The north side of the island, I bet?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "おおお～！\n上杉さん、頼もしすぎですっ！",
+    "translation": "Ohhhh!\nUesugi-san, you are just so reliable!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "遠くまで流されなかったのは幸いだったな。\n夜が明けてから周りを調べてみよう。",
+    "translation": "It's fortunate that we weren't carried too far.\nLet's explore our surroundings after daybreak."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "早く戻らないと、みんなが心配してるだろうし。",
+    "translation": "We need to hurry back, everyone must be worried."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうですよね。\n……すみません。",
+    "translation": "That's right.\n...I'm sorry."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、どうしてお前が謝るんだ。",
+    "translation": "What, why are you apologizing?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "私が、船から夕日を見たいだなんて\n言い出したせいで、上杉さんを危険な目に\nあわせてしまいました。",
+    "translation": "It's because I suggested\nthat I wanted to see the sunset from a boat.\nAs a result, I put you in danger, Uesugi-san."
+  },
+  {
+    "character": "四葉",
+    "japanese": "その上、みんなやらいはちゃんを\n心配させることに……。",
+    "translation": "Moreover, I made everyone,\nas well as Raiha-chan, worried..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前にやりたいことを聞いたのは俺だろ。\nそれに、俺がもっと注意してれば\nこんなことにはならなかったはずだ。",
+    "translation": "But it was me who asked you what you wanted to do.\nBesides, if I had been more careful,\nthis wouldn't have happened."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ですが、あのとき私が慌てて\n立ち上がったりしなければ……。",
+    "translation": "But, if I hadn't panicked\nand stood up at that moment..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー、そんなことより腹が減ったな！\n夕飯を食う前に別荘を出ちまったし――",
+    "translation": "Ah, more importantly, I'm hungry!\nWe left the villa before dinner%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "……ふふ。\n上杉さんのお腹、タイミングよすぎですよ。",
+    "translation": "...Heheh.\nYour stomach is right on time, Uesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "笑うなよ、自然現象だぞ？",
+    "translation": "Don't laugh, it's only natural, ya know?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "すみません。\nでも、あんまり大きな音だったので……ふふっ！",
+    "translation": "Sorry.\nBut, it was such a loud noise...\nHeheh!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "仕方ないだろ……。\n昼飯からあと、何も食ってないんだ。",
+    "translation": "It can't be helped...\nI haven't eaten anything since lunch."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうですよね。\n実は私もお腹が空いてまして……えへへ。",
+    "translation": "That's right.\nActually, I'm also super hungry too... Hehehe."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "とにかく夜が明けたら、何か\n食べられるものを探さないと……。",
+    "translation": "Anyway, when morning comes,\nwe need to find something to eat..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ！　そうだ！\n忘れてました！",
+    "translation": "Ah! That's right!\nI forgot!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんか、すまん。\n飯のことを考えたら急に鳴っちまった。",
+    "translation": "Sorry about that.\nMy stomach suddenly growled\nbecause I was thinking about food."
+  },
+  {
+    "character": "四葉",
+    "japanese": "気にしないでください。\n私もペコペコですから。",
+    "translation": "Don't worry about it.\nI'm hungry too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だよな。\nお互い、昼飯からあとは何も食ってないんだし。",
+    "translation": "Yeah.\nWe haven't eaten anything since lunch."
+  },
+  {
+    "character": "四葉",
+    "japanese": "こんなときでも、お腹って減るものなんですね。",
+    "translation": "Even in times like these,\nour stomachs still get hungry, huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いいことじゃないか。\n腹が減るのは元気な証拠だ。",
+    "translation": "That's a good thing.\nBeing hungry is a sign of good health."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "とにかく夜が明けたら、何か\n食べられるものを探さないと……。",
+    "translation": "Anyway, when morning comes,\nwe need to find something to eat..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ！　そうだ！\n忘れてました！",
+    "translation": "Ah! That's right!\nI forgot!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前は空いてないか？",
+    "translation": "Aren't you hungry?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "実は……私もペコペコです。",
+    "translation": "I'm...actually hungry, too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "出たのが夕飯前だったし、やっぱり腹も減るよな。",
+    "translation": "It was just before dinner when we came out,\nso naturally we're hungry now."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私のお腹が鳴っても笑っちゃダメですよ？",
+    "translation": "Even if MY stomach growls, you shouldn't laugh, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ？　俺を笑っておいて虫のいい話だな。",
+    "translation": "Huh?\nLaughing at me and THEN saying something so selfish?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "だって、上杉さんは男の人ですからね。\n女の子を恥ずかしがらせるなんて男らしくないです。",
+    "translation": "But, you're a man, Uesugi-san.\nIt's not cool for men to embarrass a girl."
+  },
+  {
+    "character": "四葉",
+    "japanese": "だから、そういうことに気がついても、\nスルーするのが男のマナーってものですよ！",
+    "translation": "So, even if they notice something like that,\nit's good manners for a man to just ignore it!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんなマナーは知らんわ！",
+    "translation": "I don't know any manners like that!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが、まあ、相手が嫌がることをしないのは\n人としての常識だからな。\n覚えておいてやろう。",
+    "translation": "But well, it's common sense as human beings\nnot to do things that other people don't like.\nRemember that."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふふっ！\n上杉さんはそういうとこ、本当に真面目ですよね。",
+    "translation": "Heehee!\nUesugi-san, you sure are serious\nabout that kind of stuff."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんか引っかかるなそれ。\n俺は常に真面目に生きてるぞ？",
+    "translation": "That rubs me the wrong way.\nI always live seriously, ya know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "とにかく夜が明けたら、何か\n食べられるものを探さないと……。",
+    "translation": "Anyway, when morning comes,\nwe need to find something to eat..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ！　そうだ！\n忘れてました！",
+    "translation": "Ah! That's right!\nI forgot!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なんだ？",
+    "translation": "W-what is it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "実はですね、\nお昼のおにぎりの余りを持ってるんです。",
+    "translation": "Well, actually,\nI have some leftover rice balls from lunch."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ほら、見てください！\nしっかりラップで包んでおいたので\n形も崩れてません！",
+    "translation": "Look!\nThey're wrapped up nicely,\nso the shape hasn't been ruined!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おお、でかした！\nしかし、なんでおにぎりなんて持ってたんだ？",
+    "translation": "Oh, nice job!\nBut why do you have rice balls with you?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "夕日を見ながら一緒に食べようかと\nこっそりと用意しておいたんです。\nはい、お１つどうぞ。",
+    "translation": "I secretly prepared them\nso we could eat them together\nwhile watching the sunset. Here, have one."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "サンキュー。\n四葉のおかげで、ひとまず空腹はしのげたな。",
+    "translation": "Thanks.\nBecause of you, Yotsuba, my hunger's been\ntemporarily satisfied."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こいつを食べたら、どこか\n　眠れそうなところを探さないとな……。\n　ちょうどよい岩陰でもあればいいんだが）",
+    "translation": "(Once we eat, we need to find\n somewhere to sleep...\n If there was a rock in the perfect shape.)"
+  }
+]

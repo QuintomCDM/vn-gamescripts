@@ -1,0 +1,707 @@
+[
+  {
+    "character": "一花",
+    "japanese": "ふう、これで最後だね。\n服の準備はオッケーかな。",
+    "translation": "*phew* This is the last of it, huh?\nI think the clothes are all ready."
+  },
+  {
+    "character": "四葉",
+    "japanese": "終わったぁ～！",
+    "translation": "We're dooone!"
+  },
+  {
+    "character": "五月",
+    "japanese": "お疲れさまでした。\n結構、持ってきましたね。",
+    "translation": "Great job, everyone.\nWe found quite a lot of clothes, didn't we?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "めちゃくちゃ疲れた……。\n服を持ってくるだけだからって侮ってたわ。",
+    "translation": "I'm so tired...\nI totally underestimated how difficult it \nwould be to just carry clothes over to the villa. "
+  },
+  {
+    "character": "三玖",
+    "japanese": "腕の、筋肉が……。",
+    "translation": "My arm muscles..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うわぁ、服がいっぱいだ。",
+    "translation": "Wow, there are so many clothes."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "多すぎるだろ……。",
+    "translation": "Maybe too many, don'tcha think..?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "お父さんの部屋だけじゃなくて、\n倉庫にしまわれてた服も\n持ってきちゃいましたからね。",
+    "translation": "Not only did we bring the clothes from Dad's room, \nbut also the ones that were in storage. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "というか、こんな離島に\nここまで服を用意してどうするんだ？",
+    "translation": "Or rather, why does he keep this many clothes\non a remote island?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "それは、あれです！\n備えておけば嬉しいなってやつです！",
+    "translation": "Well, you know!\nIt's nice to be prepared for anything!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それを言うなら、備えあれば憂いなし、だ。",
+    "translation": "Or rather, that you'll never have to\nworry if you're prepared for anything. "
+  },
+  {
+    "character": "四葉",
+    "japanese": "……あれ？",
+    "translation": "...Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちなみに意味は――",
+    "translation": "So, that means%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はいはい、勉強は忘れるんでしょ？",
+    "translation": "Okay, okay, I thought we'd agreed to forget studying, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "お父さんがなんのために用意してたのかは\nわからないけど――",
+    "translation": "I have no idea why Dad had this many clothes prepared%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "これだけあれば思う存分、\nコーディネートできるじゃない。",
+    "translation": "But with this many,\nwe can coordinate to our heart's content."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まさか、着せかえ人形の気持ちを\n理解するときが来るとは思わなかった。",
+    "translation": "I never thought there would come a day\nwhen I would understand how a dress-up doll feels."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふふっ！\n私も、フー君のコーディネートを\n考えられる日が来るなんて思わなかったわ。",
+    "translation": "Heheheh!\nI never thought there would come a day when \nI could put together an outfit just for you, Fu-kun."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃ、さっそく始めましょ！\n誰からいく？",
+    "translation": "Alright, let's start!\nWho's first?"
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、私から順番にってことでどう？",
+    "translation": "Shall we go in order, starting with me?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "私は構わないわよ。\nむしろ、あんたこそトップバッターでいいのかしら？",
+    "translation": "I don't mind.\nRather, is it really okay that you're up first?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ふふん、実はもう構想があるんだよね。\n二乃こそ、最初にやらないで\n後悔しても知らないよ～？",
+    "translation": "Hehe, actually, I already have an idea.\nNino, if I don't go first, I'll definitely regret it later."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……一花たちはああ言ってるけど、\n正直、４番目でホッとしたよ。",
+    "translation": "...You all are saying that, but...\nTo be honest, I'm relieved to go fourth."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ。\n私たちは、あの２人ほど\nファッションに明るいわけではありませんし。",
+    "translation": "Yes.\nWe're not particularly knowledgeable\nabout fashion like those two."
+  },
+  {
+    "character": "三玖",
+    "japanese": "これでゆっくり考えられる。",
+    "translation": "Now, we can take our time to think."
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、ちゃんとみんなのセンスを\n褒めないとダメだからね？\n適当なコメントは禁止だよ？",
+    "translation": "Big bro, you have to praise everyone's sense\nof style properly, okay?\nInappropriate comments are not allowed."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（褒めるに値するものなら褒めるつもりだが、\n　俺にファッションセンスを期待されても困る……）",
+    "translation": "(If there's something worth praising,\n I'll praise it, but it's troublesome to be expected\n to have a sense of fashion...)"
+  },
+  {
+    "character": "一花",
+    "japanese": "それじゃ、フータロー君。\nこれと、これと、あと靴はこっちね。\n着替えてみて。",
+    "translation": "Well then, Futaro-kun.\nTake these and these, and your shoes are right there.\nThen go ahead and change."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかった。",
+    "translation": "Got it."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なっ――",
+    "translation": "WHA%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フ、フータロー！？",
+    "translation": "F-FUTARO?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん？",
+    "translation": "Hm?"
+  },
+  {
+    "character": "五月",
+    "japanese": "どうしてここで着替えようとするんですか！\n廊下に行ってくださいっ！",
+    "translation": "Why are you trying to change here?\nPlease go to the hallway!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あ。\nそうだな、すまん……。",
+    "translation": "...Ah.\nThat's right, sorry..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はああ……。\n不意打ちすぎて心臓が止まるかと思ったわ。",
+    "translation": "*sigh*\nI thought my heart was going to stop\nfrom being startled like that."
+  },
+  {
+    "character": "らいは",
+    "japanese": "すみません……。\nうちだと、部屋が１つしかないから……。",
+    "translation": "I'm sorry...\nWe only have one room at home, so..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "なんていうか、大変ですね……。",
+    "translation": "That's kind of tough, isn't it..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし、着替えたぞ。",
+    "translation": "Alright, I've changed."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ！　せっかくですので、\nばっちりモデルなポーズを決めて\n入ってきてくださいね。",
+    "translation": "Since this is the perfect chance, \nplease come in and strike a pose like a model would, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そこまでやれと！？",
+    "translation": "You want me to go that far?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "指導しよっか？",
+    "translation": "Shall I give you some pointers?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "いや、そこまでやると\nグダグダになるからいいわよ。",
+    "translation": "No, it'll just get tedious\nif we go that far."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、そのまま入ってきて。",
+    "translation": "Futaro, come in just as you are."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へいへい。\nそれじゃ、入るぞ。",
+    "translation": "Yeah, yeah.\nI'm coming in."
+  },
+  {
+    "character": "一花",
+    "japanese": "おおーっ！",
+    "translation": "Ooohh!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（くっ、なんだその反応は……）",
+    "translation": "(Urk what's with that reaction?)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、カッコいい！",
+    "translation": "Big bro, you look cool!"
+  },
+  {
+    "character": "一花",
+    "japanese": "ふふん、でしょ？",
+    "translation": "Hehe, I know, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えー、それでは一花さん！\nなぜこのコーディネートにしたか、\nコメントをお願いします！",
+    "translation": "Okay, then, Ichika-san!\nCould you please comment\non why you chose this outfit?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そうですねー。\nまず、フータロー君にはトラッドスタイルが\n似合いそうだなって思ったからです。",
+    "translation": "Well, let's seeee.\nFirst of all, I thought a traditional style\nwould suit Futaro-kun."
+  },
+  {
+    "character": "二乃",
+    "japanese": "私も同意見。\nけど思った以上に似合うわ。",
+    "translation": "I agree.\nBut it looks even better on him than I thought."
+  },
+  {
+    "character": "五月",
+    "japanese": "まるで別人のようです。\n服が違うだけで、こうも変わるのですね。",
+    "translation": "He looks like a completely different person.\nIt's amazing how much a change of clothes can make."
+  },
+  {
+    "character": "三玖",
+    "japanese": "さすが一花、センスがいい。",
+    "translation": "As expected of Ichika, she has great sense."
+  },
+  {
+    "character": "四葉",
+    "japanese": "おおっと！\nさっそく審査員からは高評価の嵐！\nトップバッターに相応しい出だしです！",
+    "translation": "Wowee!\nThe judges are already giving high praise!\nA great start for the first contestant!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、そのまま司会役をやるのな、お前。",
+    "translation": "Oh, so you're going to be the host, huh?"
+  },
+  {
+    "character": "一花",
+    "japanese": "これはもう優勝は決まりかな～？",
+    "translation": "I wonder if it's already over?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あら、ちょっと気が早いんじゃない？",
+    "translation": "Oh, come on, isn't that a bit premature?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "確かに、一花のコーデは\nフー君によく似合ってると思うけど……\n言ってみれば無難すぎるのよね。",
+    "translation": "Indeed, while I do think\nIchika's outfit suits Fu-kun...\nTo put it bluntly, it's a bit too safe."
+  },
+  {
+    "character": "一花",
+    "japanese": "へえ？\nそこまで言うなら、二乃のコーディネートを\n見せてもらおうかな？",
+    "translation": "Well, then?\nIf you're going to say that much,\nwhy don't we have you show us your outfit, Nino?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ええ、もちろん。\nそれじゃフー君、この服でお願い。",
+    "translation": "Yes, of course.\nAlright, Fu-kun, put this on."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかった。",
+    "translation": "Got it."
+  },
+  {
+    "character": "一花",
+    "japanese": "おおー？\nこうきたかぁ。",
+    "translation": "Ohh?\nThis is what you went with, huh."
+  },
+  {
+    "character": "らいは",
+    "japanese": "なんか雑誌に載ってる人みたい。",
+    "translation": "He looks like someone from a magazine."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、ストリートスナップっぽい。",
+    "translation": "Yes, it has a 'street' feel to it."
+  },
+  {
+    "character": "五月",
+    "japanese": "一気にカジュアルな感じになりましたね。",
+    "translation": "Things've suddenly become very casual."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それでは二乃さん！\nこのコーディネートについてコメントを！",
+    "translation": "Now, Nino-san!\nCould you please comment on this outfit?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "コンセプトは、一緒に街を歩くなら\nこんな服を着ていてほしい、かしらね。",
+    "translation": "The concept is,\nif we're going to walk around the city together,\nI'd want him to wear clothes like this."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あと、裏テーマはギャップね。\n普段のフー君とのギャップ！",
+    "translation": "The underlying theme is the gap.\nThe gap between Fu-kun's usual style and this one!"
+  },
+  {
+    "character": "一花",
+    "japanese": "なるほどねー。\nどう？　フータロー君としては。",
+    "translation": "I seeee.\nSo, how do you feel about it, Futaro-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー、その、服自体は悪くないんだが……\n少し落ち着かないな。",
+    "translation": "Ah, well, the outfit itself isn't bad, but...\nit's a bit too flashy for me."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、ちょっとチャラい感じがする。",
+    "translation": "Yeah, he kind of looks like a playboy."
+  },
+  {
+    "character": "二乃",
+    "japanese": "言ったわね、三玖。\nそれなら、あんたのコーデを\n見せてもらおうじゃない。",
+    "translation": "You really said that, huh, Miku.\nIn that case,\nwhy don't you show us the outfit you put together?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "服はもう決まってる。\nフータロー、これでお願い。",
+    "translation": "I've already picked out the clothes.\nFutaro, please wear this."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前ら、ポンポン服を渡しやがって。\n着替えるの、割と面倒なんだぞ。",
+    "translation": "You guys keep giving me these weird clothes to wear.\nChanging into them is kind of a hassle, you know?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "大丈夫。\n私が選んだのは着替えやすいやつだから。",
+    "translation": "Don't worry.\nI picked something easy to change into."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういう問題じゃない……。",
+    "translation": "That's not the problem..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、早く。\n着て、見せてほしい。",
+    "translation": "Come on, Futaro.\nHurry and change. I want you to show everyone."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……わかった、大人しく着替えればいいんだろ。",
+    "translation": "...Okay, I guess I'll just behave myself and change."
+  },
+  {
+    "character": "五月",
+    "japanese": "こ、これは……。",
+    "translation": "Wh-what's this...?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "甚平って……。\n三玖の趣味を考えれば\nありえるコーデではあるけど……。",
+    "translation": "A 'jinbei'...\nMiku, Considering your sensibilities,\nI can see where this is coming from, but..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "では三玖さん？\nこの服を選んだ理由を聞かせてもらいましょー！",
+    "translation": "Now, how about you, Miku-san?\nPlease, tell us why you chose this outfit!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "やっぱり、フータローには和服が似合うから。",
+    "translation": "I thought that a Japanese-style outfit\nwould suit Futaro."
+  },
+  {
+    "character": "一花",
+    "japanese": "即答だったか。\nまあ、似合うとは思うけどね。\nらいはちゃんはどう？",
+    "translation": "That was a quick response.\nWell, I do think it suits him, though.\nRaiha-chan, what do you think?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お祭りに来てる人みたいだねー。",
+    "translation": "He looks like he's at a summer festival."
+  },
+  {
+    "character": "三玖",
+    "japanese": "一応、普通に街を歩くときの服のつもりで\n選んだんだけど。",
+    "translation": "Actually, I meant for this to be worn as a normal outfit to\nwalk around town."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、これで街を歩くのは勇気がいるぞ？",
+    "translation": "Nah, it would take a lot of courage to walk \naround town in this kinda outfit, ya know?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "時期にもよるわね。\n今なら、まあ、あり？",
+    "translation": "That depends on the time of year I suppose.\nIt could be okay, for summer, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……なんか、微妙な反応が多い。",
+    "translation": "...Hmm, there seems to be a mixed reaction."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは……。\nじゃあ、次は私だね。\n上杉さん、これでお願いします。",
+    "translation": "Ahaha...\nAnyway, it's my turn next.\nUesugi-san, please put this on."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うっ！？\nこ、これを着るのか？",
+    "translation": "Oof!!\nY-you want me to wear this?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えええ？\nなんでそんなに嫌そうなんですか？",
+    "translation": "Huhhh?\nWhy do you look so unhappy?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "さあ、これが私の選んだ服です！",
+    "translation": "Well, this is the outfit I chose!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "どうですか上杉さん？\n夏ですし、やっぱり涼しくと思いまして。",
+    "translation": "What do you think, Uesugi-san?\nSince it's summer, I thought it should cool you down."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ぷっ……くくく……っ！",
+    "translation": "Ppfft...hehehe...heh!"
+  },
+  {
+    "character": "五月",
+    "japanese": "んんっ……！\nふっ、ふふふ……！",
+    "translation": "Mmmm...!\nFfwhahaha...!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……くふっ！",
+    "translation": "...Hehe!"
+  },
+  {
+    "character": "一花",
+    "japanese": "まあ……こういうネタ枠も\n１つはないとダメだし、ね？",
+    "translation": "Well...\nwe need at least one person to make a joke, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "だ、だからって……っ！\nこの組み合わせは……あまりにも似合わないっ……。\nぷくく……。",
+    "translation": "B-but even so...!\nThis combination...doesn't exactly suit Fu-kun at all...\nPpfft-hheheh..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ！？　なんか反応がおかしいよ？\nなんでみんな笑うの我慢してるの？",
+    "translation": "Huh?! Something's off about the reaction.\nWhy is everyone holding back laughter?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ……っ！\nそんな、ことは……ふふふっ！",
+    "translation": "No...!\nThat's not...hahahah!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、細い。\n筋肉足りてない。",
+    "translation": "Big bro, you're too skinny.\nYou need some more muscles."
+  },
+  {
+    "character": "一花",
+    "japanese": "あー、言っちゃったよ。\nさすが身内、容赦ないねぇ。",
+    "translation": "Ahh, she said it.\nAs expected from family. No mercy, huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ああ、自分でも思ってる。",
+    "translation": "...Oh, I already know that."
+  },
+  {
+    "character": "四葉",
+    "japanese": "評価そっちなんですか！？",
+    "translation": "Oh, are we evaluating physique, now?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉。\nお前、ちゃんと考えて選んだか？",
+    "translation": "Yotsuba.\nDid you really think it through\nbefore choosing this outfit?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "考えましたよ？\n夏だから涼しくがコンセプトです。",
+    "translation": "I did...\nThe concept was to cool you down for summer, Uesugi-san."
+  },
+  {
+    "character": "一花",
+    "japanese": "うーん……。\nこれは、四葉のチョイスが悪かったって\nいうよりは……。",
+    "translation": "Hmm...\nIt's not that Yotsuba\nmade a bad choice, but..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうね……フー君には悪いけど……。",
+    "translation": "That's right... It's mean to you, Fu-kun..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "もう少し、体を鍛えたほうがいい。",
+    "translation": "You should train your body a little more."
+  },
+  {
+    "character": "四葉",
+    "japanese": "服の評価をしてよぉ～！",
+    "translation": "Judge the CLOTHES!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ふふっ……！\nあははははっ！",
+    "translation": "Heheh...!\nAHAHAHAHA!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい五月！\n笑ってないで、さっさとお前が選んだ服を寄越せ！",
+    "translation": "Hey, Itsuki!\nInstead of laughing, just show us the outfit you picked!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ど、どうぞ……こちらです……。",
+    "translation": "H-here... It's this..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くっ……！",
+    "translation": "Urk...!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "さあ、最後は五月の服だね！",
+    "translation": "Alright, last up is Itsuki's outfit!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……普通ねぇ。",
+    "translation": "...How normal."
+  },
+  {
+    "character": "一花",
+    "japanese": "シンプルに、シャツとズボンの組み合わせか。\nうん、確かに普通。",
+    "translation": "Just a simple shirt and pants combo.\nYeah, it's definitely normal."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私は、結構好きかも。\n一緒に歩くなら、これはあり。",
+    "translation": "I actually quite like it.\nIf we were walking together, this would work."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それでは五月さん、コメントをどうぞ。",
+    "translation": "Alright then, Itsuki-san. A comment, please?"
+  },
+  {
+    "character": "五月",
+    "japanese": "私も、理由は一花と変わりません。\n上杉君にはこれが似合うと思ったんです。",
+    "translation": "My reason is the same as Ichika's.\nI thought this outfit would suit Uesugi-kun."
+  },
+  {
+    "character": "五月",
+    "japanese": "あと、以前、男らしい服は\n好みではないと聞きましたので。",
+    "translation": "Also, I heard from before\nthat he doesn't like masculine clothes."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ああ、林間学校のために服を買いに行ったときか。\n　あれは凄まじかったな）",
+    "translation": "(Ah, was that when we went to buy clothes\n for the school camping trip, huh.\n That was intense.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（それに比べれば、ずいぶんと普通だ）",
+    "translation": "(Compared to that, this is quite normal.)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "らいはちゃんはどうですか？",
+    "translation": "What do you think, Raiha-chan?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "いつものお兄ちゃんって感じかな？\nでも、すごく似合ってると思う！",
+    "translation": "I think it's just like the usual style for big bro.\nBut, I think it looks really good on him!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（俺も、この服は落ち着くな。\n　らいはの言う通り、普段着てるやつに\n　近いからだろうか）",
+    "translation": "(I also feel calm in this outfit.\n Maybe it's because it's similar\n to what I usually wear.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……なあ、これで最後だよな？\n着替えて来てもいいか？",
+    "translation": "...Okay, this is the last one, right?\nCan I change back, now?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "では最後に、特別ゲストとして\nらいはちゃんのコーデを……。",
+    "translation": "Now, as a special guest,\nlet's see Raiha-chan's outfit..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "着替えてくる。",
+    "translation": "I'm gonna go change."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ！？　上杉さん！？\n待ってくださいよー！",
+    "translation": "Ah! Uesugi-san?!\nPlease wait!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ああ、行っちゃった。",
+    "translation": "Oh, he left."
+  },
+  {
+    "character": "一花",
+    "japanese": "まあ、充分あそべ……\nじゃなくて、コーディネート勝負はできたし。",
+    "translation": "Well, we were able to pla...\nI mean,\nwe had a fulfilling clothing coordination battle."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんた今、遊べたって言おうとしたわね？",
+    "translation": "You were about to say 'able to play,' weren't you?"
+  },
+  {
+    "character": "一花",
+    "japanese": "なんのことかなぁ？",
+    "translation": "What are you talking about?"
+  },
+  {
+    "character": "一花",
+    "japanese": "それよりも、フータロー君が戻ってきたら、\nお待ちかねの結果発表の時間だよ？",
+    "translation": "More importantly, once Futaro-kun returns, \nit's time for the long-awaited announcement \nof the results, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、楽しみ。",
+    "translation": "Yes, I'm excited."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ま、結果は見えてるわね。",
+    "translation": "Well, the results are pretty clear, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "二乃、自信満々だ。",
+    "translation": "Nino is confident she'll win."
+  },
+  {
+    "character": "五月",
+    "japanese": "あの、結果を楽しみにするのはよいのですが、\nこの服の山を片付けることも忘れないでくださいね？",
+    "translation": "Um, it's fine to look forward to the results,\nbut please don't forget we have to clean up \nthis pile of clothes, okay?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "うっ……。\n思い出させないでよ……。",
+    "translation": "Ooh...\nDon't remind me..."
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（はあ、やっと解放された。\n　あいつら相手に、昨日からの経緯を説明するのが\n　こんなに大変だとはな……）",
+    "translation": "(Haah, I'm finally free.\n Since yesterday I had no idea how I could explain\n the situation to them...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（それだけ、心配してくれてたって\n　ことなんだろうが、さすがにクタクタだ……）",
+    "translation": "(I'm glad that they worry about me,\n but I'm completely exhausted...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "開いてるぞー。\n勝手に入ってくれ。",
+    "translation": "It's open.\nCome on in."
+  },
+  {
+    "character": "四葉",
+    "japanese": "失礼しまーす。",
+    "translation": "Coooming in."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "本日の質疑応答は終了したんだが――",
+    "translation": "The interrogation for today is over%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "って、なんだ四葉か。",
+    "translation": "Oh, it's Yotsuba."
+  },
+  {
+    "character": "四葉",
+    "japanese": "お邪魔します！",
+    "translation": "Sorry for bothering you!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前も、あいつらの質問攻めから解放されたか。",
+    "translation": "Have you also been released\nfrom their barrage of questions?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、なんとか。\nなかなか大変でしたね。",
+    "translation": "Yeah, somehow.\nThat was really tough, huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こっちが順を追って話そうとしてんのに、\n次から次と質問してくるしな。",
+    "translation": "I was trying to explain things in an order that \nmade sense, but they kept bombarding me \nwith more and more questions."
+  },
+  {
+    "character": "四葉",
+    "japanese": "しかも、みんな質問の内容が\nバラバラというオマケ付きでしたから。\n困っちゃいました。",
+    "translation": "And to make things worse, \nthe questions were all over the place.\nI was really in a pickle."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まったくだ。\n一花が所々でフォローしてくれなきゃ、\n話を進めることもできなかっただろ、あれは。",
+    "translation": "That's for sure.\nIf Ichika didn't help you out sometimes,\nthe conversation wouldn't have made progress."
+  },
+  {
+    "character": "四葉",
+    "japanese": "一花はいつもと同じ感じでしたけど、\n二乃はとーっても怒ってましたね。\nすごく叱られちゃいました。",
+    "translation": "Ichika seemed like her usual self,\nbut Nino was reeeally angry.\nShe scolded me a bunch. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖も相当、怒ってたなぁ。\n静かな分、二乃より迫力あったような……。",
+    "translation": "Miku was pretty angry too.\nHer being quiet most of the time made her anger \neven more scary..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "五月は、ずーっとムスッとしてましたね。\nもっと叱られると思ってたので、意外でした。",
+    "translation": "Itsuki was sullenly brooding the WHOLE time.\nI thought she was going to scold me even more. \nI was kinda surprised she didn't."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、あいつはあいつなりに、\n思うところがあるんだろ。",
+    "translation": "Well, she probably has her own reasons why she \nheld back."
+  },
+  {
+    "character": "四葉",
+    "japanese": "色々と叱られたり、怒られたりも\nしちゃいましたけど……。",
+    "translation": "Although everyone really scolded and reprimanded us\nin various ways..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "みんなが心配してくれてたのが伝わってきて、\nなんだか嬉しくなっちゃいました。",
+    "translation": "I could feel that everyone was worried,\nand that kinda made me happy."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……嬉しくなった、か。\n　四葉の気持ちも、少しは軽くなってるみたいだな）",
+    "translation": "(...That made her happy, huh?\n Yotsuba's mood seems to have \n lightened up a bit, too.)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん？　どうしたんですか？",
+    "translation": "Uesugi-san? What's up?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、いや、怒られてんのに\n妙にニコニコしてやがると思ってたが、\nそういうことだったのか。",
+    "translation": "Oh, well, I was just wondering\nwhy you were smirking even though\nwe've been grilled by everybody. Now I know why."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ？\nそんなに顔に出てましたか？",
+    "translation": "Oh?\nWas it that obvious?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、はたから見ててもわかるくらいにな。\nおかげで俺にもとばっちりが回ってきてたんだぞ？\n真面目に聞けって。",
+    "translation": "Yes, even from a bystander's perspective.\nThanks to that, I got caught up in the fray as well.\nThey grilled me hard, telling me to take them seriously."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええ～？\nそれはさすがに言い掛かりっぽくないですか？",
+    "translation": "Whaaa?\nDoesn't it sound like a false accusation?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いいや、そんなことはない！\nさあ、この落とし前どうつけてもらおうか。",
+    "translation": "I don't think they meant it THAT way!\nNow, let's figure out how to settle this."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、だったら、心配かけてしまったお詫びに\nみんなにスイーツを奢る約束をしたので……。",
+    "translation": "Oh, in that case,\nas an apology for worrying them,\nI promised to treat everyone to some sweets..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし、俺にも奢ってくれ。",
+    "translation": "Great, please treat me as well."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、そうしましょう。\nみんなで一緒に、上杉さんの\nバイト先のお店に行きますね。",
+    "translation": "Sure, let's do that.\nLet's all go to the restaurant\nwhere you work, Uesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それは……いや……。",
+    "translation": "Uh... Nah..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ？　何か問題ありますか？",
+    "translation": "Huh? Is there a problem?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あの店長、俺のバイト代から引くとか、\n勝手なことをしそうで不安があるんだよ。",
+    "translation": "...I'm just worried that the manager\nmight deduct my pay without permission."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは、大丈夫ですよ。\n何があろうと、ちゃんと私が払いますから！",
+    "translation": "Ahaha, don't worry.\nNo matter what happens, I'll pay for everything!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、でも、上杉さんには、\nいっぱいお世話になっちゃいましたから――",
+    "translation": "Oh, but, you've taken so much care of me lately, \nUesugi-san%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "お詫びではなくて、ちゃんとした形でも\nお礼させてください。",
+    "translation": "Please allow me to thank you not only as an \napology, but also for your help in a proper way."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんなに世話したつもりはないぞ。\n俺だって、お前の世話になったんだし。",
+    "translation": "I didn't do much to deserve all of this.\nYou helped me a lot too, ya know."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その程度でよかったな。",
+    "translation": "I think that's good enough."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、みんな優しいんです。\n本当はもっと色々お詫びをしたほうが\nいいくらいなのに。",
+    "translation": "Yes, everyone is so kind. To the point that I feel like I \ncould have apologized for a lot more."
+  },
+  {
+    "character": "四葉",
+    "japanese": "だから、これから先、みんなを手助けすることで\n少しずつ返していきます。",
+    "translation": "That's why from now on,\nI'll gradually repay everyone by helping them out."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、でも、そこはみんなには内緒で！\nきっと、そんなことしなくてもいいって\n言われちゃいますから。",
+    "translation": "Oh, but keep that a secret from everyone!\nThey'll probably say it's not necessary."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ともかく、まずはスイーツです！\n上杉さんも一緒に行きましょうね。\n私が全部、奢っちゃいますから。",
+    "translation": "Anyway, let's start with some sweets!\nUesugi-san, please join us.\nI'll treat everyone."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、でも、上杉さんには、\nいっぱいお世話になっちゃいましたから――",
+    "translation": "Oh, but, you've taken so much care of me lately, \nUesugi-san%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "お詫びではなくて、ちゃんとした形でも\nお礼させてください。",
+    "translation": "Please allow me to thank you not only as an \napology, but also for your help in a proper way."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんなに世話したつもりはないぞ。\n俺だって、お前の世話になったんだし。",
+    "translation": "I didn't do much to deserve all of this.\nYou helped me a lot too, ya know."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それも想い出だな。",
+    "translation": "This'll become a great memory too."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……ですね。\nそこまで含めて、ちゃんと心にしまっておきます。",
+    "translation": "...You're right.\nAnd I'll keep it in mind."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが、ここで四葉だけに\n奢らせるわけにもいかないよな。\n俺にも責任があったんだし。",
+    "translation": "But I can't just let you treat them by yourself.\nI'm also responsible for this."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえいえ！\nこれは私たち姉妹の約束ですから。",
+    "translation": "No, it's fine!\nThis is a promise between sisters."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういうわけにもいかないだろ？\nせめてワリカンとかで……。",
+    "translation": "That won't do it, ya know?\nLet's at least split the bill..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "もう、上杉さんの分も私が奢っちゃいますよ。\nだから、一緒に行きましょうね？",
+    "translation": "Now now, I'll treat you too, Uesugi-san.\nNow, let's go together, okay?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、でも、上杉さんには、\nいっぱいお世話になっちゃいましたから――",
+    "translation": "Oh, but, you've taken so much care of me lately, \nUesugi-san%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "お詫びではなくて、ちゃんとした形でも\nお礼させてください。",
+    "translation": "Please allow me to thank you not only as an \napology, but also for your help in a proper way."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんなに世話したつもりはないぞ。\n俺だって、お前の世話になったんだし。",
+    "translation": "I didn't do much to deserve all of this.\nYou helped me a lot too, ya know."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いいえ、上杉さんのおかげで\n素敵な夏の想い出ができました。",
+    "translation": "No, thanks to you, Uesugi-san,\nI was able to make wonderful summer memories."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……私にはもったいないくらいの素敵なものです。\nだから、お礼をしたいんです。",
+    "translation": "...It's something so wonderful\nthat it's almost too good to be true.\nThat's why I want to thank you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はああぁぁ……。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、あの、どうしてそんな大きなため息を……。",
+    "translation": "U-um, why the long sigh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いいか、四葉。\n夏はまだ終わってないんだし、\n夏の先にだって、いくらでも時間はある。",
+    "translation": "Listen, Yotsuba.\nSummer isn't over yet, and there's plenty of time\neven after the summer holidays are over."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この程度でいちいち礼なんてしてたら\n切りがないだろ。",
+    "translation": "If you're going to thank me\nfor every little teeny-weeny thing like this,\nit won't ever end."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん……。",
+    "translation": "Uesugi-san..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "今度は迷子よりも、もっといい想い出を作ろうぜ。",
+    "translation": "Let's make even better memories next time,\ninstead of getting lost."
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "……はい。",
+    "translation": "...Okay."
+  },
+  {
+    "character": "四葉",
+    "japanese": "これからも、この先も……\nいっぱい素敵な想い出が作れるように\n私も頑張りますね。",
+    "translation": "I will do my best...\nto create many more wonderful memories with you\nfrom here on out."
+  }
+]

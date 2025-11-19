@@ -1,0 +1,717 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "呼び出してすまんな、三玖。\nしかも考え事をしている最中に。",
+    "translation": "Sorry for calling you out, Miku.\nEspecially when you were lost in thought."
+  },
+  {
+    "character": "三玖",
+    "japanese": "いいけど……今度はどうしたの？\nキッチンに来てくれだなんて。",
+    "translation": "It's okay...\nCalling me to the kitchen like this.\nWhat's going on this time?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんなの決まってるだろう？\n料理を作ってくれ。",
+    "translation": "That's obvious, isn't it?\nCook up something to eat."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、聞こえなかったのか？\n俺に料理を作ってくれ。",
+    "translation": "Hey, could you not hear me?\nCook me up something to eat."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ええっ！？",
+    "translation": "HUHHH?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なぜそんなに驚く。\n別におかしなことは言ってないだろう。",
+    "translation": "Why are you so surprised?\nI didn't say anything strange."
+  },
+  {
+    "character": "三玖",
+    "japanese": "た、タイミングがおかしい。\nどうして……。",
+    "translation": "Th-the timing is just off.\nWhy?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "腹が減ったからだ！",
+    "translation": "Because I'm HUNGRY!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ええー……。",
+    "translation": "Huuhh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "困ったことに、\nこのままでは空腹で死んじまいそうでな！",
+    "translation": "The problem is,\nif I don't eat soon,\nI'm going to die of hunger!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "他の人に作ってもらえばいい。\nらいはちゃんとか。",
+    "translation": "You can ask someone else to make it for you.\nLike Raiha-chan."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺は三玖の料理が食いたい。",
+    "translation": "I want to eat your cooking, Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "っ……。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そ、そんなこと言われても、困る。",
+    "translation": "E-even if you say that, it'll be a problem."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺だって困ってるんだ。\nお前の料理以外は腹に入りそうにない。",
+    "translation": "I'm the one with a problem.\nI don't think I'll be able to eat anything else\nbut your cooking."
+  },
+  {
+    "character": "三玖",
+    "japanese": "なにそれ……。",
+    "translation": "What the..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わからん、そういう日もあるってことだ！",
+    "translation": "I don't really get it,\nbut I guess it's just one of those days!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "はあ……。\nわかった、準備するから座ってて。",
+    "translation": "*sigh*\nI understand, sit tight while I prepare it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか！\nよかった、これで生き延びられそうだ！",
+    "translation": "Really!\nGreat, now I can keep on living."
+  },
+  {
+    "character": "三玖",
+    "japanese": "もう……。",
+    "translation": "Geez..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "食材は……うん、大丈夫そう。\nフータロー、何か食べたいものはある？",
+    "translation": "The ingredients...\nHmm, looks like we have everything we need.\nFutaro, is there anything specific you want to eat?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "美味いものならなんでもいいぞ。\n美味いものならな。",
+    "translation": "I'll eat anything that's delicious.\nAnything delicious."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……なんで２回も言ったの？",
+    "translation": "...Why did you say it twice?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それはもちろん、まずいものなんて\n食いたくないからに決まってる！",
+    "translation": "Of course, that's because I don't want to eat anything\nthat tastes bad!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "わかった。",
+    "translation": "Got it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "なんでも美味しいって言うのに。",
+    "translation": "Even though you say everything is delicious."
+  },
+  {
+    "character": "三玖",
+    "japanese": "どうぞ、召し上がれ。",
+    "translation": "Here you are. Eat up."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう。\nじゃ、いただきます。",
+    "translation": "Alright.\nTime to eat, then."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はむっ……。",
+    "translation": "Nom..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "どう？",
+    "translation": "How is it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うん、不味いな。",
+    "translation": "Yeah, it's not very tasty."
+  },
+  {
+    "character": "三玖",
+    "japanese": "――えっ？\n今、なんて……。",
+    "translation": "%p-2;――%p; Huh?\nWhat did you just, say?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺は！　『不味い』と言ったんだ！",
+    "translation": "I said! It's 'not very tasty'!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "な、なんで……。",
+    "translation": "Wh-why?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんで、だと？\nいくら俺が味音痴でも、\n不味いものを食べたら不味いと言うが？",
+    "translation": "Why, you ask?\nEven though I have no taste,\nI can still say something is bad if it's bad."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、前に、四葉が石みたいって言ったコロッケも\n美味しいって。",
+    "translation": "But before, you said that the croquettes\nYotsuba said were like rocks\nwere still delicious."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、あれのほうが数倍ましだな！",
+    "translation": "Yeah, those were much better than this!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "腕が落ちたんじゃないか？\n昨日今日と料理をサボるからだぞ？\n継続は力なりくらい聞いたことはあるよな？",
+    "translation": "Have your skills declined?\nYou've been skipping out on cooking lately.\nYou've heard that perseverance is key, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "う……。",
+    "translation": "Ooh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちなみに、こいつに関しては……\nそうだなぁ、コクがないっていうのか？\n余韻が感じられん！",
+    "translation": "By the way, this dish...\nLet's see, it just doesn't have enough depth.\nIt's got no umami!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "だったら、もう一度作る。",
+    "translation": "In that case, I'll cook it again."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そりゃ楽しみだ。\nぜひとも、この俺の舌を唸らせる料理を\n作ってくれたまえ。",
+    "translation": "Looking forward to it.\nPlease make a dish that will make my taste buds sing!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "できた、食べて。",
+    "translation": "Here it is. Eat up."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "不味い！\n味にメリハリがない！",
+    "translation": "This is gross!\nThere's no variety in the taste!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ、これ！",
+    "translation": "Then, this!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー、なんだ！　その、あれだ、味に深みがない！\n雲を食ってるようだな！",
+    "translation": "Ah, what's this?!\nThere's, like, no richness to the taste!\nIt's like I'm eating a cloud!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "これなら……！",
+    "translation": "How about this?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うぷっ……。\nざ、残念だがこれも不味い。\n味が薄いぞ、今は上品さなどいらんわ！",
+    "translation": "Urp... \nI-it's a shame, but this is bad too.\nIt's too bland, I will take nothing but the best right now!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（うっぷ、さすがにもう腹いっぱいだ。\n　これ以上は一口も食えん……）",
+    "translation": "(Burp, I'm so totally full.\n I can't eat another bite...)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……一度もフータローに美味しいって\n言わせられなかった。",
+    "translation": "...You didn't say my cooking was delicious even once,\nFutaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くっくっく……。\n三玖もまだまだだな……。",
+    "translation": "He-he-he...\nYou've still got some work to do, Miku..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "まだ食べられるよね？\nフータローが満足するまで、\n完璧に美味しくなるまで作るから。",
+    "translation": "You can still eat more, right?\nI'll keep cooking until it's perfect\nand you're satisfied, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……はは。\nそうだな、その台詞だ。",
+    "translation": "...Haha.\nThere you go, that's the spirit."
+  },
+  {
+    "character": "三玖",
+    "japanese": "なに笑ってるの？",
+    "translation": "What are you laughing at?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だから、『美味しくなるまで作る』だよ。\n石コロッケのときにもそんなこと言ったぞ、お前。",
+    "translation": "Because you said you'll 'cook until it comes out delicious.'\nI even said the stone croquettes were delicious,\nremember?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そして、俺がこうして満腹になるまで\n食わされてるのまで同じだ。",
+    "translation": "Filling me up like this till I'm full,\nand feeding me is the same thing."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ホントだ、私、同じことしてる。\n成長してないってことかな。",
+    "translation": "It's true. We're doing the same thing.\nIt means I haven't grown."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "成長してるさ。\n少なくとも、あのときは文句ばかりだった四葉が\nお前の料理を嬉しそうに食ってるんだぞ？",
+    "translation": "You have grown.\nAt least, Yotsuba who used to complain all the time,\nis happily eating your cooking now."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……うん。",
+    "translation": "...Yes."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なあ、三玖。\nそうやって成長できたのは……\n誰かのためって気持ちだけだと本当に思うか？",
+    "translation": "Hey Miku, do you really think that the only reason\nyou were able to grow so much...\nwas for someone else's sake?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "思う、けど。",
+    "translation": "I think so."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺は違うと思うぞ。",
+    "translation": "I DON'T think so."
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっ……。\nじゃあ、どうして？",
+    "translation": "Huh...?\nWhy not?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……さっきの話の続きだ。",
+    "translation": "...I'm gonna continue what I was saying before."
+  },
+  {
+    "character": "三玖",
+    "japanese": "勉強していい大学に進学するのは\nらいはちゃんのため、って話？",
+    "translation": "Seeking higher education at a university\nwhere you can study,\nand that being for Raiha-chan's sake?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだ。\nけど三玖、それはお前の早とちりだ。\n人の話はちゃんと最後まで聞け。",
+    "translation": "That's right.\nHowever, Miku, you're jumping to the wrong conclusions.\nListen to me until the end."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……ごめん。",
+    "translation": "...Sorry."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺も最初から勉強が好きだったわけじゃない。\nお前が最初から料理が好きだったわけじゃ\nないようにな。",
+    "translation": "I didn't like studying at first. \nJust like how you didn't like cooking at first."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが、あるとき、ある人によって\n学力が俺の武器になると気がつかされた。\nそれからだよ、勉強に打ち込んだのは。",
+    "translation": "But one time, someone made me realize\nthat my intelligence could be my weapon.\nThat's when I started dedicating myself to studying."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私が……フータローに気づかせてもらったみたいに。",
+    "translation": "Like...how you made me realize, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんな俺からすれば、お前がここまで上達できたのが\n誰か１人のためだけとは思えない。",
+    "translation": "For me, having learned that,\nI can't imagine that you improved this much\njust for one person."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺は、勉強に楽しさを見いだして、\n勉強をすることで成せることがあると\n確信して、ここまできた。",
+    "translation": "I found the joy in studying,\nand I believed that it could lead to greater things.\nThat's how I got to where I am now."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（そう、俺の中で\n　かみ合ってなかったのはこれなんだ）",
+    "translation": "(I see, so that's what didn't click inside of me.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だから、お前もそうなんじゃないか？",
+    "translation": "So, isn't it the same for you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "料理そのものが好きで、楽しんでいて、\n料理を通じて成せることがあると気がつき始めてる。",
+    "translation": "You love cooking itself,\nand you're starting to realize that you can\naccomplish things through cooking while having fun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "修学旅行の、お前のパンから伝わった努力の味も\nその結果だろ？\nお前に自覚はないのかもしれないけどな。",
+    "translation": "The taste of your bread during our school trip,\nthat's also the result of your efforts, right?\nMaybe you're not aware of that, though."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー……。",
+    "translation": "Futaro..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……お前は、料理を始めたばかりなんだ。\n今はまだきっかけから先には進めなくても、\nそのうち次の目標が見つかる。",
+    "translation": "...You've only just started cooking.\nIt's okay if you can't move past the initial spark\nright now. You'll eventually find your next goal."
+  },
+  {
+    "character": "三玖",
+    "japanese": "次の目標……。",
+    "translation": "My next goal..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "たとえば、自分の料理をたくさんの人に\n美味いと言ってもらう、とかな。",
+    "translation": "Like, for example, having lots of people\nsay that your cooking is delicious."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうやって、お前は……\n誰かの１人のためなんてところで満足せずに\nもっと上を目指そうとするに決まってる。",
+    "translation": "In that way...\nYou won't be satisfied just helping one person\nand...and you'll always aim for more."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前はそういうやつだ。\nだから焦る必要なんてないぞ。\n俺が保証してやる。",
+    "translation": "That's the kind of person you are.\nSo, you don't need to rush.\nI guarantee it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……フータローに保証されてもね。",
+    "translation": "...Even you guarantee it, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ、その言い方は。\n俺は、お前ならできると本気で思ってるぞ。",
+    "translation": "What's with that way of talking?\nI really do believe that you can do it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……うん。",
+    "translation": "...Yes."
+  },
+  {
+    "character": "三玖",
+    "japanese": "またフータローに助けられちゃった。\n自分でちゃんと答えを出したい、なんて言っておいて。",
+    "translation": "You've helped me again, Futaro.\nEven though I said that\nI wanted to find the answer on my own."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃ、前に進めないか？",
+    "translation": "So, you say you can't move forward?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ううん、進める。\n見つけたきっかけはフータローだけど、\nそもそも、もう答えは私の中にあったんだから。",
+    "translation": "No, I can do it.\nEven though you were the reason for that spark,\nthe answer was already inside me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし、模範解答だ。\n満点をやってもいい。",
+    "translation": "Good, that's the perfect answer.\nYou deserve full marks."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……ありがと。\n本当に、色々ありがとう、フータロー。",
+    "translation": "...Thanks.\nReally, thank you for so much, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "気にするな。\nまあ、これも家庭教師としての、仕事の延長、だ。",
+    "translation": "Don't mention it.\nI mean, it's just an extension of my job\nas your tutor."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……あ、ヤバい。\n　そろそろ立ってるのがキツくなって……）",
+    "translation": "(...Ah, oh no.\n I'm so full...it's getting hard to stand up...)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっ、ええ！？　なんで倒れるの！？\nフータロー、大丈夫！？",
+    "translation": "W-woah?! Why are you falling over?!\nFutaro, are you okay?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "し、心配するな。\n食べすぎで、横になってるほうが楽なんだ。",
+    "translation": "I-I'm okay.\nI ate too much, so laying on my side\nis more comfortable."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、こんなところで。\n部屋か、せめてリビングに……。",
+    "translation": "But here, of all places?\nAt least go to your room, or the living room..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しばらく動けそうにないんだよ……。",
+    "translation": "I don't think I can move for a while..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃ、じゃあ……。",
+    "translation": "A-alright, then..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ……ちょ、三玖！？\nお前、何を……。",
+    "translation": "Umm... Hold on, MIKU?!\nWhat are you doing?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "こ、こんな感じで……どう、かな？",
+    "translation": "H-how does this...f-feel?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうって言われても。",
+    "translation": "I can't really say."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（膝枕されてる、以外に\n　表現しようがない状況だとしか言えないぞ）",
+    "translation": "(I can't say anything other than I'm in a situation\n where I'm using Miku's lap as a pillow.)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ごめん……。\n食べすぎのときって、どうすればいいのかわからない。\n胃薬、あったかな……。",
+    "translation": "Sorry...\nI don't know what to do when someone eats too much.\nMaybe I have some stomach medicine..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、正直どうしようもないだろ。\n消化されるまで大人しくしてる。",
+    "translation": "Ah, there's really not much to do.\nJust gotta chill out until the food digests."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そうだね……。\nじゃあ、このままで……。",
+    "translation": "That's right...\nOkay, we'll stay like this..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こ、このままか！？",
+    "translation": "L-like this?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……嫌？",
+    "translation": "...You don't like it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "い、いや、まあ……三玖がいいならいいが……。",
+    "translation": "W-well, um... I'm okay if you're okay, Miku..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "なら、よかった。",
+    "translation": "In that case, good."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……もう大丈夫みたいだな。\nまったく、手間かけさせやがって。",
+    "translation": "...I think I may be alright.\nGood grief, you really put me through a lot of trouble."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん……おかげさまで。",
+    "translation": "Yeah...because of you."
+  },
+  {
+    "character": "三玖",
+    "japanese": "色々ごめんね、フータロー。\nそれと……本当にありがとう。",
+    "translation": "Sorry for all the trouble, Futaro.\nAnd... Really, thank you so much."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そいつは俺じゃなくて、他のやつらに言ってくれ。\n今回、一番心配してたのは、\n間違いなくあいつらだからな。",
+    "translation": "Don't thank me, thank the others.\nThey were the ones that were most worried\nthis time, no doubt."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。",
+    "translation": "Okay."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……うっ！\n　いかん、しゃべると腹が厳しいな）",
+    "translation": "(...Ooh!\n Oh no, speaking makes my stomach hurt.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "本当は、どれも美味かったぞ。",
+    "translation": "Really, everything you cooked was delicious."
+  },
+  {
+    "character": "三玖",
+    "japanese": "実は、途中からそうじゃないかなって\nちょっと思ってた。",
+    "translation": "To be honest,\nI thought you might be lying back there at some point."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "バレてたのか……。",
+    "translation": "You caught me, huh..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "だって、評価がね。\n味が上品とか、余韻が感じられないとか、\nフータローには言えそうにないし。",
+    "translation": "Because of the way you evaluated my food. Talking about\nthe refinement, or there being no umami,\nthat's not something you would normally say."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あと、無理してるなって……それくらいはわかる。",
+    "translation": "You were pushing yourself too hard, as well...\nI could tell that much."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……うっ！\n　いかん、しゃべると腹が厳しいな）",
+    "translation": "(...Ooh!\n Oh no, speaking makes my stomach hurt.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "サボってたから味が落ちてたぞ？",
+    "translation": "You've been slacking off,\nso the taste wasn't as good as it usually is, you know?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……本当にそう思った？",
+    "translation": "...Did you really think that?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "実を言うと、よくわからん。\nけど家庭教師としては、ここでサボった分を\n叱りつけるのが筋ってもんだろ？",
+    "translation": "To be honest, I'm not sure.\nBut as a private tutor, it isn't out of the ballpark for me\nto scold you for slacking off, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふふ、そっか。\nフータローは本当に仕事熱心だね。",
+    "translation": "Teehee, is that so?\nYou really are passionate about your work, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "って、なんだよ。\n叱られたのにずいぶんと嬉しそうにして。",
+    "translation": "What the hell?\nYou look pretty happy for having been scolded."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……そんなことないよ。",
+    "translation": "...That's not true."
+  },
+  {
+    "character": "三玖",
+    "japanese": "すぐに取り戻すから。\n次は美味しいって言わせる。",
+    "translation": "I'll rally.\nAnd next time,\nI'll make you say it's delicious next time."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……うっ！\n　いかん、しゃべると腹が厳しいな）",
+    "translation": "(...Ooh!\n Oh no, speaking makes my stomach hurt.)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "まだ、つらい？",
+    "translation": "Does your stomach still hurt?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もうしばらくダメだな。\n胃が悲鳴を上げてんのが自分でもわかる。",
+    "translation": "I think it's still gonna be a while.\nEven I can tell that my stomach is crying out."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ、まだこのままだね。\nなんなら、ちょっとくらい寝ちゃっても構わない。",
+    "translation": "Well then, let's just stay like this for a while.\nYou can even take a nap if you want."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "い、いや、さすがに、この状況で寝たりはしねぇよ。",
+    "translation": "N-no, I can't just sleep in a situation like this."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……子守歌、歌ってあげようか？",
+    "translation": "...Do you want me to sing you a lullaby?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いらんわ！",
+    "translation": "I don't need one!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うっ……。",
+    "translation": "Urk..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー？",
+    "translation": "Futaro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すまん、しゃべるとキツい……。\nしばらく黙ってるが、寝てはないからな？",
+    "translation": "Sorry, talking is tough right now...\nI'll stay quiet for a while,\nbut I'm not sleeping, okay?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "やっぱり歌っちゃおうかな。\nフータローの寝顔、独り占めできるし。",
+    "translation": "Maybe I should sing after all.\nI'll be able to watch you sleep.\nI'll treasure this memory we shared."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……勘弁してくれ。\n寝顔を見られるのは苦手なんだよ。",
+    "translation": "...Please spare me.\nI don't like it when people watch me sleep."
+  }
+]

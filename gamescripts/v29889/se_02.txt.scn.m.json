@@ -1,0 +1,337 @@
+[
+  {
+    "character": "二乃",
+    "japanese": "フー君に！",
+    "translation": "We would like%p-2;――%p;!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "言いたいことがある。",
+    "translation": "To say something to you, Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ急に。\n何か問題が起こったのか？",
+    "translation": "What's up, all of a sudden?\nIs there a problem, or something?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ええそうね、大問題だわ。",
+    "translation": "Yes, yes, a massive problem."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なにっ！？\nどうしたんだ、何があった！？",
+    "translation": "WHAT?!\nWhat's wrong, what happened?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あ・そ・び・た・い！",
+    "translation": "WE WANNA PLAY!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Wha?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "遊びたい。",
+    "translation": "We want to play."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "遊びたい？",
+    "translation": "You want to play?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君と別荘に来てて、海が目の前なのよ？\nもっと夏を楽しみたいの！",
+    "translation": "We've come to the villa with you, Fu-kun,\nand the ocean's right in front of us, see?\nWe want to enjoy summer more!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それのどこが大問題だ。",
+    "translation": "How is that a massive problem?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "大問題じゃない！\n生き残らなくちゃいけないのはわかるけど、\nこのままじゃストレス溜まっちゃうわ。",
+    "translation": "It's not a massive problem!!\nI understand that we have to survive,\nbut we are just going to get more stressed out like this."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そう、士気に関わる。\n士気が下がったら待っているのは潰走。\n生き残れないよ。",
+    "translation": "Yes, it's about morale.\nWhen morale drops, all that awaits us is a rout.\nThere's no way we can survive something like that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うーむ、確かに一理あるな。\nしかし三玖、潰走なんて言葉知ってたのか。",
+    "translation": "Hmm, there's no doubt some truth in that.\nBut Miku, I'm surprised you knew a word \nas complex as 'rout.'"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、ゲームだと敵の士気を下げて\n潰走を誘うのは基本だから。",
+    "translation": "Yes, it's basic in video games,\nin order to cause a rout,\nyou must lower enemy morale."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ゲームの話はいいの！",
+    "translation": "We don't need to talk about games right now!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ね？　フー君だって問題だって思ったでしょ？\nもっと遊ぶ時間を作るべきよ！",
+    "translation": "So? You thought it was a problem too, right, Fu-kun?\nWe need to make more time for recreation!"
+  },
+  {
+    "character": "一花",
+    "japanese": "はーい、私もそう思いまーす。",
+    "translation": "Yes, I think so too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……お前らも聞いてたのか。",
+    "translation": "...You guys were listening in, too."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは、さっきの二乃の声が大きかったので。",
+    "translation": "Hahaha, only 'cause Nino was\ntalking so loudly."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ほら、みんなも同じ考えだわ。\nここは息抜きをすべきよ！",
+    "translation": "Look, everyone feels the same.\nWe should take a load off here!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "海じゃなくてもいい。\n山に行ったりするのもきっと楽しいよ。",
+    "translation": "It doesn't have to be the ocean.\nGoing to the mountains would also be so much fun."
+  },
+  {
+    "character": "一花",
+    "japanese": "川で泳いでみるのもいいかもね。\n水が冷たくて気持ちよさそうだったし。",
+    "translation": "It might be nice to try swimming in the river.\nThe water's so cold, it might feel really good."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（くっ、グイグイ来るなこいつら。\n　そんなに遊びたいのか）",
+    "translation": "(Humph, these suggestions just keep coming.\n Do they really wanna play THAT much?)"
+  },
+  {
+    "character": "五月",
+    "japanese": "み、みんな、ちょっと落ち着きましょう？",
+    "translation": "H-hey, everyone, let's calm down a bit, okay?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なに、五月。\nあんたは遊びたくないの？",
+    "translation": "What, Itsuki?\nYou don't wanna play?"
+  },
+  {
+    "character": "五月",
+    "japanese": "それは……私はただ、今は緊急事態ですし\n節度を持った行動をすべきだと思っているだけです。\nそうですよね、上杉君？",
+    "translation": "Well... I just think, now's an emergency,\nso we should be acting with moderation.\nRight, Uesugi-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君、待ってください！",
+    "translation": "Uesugi-kun, wait!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月？\nどうした？　まだ話があるのか？",
+    "translation": "Itsuki?\nWhat's wrong? Did you still want to talk?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、父から電話が。\nあなたに話があるので代わってほしいと。",
+    "translation": "No, it's a phone call from my father.\nHe wants to speak with you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なに……？",
+    "translation": "What...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お電話代わりました上杉です！\nご無沙汰しております、お父さん！",
+    "translation": "Hello, this is Uesugi speaking!\nIt's been quite a while, Dad!"
+  },
+  {
+    "character": "中野父",
+    "japanese": "君にお父さんと呼ばれる筋合いはないよ。",
+    "translation": "You have no reason to call me 'Dad.'"
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたにお父さんと呼ぶ筋合いはありません。",
+    "translation": "You have no reason to call him 'Dad.'"
+  },
+  {
+    "character": "中野父",
+    "japanese": "期末試験の結果は聞いているよ。\n確かに、少し息抜きをしても問題ない成績だった。",
+    "translation": "I heard the results of the final exams.\nTheir grades are certainly good enough\nto warrant a small break."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それは、別荘の件でしょうか？",
+    "translation": "You mean, the villa trip?"
+  },
+  {
+    "character": "中野父",
+    "japanese": "娘たちたっての願いだ。\n充実した週末を過ごせるだけの準備は\n抜かりなくさせておこう。",
+    "translation": "It's my daughters' wish.\nI'll make sure it's well prepared\nfor a fulfilling weekend."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ありがとうございます！",
+    "translation": "Thank you very much!"
+  },
+  {
+    "character": "中野父",
+    "japanese": "ところで、上杉君。",
+    "translation": "And by the way, Uesugi-kun..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はい、なんでしょう？",
+    "translation": "Yes, what is it, sir?"
+  },
+  {
+    "character": "中野父",
+    "japanese": "２泊３日、君と娘たちが１つ屋根の下で\n過ごすとなると、心穏やかにはいられなくてね。",
+    "translation": "I can't be at peace when you and my daughters\nare spending two nights and three days under one roof."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "中野父",
+    "japanese": "君には、あくまで紳士的、\nかつ節度を持った行動を期待しているよ。",
+    "translation": "I expect you to be a gentleman,\nand act with discretion."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "も、も、もちろんです！！\nそもそも俺たちは受験生です！\n夏は大切な時期ですからね！　ええ！",
+    "translation": "O-o-of course!!\nWe are going to take our exams soon after all!\nSummer is a very important time! Yes!"
+  },
+  {
+    "character": "中野父",
+    "japanese": "わかっているのならば問題ない。\nでは、楽しんできてくれたまえ。",
+    "translation": "If you understand, then there is no issue.\nWell then, enjoy yourself."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はああぁぁぁ……。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君？",
+    "translation": "Uesugi-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、スマホありがとな。",
+    "translation": "Yeah, here's your phone, thanks."
+  },
+  {
+    "character": "五月",
+    "japanese": "父から何を言われたのですか？",
+    "translation": "What did my father tell you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別荘の件だ。\n準備はしておくから楽しんでこいってさ。",
+    "translation": "About the villa.\nHe'll take care of the preperations for the rescue,\nso just have fun, he says."
+  },
+  {
+    "character": "五月",
+    "japanese": "その割には浮かない顔ですね。",
+    "translation": "Your face doesn't look that way."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "気にするな。\nその、高校生らしい節度ある行動を取れっていう\n一般常識の話をしただけだ。",
+    "translation": "Don't worry about it. We were just talking\nabout some common sense things such as,\nacting with discretion since we're high school students."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（わざわざ電話してきたってことは、やっぱり\n　父親としてこいつらを大切に思ってるんだろうな。\n　本当にめんどくせー親子だ）",
+    "translation": "(The fact that he bothered to call me means that\n as a father, he really cares about his daughters.\n What an annoying parent-child combo.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？",
+    "translation": "What?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、では私はこれで。",
+    "translation": "Well, I better be hitting the ol' dusty trail."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君？　どうしたの？",
+    "translation": "Fu-kun? What's wrong?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はっ！？\nいや、なんでもない！",
+    "translation": "WHA?!\nNo, nothing!"
+  },
+  {
+    "character": "五月",
+    "japanese": "本当ですか？",
+    "translation": "Really?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうですよ、なんでもないって感じじゃないですよ？\n完全にフリーズしちゃってましたから。",
+    "translation": "Yes, doesn't really seem like nothing, you know?\nYou'd completely frozen!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "本当だって。\n五月の言うとおりだ、節度のある行動を\n心掛けていこう。",
+    "translation": "It's true. \nItsuki's right, let's try to act with some discretion."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、遊ぶくらいはいいと思う。",
+    "translation": "But I think it's good to play sometimes."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうよ、息抜きしたいわ。",
+    "translation": "Yes, I wanna take a break."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかったわかった、何か考えてみる。",
+    "translation": "I got it. I got it. I'll think of something."
+  },
+  {
+    "character": "三玖",
+    "japanese": "やった。\n楽しみにしてるからね、フータロー。",
+    "translation": "Yay.\nI'm looking forward to it, Futaro."
+  }
+]

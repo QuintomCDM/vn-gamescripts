@@ -1,0 +1,222 @@
+[
+  {
+    "character": "五月",
+    "japanese": "上杉君。\n少し、お話をいいですか？",
+    "translation": "Uesugi-kun.\nCan I talk to you for a little bit?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうした？　何があった？",
+    "translation": "What's the matter? Did something happen?"
+  },
+  {
+    "character": "五月",
+    "japanese": "え……。",
+    "translation": "Wha..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんな浮かない顔をしてりゃ、\n何かあったと判断するのが普通だろ。",
+    "translation": "With a face like that,\nI'd normally assume something's happened."
+  },
+  {
+    "character": "五月",
+    "japanese": "……一花のことで、話が。\nみんなにも聞いてもらうべきかもしれません。",
+    "translation": "...It's about Ichika.\nMaybe everyone should listen too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか。\nわかった、ひとまず俺が聞こう。",
+    "translation": "I see.\nI understand, I'll listen for now."
+  },
+  {
+    "character": "五月",
+    "japanese": "実は――",
+    "translation": "Actually%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やはり、一花がああして\nカメラマンに徹してるのには理由があったわけか。",
+    "translation": "I see, so there was a reason she devoted herself to\nbeing a photographer, huh."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ホント、女優ってクセ者よね。\n自分を見せないように\n何重にも壁を張り巡らせちゃって。",
+    "translation": "Really, actresses have such peculiarities.\nThey put up multiple walls\nso that they don't show themselves."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それで五月は、\n一花の悩みが仕事以外にもあると思ってるんだな？",
+    "translation": "So Itsuki,\nyou think Ichika's worried about things\nother than work?"
+  },
+  {
+    "character": "五月",
+    "japanese": "はい、そうです。",
+    "translation": "Yes, I think so."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それに心当たりは？",
+    "translation": "Know what it might be?"
+  },
+  {
+    "character": "五月",
+    "japanese": "心当たりはあります、が――\n断言できるほどの自信がないのと、あと……。",
+    "translation": "I have a hunch, but%p-2;――\n%p;I'm not confident enough to say for sure, and..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……五月、三玖を見てるのか？）",
+    "translation": "(...Is Itsuki looking at Miku?)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（なるほど、この顔は明らかに\n　理由に心当たりがあるんだろう。\n　だが……）",
+    "translation": "(I see, her face clearly has a guess\n why Ichika might be acting strangely,\n but...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "理由は言えない、か？",
+    "translation": "You can't say the reason, can you?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……うん。",
+    "translation": "...I can't."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかった、なら聞かない。\nが、お前たちだけで解決できる問題なのか？",
+    "translation": "I understand, then I won't ask.\nBut is it a problem that you can solve on your own?"
+  },
+  {
+    "character": "五月",
+    "japanese": "すぐには無理だと思います。\nでもこれは、私たちでやるべきことですので。",
+    "translation": "I don't think it's going to happen right away,\nbut it's something we need to do."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だったら俺は見守るだけだが、\n何かあったらすぐに相談しろよ。",
+    "translation": "Then I'll just keep watching,\nbut if anything happens, talk to me right away."
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、ありがとうございます……。",
+    "translation": "Th-thank you..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それで、目の前の問題はどうしましょうか？",
+    "translation": "So, what to do with the problem at hand?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "目の前の問題？　なんだそれ？",
+    "translation": "The problem at hand? What do you mean?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "忘れないでくださいよ。\n一花が写真に写りたがらないという問題です。",
+    "translation": "Don't forget, please.\nThe problem is that Ichika\ndoes not want to appear in any photos."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー……。",
+    "translation": "Ahhh..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "こうなったら、\n部屋に閉じ込めて強引に撮りましょう。",
+    "translation": "In that case,\nwe should shut her in her room\nand forcibly take pictures of her."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "犯罪臭がするからやめろ。",
+    "translation": "Stop the stuff that smells of criminal activity."
+  },
+  {
+    "character": "三玖",
+    "japanese": "縄で拘束。",
+    "translation": "Bind her with rope."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "怖いわ！",
+    "translation": "You're scaring me!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君の時みたいに……盛ろうかしら。",
+    "translation": "I wonder if we could slip something in her drink...\nlike I did with you, Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それもやめろ！\nてか、お前らはどうして\n自由を奪うことから入るんだよ！",
+    "translation": "Don't do that!\nAnd why do you guys start\nwith the worst suggestions?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "一花が、自然に写真を撮られてもいいと\n思える状況を作れたら一番なのですが……。",
+    "translation": "It would be best if we could create a situation\nwhere Ichika would naturally feel\nit would be okay to be photographed..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "一花にとって自然なのは、\nやっぱりお仕事で撮る、なのかなぁ。",
+    "translation": "The time Ichika feels most natural\nis while she's working, I guess."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここで女優としての一花に依頼するのは\n本末転倒だろ。",
+    "translation": "We'd be putting the cart before the horse\nasking Ichika to be an actress here."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ホンマツ？\nホンマツさんが転んじゃうんですか？",
+    "translation": "A horse?\nAre we riding a cart with a horse?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー、いや、意味はあとでな。\nとにかく仕事としては――",
+    "translation": "Aahhh, no, I'll explain what that means later.\nAnyway, about her work%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君？",
+    "translation": "Fu-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか！　仕事だ！\nあるぞ、一花攻略法が！",
+    "translation": "That's right! Her work!\nThere IS a way to capture Ichika!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ？　仕事はなしって\nたったいま言ったではありませんか。",
+    "translation": "Huh? Didn't you just say that her job was a no-go?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いいから、まずは聞け。\nこの方法で必ず一花の首を縦に振らせるぞ。",
+    "translation": "It's fine, just listen.\nI will definitely have Ichika's agreement on this."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うわぁ……。\n上杉さんの顔が悪に染まってます。",
+    "translation": "Uwaah...\nUesugi-san's face is steeped in vice."
+  },
+  {
+    "character": "三玖",
+    "japanese": "や、やりすぎないでね？",
+    "translation": "D-don't go too far, okay?"
+  }
+]

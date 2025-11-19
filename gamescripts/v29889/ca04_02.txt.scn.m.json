@@ -1,0 +1,327 @@
+[
+  {
+    "character": "一花",
+    "japanese": "さてと、肝心の想い出作りだけど、どうしよっか？\nみんなは、何かやりたいことある？",
+    "translation": "Well then, now for the important part, making memories.\nWhat should we do?\nDoes anyone have something in mind?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですね……。\nハイキングなんてどうでしょう？\n今ある食材も使い切っておく必要がありますし。",
+    "translation": "Let me think...\nWell, how about hiking?\nWe also need to use up the ingredients we currently have."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そうだね、お弁当を作って\n森の中をハイキング、なんていいかも。",
+    "translation": "That's a good idea!\nWe could make bento boxes and go hiking in the woods."
+  },
+  {
+    "character": "らいは",
+    "japanese": "森に行くなら、滝で水浴びもしたーい！",
+    "translation": "If we go to the forest,\nI want to take a dip in the waterfall!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あそこは飲み水の補給に使うから、\n汚すのはあまりよくないぞ。",
+    "translation": "You shouldn't dirty the water there,\nsince it's used for drinking."
+  },
+  {
+    "character": "らいは",
+    "japanese": "あっ、そうだった。\nあの滝、綺麗だったから残念だなぁ。",
+    "translation": "Oh, you're right.\nThat's too bad. I'll keep the waterfall nice and clean."
+  },
+  {
+    "character": "五月",
+    "japanese": "水は充分に備蓄してありますが、\nまだ何があるかわかりませんしね。",
+    "translation": "We have enough water stocked up,\nbut we don't know what else we might need."
+  },
+  {
+    "character": "二乃",
+    "japanese": "水浴びなら海でもいいわよね？\nこんなに海が近いのに、ほとんど泳いでないもの。",
+    "translation": "If we want to swim, we could go to the beach, right?\nWe're so close to the sea, but we haven't swum much."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "今までは余裕がなかっただけで、\n遊ぼうと思えば色々とできそうだな。",
+    "translation": "We just didn't have the time before.\nThere's so many fun things\nwe could do!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローは？　何がしたい？",
+    "translation": "How about you, Futaro? What do you want to do?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺はなんでもいいぞ。\nただし、危険なことは却下だ。",
+    "translation": "I'm fine with anything,\nas long as it's not dangerous."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それなら、みんながやりたいことを\n全部やっちゃいましょう！",
+    "translation": "Then let's do everything that everyone wants to do!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いやいや、どう考えても時間的に無理だろ？",
+    "translation": "No way! We don't have that much time!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いけますよ！\nまずは森の中を散策しつつ滝で涼んで、\nそして海にすぐ移動して遊びまくる！",
+    "translation": "We can do it! First, let's go for a stroll in the woods,\ncool off in the waterfall,\nthen go have fun at the beach!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前はトライアスロンでもするつもりか！\n時間的にも体力的にも無理すぎる！",
+    "translation": "Are you planning to do a triathlon?!\nThat's too time consuming and physically demanding!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そこは根性ですよ！",
+    "translation": "It's all about perseverance!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "甘いぞ、四葉。\nこの俺に、根性論が通じるほどの体力が\nあると思っていたのか！？",
+    "translation": "You're too optimist, Yotsuba.\nDo you think that I have\nthat much stamina?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "それ、ドヤ顔で言うことじゃないぞー。",
+    "translation": "That's not something you should be proud about..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ぬぬぬ、確かに上杉さんと三玖は\n体力的に難しいかもですね。",
+    "translation": "Hmmm, well it's true that it might be difficult\nfor Uesugi-san and Miku to keep up\nin terms of stamina."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ううーーーーーん……。\nそうだ！　私がおんぶするというのはどうでしょう？",
+    "translation": "Hmmmm...\nI know! How about I carry you on my back?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "却下に決まってんだろ。",
+    "translation": "That's a definite no."
+  },
+  {
+    "character": "二乃",
+    "japanese": "むむむ……。",
+    "translation": "Hmmmm..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ここでまさかの四葉……！",
+    "translation": "Oh wow, Yotsuba!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "いつのまにか、フータローが調略されてた……。",
+    "translation": "Somehow, she got Futaro considering it..."
+  },
+  {
+    "character": "五月",
+    "japanese": "ああっ……。",
+    "translation": "Aaahh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うん？\nなんだ二乃も三玖も、俺の顔になんかついてるか？",
+    "translation": "Hm?\nWhat, Nino, Miku?\nIs there something on my face?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ごめんね、私ばっかり話しちゃった！\nそれで、二乃と三玖は何がしたい？",
+    "translation": "Sorry for talking so much!\nSo, what do you want to do, Nino and Miku?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうね、私はやっぱり海がいいわ。\nフー君にもっと水着姿を見てもらいたいし。",
+    "translation": "I still think the beach is the best.\nI want Fu-kun to see me in a swimsuit more."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私は……山にハイキングがいいかな。",
+    "translation": "As for me...I prefer hiking the mountain."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあ？\n山なんていつでもいいじゃない。\nせっかくの夏なのよ？",
+    "translation": "Huh?\nWe can go to the mountain anytime, though.\nIt's summer, isn't it?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "離島の山だって、普段行ける場所じゃない。",
+    "translation": "We can't go to a mountain on a remote\nisland anytime we want..."
+  },
+  {
+    "character": "五月",
+    "japanese": "私も山に賛成です！\n水着はもう充分ですよね、ええ！",
+    "translation": "I agree with the mountain!\nWe've had enough time wearing swimsuits!"
+  },
+  {
+    "character": "一花",
+    "japanese": "そうだね、なんだかんだで浜辺には\n何度か行ってるし、私も山がいいかなぁ。",
+    "translation": "We've already been to the beach many times,\nso I'd like to go to the mountain too, I think."
+  },
+  {
+    "character": "五月",
+    "japanese": "らいはちゃん、どうですか？",
+    "translation": "Raiha-chan, how about you?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "私は海！",
+    "translation": "I wanna go to the beach!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし、海で決定だな！",
+    "translation": "Alright, then I'm choosing the beach!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "はや……。",
+    "translation": "That was fast..."
+  },
+  {
+    "character": "一花",
+    "japanese": "山派と海派、見事に意見が割れちゃったね。",
+    "translation": "The mountain and beach factions\nare split up equally, huh."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あとは四葉ね。\nあんたはどっちがいいのよ？",
+    "translation": "That leaves Yotsuba.\nWhich do you prefer?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ？\nええっと、どっちがいいかなぁ……あはは……。",
+    "translation": "Huh?\nUmmm, I wonder which one is better...\nHaha..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "早く決めてくれ。\nあとは四葉だけなんだぞ。",
+    "translation": "Come on, figure it out quickly.\nIt's just down to you now, Yotsuba."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うう、そう言われてもですね……。",
+    "translation": "Oooh, umm, right..."
+  },
+  {
+    "character": "一花",
+    "japanese": "それじゃ、フータロー君たちが\n行きたいほうにしよっか？\n２人は今回のゲストなんだし。",
+    "translation": "Then, how about we go wherever Futaro-kun\nand Raiha-chan want to go?\nAfter all, they are our guests."
+  },
+  {
+    "character": "四葉",
+    "japanese": "う、うんっ！\n私もそれに賛成！",
+    "translation": "O-okay!\nI agree with that!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃ、行くのは海に決まりでいいか？\n三玖と五月はどうだ？",
+    "translation": "Alright, so we've decided to go to the beach.\nHow about you two, Miku and Itsuki?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前の意見でいいんだぞ。\nこっちに気を遣う必要はないからな。",
+    "translation": "It's up to you.\nYou don't need to worry about our opinions."
+  },
+  {
+    "character": "四葉",
+    "japanese": "え～と……お心遣いは嬉しいのですが……。",
+    "translation": "Um... Well, I appreciate it, but..."
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ、ここはフータロー君とらいはちゃんが\n行きたいほうでいいんじゃない？\n２人は今回のゲストなんだし。",
+    "translation": "Then, how about we go wherever Futaro-kun\nand Raiha-chan want to go?\nAfter all, they are our guests."
+  },
+  {
+    "character": "らいは",
+    "japanese": "じゃあ、海！　海がいいでーす！",
+    "translation": "Okay, then the beach! I wanna go to the beach!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉もそれでいいか？",
+    "translation": "Is that okay with you, Yotsuba?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ、はい！\nもちろんですよ！",
+    "translation": "Ah, yes!\nOf course, that's fine!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖と五月はどうだ？",
+    "translation": "How about you two, Miku and Itsuki?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "決めてないなら、海でいいだろ？",
+    "translation": "Can't decide? Why don't we go to the beach?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "……えっ？",
+    "translation": "...Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前たちは俺とらいはをもてなすんだろ？\nそういう趣旨だと聞いてたんだがな。",
+    "translation": "You're supposed to be hospitable to me and Raiha, right?\nThat's what I heard, at least."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ、そうですよね！\nお客様である上杉さんがそう言うのなら\n海で決まりですよ！",
+    "translation": "Oh, right!\nIf our guest says so,\nthen we'll go to the beach!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "四葉さんも海でいいんだ。",
+    "translation": "Yotsuba is fine with the beach too."
+  },
+  {
+    "character": "四葉",
+    "japanese": "もちろんです！",
+    "translation": "Of course!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖と五月はどうだ？",
+    "translation": "How about you two, Miku and Itsuki?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、いいよ。",
+    "translation": "Okay, that's fine."
+  },
+  {
+    "character": "五月",
+    "japanese": "らいはちゃんに行きたいと言われてしまっては、\n反対などできません。",
+    "translation": "If Raiha-chan says she wants to go,\nI can't say no."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はあ……。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ほら、四葉も早く準備しなさい。",
+    "translation": "Come on, Yotsuba, let's get ready."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、うん！\n今日は１日、想い出作りの応援をするからね！\nみんな張り切っていこー！",
+    "translation": "Ah, okay!\nToday is all about making those memories!\nLet's give it all we've got!"
+  }
+]

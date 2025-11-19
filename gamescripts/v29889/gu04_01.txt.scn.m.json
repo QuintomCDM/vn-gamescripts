@@ -1,0 +1,52 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "おっはよーございまーす！",
+    "translation": "Gooooood morning!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すう……くかー……。",
+    "translation": "*snore*"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ？　聞こえなかったのかな。\nもしもし上杉さーん！　朝ですよー！",
+    "translation": "Huh? He couldn't hear me, huh.\nHello, Uesugi-saaan! It's MORNING!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……誰かが呼んでいる。\n　らいは、じゃない。この声は……）",
+    "translation": "(...Someone's calling me.\n It's not Raiha. This voice belongs to...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……四葉か？",
+    "translation": "...Yotsuba?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、そうです！　おはようございます！\nもうみんな起きてますよ。",
+    "translation": "Yes, that's right! Good morning!\nEveryone is already awake."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、すまん。\nわざわざ起こしに来てくれたのか。",
+    "translation": "Ah, my bad.\nYou came up here to wake me up."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえいえ。\nさあ、今日も１日頑張っていきましょう。\nまずは朝ご飯を食べてエネルギーチャージ、ですね。",
+    "translation": "Not a problem.\nOkay then, let's do our best today!\nFirst is to eat breakfast and charge our energy."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、急いで準備する。\n先に行ってていいぞ。",
+    "translation": "Okay, I'll hurry and get ready.\nGo ahead first."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はーい、では失礼します！",
+    "translation": "Okay, excuse me!"
+  }
+]

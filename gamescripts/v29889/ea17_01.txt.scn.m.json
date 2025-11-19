@@ -1,0 +1,32 @@
+[
+  {
+    "character": "一花",
+    "japanese": "へえ、今日はトンカツか。\n美味しそう――",
+    "translation": "Oh, tonkatsu today.\nIt looks good%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "あれっ？\nこのトンカツってレアなんだ、変わってるね。",
+    "translation": "Huh?\nThis tonkatsu is rare, it's a little strange."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……確かにレアなトンカツは聞いたことがないな。",
+    "translation": "...I've never heard of rare tonkatsu before,\nno mistake."
+  },
+  {
+    "character": "らいは",
+    "japanese": "待って待って！\nそれってちゃんと揚がってないトンカツだから\n食べちゃダメだよ！",
+    "translation": "Wait, wait!\nThat tonkatsu hasn't been properly fried,\nso don't eat it!"
+  },
+  {
+    "character": "一花",
+    "japanese": "ああ、やっぱり。\nレアのトンカツを出すお店もあるけど、\n素人が真似するのは危ないよね。",
+    "translation": "Oh, as expected.\nThere are restaurants that sell rare tonkatsu,\nbut it's dangerous for amateurs to try it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（レアのトンカツ……。\n　想像するに、低温調理された\n　レア風の物なんだろうな）",
+    "translation": "(Rare tonkatsu...\n I'd imagine to cook rare foods you'd\n have to cook it at a low temperature.)"
+  }
+]

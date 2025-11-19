@@ -1,0 +1,302 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "すまん三玖、待たせた！",
+    "translation": "Sorry Miku, I kept you waiting for so long!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "遅刻だよ、フータロー。\n久しぶりに会うのに大遅刻なんて最低。",
+    "translation": "You're late, Futaro.\nYou are the worst for keeping me waiting,\nwhen we haven't met in such a long time."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "本当にすまん！\nだが大遅刻ってほどじゃないだろ？",
+    "translation": "I'm really sorry! But I'm not that late, am I?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私の気分としては大遅刻。\n島から戻ってからも、ずっと連絡くれなかったし。",
+    "translation": "As far as I'm concerned, you're pretty late.\nYou didn't even contact me\nsince we came back from the island."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "関係ないだろ！？\nそれに、お互いに受験勉強があるんだ。",
+    "translation": "That doesn't matter, ya know?!\nBesides, we both need to study for our exams."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……なんで遅れたの？",
+    "translation": "...Why are you late anyway?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー、いや、その、\n本当にこの服装でいいのかと迷っちまってだな？\nといっても、俺は大して服を持ってないし……。",
+    "translation": "Ah, well, um, I wasn't sure if this outfit\nwas appropriate. Well I mean,\nit's not like I have that many clothes..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なあ、本当に正装じゃなくて大丈夫なのか？\n追い出されたりとかしないだろうな？",
+    "translation": "Hey, are you sure it's okay if I dress casually?\nWon't I be kicked out or something?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、緊張しすぎ。\nドレスコードはないから追い出されたりしないよ。",
+    "translation": "Futaro, you're too nervous.\nThere's no dress code. We won't be kicked out."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうは言うがな……高校生だけじゃ\n普通、行かないだろ？",
+    "translation": "Yeah, but...ordinary high schoolers\ndon't go to a restaurant like this, huh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そう？\n二乃とか五月とたまに行くけど。",
+    "translation": "Oh, really?\nI sometimes go with Nino, Itsuki, and the other guys."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こ、これだからセレブは……！\n普通の高校生は、レストランの\nビュッフェランチになんか行かねぇよ！",
+    "translation": "Y-you rich folk!\nOrdinary high schoolers wouldn't go to a buffet\nin a high class restaurant!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……もしかして嫌だった？",
+    "translation": "...You don't want to accompany me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うっ……。\nそ、そんな顔するなよ。\n別に、嫌ってわけじゃない。",
+    "translation": "Ooh...\nN-no need to be sad.\nIt's not like I didn't want to come."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そっか、よかった。",
+    "translation": "Oh. Good, then."
+  },
+  {
+    "character": "三玖",
+    "japanese": "お店はあのビルの最上階だよ。\n予約はしてあるから、行こう。",
+    "translation": "The restaurant is on the top floor of that building.\nI've made a reservation, so let's go."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう……。",
+    "translation": "Yep..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "はい、フータロー。\nあーん。",
+    "translation": "Okay, Futaro.\nSay, aaah."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……本当にやらないとダメか？",
+    "translation": "...Do I really have to do this?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ダメ。",
+    "translation": "Yes."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しかし、周りの視線が……。",
+    "translation": "But, the people around us will stare..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローの好みを探るためなら、\nこれくらい気にならない。",
+    "translation": "I don't mind doing this\nif I can find out your preferences, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あのなぁ、気にならないのは結構だが――",
+    "translation": "Well, it's good enough for me, if you don't mind \ndoing it, but%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "好みを探るのとこうするのに\nどんな因果関係があるのか説明しろ！！",
+    "translation": "Finding out my preferences and doing that\nhas literally nothing in common!!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "理由はある。\nすごく深い理由があるけど……。",
+    "translation": "There's a reason for it.\nThere's a very good reason, but..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "けど？",
+    "translation": "But?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローは知らなくてもいい。",
+    "translation": "You don't need to know about it, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それ実は理由なんてないだろ！？",
+    "translation": "That actually means\nthere's no reason for it, right?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、食事中はお静かに。\nお店に迷惑をかけるのはよくない。",
+    "translation": "Futaro, please be quiet during the meal.\nWe shouldn't be a annoying the other guests."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ぐっ……ここで正論を……）",
+    "translation": "(Ugh... Using common sense against me here...)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "はい、あーん。",
+    "translation": "Say, ah..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（これはもう腹を括るしかないか……）",
+    "translation": "(I guess I'll just accept my fate...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はむっ、もぐもぐ……。",
+    "translation": "Om, nom nom..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "どう？　美味しい？",
+    "translation": "How is it? Is it good?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……恥ずかしすぎて味がわからん。",
+    "translation": "...I'm too embarrassed to taste anything."
+  },
+  {
+    "character": "三玖",
+    "japanese": "なら、フータローが恥ずかしくなくなるまで\n食べさせるだけ。",
+    "translation": "If you're too embarrassed, I'll just keep feeding you \nuntil you feel comfortable."
+  },
+  {
+    "character": "三玖",
+    "japanese": "さあ、フータロー。\nあーん……。",
+    "translation": "Now then, Futaro.\nAh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、くそっ！\nいいぜ、こうなったらとことん付き合ってやるよ！",
+    "translation": "Ah, damn it!\nI'll stick with you until the end!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……やっと終わった。",
+    "translation": "...It's finally over."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（知り合いが来るような店じゃなくてよかった。\n　万が一、誰かに見られてたらと思うと……）",
+    "translation": "(It's a good thing it wasn't a restaurant\n where an acquaintance could see us.\n If someone had seen us...)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "どれも美味しかったね。\nデザートも絶品だったし。",
+    "translation": "All the dishes were delicious, right?\nThe dessert was also excellent."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか、よかったな。",
+    "translation": "That so? I'm glad to hear it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "よかったな、じゃなくて。\nフータローとしてはどうだった？",
+    "translation": "What do you mean, you're glad to hear it?\nHow was it for you, Futaro?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "特にどの料理が美味しかったとか、ある？\nフータローの舌に合うものはあった？",
+    "translation": "Was there any dish\nthat you thought was particularly delicious?\nWas there anything that suited your taste?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、そうだな……。",
+    "translation": "Hmm, let's see..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……三玖の料理のほうが美味かったな。",
+    "translation": "...Your cooking is better\nthan the stuff we had today, Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっ……ええぇええぇぇっ！？",
+    "translation": "Wha... WHAAaaAAAaaaa?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さっきの料理もまあ普通に美味かったが、\n三玖のはなんつーか……\n安心できる美味さ、という感じだ。",
+    "translation": "The food today was decent,\nbut your cooking...\nis always delicious, you know?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "安心できる……？",
+    "translation": "Always?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "無論らいはにはかなわないがな！\nしかし、かなりいい線行ってるぞ。",
+    "translation": "Well, of course it's not as good as Raiha's cooking.\nBut you're getting closer."
+  },
+  {
+    "character": "三玖",
+    "japanese": "らいはちゃんって……。",
+    "translation": "Raiha-chan, you say..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……ねえ、それって、あの島でよく食べてたから？\nだから慣れてて安心するんじゃ……。",
+    "translation": "...Hey, is it because you ate my food so often, while \nbeing on the island? That's what you're used to eat\nand it makes you feel comfortable..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ！　そうかもしれない！\nうんうん、やはり慣れてる味がいいな。",
+    "translation": "Oh! Yeah, I guess that's it!\nYeah yeah, familiar flavors really are the best."
+  },
+  {
+    "character": "三玖",
+    "japanese": "はあ……。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あれ？　三玖？\nなんで落ち込んでるんだ？",
+    "translation": "Huh? Miku? Why are you so sad all of a sudden?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "みんなの言ったとおり、フータローは失礼。",
+    "translation": "As everyone said, you're a devilish dork, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なんでだ！\n今のどこが失礼だったんだ！？\nていうか、みんなって誰だよ！",
+    "translation": "Wh-what?!\nHow was that rude?!\nAnd who do you mean by everyone?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "別に気にしなくていい。",
+    "translation": "You don't need to worry about it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それと、私、落ち込んでもいないから。\n少しは……前進してるみたいだし。",
+    "translation": "Also, I'm not feeling down.\nI feel...like I'm making progress, little by little."
+  },
+  {
+    "character": "三玖",
+    "japanese": "いつか、フータローがびっくりするくらいの\n料理を作れるようになるからね。",
+    "translation": "Someday,\nI'll be able to cook a dish that will surprise you,\nFutaro."
+  }
+]

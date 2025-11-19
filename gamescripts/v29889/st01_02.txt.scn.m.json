@@ -1,0 +1,487 @@
+[
+  {
+    "character": "二乃",
+    "japanese": "四葉。\n暗いから、足元には注意して歩きなさいよ。",
+    "translation": "Yotsuba.\nIt's dark, so watch your step."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん、わかった。\n島に来てからビックリしたけど\n街灯がないとこんなに暗いんだねー。",
+    "translation": "Okay, got it.\nI was surprised when we got to the island,\nbut it is so dark without streetlights."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっと！　懐中電灯を振り回さないで。\nしっかり前を照らしてよ。",
+    "translation": "Woah! Don't wave the flashlight around.\nShine it in front of you."
+  },
+  {
+    "character": "五月",
+    "japanese": "い、一花、もう少しゆっくりと歩いてください。",
+    "translation": "I-Ichika, please walk a little slower."
+  },
+  {
+    "character": "一花",
+    "japanese": "そんなに震えちゃって。\n五月ちゃんはホントに怖がりなんだから。",
+    "translation": "Look at you trembling.\nYou're such a scaredy-cat, Itsuki-chan."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、クーラーボックス重くないですか？\nよかったら私が持ちますよ？",
+    "translation": "Uesugi-san, isn't the cooler heavy?\nI could carry it for you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はぁはぁ……ふぅ……。\nいや、これくらい……大丈夫だ。\n浜辺はすぐそこだしな。",
+    "translation": "Haah, haah...phew...\nNo, I can...handle this much.\nThe beach is right there, too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それに、お前はお前で焚き火用の薪を持ってるだろ？",
+    "translation": "Besides, you're carrying wood\nfor the bonfire, aren't you, Yotsuba?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、そうでした。\nでも疲れたら言ってくださいね？\nこれくらいへっちゃらですから。",
+    "translation": "Oh, you're right.\nBut, if you're tired, please tell me, kay?\nI don't mind at all."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（四葉は本当に体力が有り余ってるな……）",
+    "translation": "(Yotsuba truly has so much physical strength...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんとか到着したな……。",
+    "translation": "We've somehow made it..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "おつかれさま、お兄ちゃん。",
+    "translation": "Good work, big bro."
+  },
+  {
+    "character": "四葉",
+    "japanese": "おおおおおー！\n上杉さん、見てください！　満天の星ですよ！",
+    "translation": "Oooohh!\nUesugi-san, look!\nThe whole sky is covered in stars!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うわ～！\nお空がお星さまでいっぱいだ！",
+    "translation": "Wooow!\nThere are so many stars in the sky!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "本当にいっぱい……。\n全部で何個くらいあるんだろう？",
+    "translation": "Yeah...\nI wonder how many there are in total?"
+  },
+  {
+    "character": "一花",
+    "japanese": "これは、数えるのはちょっと無理そうだね。",
+    "translation": "It might be a little impossible to count all these."
+  },
+  {
+    "character": "二乃",
+    "japanese": "おじいちゃんの旅館から見た夜空も\n綺麗だったけど、それ以上だわ。",
+    "translation": "The sky at Grandpa's inn was beautiful,\nbut this is something else."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ……。\nこんなにたくさんあると、\n星が空からこぼれ落ちて降ってきそうです。",
+    "translation": "Wow...\nWith so many stars,\nit feels that they'll spill out of the sky."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あら、ずいぶんと詩的な表現するじゃない。",
+    "translation": "Oh, how poetic."
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、そうですか？",
+    "translation": "I-is it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちなみに、あそこで\n一番輝いて見えるのが北極星だな。",
+    "translation": "By the way, the brightest star you can see over there\nis the North Star."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "北極星はほとんど動かない星だから、\n昔は夜の航海の目印として\n船乗りたちに重宝されていたんだ。",
+    "translation": "The North Star's position is almost fixed in the sky,\nso it used to be useful to sailors as a landmark\nfor night voyages."
+  },
+  {
+    "character": "らいは",
+    "japanese": "ふーん、北極星ってえらい星なんだ。",
+    "translation": "Hmm, the North Star sure is great."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ということは、北極星を知っていれば\n夜道で迷っても安心ですね。",
+    "translation": "Which means,\neven if you get lost on the road at night, you'll be safe\nas long as you know where the North Star is."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、その通り！\nちなみに北極星の高度は観測地点の北緯と同じだ。",
+    "translation": "Yes, that's right! By the way,\nthe elevation angle of the North Star\nis the same as the latitude of the observation point."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そして、ここは南の島だから\n俺たちの住んでいる街よりも低緯度となる。\nつまり、今見えている北極星は――",
+    "translation": "And because this is a small island in the south,\nwe're at a lower latitude than the city we live in.\nIn other words, the North Star that we see now%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "普段見ている北極星よりも\n少しだけ低い位置に見えていることになる！\nどうだ？　地球が丸いことが実感できるだろう！",
+    "translation": "%p-2;――%p; is a little lower than the North Star we usually see!\nWhat do you think of that? \nJust realizing that, you can tell the Earth is round!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？　どうした？",
+    "translation": "What? What's wrong?"
+  },
+  {
+    "character": "五月",
+    "japanese": "なにもこんなときにまで……。\n本当にあなたという人は、そういうところが……。",
+    "translation": "Really, Uesugi-kun...\nYou have to go and talk about that stuff now...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？　何かまずかったか？",
+    "translation": "What? Did I do something wrong?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたに知識があることは認めますが、\nそういった態度はどうかと思いますよ？",
+    "translation": "I admit that you know a lot of things,\nbut I think you could do something about that attitude."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ぐっ……。",
+    "translation": "Oof..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、それがフータローだから。",
+    "translation": "But that's who Futaro is."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君らしくていいわ。\nおかげで、こういう遊びでも知識があれば\nもっと楽しめるんだってわかってきたし。",
+    "translation": "It's just like Fu-kun to say that kinda stuff.\nI like it. Because of him, I understand that you can\nhave more fun playing like this if you know your stuff."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、フータローも、別に勉強させるつもりで\n言ってるわけじゃないよね。",
+    "translation": "Yes, and Futaro isn't necessarily saying it\nto make us study, or anything."
+  },
+  {
+    "character": "五月",
+    "japanese": "……そうですね。\n上杉君なりに気を遣ってくれたんですね。",
+    "translation": "...You're right.\nUesugi-kun is doing his best for us.\nHe was probably thinking about us when he said that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（確かに、楽しいかと思って言ったんだが\n　ここまでフォローされているのが微妙につらい！\n　俺のトークスキル、低すぎだろ！）",
+    "translation": "(I did think they would find it interesting.\n But being praised like this feels a bit strange!\n Is my conversational ability really that bad?)"
+  },
+  {
+    "character": "五月",
+    "japanese": "それで、流星群は何時頃に始まるのですか？",
+    "translation": "So, when can we see the meteor shower?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さあな？",
+    "translation": "I wonder..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こんなときだからだ。\nここまで見事な星空を見る機会なんて\nもうないかもしれないんだぞ。",
+    "translation": "It's especially at times like this.\nYou may never get another chance\nto see such a spectacular starry sky."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "知識を身につけるのには実践も必要だ。\nそれに、知っていれば面白いだろ？",
+    "translation": "Applying what you've learned requires practice.\nBesides, it's interesting to know, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "まあ面白いけど、今はできればもうちょっと\nロマンチックな話が聞きたいかな。",
+    "translation": "Well, it IS interesting, but right now,\nI'd like to hear something a little more romantic."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ロマンならあるだろ！\n地球が丸いなんてスペクタクルな発見を\n追体験できるんだ！",
+    "translation": "There's a TON of romance!\nYou can relive the spectacular discovery\nthat the Earth is round!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ですねー、昔の人はビックリしたでしょうね。\n大地が丸くてしかも回ってるなんて。",
+    "translation": "That's right, people in the past\nmust have been surprised. The Earth being round\nand that it spins, of all things."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君にロマンチックを期待したのが\n間違いだったか。",
+    "translation": "It was a mistake to hope Futaro-kun\nhad a romantic side to him."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、そうですね。",
+    "translation": "Yes, indeed so."
+  },
+  {
+    "character": "五月",
+    "japanese": "それで、流星群は何時頃に始まるのですか？",
+    "translation": "So, when can we see the meteor shower?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さあな？",
+    "translation": "I wonder..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "望遠鏡があればよかったんだが。\n観察しながらもっと詳しく説明してやれたのにな。\n残念だ。",
+    "translation": "Wish we had a telescope.\nIf we could observe it, I could explain things\nin more detail. It's a shame."
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ……？\nいえ、そういうことではなくてですね。",
+    "translation": "Huh...?\nNo, that's not what I'm talking about."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、望遠鏡使えるの？",
+    "translation": "Futaro, can you use a telescope?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "特に難しいものじゃないぞ。\n興味があるなら今度、覗いてみればいい。",
+    "translation": "It's not that hard.\nIf you're interested, \nyou should take a look next chance you get. "
+  },
+  {
+    "character": "三玖",
+    "japanese": "破軍星とか見れるかな？",
+    "translation": "Can we see the Alkaid star and the like?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほほう、ここで破軍星とはさすが三玖だな。\nああ、ばっちり見えるはずだ。",
+    "translation": "Woah, nice one, Miku. Of course you'd know Alkaid.\nYes, you should be able to see it clearly."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっと待って。\nはぐ……ってなに？",
+    "translation": "Hold on a second.\nWhat is Alka...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "北斗七星のアルカイドのことだ。\n簡単に言うと、中国では破軍と呼ばれていて\n戦事にまつわる伝説がある星だな。",
+    "translation": "It's a star in the Big Dipper, to put it simply.\nIn China, it's called the Jade Light.\nThere are many legends about it in history."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうなのですか……。",
+    "translation": "Is that so...?"
+  },
+  {
+    "character": "一花",
+    "japanese": "なるほどねー、そういうことを知ってると\n星の観察もより面白くなりそう。",
+    "translation": "I see, if you know stuff like that,\nobserving stars will be even more fun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だろう！\nもっと楽しめるように色々と解説してやるぞ！",
+    "translation": "Right?\nI'll just keep on explaining things, then,\nso you'll have more fun!"
+  },
+  {
+    "character": "五月",
+    "japanese": "……ありがとうございます。\nですが、お手柔らかにお願いしますね。",
+    "translation": "...Thank you very much.\nBut please go easy on us."
+  },
+  {
+    "character": "五月",
+    "japanese": "それで、流星群は何時頃に始まるのですか？",
+    "translation": "So, when can we see the meteor shower?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さあな？",
+    "translation": "I wonder..."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええっ！？",
+    "translation": "WHAAA?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この時期に流星群を眼視観測できるのは確かだ。\nただ、さすがに正確な時間まではわからん。\n待つしかない。",
+    "translation": "I'm sure that the meteor showers were able to be\nobserved around this time.\nHowever, I don't know the exact time. We can only wait."
+  },
+  {
+    "character": "五月",
+    "japanese": "そんな……。",
+    "translation": "No way..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "ものすごくガッカリしてる！？",
+    "translation": "Why is she so disappointed?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "五月ちゃん、流星群見るの楽しみにしてたから。\nでも夜はまだ始まったばかりなんだし、\n諦めるのは早いよね？",
+    "translation": "Itsuki-chan was looking forward\nto seeing the meteor shower, but the night has\nonly just begun. It's too early to give up now, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、それに……\n俺は見れると思ったから、お前たちに提案したんだ。",
+    "translation": "Yes, and...\nI thought we'd be able see it,\nso I suggested it to all of you."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ほら五月、落ち込んでないで\nレジャーシート広げるの手伝って。\nそれとも砂の上に座るつもり？",
+    "translation": "Look, Itsuki, don't be all sad.\nHelp me spread the picnic blanket.\nOr, would you rather sit on the sand?"
+  },
+  {
+    "character": "五月",
+    "japanese": "はい……。",
+    "translation": "Okay..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あのあたり、平らで座りやすそう。\nこっちのシートも広げておくね。",
+    "translation": "It looks pretty flat over there, so we can sit.\nI'll spread the blanket out."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、私は焚き火の準備をしますね。\n真っ暗だとさすがに危ないですから。",
+    "translation": "Okay then, I'll prepare the bonfire.\nIt's dangerous with it being pitch-black like this."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう、火の扱いには気をつけろよ。",
+    "translation": "Right, be careful with the fire."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この程度の灯りなら、星を見るのにも影響ないな。",
+    "translation": "This level of light won't affect our ability\nto see the stars."
+  },
+  {
+    "character": "らいは",
+    "japanese": "流星群、みんなで見れるといいね。",
+    "translation": "I hope we can all see the meteor shower."
+  },
+  {
+    "character": "四葉",
+    "japanese": "大丈夫ですよ。\nいざとなったら上杉さんがなんとかしてくれます！",
+    "translation": "It'll be alright.\nUesugi-san will do something about it!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "とんだ無茶振りを……俺は神様じゃねーぞ？\n願い事はそれこそ流れ星にするもんだろ。",
+    "translation": "Don't be absurd... I'm not a god, you know?\nMake your wishes on the shooting stars."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（けど、見せてやりたいよな。\n　らいはにも……こいつらにも……）",
+    "translation": "(Though, if I can, \n I'd like to show them the meteor shower.\n For Raiha...and the girls...)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "……あ！",
+    "translation": "...AH!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おお……！",
+    "translation": "Ohhh...!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "す、すごいっ！　すごいよ！！\n流れ星があんなにいっぱい……\nこれがお兄ちゃんの言ってた流星群？",
+    "translation": "A-amazing! AMAZING!!\nFor there to be THAT many shooting stars... Is this\nthe meteor shower you were talking about, big bro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、ああ、そうだぞらいは！\nどうだ、すごいだろ！？",
+    "translation": "Y-yeah, that's right, Raiha!\nWhat do you think? Isn't it amazing?!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うんっ！！\nみんな、流星群始まったよー！",
+    "translation": "YEAH!!\nEveryone, the meteor shower's started!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "さっきまで静かだった星空が一瞬で……。",
+    "translation": "The starry sky was so still a moment ago..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "すごい……こんなの見たことない。\nまるで光のシャワーを浴びてるみたい……。",
+    "translation": "Amazing... I've never seen anything like this.\nIt's like we're being bathed\nin a shower of light..."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん……綺麗だね。\nホント……目が離せないよ……。",
+    "translation": "Yes...it is beautiful.\nI really can't...take my eyes off of it..."
+  },
+  {
+    "character": "五月",
+    "japanese": "本当に始まりました……。\nこんなにも素敵な光景を、\n全員揃って一緒に見られるなんて……。",
+    "translation": "It really has started, huh...\nIt's such a wonderful sight. I can't believe\nthat we can see it together like this..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺は見れると思ったから、お前たちに提案したんだ。\nそう言っただろ？",
+    "translation": "I thought we'd be able to see it.\nThat's why I made the suggestion, you know?"
+  },
+  {
+    "character": "五月",
+    "japanese": "はい……。",
+    "translation": "Yeah..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "どうしよう四葉さん！\n考えておいたお願い事、もう全部言っちゃった！",
+    "translation": "What should I do, Yotsuba-san?!\nI've already said all of the wishes I could think of!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "こうなったら、思いついた順に\n全部お願いしちゃいましょう！\n遠慮はいりませんよー！",
+    "translation": "In that case, wish for anything and everything\nthat you can think of whenever you think of it!\nDon't hold back!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（すっかりはしゃいでるな、あいつら）",
+    "translation": "(They're really enjoying themselves, aren't they?)"
+  }
+]

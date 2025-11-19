@@ -1,0 +1,427 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "さあ、今日からが本番ですよ！\n２日間、思いっきり楽しみましょーう！",
+    "translation": "Alright, today on is the REAL thing!\nLet's make the most out of these last two daaays!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "おー！",
+    "translation": "YEAAAH!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、今日は何をしたい？",
+    "translation": "Futaro, what do you want to do today?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？　俺か？",
+    "translation": "Huh? Me?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "みんなで楽しむとしても、\nフータローがゲストなんだから。",
+    "translation": "Even if we all have fun together,\nyou still are our guest, Futaro."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうですよ！\n当然、上杉さんがしたいことが優先です。",
+    "translation": "That's right!\nWe will of course prioritize what you want to do,\nUesugi-san!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うーん、いきなり言われてもな。\nこれといってやりたいことがあるわけじゃないんだ。",
+    "translation": "Hmm, it's tough when you ask me so suddenly.\nIt's not like there's anything specific I want to do."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それに、お前らとの想い出作りなんだし\nお前らがやりたいことでもいいんだぞ？",
+    "translation": "Besides, it's about building memories with you guys,\nso it's okay for you to do whatever you want, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "まあ、そうなるか。\nみんなの想い出だもんね。",
+    "translation": "Well, I guess so.\nThey are everyone's memories, aren't they."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうだ？　何かあるか？",
+    "translation": "So what? Any ideas?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うーん、私もこれっていう\n具体的なものは思いついてないなぁ。",
+    "translation": "Hmm, I haven't really thought of\nanything concrete either."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか。\nじゃあ、他は？\n何か今日したいことがあるやつはいるか？",
+    "translation": "I see.\nHow about everyone else?\nIs there someone who'd like to do something today?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、そうだ、海水浴――",
+    "translation": "Ah, that's right, swimming in the ocean%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はいはーい！　上杉さん！\n私は山登りを提案します！",
+    "translation": "Yeah, yeaaah! Uesugi-san!\nI suggest a hike in the mountains!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "せっかくですし、この島の一番高いところに\n行ってみませんか？",
+    "translation": "We have the chance,\nso don't you want to see the highest place\non the island?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "わあっ！　それ楽しそう！",
+    "translation": "Wow! That sounds fun!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "頂上までは疲れるから、パス。\nハイキングみたいな緩いのなら賛成。",
+    "translation": "Going to the peak would be tiring. Pass.\nAn easy hike would be fine, though."
+  },
+  {
+    "character": "五月",
+    "japanese": "でしたら、私はバーベキューを提案します。",
+    "translation": "In that case, I suggest we have a barbecue."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そのバーベキュー用の食料を集めるのが\n大変じゃないか？",
+    "translation": "Isn't it a bother to gather the ingredients\nfor said barbecue?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、それは……現地調達すればいいのでは？",
+    "translation": "U-um...\nwe could gather food in the area?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "食材を集めるだけで日が暮れそう。",
+    "translation": "The sun would set just from us gathering."
+  },
+  {
+    "character": "五月",
+    "japanese": "で、では、オリエンテーリングにしましょう！",
+    "translation": "O-okay, let's make a game of it!"
+  },
+  {
+    "character": "五月",
+    "japanese": "食材が取れる場所をチェックポイントにして、\nみんなで持ち寄るゲームにするんです。",
+    "translation": "If we make some checkpoints\nof places where we can gather ingredients\nand everyone brings something, it might be quite fun."
+  },
+  {
+    "character": "五月",
+    "japanese": "そして、最後はその食材でバーベキュー！\nどうですか？",
+    "translation": "Then, we have a barbecue\nwith the ingredients we gathered!\nWhat do you think?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "バーベキューに対する執念がすごい……。",
+    "translation": "You are so tenacious about this barbecue..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そのチェックポイントで\n食材が見つからなかったらどうするんだ？",
+    "translation": "If we can't find food at that checkpoint,\nwhat are we gonna do?"
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ……。",
+    "translation": "Ahh, hmm..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "だったら、チェックポイントに食材を隠して、\nそれを発見するゲームにするのはどうです？",
+    "translation": "So why don't we hide the ingredients\nat checkpoints and make it a game to discover them?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……チェックポイント？\nなんの話をしてるのよ。",
+    "translation": "...Checkpoints?\nWhat are you guys talking about?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、二乃。\nどこ行ってたの？",
+    "translation": "Ah, Nino.\nWhere did you go?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "冷たいお茶が飲みたくって。\nはい、みんなの分も淹れたから、どーぞ。",
+    "translation": "I wanted to drink some iced tea.\nI've brewed enough for everyone, so here you go."
+  },
+  {
+    "character": "四葉",
+    "japanese": "わあ！　アイスティー！\nありがと！",
+    "translation": "Woah! Iced tea!\nThanks so much!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "サンキューな。",
+    "translation": "Thank you."
+  },
+  {
+    "character": "二乃",
+    "japanese": "それで？\n食材を隠すってなんの話？",
+    "translation": "And?\nWhat are you talking about, hiding ingredients?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そういうオリエンテーリングをしようって言ってたの。\n食材を見つけて持ち寄って、バーベキュー。",
+    "translation": "We were talking about trying something \nlike orienteering. Finding ingredients,\nand bringing them back, to barbecue them."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんでそんなことをするのよ。\nわざわざ汗だくになって、疲れなくてもいいじゃない。",
+    "translation": "Why would we do something like that?\nWe'd get all sweaty. Shouldn't we do something\nthat won't make us tired?"
+  },
+  {
+    "character": "五月",
+    "japanese": "うう……。",
+    "translation": "Ooohh..."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、二乃はなにしたい？",
+    "translation": "So, what do you want to do, Nino?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "もっちろん！　海水浴よ！\nフー君と一緒に！",
+    "translation": "Oh, obviously SWIM!\nTogether with Fu-kun!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "やっぱり二乃は海派かー。",
+    "translation": "You're for the sea, too, huh Nino."
+  },
+  {
+    "character": "二乃",
+    "japanese": "何よ、あんたは山がいいの？",
+    "translation": "What, would you rather hike the mountain?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そう、この島で一番高いところ、\nてっぺんを目指すんだよ！",
+    "translation": "Yeah, I'm aiming for the highest part of the island,\nthe tippy top!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "だから、頂上は無理。",
+    "translation": "I told you, the summit is impossible."
+  },
+  {
+    "character": "三玖",
+    "japanese": "と、いうか、ここでのんびりするのも\n悪くないかもって気がしてきてる。\n外は暑いし。",
+    "translation": "I mean, I'm starting to feel like\nit's not bad idea to just hang out in here.\nIt's hot outside."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんたね、それ言ったら終わるじゃない。",
+    "translation": "If you're saying something like that,\nit's already over, isn't it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "もう燃料の心配しなくていいから、\nエアコンもガンガンに効いてるもんねー。\n二乃のお茶も美味しいし。",
+    "translation": "We don't have to worry about fuel anymore,\nand the air conditioner is working hard for us.\nNino's tea is delicious, too."
+  },
+  {
+    "character": "五月",
+    "japanese": "そう言われてしまうと……\nここで過ごすのもありでしょうか。",
+    "translation": "That being said...\nit might really be fine to spend our time indoors."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いかん、空気がまったりしてきてる。\n　このままじゃ、ここでだらだらして\n　終わってしまいそうだな）",
+    "translation": "(Oh no, everyone's starting to give up.\n If this keeps up, it's going to end\n with everyone just lazing around inside.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（よし！　ここは勉強を――）",
+    "translation": "(Alright! I can recommend studying%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いやいや、ダメだ！\n　ここでそんなことを言ったら\n　総攻撃を食らうこと間違いなしだ）",
+    "translation": "(Wait wait, no!\n If I said something like that now,\n there's no doubt they would all attack me at once.)"
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ、だったら、とりあえず泳がない？\nここでだらだらして時間使ってももったいないよ。",
+    "translation": "Hey, in that case, why don't we just swim for now?\nIf we spend our time lazing around here,\nit'd be a waste."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、ちゃんと決めようぜ。\nただ単に泳ぐって言っても、そのあとはどうする？",
+    "translation": "No, let's make a firm plan.\nEven if we say we're just gonna swim,\nwhat are we going to do after that?"
+  },
+  {
+    "character": "一花",
+    "japanese": "んー？　細かく決めなくてよくない？\nとりあえず動いちゃえば、なんとでもなるよ。",
+    "translation": "Hmmm? We don't really need to make a detailed plan,\ndo we? If we just start moving, things will work out."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういうものか？\n浜辺でグダグダしそうだが……。",
+    "translation": "Is that how it is?\nI feel like I'd just laze around on the beach..."
+  },
+  {
+    "character": "一花",
+    "japanese": "目の前に海があれば、そんなことにはならないって。",
+    "translation": "I'm telling you, that won't happen with the beach\nin front of you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、そうかもな……。",
+    "translation": "Well, that might be true..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうするか。\n２日しかないんだ、とっとと動いちまおう。",
+    "translation": "Let's do it.\nWe've only got two days left, let's get moving around!"
+  },
+  {
+    "character": "一花",
+    "japanese": "そうそう。\nいざ目の前に海が広がれば、\nこんな風にまったりなんてしてられないって。",
+    "translation": "Exactly.\nWhen the ocean is spread out in front of you,\nthere's no way you can just sit back and relax."
+  },
+  {
+    "character": "一花",
+    "japanese": "らいはちゃんも海でいい？",
+    "translation": "Raiha-chan, are you happy with the ocean, too?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん！",
+    "translation": "Yeah!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、ちょうど泳ぎたい気分だ。",
+    "translation": "Yeah, I was just feeling like I'd want to swim."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "と、いうか、さっき一花が提案しかけたとき、\n俺もそれがいいんじゃないかと思ってたんだよな。",
+    "translation": "Actually, when Ichika suggested it earlier,\nI was thinking it was a good idea."
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、そうなの？\nうんうん、せっかくなんだから\n嫌になるくらい泳いでおきたいよね。",
+    "translation": "Ah, is that so?\nYeah, we have the chance,\nso I'd like to swim to the point that I get sick of it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここから戻ったら\n受験生らしい夏が待っているからな。\n最後の楽しみだ。",
+    "translation": "When we get back from the island,\nwe'll have a standard summer for entrance exam students.\nWe've got to make the most of our summer vacation."
+  },
+  {
+    "character": "一花",
+    "japanese": "もー、なんでオチをつけるかなぁ君は。",
+    "translation": "Oh, come on, what's with that cheesy line?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "んじゃ、泳ぎに行くってことでいいか？",
+    "translation": "Okay then, shall we go swimming?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、いいよ。",
+    "translation": "Okay, fine."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はーい、泳ぎましょう！",
+    "translation": "Alright, let's go swim!"
+  },
+  {
+    "character": "五月",
+    "japanese": "私も構いません。",
+    "translation": "I don't mind."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なら決まりね！",
+    "translation": "Then, it's decided!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "じゃあ、水着の準備だー！\n五月さん、行こっ！",
+    "translation": "Alright, let's get our swimsuits ready!\nCome on, Itsuki-saaan!"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、らいはちゃん！？\n走ったら危ないですよ！",
+    "translation": "Ah, Raiha-chan?!\nNo running! It's dangerous!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "私、何か簡単な食べ物と飲み物を\n用意しておくわね。",
+    "translation": "I'll prepare some easy food and drinks, then."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、私は倉庫から\nパラソルとか椅子を出してくるね。\n任せて！",
+    "translation": "Then I'll get a parasol and chairs out of storage!\nLeave it to me!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "手伝おっか？",
+    "translation": "Shall I help?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "平気、平気。\n三玖は二乃を手伝ってあげてねー。",
+    "translation": "It's alright, it's alright.\nMiku, you help Ninooo."
+  },
+  {
+    "character": "一花",
+    "japanese": "あらら、決まったらあっという間だね。\nみんな張り切ってるなー。",
+    "translation": "Oh my, after everyone decided on something,\nit all came together so fast.\nEveryone's so pumped up now."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……さっきは助かったよ。",
+    "translation": "...Thanks for the help."
+  },
+  {
+    "character": "一花",
+    "japanese": "え？　何が？",
+    "translation": "Huh? With what?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "海水浴の提案、いいタイミングだった。\n鶴の一声って感じだったな。\nさすがは長女と言ったところか。",
+    "translation": "You had excellent timing for your swimming suggestion.\nAs expected from the eldest sister."
+  },
+  {
+    "character": "一花",
+    "japanese": "別に、そんなんじゃないよ。",
+    "translation": "That's not really true."
+  },
+  {
+    "character": "一花",
+    "japanese": "うちはいつもこんな感じで、\nああでもないこうでもないって\n揉めること、よくあるんだよね。",
+    "translation": "We're always like this.\nWe often argue about things being this way or that."
+  },
+  {
+    "character": "一花",
+    "japanese": "だから、こういうときの\nみんなのコントロール方法はよーく知ってるわけ。",
+    "translation": "So, I know veerrry well\nhow to control everyone at times like these."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なるほどな。",
+    "translation": "I see that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（同じ日に生まれた五つ子だが、\n　やっぱり長女なんだな、一花は）",
+    "translation": "(Even though the quintuplets were all born\n on the same day,\n Ichika sure is the eldest sister.)"
+  }
+]

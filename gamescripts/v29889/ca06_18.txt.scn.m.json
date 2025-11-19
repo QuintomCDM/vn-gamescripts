@@ -1,0 +1,272 @@
+[
+  {
+    "character": "一花",
+    "japanese": "ふう……。\nだいぶ奥まで入ってきちゃったけど、\n三玖、いないね。",
+    "translation": "Phew...\nWe've gone pretty far in, but I don't see Miku anywhere."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ねえ、二乃。\n進む方向ってこっちで合ってる？",
+    "translation": "Hey, Nino.\nAre we going in the right direction?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……たぶん。\nどっちを見ても同じ景色にしか見えなくて、\nあまり自信がないけど。",
+    "translation": "...Maybe. \nNo matter which way we look, it's the same scenery \nin every direction. So I'm not very confident now. "
+  },
+  {
+    "character": "四葉",
+    "japanese": "これじゃ、私たちのほうが迷子になったりして。",
+    "translation": "We might end up being the ones lost instead."
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉、縁起でもないこと言わない。",
+    "translation": "Yotsuba, that's bad luck to say."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そういえば……\nねえ、一花と四葉はどうして滝に――",
+    "translation": "Speaking of which...\nHey, Ichika, Yotsuba, why did you go to the waterfall%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "って、聞くまでもないわね。\nあんたたちも水晶を探してたんだ。",
+    "translation": "Actually, I don't need to ask, do I?\nYou two were also looking for the crystals, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん、そうなんだけどね、一花は私が誘ったんだ！",
+    "translation": "Yeah, that's right,\nbut I was the one who invited Ichika!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ほら、永遠の絆なんて素敵だし、\n私たち姉妹同士で交換するのもいいかなって思って。\nねっ？　一花？",
+    "translation": "Like, isn't it nice to have an eternal bond\nbetween us sisters? I thought it would be good\nfor us to exchange them. Right? Ichika?"
+  },
+  {
+    "character": "一花",
+    "japanese": "う、うん……。",
+    "translation": "Y-yeah..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……ふーん、そういうこと。",
+    "translation": "...Hmm, so that's how it is."
+  },
+  {
+    "character": "二乃",
+    "japanese": "まったく、どうしてそうも気を遣うのかしら。\nらしいけど。",
+    "translation": "Gosh, just why do you have to be \nso considerate, Yotsuba?\nIt's so like you."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ん？　何？",
+    "translation": "Hm? What?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんでもない。\n滝は私と三玖で探したけど、水晶はなかったわよ。",
+    "translation": "Nothing.\nMiku and I looked for the crystals together\nat the waterfall, but we couldn't find them."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうだったんだ？\nじゃあ、やっぱりまずは伝説の泉を\n探さないとダメかぁ。",
+    "translation": "Oh, is that so?\nWell then, I guess we have to find \nthe legendary spring first."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、今はそれより先に三玖だよ。\nどこにいるんだろう？",
+    "translation": "But for now, we need to find Miku first.\nI wonder where she could be?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ！　そうだ！\nこういうときは足跡を探すのが定番だよね！",
+    "translation": "Oh! That's right!\nWhen it comes to situations like this,\nsearching for footprints is the go-to method!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "足下を見てみなさいよ。\nこれだけ落ち葉が積もってるのに、\n足跡なんて探せるわけないわ。",
+    "translation": "Look at your feet.\nWith this many fallen leaves,\nthere's no way we can find any footprints."
+  },
+  {
+    "character": "四葉",
+    "japanese": "でも、何か手掛かりが……。\n三玖が目印にパンのかけらを落としてるとか……。",
+    "translation": "But there must be some clues...\nLike Miku dropping breadcrumbs as markers..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あのね、童話じゃないのよ？\n第一あの子パンなんて持ってないでしょ。",
+    "translation": "This isn't some fairy tale, you know?\nFor one thing,\nMiku doesn't even have any bread."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、拾った木の実を並べてるかも！",
+    "translation": "Well, then maybe she's laying out a trail\nof nuts she picked up!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "それじゃ、落ちてるのか置いてあるのか\n区別つかないから。",
+    "translation": "That wouldn't work\nbecause we wouldn't be able to tell if they \nwere left there or just have fallen naturally."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ほら、あんまりキョロキョロしてると転ぶわよ？\nちゃんと前見なさい。",
+    "translation": "Hey, don't look around too much or you might trip.\nLook straight ahead."
+  },
+  {
+    "character": "一花",
+    "japanese": "下草を踏んじゃうと結構滑るよね。\nここ、斜面になってるから気をつけないと。\n滑ったら下まで一直線だよ。",
+    "translation": "It gets pretty slippery when you step on \nthe underbrush. We're on a slope, so be careful.\nIf you fall, you'll go straight down."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……怖いこと言わないで。",
+    "translation": "...Don't say scary things."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ！　ホントに木の実がある！\nもしかして三玖の――",
+    "translation": "Oh! There really are some nuts here!\nCould they be from Miku%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ひゃぁーー！？",
+    "translation": "HYAAA?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょ！？",
+    "translation": "WHAT THE?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "わー！　とーまーらーなーいー！",
+    "translation": "WAA! I CAAAN'T STOOOP!"
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉っ！？",
+    "translation": "YOTSUBA?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なにやってんのよ、あの子！",
+    "translation": "What is that girl doing?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉ぁー！　聞こえてたら返事してぇー！",
+    "translation": "Yotsubaaa! If you can hear us, RESPOND!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "だいじょーぶ！　だよー！",
+    "translation": "I! AM! OKAAAY!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "よかった……。",
+    "translation": "Oh, good..."
+  },
+  {
+    "character": "一花",
+    "japanese": "どこも怪我してないー！？",
+    "translation": "Are you hurt anywheeereee?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うーん！　目は回ったけどね！\n平気だよー！",
+    "translation": "NOPE! Just dizzy, is all!\nBut I'm ALL GOOD!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあ……。\nあんまり心配させないでよ、もう。",
+    "translation": "*sigh*\nDon't worry us like that. Geez."
+  },
+  {
+    "character": "一花",
+    "japanese": "ここまで登ってこれるー！？",
+    "translation": "Can you climb up heeereee?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ちょっと待ってて！",
+    "translation": "Hold on a sec!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ひゃぁっ！？",
+    "translation": "HYAAA?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "よ、四葉！？　本当に大丈夫なの！？",
+    "translation": "Y-YOTSUBA?! Are you actually okay?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ごめーん！\n滑っちゃってー、登れなーい！",
+    "translation": "Sooorry!\nI sliiipped, and I caaan't climb up!"
+  },
+  {
+    "character": "一花",
+    "japanese": "無理しないでいいからねー！？",
+    "translation": "Don't try too hard, OKAY?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "どうするの？\nいっそ、私たちも下まで滑り降りる？",
+    "translation": "What do you want to do, Ichika?\nShould we slide down to the bottom?"
+  },
+  {
+    "character": "一花",
+    "japanese": "それは危ないからやめておこう。\nあの子は運動神経がいいから無事だったのかも。",
+    "translation": "That's pretty dangerous, so no.\nMaybe Yotsuba was okay because she's athletic."
+  },
+  {
+    "character": "一花",
+    "japanese": "まだ三玖も見つかってないんだし……\nここで私たちが怪我したら、元も子もないよ。",
+    "translation": "We haven't found Miku yet either...\nIf we get injured here, it won't do us any good."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃあ、どうするのよ！\nこのままじゃ……。",
+    "translation": "So, what are we gonna do?!\nIf we stay like this..."
+  },
+  {
+    "character": "一花",
+    "japanese": "……よし！\n一度、滝まで戻って四葉と合流しよう。\nもしかしたら三玖も戻ってるかもしれない。",
+    "translation": "...Alright!\nFirst off, let's go back to the waterfall and meet up \nwith Yotsuba there. Maybe Miku has already returned."
+  },
+  {
+    "character": "二乃",
+    "japanese": "う、うん。\nそうね、それがいいわ。",
+    "translation": "O-okay.\nThat's right, that's a good idea."
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉ー！\nとりあえずー、１回滝で集まろー！",
+    "translation": "YOTSUBA!\nFor nooow, let's meet at the waterfall fiiirst!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "りょーかーい！　先に行ってるねー！",
+    "translation": "Okiiie doookiiie! I'll go first, OKAAAY!"
+  },
+  {
+    "character": "一花",
+    "japanese": "二乃、私たちも戻ろう。\n滑らないように注意して。",
+    "translation": "Nino, Let's head back too.\nBe careful so you don't slip."
+  },
+  {
+    "character": "二乃",
+    "japanese": "わかったわ。\n……一花、お願いだからあまり離れないでよ？",
+    "translation": "Got it.\n...Ichika, please don't stray too far from me, okay?"
+  },
+  {
+    "character": "一花",
+    "japanese": "はいはい。\nそれじゃ、ゆっくり行こっか。",
+    "translation": "Sure thing.\nAlright, let's take it slow."
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "お待たせしました、計算終わりました！",
+    "translation": "Thank you for waiting, I've finished the calculations!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "見直しもやったんだな？\nよし、採点するから待ってろ。",
+    "translation": "Did you review?\nRight, I'll grade it, hold on."
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これは間違い……これもダメ……。\n……ん？　なんだこれは……。",
+    "translation": "This is a mistake... This is wrong too...\nHm? What's this...?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あわわわ、バツがいっぱい……。",
+    "translation": "Whooopsie, so many wrong answers..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "正解率、４０％だ。\n相変わらず計算問題が弱いな。",
+    "translation": "You scored a 40\\%.\nAs usual, you're so bad at solving equations."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "本当に見直しているのか？\nこことか、あとここもケアレスミスしてる。",
+    "translation": "Are you really correcting your mistakes?\nThere are careless mistakes here and there."
+  },
+  {
+    "character": "四葉",
+    "japanese": "今度はちゃんとできたと思ってたんですが\nダメでしたか……。",
+    "translation": "I was thinking I did it properly this time,\nbut I guess not..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もう一度、間違った問題を解き直すんだ。",
+    "translation": "Fix the problems you got wrong, one more time."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はーい。",
+    "translation": "Okay."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、できました！",
+    "translation": "Uesugi-san, finished!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし、採点するぞ。",
+    "translation": "Alright, I'll grade it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ドキドキ……ドキドキ……。",
+    "translation": "*thump-thump* *thump-thump*"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……んん？\nさっきと答えは違ってるが……バツだな。",
+    "translation": "...Hmmm?\nThe answers are different than before,\nbut...they're wrong."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええっ！？\nそこ３回も計算したんですよ？",
+    "translation": "WHAAA?!\nI did the calculation three times already!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "逆に３回もやり直して、どうして間違う？",
+    "translation": "More like, why are you still getting it wrong\nafter fixing it three times?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "……はて？",
+    "translation": "...Who knows?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はて、じゃねぇよ！",
+    "translation": "Don't give me that!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "だって３回とも違う答えが出たんです。\nだから、間を取って真ん中の答えを書きました。",
+    "translation": "Well, I got different answers all three times,\nso I got the median from all three different answers."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "何をどうやったらそうなるんだよ！\n間を取っても意味ねぇよ！",
+    "translation": "What made you do THAT?!\nGoing in between is meaningless!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "何がなんだか、私にもわかりません。\n何度やり直しても全部違う答えになっちゃうんです。",
+    "translation": "I don't understand what's going on, either.\nI get different answers every time I redo it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はう……。\n私って、やっぱり数学の才能がないんですね。",
+    "translation": "Oh no...\nI really just suck at math."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、いや……その……悪い、言いすぎた。",
+    "translation": "Ah, no...um... Sorry, I said too much."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "とにかくだ！\n俺が見ててやるから、もう一度、\nゆっくり落ち着いて解いてみろ。",
+    "translation": "Anyway!\nI'll help you this time, so calm down.\nJust try once more."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、頑張ります。",
+    "translation": "Okay, I'll try my best."
+  }
+]

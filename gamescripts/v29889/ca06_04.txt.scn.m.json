@@ -1,0 +1,617 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、どうぞ！\n談話室から取ってきました。",
+    "translation": "Here you go, Uesugi-san!\nI brought it from the lounge."
+  },
+  {
+    "character": "一花",
+    "japanese": "おお……。\nこれはまた雰囲気がある本だね。",
+    "translation": "Ohh...\nThis book has a great atmosphere about it, huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "古い本はこうやって糸で綴じてあるんだよ。\n時代劇なんかで見るだろ？",
+    "translation": "Old books are bound with thread like this.\nYou've seen it in historical dramas, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "和綴じっていうんだよね？\nゲームでも武将がこういうの読んでる。",
+    "translation": "This Japanese-style bookbinding is called\n'watoji,' right? In video games, \nfeudal lords read books like this."
+  },
+  {
+    "character": "一花",
+    "japanese": "うわ、何が書いてあるかチンプンカンプンだ。\nしかもこれ手書きだよね？",
+    "translation": "Wow, I can't understand what's written here at all.\nFurthermore, this is handwritten, isn't it?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、というか昔は手書きで当たり前か。\nうーん、カルチャーショックだなー。",
+    "translation": "Ah, back then, all books had to be handwritten.\nHmm, that's definitely a cultural shock."
+  },
+  {
+    "character": "二乃",
+    "japanese": "カルチャーショックではないでしょ。\nジェネレーションギャップじゃないの？",
+    "translation": "It's not culture shock.\nI think you meant a generational divide, yeah?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、それも違うような？",
+    "translation": "I f-feel that's also a little different?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、早く早く！\n伝説のことが書かれてるかもしれないし！",
+    "translation": "Big bro, hurry, hurry!\nIt might have information about the legend!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "なんだかもうワクワクしてきました！",
+    "translation": "I'm just getting so excited!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかったわかった、急かさないでくれ。",
+    "translation": "Got it, got it, don't rush me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（とは言ったものの、\n　これを全部読むのは難しそうだな……。\n　ひとまず、わかるところから手を付けるか）",
+    "translation": "(However, reading all of this seems difficult...\n Let's start with what I can understand for now.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（はあ……。\n　活字じゃない本が、こんなにも読みづらいとは……）",
+    "translation": "(*sigh*\n It's surprising how difficult it is\n to read a book without printed text...)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "やっぱり読むの大変そうだね。",
+    "translation": "It seems really difficult to read it, huh?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "なにしろ古文ですもんね。\nしかも教科書みたいに\n現代語訳がついてるわけでもないですし。",
+    "translation": "After all, it's written in ancient Japanese, right?\nAnd it doesn't have modern translations\nlike a textbook."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "古文じゃねぇよ。\nせいぜい１００年くらい前に書かれたもんだ。",
+    "translation": "It's not ancient Japanese.\nIt was only written about a hundred years ago or so."
+  },
+  {
+    "character": "一花",
+    "japanese": "お？　そこまでは解読が進んだの？",
+    "translation": "Oh? You deciphered that much already?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあな。\n細かい内容までは把握し切れないが、\nとりあえず、今のところわかったのは――",
+    "translation": "Well, sort of.\nI can't grasp the details completely,\nbut for now, what I understand is%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これは、ここの住人が島の歴史や生活様式を調べて\nまとめた記録ってとこだ。",
+    "translation": "It's a record compiled by the residents\nabout the island's history and way of life."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この島を暮らしやすくするための\n苦労をつづった開拓史。",
+    "translation": "The history of pioneers, describing\ntheir struggles to make this island livable.\nIt introduces a variety of things."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "季節ごとの漁の方法や、採れる農産物なんかの紹介。\n他には、台風や山崩れに襲われたときの被害や\n対策方法とかな。",
+    "translation": "Fishing methods, agricultural crops harvested by season,\nfor example. Also, descriptions of damage from \ntyphoons and landslides, and how to deal with them."
+  },
+  {
+    "character": "三玖",
+    "japanese": "社会の教科書みたい。",
+    "translation": "It's like a social studies textbook."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういう側面もあるんじゃないか？\nノウハウを後世に残すことにもなる。",
+    "translation": "It may work in that way as well.\nKnow-how could be passed down\nto future generations."
+  },
+  {
+    "character": "四葉",
+    "japanese": "う～ん、でも伝説に関係がある感じはないですね。",
+    "translation": "Hmm, but it doesn't seem\nto be related to the legend."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、後半には、\nこの島での行事や習慣が書かれてるらしいぞ？",
+    "translation": "But apparently, the second half\ndescribes the events and customs on the island."
+  },
+  {
+    "character": "らいは",
+    "japanese": "ホント！？\nお兄ちゃん、続き続き！",
+    "translation": "REALLY?!\nBig bro, keep going!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかったって。",
+    "translation": "Okay, okay."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ううー……。\n伝説の話、出てきませんね……。",
+    "translation": "Ooohh...\nI wonder if stuff about the legend will appear..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もう残りページも少ないぞ？\n載ってないのかも――",
+    "translation": "There are only a few pages left.\nMaybe it's not in here%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あ。",
+    "translation": "...Ah."
+  },
+  {
+    "character": "らいは",
+    "japanese": "どうしたの？\n何が書いてあったの？",
+    "translation": "What's wrong?\nWhat does it say?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "次巻に続く、だとさ。",
+    "translation": "To be continued in the next volume, it says."
+  },
+  {
+    "character": "四葉",
+    "japanese": "え、ええええええっ！？\nどういうことですか、上杉さん！！",
+    "translation": "WHA-WHAAAAAAA?!\nWhat does that mean, Uesugi-san?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺に言うな俺に。",
+    "translation": "Don't ask me!"
+  },
+  {
+    "character": "一花",
+    "japanese": "でもさぁ、ここまで引っ張っておいて\nそれはないんじゃない？",
+    "translation": "But, you know, after building up to this point,\nit's a bit disappointing. Isn't it?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、これはない。",
+    "translation": "Yeah. This is terrible."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だから俺に言うなって！\n俺がここまで引っ張ってたわけじゃない！",
+    "translation": "So don't complain to me!\nIt's no me who wrote that suggestive book!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "でも、こうなるとホントに気になってくるわね。\nその次巻ってどこにあるわけ？",
+    "translation": "But now, I'm really curious.\nWhere is the next volume?"
+  },
+  {
+    "character": "五月",
+    "japanese": "この本の続きですから、談話室の本棚にあるのでは？",
+    "translation": "It should be in the bookshelf in the lounge\nsince it's the continuation of this book."
+  },
+  {
+    "character": "らいは",
+    "japanese": "う～ん、なかったと思うけど。\nねえ四葉さん？",
+    "translation": "Hmmm, I don't think it was there.\nRight, Yotsuba-san?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、これ以外に古い本はありませんでした。",
+    "translation": "Yes, there were no other old books besides this one."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃあ、どうしようもないわね。\n気になるけど。",
+    "translation": "Then, there's nothing we can do about it.\nThough it's on my mind."
+  },
+  {
+    "character": "三玖",
+    "japanese": "残念……。",
+    "translation": "Too bad..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "ホントに残念だねー。",
+    "translation": "It reeaally is too bad."
+  },
+  {
+    "character": "四葉",
+    "japanese": "せっかく盛り上がったところだったのに！\nどうするんですか、上杉さん！",
+    "translation": "We were just getting excited!\nWhat are we going to do, Uesugi-san?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だから俺に言うなと何度！",
+    "translation": "How many times do I have to say it?! Don't ask me!"
+  },
+  {
+    "character": "一花",
+    "japanese": "あのね、フータロー君。\nそこは――",
+    "translation": "Listen, Futaro-kun.\nThis is where we want you to say%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "俺たちの手で伝説を明らかにするぞ！",
+    "translation": "'We'll uncover the legend with our own hands!'"
+  },
+  {
+    "character": "一花",
+    "japanese": "って言ってほしいんじゃない？\nでしょ、四葉？",
+    "translation": "Right, Yotsuba?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そう、その通り！\nさすがは一花！",
+    "translation": "Yes, exactly!\nYou would say something that cool, Ichika!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "というか、こういうときの四葉が\nわかりやすすぎなのよ。",
+    "translation": "Or maybe it's just that you're too easy to read\nin situations like this."
+  },
+  {
+    "character": "一花",
+    "japanese": "まあ、私も気になってるのは確かだし、\n続きを探してもいいかもなー、なんてね。",
+    "translation": "Well, but it's true that I'm curious too.\nMaybe we can keep looking for the next volume?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふーん、ずいぶんと乗り気ね。\nあんたってこういうの好きだった？",
+    "translation": "Hmm, you seem pretty enthusiastic.\nIs this the kind of thing you like?"
+  },
+  {
+    "character": "一花",
+    "japanese": "好きとかそういうわけじゃなくて。\n孤島の伝説を追うなんて、一夏の想い出作りに\nちょうどよくないかなって。",
+    "translation": "It's not that I like it or anything.\nBut searching for the legend of this isolated island\nmight just be a good way to make some summer memories."
+  },
+  {
+    "character": "一花",
+    "japanese": "みんなも少しは興味あるんでしょ？\nこの島に来たからこそ作れる想い出だし、どう？",
+    "translation": "I'm sure everyone's at least a little interested, right?\nIt's a unique memory we can only make\non this island, don't you think?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……確かに、他にはない想い出になりそうだな。",
+    "translation": "...Yeah, it does seem\nlike it could be a one-of-a-kind memory."
+  },
+  {
+    "character": "一花",
+    "japanese": "お？　フータロー君もやる気になってきた？",
+    "translation": "Oh? You seem to be getting into it too, Futaro-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "乗りかかった船だ。\nこのまま終わるのもスッキリしないし、\nらいはも知りたがってるしな。",
+    "translation": "We've already started on this journey.\nIt wouldn't be satisfying if we just ended it here,\nand Raiha wants to know too."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、知りたい！\nみんなで謎を追うのも楽しそう。",
+    "translation": "Yeah, I want to know!\nIt sounds fun to solve the mystery together."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君が賛成ならそれでいいわよ。\nまあ、私も気になるし？",
+    "translation": "If Fu-kun agrees, then that's good enough.\nWell, I'm curious myself."
+  },
+  {
+    "character": "四葉",
+    "japanese": "もちろん賛成です！",
+    "translation": "Of course, I'm in!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私もいいよ。",
+    "translation": "Me too."
+  },
+  {
+    "character": "五月",
+    "japanese": "私も構いません。",
+    "translation": "I'm fine with it too."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、全員一致で伝説調査に決定！\nわー！　ぱちぱちぱちー！",
+    "translation": "Then, it's settled.\nWe all agree on investigating the legend!\nApplause, applause!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "では、次はこの伝説調査隊の命名を――",
+    "translation": "Alright, next up is naming this investigation team%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しかし、伝説を調べると言っても\nどこから手を付ける？\n続きの本を探すのが無難か？",
+    "translation": "But where do we even start investigating the legend?\nIs it the best to look for the continuation of the book?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "無視しないでくださいよぉー！",
+    "translation": "Don't ignore me, pleeease!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別に名前なんていらん！\nそれよりも、どうやって調べるかを考えろ！",
+    "translation": "We don't need a name or anything!\nWhat we need to think about\nis how we're going to investigate!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "無理ですね、なにしろ私はおバカなので。\nここは上杉さんに――すべてを託します。",
+    "translation": "I can't, I'm just a dummy, after all. \nSo, Uesugi-san%p-2;――%p; I entrust everything to you here."
+  },
+  {
+    "character": "三玖",
+    "japanese": "格好よくダメなこと言ってる……。",
+    "translation": "She's saying something so stupid in a cool way..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "人間考えるのを止めたら終わりよねー。",
+    "translation": "It's like she's given up on thinking as a human."
+  },
+  {
+    "character": "一花",
+    "japanese": "ああなっちゃダメだよ、らいはちゃん。",
+    "translation": "Don't be like that, Raiha-chan."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ぎゃー！\n違うんですらいはちゃん、これは違うんですー！",
+    "translation": "Nooo!\nDon't take it seriously, Raiha-chan, it's not trueee!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "あの、みんな？\nお兄ちゃんが話を聞いてほしそうだよ？",
+    "translation": "Um, everyone?\nBig bro looks like he wants to say \nsomething for all of us to hear. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "みんながすみませんでした。\n上杉君、どうぞ。",
+    "translation": "Please excuse everyone.\nUesugi-kun, go ahead."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっ！\n１人でいいカッコしてるんじゃないわ！",
+    "translation": "Hey, wait a minute!\nDon't act like as if you're the only decent one!"
+  },
+  {
+    "character": "一花",
+    "japanese": "二乃、しー。",
+    "translation": "Nino, shh."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……ごめんなさい。",
+    "translation": "...Sorry."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし、じゃあ話を戻すぞ。\n伝説を調べるとなると、まずはこの本の続きを\n探すのがいいかと思うんだが、どうだ？",
+    "translation": "Alright, let's get back to the topic. If we want to\ninvestigate the legend, I think it's best to start by\nlooking for the rest of this book. What do you think?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、それがよさそう。",
+    "translation": "Yeah, that sounds like a good idea."
+  },
+  {
+    "character": "二乃",
+    "japanese": "でもどこにあるのかしら？\n島の家には入れる気がしないっていうか、\n絶対に入りたくないわ。",
+    "translation": "But where is it? I don't feel like going into\nthe island houses, or rather,\nI absolutely don't want to go in there."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、別荘の中くらいしか調べようがありませんね。",
+    "translation": "Right, we can only investigate the villa."
+  },
+  {
+    "character": "一花",
+    "japanese": "んー、私が思うに、さっきの神社にも\nまだヒントがある気がするんだよね。",
+    "translation": "Hmm, I think there might still be clues\nat the shrine we visited earlier."
+  },
+  {
+    "character": "一花",
+    "japanese": "ほら、看板があったよね？\n他にも伝説に関わる石碑とかあるかもしれない。",
+    "translation": "You remember the sign, right?\nThere might be other things like monuments\nrelated to the legend there."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あり得るな。\n石碑なら文字も消えないから読めるはずだ。",
+    "translation": "...That's possible.\nIf it's a stone monument, we should be able to read the text\nsince it won't erode easily."
+  },
+  {
+    "character": "一花",
+    "japanese": "でしょ？\nだからもう一度、調べに行ってみようかなって。",
+    "translation": "See?\nSo, we should go and investigate it again."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、さすがに１人だと\n何かあったときに不安だし……。",
+    "translation": "But I'm anxious to go alone,\njust in case something happens..."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君。\n私と一緒に来てくれないかな？",
+    "translation": "Futaro-kun.\nWould you come with me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんで俺？",
+    "translation": "Why me?"
+  },
+  {
+    "character": "一花",
+    "japanese": "なんでって……男の子の台詞じゃないぞ、それ。\n女の子が危険な場所におもむこうっていうのに。",
+    "translation": "Why...is not something a guy should say,\nespecially when a girl\nis heading into a dangerous place."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "勝手に危険に近づくやつまで守る必要あるか？",
+    "translation": "Do I really have to protect someone\nwho recklessly approaches danger?"
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあいいよーだ。\n私１人で勝手に行きますから。",
+    "translation": "Fine then.\nI'll go alone."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、ここは一花についていってあげてください。\n本当は不安なはずですから。",
+    "translation": "Uesugi-san, please go with her.\nShe must actually be worried."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それに、これで本当に一花が危険な目にあったら、\n後悔するのは上杉さんだと思うんです。",
+    "translation": "Also, if something really happens to her\nbecause of this,\nyou'll be the one to regret it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一花、俺も行く。",
+    "translation": "Ichika, I'll come with you."
+  },
+  {
+    "character": "一花",
+    "japanese": "別に無理しなくていいけど？",
+    "translation": "You don't have to force yourself, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "無理してねぇよ。\nお前が言ったとおりヒントがある可能性は高いし、\n考え直したんだ。",
+    "translation": "I'm not forcing myself.\nAs you said, there's a high chance there's a clue,\nso I changed my mind."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、ついてきていいよ。",
+    "translation": "Alright, come with me, then."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へいへい。\nお供させてもらおう。",
+    "translation": "Right.\nI'll go with you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まずは別荘を調べてみないか？\nここから本が見つかったら、\nそれが一番手っ取り早いだろ。",
+    "translation": "Why don't we check the villa first?\nIf we find the book here, it'll be the fastest way."
+  },
+  {
+    "character": "一花",
+    "japanese": "そうだけど、ヒントはたくさんあるほうがよくない？\n私としては神社を調べてみたいなー。",
+    "translation": "That's true, but isn't it better to have more clues?\nI want to investigate the shrine."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……わかった。\nせっかくお前が乗り気なんだし、\n付き合ってやるよ。",
+    "translation": "...Okay.\nSince you're this enthusiastic about it,\nI'll come with you."
+  },
+  {
+    "character": "一花",
+    "japanese": "そうこないとね！\nありがと、フータロー君。",
+    "translation": "I thought as much!\nThanks, Futaro-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、手伝ってやるよ。\nお前１人で行かせて、怪我して\n動けなくなったら大変だ。",
+    "translation": "Yeah, I'll help you.\nIt would be troublesome if you got injured\nwhile you were alone and got trapped. "
+  },
+  {
+    "character": "一花",
+    "japanese": "おお、頼もしいなぁ。\nじゃあボディーガード、よろしくね。",
+    "translation": "Oh, how reliable.\nThen, you'll be my bodyguard, alright?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ボディーガードって。\n何から守れと。",
+    "translation": "Bodyguard?\nGuard you from what?"
+  },
+  {
+    "character": "一花",
+    "japanese": "んーと、オバケ？",
+    "translation": "Hmmm, ghosts?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いねぇよそんなもん。",
+    "translation": "There's no such thing."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、神社の神様！",
+    "translation": "Then, the shrine god!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……神様はともかく、\n神社を荒らすようなことをしたら止めるからな？\n常識として。",
+    "translation": "...Well, regardless of the god,\nif you do anything to damage the shrine, I'll stop you.\nAs a matter of moral."
+  },
+  {
+    "character": "一花",
+    "japanese": "あは、冗談だよ。\nもちろん神様に失礼なことはしないって。",
+    "translation": "Haha, just kidding.\nOf course, I won't do anything\ndisrespectful to the god."
+  },
+  {
+    "character": "四葉",
+    "japanese": "では、別荘内の調査は\n私とらいはちゃんに任せてください！",
+    "translation": "Then, please leave the investigation inside the villa\nto me and Raiha-chan!"
+  },
+  {
+    "character": "五月",
+    "japanese": "でしたら、私も別荘の調査を手伝います。",
+    "translation": "In that case,\nI'll help with the investigation of the villa too."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私はフータローと一緒に行く。",
+    "translation": "I'll go with Futaro."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なら私も一緒に行くわ。",
+    "translation": "Then I'll go together with them too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "２人も来るのか？\nなんだ、結局大所帯になったな。",
+    "translation": "You two are coming too?\nWow, in the end, we've become a big group."
+  },
+  {
+    "character": "一花",
+    "japanese": "現地で二手に分かれて調査、\nとかもありそうだし、多いほうがいいよ。",
+    "translation": "Splitting up into two groups to investigate on-site\nmight also be a good idea,\nso it's better to have more people."
+  },
+  {
+    "character": "五月",
+    "japanese": "４人とも気をつけてくださいね？",
+    "translation": "Please be careful, all four of you, okay?"
+  },
+  {
+    "character": "一花",
+    "japanese": "はーい。\nじゃあ、さっそく行ってみよっか。",
+    "translation": "Okaaay.\nAlright, then shall we check it out right away?"
+  }
+]

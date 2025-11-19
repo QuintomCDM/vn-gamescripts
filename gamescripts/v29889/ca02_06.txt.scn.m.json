@@ -1,0 +1,662 @@
+[
+  {
+    "character": "らいは",
+    "japanese": "今日もいい天気だから、\n海がキラキラして綺麗だね～。",
+    "translation": "The weather's good today as well.\nThe ocean is shining brightly, it's so pretty."
+  },
+  {
+    "character": "らいは",
+    "japanese": "でも、なんでだろ？\n今までよりも輝いて見えるかも。",
+    "translation": "But, I wonder?\nIt seems to be brighter than usual."
+  },
+  {
+    "character": "一花",
+    "japanese": "気持ちの問題だよ、きっと。\nもう島から出られるってわかってるし、\nあとは思いっきり遊ぶだけなんだから。",
+    "translation": "I thing that it's connected to our emotions.\nWe know that we can get off the island,\nand are able to enjoy our stay."
+  },
+  {
+    "character": "らいは",
+    "japanese": "……あれ？　お兄ちゃんは？",
+    "translation": "...Huh? Where's big bro?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ああ、あっち。\nなんか大変なことになってるけど、\n面白いから放置してきちゃった。",
+    "translation": "Ah, over there.\nIt really seems as if he's in trouble, but it's so funny \nwatching him that I don't want to disturb them."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、日焼け止めを塗ってほしい。",
+    "translation": "Futaro, put sunscreen on me."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんたは前に塗ってもらったでしょ？\n今度は私の番よ。",
+    "translation": "Last time he put sunscreen onto you, you know?\nNow it's my turn."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あのときは、ちゃんと塗ってもらえなかった。\nだからリベンジ。",
+    "translation": "But he didn't do it correctly.\nAnd I want him to do a better job today."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（またダメだダメだって言い出すのが\n　オチじゃないか……？）",
+    "translation": "(Isn't it just going to end up with her saying,\n 'No, not there, stop it!'?)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっと、三玖。\nフー君には私が先に頼んでたのよ？\n順番よ！",
+    "translation": "Hold on, Miku.\nI asked Fu-kun first, you know?\nI'll go first!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（先もなにも、頼まれた覚えはないんだが）",
+    "translation": "(I don't remember\n being asked anything, though?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、俺はらいはにだな……。",
+    "translation": "Well, I'll put sunscreen on Raiha first..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー。",
+    "translation": "Futaro."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君！",
+    "translation": "Fu-kun!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ふ、２人とも？\nほら、私が塗りますから、ね？",
+    "translation": "B-both of you?\nAlright already, I'll put the sunscreen on you guys, \nokay?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "五月じゃ意味がないわ。",
+    "translation": "It's meaningless if you do it, Itsuki."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローだからこそ意味がある。",
+    "translation": "We want Futaro to put sunscreen on us."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "誰が塗っても同じだろ……。",
+    "translation": "It doesn't matter who puts sunscreen on you guys..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ、二乃も三玖もまだ日焼け止め塗ってないの？\nやってあげよっか？",
+    "translation": "Huh? Nino and Miku,\nneither of you have sunscreen on yet?\nShall I put it on for you?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "私はフー君に……。",
+    "translation": "I want Fu-kun doing it..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんは、らいはちゃんに\n塗ってあげるんですよね？",
+    "translation": "Uesugi-san, you're putting sunscreen on Raiha-chan,\naren't you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、待たせてるんだ。\n五月と四葉に塗ってもらってくれ。",
+    "translation": "Yeah, I'll make you wait.\nHave Itsuki and Yotsuba do it for you."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……わかったわよ。",
+    "translation": "Okay, then."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すまんらいは、待たせた！",
+    "translation": "Sorry Raiha! Thanks for waiting!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "大丈夫だよー。\nお兄ちゃんこそ、二乃さんや三玖さんを\n怒らせてない？",
+    "translation": "That's okay.\nAren't you making Nino-san and Miku-san angry, \nbig bro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……も、問題ない。",
+    "translation": "...I-it's no problem."
+  },
+  {
+    "character": "一花",
+    "japanese": "目が泳いでるぞ～？",
+    "translation": "Your eyes are wandering off, you know～?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "問題ないと言っている！\nほら、らいは、ちゃんと塗らないと火傷しちまうぞ。",
+    "translation": "There's no problem at all!\nCome on, Raiha, if we don't put it on you properly,\nyou'll get a sunburn."
+  },
+  {
+    "character": "らいは",
+    "japanese": "はーい。",
+    "translation": "Okay."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一花は大丈夫か？",
+    "translation": "Ichika, are you okay?"
+  },
+  {
+    "character": "一花",
+    "japanese": "もちろん。\n仕事柄、その辺には気を遣ってるんだ。",
+    "translation": "Of course.\nI need to be extra cautious about that \nbecause of my job."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……よし、いいぞらいは。\nあと、砂の上を歩くときはサンダルを忘れずにな。",
+    "translation": "Alright, good job, Raiha.\nAlso, you shouldn't forget sandals\nfor walking on the sand."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん！",
+    "translation": "Yeah!"
+  },
+  {
+    "character": "一花",
+    "japanese": "ふふ、本当に心配性なお兄さんだねぇ。",
+    "translation": "Teehee, you really are a caring big brother, aren't you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "可愛い妹を心配するのは当然だろう？",
+    "translation": "Of course I'm taking care of my\ncute little sister, you know?"
+  },
+  {
+    "character": "一花",
+    "japanese": "こんな調子じゃ、この先らいはちゃんに\n彼氏ができたら大騒ぎになりそう。",
+    "translation": "You're going to be very annoying,\nwhen Raiha-chan gets a boyfriend in the future."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……まずは相手の職業からだな。\nらいはに苦労をさせるわけにはいかない。",
+    "translation": "...First of all it depends on her future partner's job.\nHe'd better not troubling Raiha."
+  },
+  {
+    "character": "一花",
+    "japanese": "へ？　そこから？",
+    "translation": "Huh? THAT'S what you're worried about?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "当然だ。\nらいはと付き合うからには、結婚を前提に\n清く正しい交際をしてもらう。",
+    "translation": "Of course! In order to date Raiha, her future partner \nwill engage in a platonic relationship, on the premise \nof marriage."
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん……。",
+    "translation": "Big bro..."
+  },
+  {
+    "character": "一花",
+    "japanese": "これは大騒ぎって次元じゃなかったよ。\n妹離れはいつになることやら。",
+    "translation": "Well, this is way beyond of being a nuisance.\nNow the question is how SOON will the little sister \nbe leaving you?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、お待たせっ！",
+    "translation": "Fu-kun, thank you for waiting!"
+  },
+  {
+    "character": "一花",
+    "japanese": "わっ？　二乃？",
+    "translation": "Wha? Nino?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ね、一緒に沖まで泳ぎに行かない？\nこれだけ海が穏やかなら大丈夫でしょ？",
+    "translation": "Hey, why don't we swim into the open sea together?\nIt'll be okay if the sea is this calm, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな……。\n今日は風もないし、少しくらいならいけそうだな。",
+    "translation": "That's right...\nThere's no wind today, so I guess swimming around \nwould be okay."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが、お前、泳ぎは大丈夫なのか？",
+    "translation": "But, are you good at swimming?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "平気よ。\nそれに、いざというときは\nフー君が助けてくれるでしょ？",
+    "translation": "I'm fine.\nAnd, if worst comes to worst,\nyou'll help me, right, Fu-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あまり当てにされても困るんだが……。\n　俺も特に泳ぎが得意というわけじゃないし）",
+    "translation": "(It'll be troublesome if she relies too much on me...\n I'm not particularly good at swimming either.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一花はどうする？　行くか？",
+    "translation": "What are you gonna do, Ichika? Wanna go?"
+  },
+  {
+    "character": "一花",
+    "japanese": "えっ？　私？",
+    "translation": "Huh? Me?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "いやぁ、私はいいよ。\n二乃と２人で思いっきり泳いできて。",
+    "translation": "Nahhh, I'll be okay.\nSwim as much as you want with Nino."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ですって。\n行きましょ、フー君！",
+    "translation": "Didn't expect anything else.\nLet's go, Fu-kun!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "あ、お兄ちゃん、二乃さん！\n泳ぎに行くならきちんと準備運動してから！　だよ！",
+    "translation": "Ah, big bro, Nino-san!\nIf you're going to go swimming,\nmake sure you do some warm-ups!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あ、うん、そうね。\n準備運動は大事よね。",
+    "translation": "Ah, yes, of course.\nWarm-up exercises are important."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さすがらいはだな！\nよし二乃！　たっぷり準備運動をするぞ！",
+    "translation": "Nice one, Raiha!\nAlright, Nino! Let's do some good warm-ups!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（結構、沖まで出てきたな。\n　この辺りになるとさすがに流れが速いし、\n　気をつけたほうがよさそうだ）",
+    "translation": "(We've come pretty far offshore.\n The current is really fast around here,\n so we should be careful.)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "いつの間にか遠くまで来たわね。\nこんなに泳いだの、久しぶりだわ。",
+    "translation": "We've come so far so quickly.\nIt's been a while since I've been swimming like this."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前、結構、泳げるんだな。",
+    "translation": "You're pretty good at swimming, aren't you."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そう？　このくらいは人並みだと思うわよ？\nでも褒められて悪い気はしないわ。",
+    "translation": "Really? I think that my swimming skills are standard,\nyou know?\nBut I'm happy that you complimented me."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君こそ、途中で根を上げるかと思ったけど\n平気そうね。",
+    "translation": "I thought you'd given up, Fu-kun,\nbut you seem to be doing okay."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺も人並みには、な。\nしかし、四葉という体力オバケを見慣れちまうと\n感覚がおかしくなるぜ。",
+    "translation": "My swimming skills are standard too, huh. However, \nwhen looking at Yotsuba's insane physical strength,\nI just feel so weak."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……ねえ、フー君。\nちょっと肩に掴まらせてもらってもいい？\n疲れちゃったから休ませてほしいの。",
+    "translation": "...Hey, Fu-kun.\nIs it okay if I grab onto your shoulder for a little?\nI'm a little tired, and I wanna rest."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別に構わないが、\n疲れたならもう岸に戻ったほうがよくないか？",
+    "translation": "I don't really mind,\nbut if you're tired,\nwouldn't it be better to head back to shore?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "うーん、もう少し沖まで行ってみたいのよね。\nだから少し休ませて？",
+    "translation": "Hmm, well, I'd like to go a little further offshore.\nSo, why don't you let me rest a little?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "キツくなったらすぐに言えよ？\nほら、掴まっていいぞ。",
+    "translation": "If you get tired, let me know, okay?\nAlright, go ahead and hold onto my shoulder."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふ、ありがと！",
+    "translation": "Teehee, thanks!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ちょ！　おい、近すぎないか？",
+    "translation": "...Hold it! Hey, aren't you too close?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "仕方ないでしょ？\nしっかり掴まってなくちゃ流されちゃうもの。",
+    "translation": "It can't be helped, you know?\nIf I don't hold on tight,\nI'll be washed away."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "にしてもだな……。\nその、お互い水着なわけだし……。",
+    "translation": "But, even so...\nI mean, we're both in swimsuits, and all that..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "やだ、フー君ったら。\n何を考えてるのかしら～？",
+    "translation": "Oh MY, Fu-kun.\nJust what are you thinking?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……一花みたいなことを言うなよ。",
+    "translation": "...Don't talk like Ichika."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふーん、一花みたい、ね。",
+    "translation": "Hmm, like Ichika, eh."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "って、なんでますますくっつく！",
+    "translation": "So, why are you holding onto me even more?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "だって、体が冷えちゃったから。",
+    "translation": "Well, 'cause my body's getting cold."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺も冷えちまうだろ。\n離れてくれよ。",
+    "translation": "My body will be getting cold too, ya know.\nGet away from me."
+  },
+  {
+    "character": "二乃",
+    "japanese": "い・や・よ。\nフー君に温めてもらうわ。",
+    "translation": "N-O-P-E.\nI'm gonna have you warm me up, Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おわっ！\nちょ、だからそんなにくっつくなって！\n溺れちまう！",
+    "translation": "Woah!\nHey, I said don't latch on to me like that!\nWe'll drown!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……いま音がしたか？",
+    "translation": "...Was there a noise, just now?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そう？　ここで音なんて……。",
+    "translation": "Really? You heard a noise here?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やっぱり戻ったほうがいいな。\nここにいたら冷える一方だ。",
+    "translation": "Let's head back, ok?\nIf we stay here, your body temperature will drop."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君がいてくれたら平気よ。",
+    "translation": "I'll be fine, if you're here with me, Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺は湯たんぽじゃないぞ……。",
+    "translation": "I'm not a hot-water bottle..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いいか、体が冷えると足がつったりしやすくなるんだ。\nそのへんのことも考えて、\nちゃんと自分の命は自分で守れ。",
+    "translation": "You can easily get cramps in your legs, if your body \ntemperature drops. You've got to think about \nself perseverance."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……フー君は守ってくれないの？",
+    "translation": "...Fu-kun, you won't take care of me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いざってときはな。\nが、まずは自己防衛してくれ。",
+    "translation": "I'm talking about, when things are going south. \nHowever, I'll take care of you, if something happens."
+  },
+  {
+    "character": "二乃",
+    "japanese": "わかったわ。",
+    "translation": "I understand."
+  },
+  {
+    "character": "二乃",
+    "japanese": "でも、まだ平気だから、もう少しここにいたいわ。\nダメ？",
+    "translation": "However, I'm still feeling good,\nso I want to be out here for a little longer.\nIs that okay for you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……いま音がしたか？",
+    "translation": "...Was there a noise, just now?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そう？　ここで音なんて……。",
+    "translation": "Really? You heard a noise here?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確かに冷えてるな、平気か？",
+    "translation": "Yeah, you sure are cold. You okay?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "平気。\nだってフー君といるとあったかいから。",
+    "translation": "I'm fine.\nIt's warm as long as you're with me Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか？\n体温は普通だぞ、俺は。",
+    "translation": "Really?\nMy body temperature is normal."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君は？\n私といるとき……心があったかくなったりしない？",
+    "translation": "How about you, Fu-kun?\nWhen you're here with me...\ndoes your heart feel warm, or anything?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……まあ、そうだな。\n温かいのかはわからないが、\nお前といると……心を乱されることが多いな。",
+    "translation": "...Well, I guess.\nI don't know if it feels warm,\nbut when I'm with you...my heart is often disturbed."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえ、それ、ドキドキしてるってこと？",
+    "translation": "Hey, does that mean like, your heart POUNDS\nwhen you're with me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……さあな。",
+    "translation": "...Who knows."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……いま音がしたか？",
+    "translation": "...Was there a noise, just now?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そう？　ここで音なんて……。",
+    "translation": "Really? You heard a noise here?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あれ？\nあそこ変じゃない？　ほら！",
+    "translation": "Huh?\nWait, that's weird? Look!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確かに水の動きが……\n何かがこっちに近づいてきてるのか？",
+    "translation": "No doubt, the water is moving strangely...\nIs something coming this way?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえ、まさか……サメじゃないわよね？",
+    "translation": "Hey, it couldn't be...a shark, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（しまった、この辺りに出る生物を\n　調べておくべきだった！\n　なんとかして二乃は逃がさねぇと！）",
+    "translation": "(Oh no, I should have checked what kind of creatures\n are living around here!\n I've got to do something and help Nino escape!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "二乃、俺があいつを引きつける。\nそのあいだにビーチへ逃げろ。\nいいな？",
+    "translation": "Nino, I'm gonna attract whatever's coming.\nYou swim back to the beach while I'm doing that.\nYou got it?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "嫌よ！\nフー君を置いて逃げるなんてできないわ！",
+    "translation": "No!\nI couldn't leave you here and flee, Fu-kun!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いいから！\nこういうときは２人でいるほうが悪手なんだ。\n俺だけならなんとかなるから――",
+    "translation": "Just do it! If both of us are here we'll both be in \ntrouble. \nI might be fine on my own%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ぷはぁっ！",
+    "translation": "PUAHH!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "よ、四葉ぁ！？",
+    "translation": "Yo-YOTSUBA?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、二乃に上杉さんでしたか。\n２人とも、こんなに遠くまで来てたんですね。",
+    "translation": "Ah, it's Nino and Uesugi-san!\nBoth of you came out this far, huh."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、お前か。",
+    "translation": "Oh, it's you."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私も思いっきり泳ぎたくて\n沖を目指してたんですが、誰かいるなーって思って。",
+    "translation": "I wanted to swim as far as I could,\nso I headed offshore,\nand I thought someone was there."
+  },
+  {
+    "character": "二乃",
+    "japanese": "脅かさないでよ、サメかと思ったじゃない。",
+    "translation": "Don't scare us! I thought you were a shark."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、ごめん！\n驚かせちゃったんだ。",
+    "translation": "Ah, sorry!\nI surprised you, huh."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあ……。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "四葉",
+    "japanese": "大丈夫？　そんなにビックリした？",
+    "translation": "Are you okay? Were you THAT surprised?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、疲れてるんだろ。\n俺に掴まってたくらいだしな。",
+    "translation": "Nah, she's pretty tired, I think.\nShe'd been holding onto me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "というか、俺もそろそろ体力が怪しい。\n戻ろうぜ二乃。",
+    "translation": "Anyway, I feel like I'm getting weaker by the minute,\nas well. Let's head back, Nino."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうね。\nじゃあ、せめてビーチまでは……。",
+    "translation": "That's right.\nI'd like holding onto you until we reach the beach..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "二乃、つらいなら私が支えよっか？",
+    "translation": "Nino, let me help you, if you're tired!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "悪いな、助かる。",
+    "translation": "Thanks, that'll be a big help."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあっ？",
+    "translation": "HUH?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえいえ。\n私、体力にだけは自信があるので！",
+    "translation": "It's totally okay.\nThe ONLY thing I'm confident about is my stamina!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "二乃、私の肩に掴まっていいよ。\nそのまま泳いで引っ張ってくからね。",
+    "translation": "Nino, grab onto my shoulder.\nI'll carry you back to the shore."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……ありがと。\nでも、もう大丈夫よ。\n少し休めたから自分で帰るわ。",
+    "translation": "...Thanks.\nBut, I'll be okay.\nI'm well-rested, and I can head back myself."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃあお先に、フー君。",
+    "translation": "I'll head back first, come on Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あいつ、機嫌悪くなってなかったか？\n疲れてたせいか？",
+    "translation": "Is she in a bad mood?\nIs it because she was tired?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ……！",
+    "translation": "Ah!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "しまった、これは……邪魔してしまった！",
+    "translation": "Oh no! I...INTERFERED!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？",
+    "translation": "What?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いっ、いえ！　なんでもないです！\n私たちも戻りましょう。",
+    "translation": "N-nothing!\nIt's nothing at all! Let's go back, too."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ごめん、二乃……。",
+    "translation": "Sorry, Nino..."
+  }
+]

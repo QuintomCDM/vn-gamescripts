@@ -1,0 +1,157 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "むむっ！　要救助者発見です！",
+    "translation": "Mmm! Something in need of rescue, discovered!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Wha?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "待っててください！　今すぐ助けます！",
+    "translation": "Hold on! We'll help right away!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えーいっ！",
+    "translation": "*yoink*"
+  },
+  {
+    "character": "四葉",
+    "japanese": "椰子の実ですよ、上杉さん！\n救助完了です！",
+    "translation": "Palm nuts, Uesugi-san!\nRescue complete!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ……。\n誰かが打ち上げられてるのかと。",
+    "translation": "Oh...\nI thought someone had washed up on the beach."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えへへ、ごめんなさい。\nついテンション上がっちゃって。\nライフセーバーみたいでしたか？",
+    "translation": "Hehehe, sorry.\nI was just so pumped up.\nWas I like a lifeguard?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ライフセーバー……。\nそういや、四葉向きの職業かもしれないな。",
+    "translation": "A lifeguard...\nThat actually might be a good profession for you,\nYotsuba."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さっきみたいに、\n異変に気づき素早く行動するなんて\n俺にはなかなか難しい。",
+    "translation": "It's quite difficult for me to notice something unusual\nand act quickly, like you just did."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えへへ～、そんなに褒めないでくださいよ。\n本当に目指したくなっちゃいます。",
+    "translation": "Hehehe, don't praise me so much.\nI might actually try to become one."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "行動力は問題ないが……\nその他にクリアすべき難問が残ってるぞ？",
+    "translation": "You don't have a problem with your ability\nto take action, but...\nThere are other challenges you must surpass, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "なんですか？",
+    "translation": "What?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "知識だ。",
+    "translation": "Like, knowledge."
+  },
+  {
+    "character": "四葉",
+    "japanese": "へ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "要救助者の元に駆けつけることができたとして、\nもし緊急の処置を要する場合、\n四葉にできるかどうか……。",
+    "translation": "Even if we were able to get to someone\nin need of rescue, if urgent treatment was required,\nyou might not be able to do it, Yotsuba..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "助けるだけじゃダメなんですか？",
+    "translation": "Just helping them isn't enough?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もし相手が怪我をしてたらどうする？\n持病の発作を起こしてたら？\nそのために、適切な応急処置や知識も必要だろう。",
+    "translation": "What if the other person is injured?\nIn order to rescue them properly,\nyou would need to know about preforming first aid."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あううう……。",
+    "translation": "Aaaahh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "問題はまだ他にもある。\nたとえば――",
+    "translation": "There are still other problems.\nFor example%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "沖で浮かんでいるものは、\nいずれは浜辺にたどり着くと思うか？",
+    "translation": "Do you think anything floating off the coast\nwill eventually make it to the beach?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、だってこの椰子の実も\n実際そうして打ち上げられたわけですし。",
+    "translation": "Yes, because that's how this palm fruit washed up here,\nisn't it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "甘いぞ！\n波は打ち寄せるだけではなく、\n沖に戻ろうとする流れもあるんだ。",
+    "translation": "You're so naive!\nNot only do waves come in,\nbut they also go out to sea as well."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それに乗ってしまったら、\nあれよあれよと沖に流されてしまうことになる。",
+    "translation": "If that wave caught you,\nyou'd slowly be swept away from shore."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えーーーっ！？",
+    "translation": "HUUUHHH?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その流れを離岸流というんだ。\n海に潜む危険の１つだな。",
+    "translation": "These currents are called rip tides,\nand they're one of the dangers lurking in the ocean."
+  },
+  {
+    "character": "四葉",
+    "japanese": "全然、知りませんでした……。",
+    "translation": "I didn't know about that at all..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ま、こういう風に色々と勉強することは\n多いと思うが……。",
+    "translation": "Well, I think there are many things\nto study like that..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もし本気でライフセーバーを考えているなら、\n俺も全力で協力するぞ！",
+    "translation": "If you're serious about being a lifeguard,\nI'll do my best to help!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いいえ！　私には恐れ多いです！\nイメージだけで憧れたのは失礼でした！",
+    "translation": "No! I'm afraid of all that!\nIt was so rude of me to think that\nI could achieve something like that!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "さようなら、椰子の実さーーん！！",
+    "translation": "Goodbye now, Mr. palm nuuuuuut!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おっ、おい！　それは投げるな！\n食えるかもしれないだろ！？",
+    "translation": "H-hey! Don't throw those!\nWe might be able to eat them!"
+  }
+]

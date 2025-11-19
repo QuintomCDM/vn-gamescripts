@@ -1,0 +1,527 @@
+[
+  {
+    "character": "一花",
+    "japanese": "ふわぁ……。\nみんな、おはよぉ……。",
+    "translation": "*yawn*\nGood morning, everyone..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "おはよ。\n遅いわよ、朝ご飯できてるんだから、\nさっさと座りなさい。",
+    "translation": "Morning.\nYou're late, breakfast is already ready,\nso sit down."
+  },
+  {
+    "character": "一花",
+    "japanese": "ありゃ、私が最後だったんだ。",
+    "translation": "Oh, sorry. I didn't realize I was the last one."
+  },
+  {
+    "character": "五月",
+    "japanese": "そろそろお腹が限界なので、早く席についてください。",
+    "translation": "My stomach is about to give out,\nso please sit down quickly."
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは、ごめんってば。",
+    "translation": "Hahaha, I'm sorry."
+  },
+  {
+    "character": "四葉",
+    "japanese": "見て見て、今日の朝ご飯！　すごいよ！\n三玖が早起きして頑張ってくれたんだって！",
+    "translation": "Hey, look at today's breakfast!\nIt's amazing!\nMiku woke up early and worked hard to make it!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ううん、私１人じゃないよ。\nらいはちゃんも手伝ってくれたから。",
+    "translation": "No, I wasn't alone. Raiha-chan helped too."
+  },
+  {
+    "character": "らいは",
+    "japanese": "でも三玖さん、私が起きるよりも\nずっと早くから準備始めてたよね。",
+    "translation": "But Miku-san,\nyou started preparing much earlier than I did."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ら、らいはちゃん……！",
+    "translation": "R-Raiha-chan!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "話してないで、そろそろ食うぞ。\nせっかくの料理が冷めちまうだろ。",
+    "translation": "Stop talking and start eating.\nThe food will get cold."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ええ、それじゃ――",
+    "translation": "Alright, then%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "いただきます！",
+    "translation": "Let's dig in!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "んん～！　美味しい！\n三玖さん、お料理が上手になったね！",
+    "translation": "Mmm, delicious!\nMiku-san, you've gotten so good at cooking!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "確かに、気合入れて作ったって言うだけはあるわ。",
+    "translation": "Certainly, I can say that confidently as well,\nyou've put in a lot of effort to making this."
+  },
+  {
+    "character": "三玖",
+    "japanese": "２人が教えてくれたおかげ。\nありがとう。",
+    "translation": "Well, I did it with the help of these two.\nThank you."
+  },
+  {
+    "character": "五月",
+    "japanese": "三玖は島に来てから、\nずっと料理の練習をしていましたからね。\nやはり、何事も経験が大切です。",
+    "translation": "Miku has been practicing cooking\never since we came to the island.\nExperience is important, after all."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ホント美味しい！\n家に帰ってからも食べたいなぁ。",
+    "translation": "It's really delicious!\nI wanna eat this after going back home."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そ、そんなに褒められると、恥ずかしい。",
+    "translation": "I-if you praise me that much,\nI'll get embarrassed."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ま、美味しいのは認めるけど\n私からしたら、まだまだだわ。",
+    "translation": "Well, it's good,\nbut it's still not as good as mine, though."
+  },
+  {
+    "character": "二乃",
+    "japanese": "うちの料理当番の座は、譲るわけにはいかないわね。",
+    "translation": "I just can't give up my position of cooking duty."
+  },
+  {
+    "character": "三玖",
+    "japanese": "むむ……。\nいつか絶対に奪う。",
+    "translation": "Mmmhh...\nI'll definitely take it from you someday."
+  },
+  {
+    "character": "二乃",
+    "japanese": "その日を楽しみにしてるわ。",
+    "translation": "I'm excited for that day to come."
+  },
+  {
+    "character": "一花",
+    "japanese": "いやぁ、うちのご飯が\nますます美味しくなって困っちゃうな。\n食べすぎは禁物なのに。",
+    "translation": "Well, if the food at our house\nkeeps getting better and better, that's a problem.\nI'm not supposed to eat too much."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あのねぇ、あんたたちも食べるだけじゃなくて、\n作るほうにも少しは興味持ちなさいよ。",
+    "translation": "Hey, you guys should be interested\nin making the food too, not just eating it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えへへ……。\nもっとお手伝いするね。",
+    "translation": "Hehehe...\nI'll help out more, okay?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ほら、フータロー君も。\n黙って食べてないで、感想を言ってあげたら？",
+    "translation": "Come on, Futaro-kun too!\nInstead of just eating silently,\nwhy don't you tell us what you think about the food?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん？　ああ、美味いぞ。",
+    "translation": "Hm? Yeah, it's delicious."
+  },
+  {
+    "character": "一花",
+    "japanese": "だってさ、三玖。",
+    "translation": "That's just what he says, Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……うん。\nありがとう。フータロー。",
+    "translation": "...Yeah.\nThank you, Futaro."
+  },
+  {
+    "character": "五月",
+    "japanese": "あの、おかわりを頂いてもよろしいでしょうか？",
+    "translation": "Excuse me, may I have some seconds?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "はいはーい！　私、持ってくるね。\n他におかわりほしい人～？",
+    "translation": "Alright! I'll bring some to you.\nIs there anyone else who wants some?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、じゃあ私も！\n三玖は……。",
+    "translation": "Ah, then me too!\nMiku, how about you..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "三玖？　どうかした？",
+    "translation": "Miku? What's the matter?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、なんでもない。\nえっと、おかわりだよね。\n私はいらない、かな。",
+    "translation": "Ah, it's nothing.\nUm, seconds, right?\nI don't need any."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ふう～、食った食った。\nさて、じゃあ勉強するか。",
+    "translation": "Whew, I'm stuffed.\nRight, time for studying."
+  },
+  {
+    "character": "二乃",
+    "japanese": "何を言ってるのかしらフー君？",
+    "translation": "What are you saying, Futaro-kun?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうですよ、上杉さん！\n今日と明日は夏を満喫するって\n約束したじゃないですか！",
+    "translation": "That's right, Uesugi-san!\nWe promised to enjoy our summer today and tomorrow."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "悪い悪い、軽いジョークだよ。",
+    "translation": "Sorry, sorry, just a light joke."
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたはジョークのセンスがありませんね。",
+    "translation": "You don't really have a good sense of humor."
+  },
+  {
+    "character": "らいは",
+    "japanese": "ホントだよ。\nお兄ちゃんはもっと空気を読もうね。",
+    "translation": "For sure.\nTry to read the room a little better, big bro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……すまん。",
+    "translation": "...Excuse me."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、具体的に何をしよっか？",
+    "translation": "Alright, then what should we do?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そんなの決まってるわ！\n海よ海！　ぜんぜん泳ぎ足りないもの！",
+    "translation": "That's obvious!\nThe beach, the beach!\nI haven't been swimming enough at ALL!"
+  },
+  {
+    "character": "五月",
+    "japanese": "せっかくの無人島ですし、\n他の人の目を気にせず思い切り泳ぎたいですね。",
+    "translation": "Since we're on an deserted island,\nwe can swim without worrying about anyone watching us."
+  },
+  {
+    "character": "一花",
+    "japanese": "他に意見ある？\nないなら今日は１日、海の日でいいかな。",
+    "translation": "Does anyone else have any ideas?\nIf not, then today will be a day at the beach, eh."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ……その……。",
+    "translation": "Ah...well..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうした、三玖。\n何かしたいことがあるのか？",
+    "translation": "What's up, Miku?\nIs there something you'd like to do?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっと、その……\n海もいいけど、私は、山にハイキングに行きたい。",
+    "translation": "Uh, well...\nThe beach is nice,\nbut I'd like to go hiking in the mountains."
+  },
+  {
+    "character": "四葉",
+    "japanese": "山もいいね！\n食材調達ばかりで、ちゃんと探検できてないし。",
+    "translation": "The mountains would be great!\nWe've only been there to gather ingredients,\nso we haven't really explored up there yet."
+  },
+  {
+    "character": "三玖",
+    "japanese": "探検したいわけじゃないけど……\n夏の山だからこそできることも、いっぱいあると思う。",
+    "translation": "I don't really want to explore...\nbut there are a lot of things\nyou can do on mountains in the summer."
+  },
+  {
+    "character": "二乃",
+    "japanese": "でも山って暑いじゃない。\nどうせ暑いなら海のほうがいいわ。",
+    "translation": "But mountains are hot, aren't they?\nIf it's gonna be hot, I'd rather go to the beach."
+  },
+  {
+    "character": "一花",
+    "japanese": "うーん……。\n海水浴は一度してるし山でもいいかも？",
+    "translation": "Hmm...\nWe've already gone swimming once,\nmaybe the mountains would be fun?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、せっかくの三玖の提案ですし。",
+    "translation": "Yes, since it's a rare suggestion from Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローは？　どっちがいい？",
+    "translation": "How about you, Futaro? Which do you prefer?"
+  },
+  {
+    "character": "五月",
+    "japanese": "勉強はなしですからね？",
+    "translation": "You can't choose studying, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかってる！\n俺は――",
+    "translation": "I got that!\nLet's see%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……どっちでもいい。",
+    "translation": "...I don't mind either."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それじゃ決まらない。",
+    "translation": "That won't help us decide."
+  },
+  {
+    "character": "五月",
+    "japanese": "勉強よりも意味のない意見ですね。",
+    "translation": "That's a suggestion more meaningless than,\n'let's study.'"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかったわかった。\nじゃあ、山でいいだろ。",
+    "translation": "Fine, fine.\nLet's go to the mountains, then."
+  },
+  {
+    "character": "三玖",
+    "japanese": "適当……。",
+    "translation": "So unconvincing..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "山でいいんじゃないか？\n海は、一花も言ってる通り１回行ってるだろ？",
+    "translation": "The mountains should be fine, right?\nAs Ichika said, we've been swimming once, you know?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。\nせっかくの島だから、\nここでしかできないことをやっておきたい。",
+    "translation": "Yes.\nWe're here on the island,\nso let's do something we can only do here."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、山で決まりかな。",
+    "translation": "Right, then we've decided on the mountains!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "山で何をするつもりなんだ？",
+    "translation": "What would we do in the mountains?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "その、森林浴というか……\n自然に囲まれてのんびりしたいなって。",
+    "translation": "I want to relax in the forest,\nor something like that...\nI just want to relax surrounded by nature."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いいじゃないか森林浴。\n今までサバイバルで気を張ってた分、\nリフレッシュってわけだ。",
+    "translation": "Forest bathing, how nice.\nIt's a way to refresh ourselves\nafter being on edge, focusing on our survival."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー……。",
+    "translation": "Futaro..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "まあ、フー君が山って言うなら\n反対する理由はないわね。",
+    "translation": "Well, if Fu-kun says the mountains,\nthere's no reason to object."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃ、山へハイキングで決定だね。",
+    "translation": "Okay, it's decided then. We'll hike the mountains."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、でも、さすがに山の頂上までだと大変だから、\n目的地は別の場所で。",
+    "translation": "Oh, but going all the way to the summit\nwould be too hard,\nso let's pick a different destination."
+  },
+  {
+    "character": "五月",
+    "japanese": "頂上以外のゴールですか。\nどの辺りがよいでしょうか……。",
+    "translation": "A goal other than the summit, huh.\nWhere would be good..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "だったら、森の中にある広場がいいかも。\n大きな木があって、割と涼しいし\nのんびりできるよ。",
+    "translation": "In that case, a clearing in the woods might be nice.\nThere are big trees and it's relatively cool,\nso we can relax there."
+  },
+  {
+    "character": "一花",
+    "japanese": "いいんじゃない？\nまさに森林浴って感じだよ。",
+    "translation": "That sounds good.\nPerfect for relaxing in the forest."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あそこなら、夕方までには帰ってこられるよね。",
+    "translation": "We should be able to get back by evening if we go there."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、そこが目的地ってことでいいか。",
+    "translation": "So that's our destination, then."
+  },
+  {
+    "character": "二乃",
+    "japanese": "と、なると。\n当然、あれが必要よね？",
+    "translation": "It seems so.\nWe'll naturally need those, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あれ？",
+    "translation": "Those?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "決まってるじゃない、お弁当よ。",
+    "translation": "Bento! Obviously."
+  },
+  {
+    "character": "五月",
+    "japanese": "お、お弁当……！",
+    "translation": "B-bento!"
+  },
+  {
+    "character": "一花",
+    "japanese": "五月ちゃん、さっき朝ご飯を\n食べたばかりなのに、すごい食いつきだね。",
+    "translation": "Itsuki-chan,\nyou're pretty pumped up\neven though you just had breakfast."
+  },
+  {
+    "character": "四葉",
+    "japanese": "すっかり忘れてた！\nお弁当がないハイキングなんて味気ないよ。",
+    "translation": "I completely forgot!\nHiking without a bento, that'd be no fun."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ、お弁当は私が作る。\n朝ご飯の残りをアレンジしたりすれば、\nすぐにできるはずだから。",
+    "translation": "Then I'll make the lunches.\nIf I can use the leftovers from breakfast,\nI should be able to make them quickly."
+  },
+  {
+    "character": "らいは",
+    "japanese": "私もやるよ！\n朝ご飯は三玖さんにやってもらっちゃったし。",
+    "translation": "I'll help too!\nYou made us breakfast, right, Miku-san?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "もちろん私も作るわ。\n三玖ばかりにいい格好をさせる\nわけにはいかないものね？",
+    "translation": "Of course, I'll make one too.\nI can't let Miku have all the fun, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "おお、３人とも燃えてるなぁ。\n楽しみになってきた。",
+    "translation": "Ohh, all three of you are fired up.\nI'm pretty excited."
+  },
+  {
+    "character": "五月",
+    "japanese": "期待してます！",
+    "translation": "I'm anticipating an amazing lunch!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、五月？\n言っておくが、ハイキングってのは\n弁当を食うのが目的じゃないからな？",
+    "translation": "Hey, Itsuki?\nJust so you know, the point of hiking isn't\njust to eat lunch, you know?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "でも、上杉さんも楽しみですよね？\n３人のお弁当。",
+    "translation": "But you're looking forward to it too, right?\nThose three's bento!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そりゃあ、まあ。",
+    "translation": "Well I'll be, I guess I am."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "二乃",
+    "japanese": "三玖、これは勝負よ。\nどっちがフー君の舌を唸らせる\nおかずを作れるか――",
+    "translation": "Miku, this is a competition.\nA competition for who can make the most delicious\nlunch for Fu-kun%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "って、なにボーッとしてるのよ。",
+    "translation": "Hey, what are you spacing out for?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、ごめん二乃、なに？",
+    "translation": "Ah, sorry Nino, what?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんた、大丈夫なの？",
+    "translation": "Are you feeling alright?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、平気。\nみんなで美味しいお弁当を作ろう。",
+    "translation": "Yeah, I'm okay.\nLet's make delicious bento all together."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……まあ、いいわ。\n負ける気はないから。",
+    "translation": "...Alright, fine.\nI don't think I'll lose, just so you know."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、私も負けない。",
+    "translation": "I don't intend on losing either."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし、３人が弁当を作ってる間に\nハイキングの準備をするか。",
+    "translation": "Alright, let's get ready for hiking\nwhile those three are making our bento."
+  },
+  {
+    "character": "一花",
+    "japanese": "りょーかい。",
+    "translation": "Roger."
+  },
+  {
+    "character": "五月",
+    "japanese": "二乃と三玖の荷物は私たちでまとめます。\n上杉君は、らいはちゃんのをお願いしますね。",
+    "translation": "I'll get Nino and Miku's things together.\nUesugi-kun, you take care of Raiha-chan's, please."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう、任せろ。",
+    "translation": "Yep, got it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "では、またのちほど\nリビングに集合ということにしましょー！",
+    "translation": "Alright, then let's meet up\nin the living room after!"
+  }
+]

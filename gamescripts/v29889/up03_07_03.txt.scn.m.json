@@ -1,0 +1,147 @@
+[
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖？　なにやってるんだ？",
+    "translation": "Miku? What are you doing?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "川の流れる音を聞いてた。",
+    "translation": "I was listening to the sound of the river."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "川の音？",
+    "translation": "The sound of the river?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "街にいるときは全然気にしてなかったけど、\n川の流れる音って、なんだか落ち着く。",
+    "translation": "When I was in the city,\nI didn't pay attention to it at all,\nbut the sound of the river flowing is kind of calming."
+  },
+  {
+    "character": "三玖",
+    "japanese": "このまま目を閉じたら寝ちゃいそう……。",
+    "translation": "I might fall asleep, If I close my eyes..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "寝るな寝るな！　川に落ちるぞ！",
+    "translation": "Don't sleep, don't sleep! You'll fall into the river!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふふ、大丈夫。",
+    "translation": "Teehee, I'm okay."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちなみにだが、川の音を聞いて落ち着くのには\nちゃんと理由があるぞ。",
+    "translation": "By the way, there's actually a good reason why\nyou calm down when you hear the sound of the river."
+  },
+  {
+    "character": "三玖",
+    "japanese": "え？　そうなの？",
+    "translation": "Huh? Really?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "『１／ｆゆらぎ』ってやつだ。",
+    "translation": "It's called '1/f noise.'"
+  },
+  {
+    "character": "三玖",
+    "japanese": "エフ分の……って、なにそれ。",
+    "translation": "One over f... What's that?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "パワースペクトル密度が\n周波数ｆに反比例するゆらぎ……\nって言ってもわからないよな。",
+    "translation": "The fluctuation of the power spectral density\ninversely proportional to frequency, f...\nEven if I say it like that, you won't get it, huh."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、呪文にしか聞こえない。",
+    "translation": "Yes, it just sounds like a magic spell."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "要は、聞くとリラックスできる音のことだ。\n人間の心音や電車の揺れなんかも含まれるらしい。",
+    "translation": "In short, it's a relaxing sound to hear,\nincluding the sound of a human heart\nor the shaking sound of a train."
+  },
+  {
+    "character": "三玖",
+    "japanese": "電車だとなぜかよく眠れるのって、\nちゃんと理由があったんだ。",
+    "translation": "So, there's a good reason\nwhy I sleep better on the train."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よく、ある音楽を聞かせると\n赤ん坊が泣き止むって話があるだろ？",
+    "translation": "There's often stories about a baby stopping\ntheir crying when you play certain music, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それも『１／ｆゆらぎ』が理由らしいぜ。",
+    "translation": "That's also because of '1/f noise.'"
+  },
+  {
+    "character": "三玖",
+    "japanese": "知らなかった……。",
+    "translation": "I didn't know that..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あと、聞いていて落ち着く声とかもあるらしい。\n調べてみると結構、面白いぞ。",
+    "translation": "Also, it seems that there are certain voices that are calming\nto listen to, so it's pretty interesting to look them up."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……じゃあ、フータローの声もだね。",
+    "translation": "...Then I guess your voice is too, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Wha?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私はフータローの声を聞いていると落ち着く――",
+    "translation": "When I hear your voice, Futaro, I calm down%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ううん、やっぱり違った。",
+    "translation": "Actually, no what I meant is..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローの声を聞くと、\nドキドキしちゃうことのほうが多い。",
+    "translation": "When I hear your voice, Futaro,\nit more often makes my heart pound."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "なんでか聞いてくれないの？",
+    "translation": "You're not gonna ask me why?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "聞く必要がないからな。\nほら、食料集めに戻るぞ。",
+    "translation": "Because, I don't need to ask you why.\nCome on, let's keep searching."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、わかった。",
+    "translation": "Okay, got it."
+  }
+]

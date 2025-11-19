@@ -1,0 +1,277 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "らいはー！\nどこにいるんだー！？",
+    "translation": "Raihaaa!\nWhere are yooouuu?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "らいはちゃーん！\n聞こえてたら返事してくださーい！",
+    "translation": "Raiha-chaaan!\nIf you can hear me, pleeeaaase respond!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……ダメね、何も聞こえない。",
+    "translation": "...No good, I don't hear anything."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くそ、なんでこんなことに……！",
+    "translation": "Damn, why did something like this happen...!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん……。",
+    "translation": "Uesugi-san..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もう、俺たちが森に入ってから\nずいぶん経ったってのに、どこにも……。",
+    "translation": "It's already been a long time \nsince we entered the forest,\nbut we still haven't found anything..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "まだ森に行ったって決まったわけじゃないでしょ？",
+    "translation": "We still haven't established that she even \ncame out to the forest, have we?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "神社へ行ったのかもしれないし、\n入れ違いで別荘に戻ってるかもしれないわ。",
+    "translation": "She might have gone to the shrine,\nor maybe she went back to the villa\nwithout us noticing."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうですよ。\nまずは焦らず、ここをしっかりと捜しましょう。",
+    "translation": "That's right.\nLet's search this place carefully, without rushing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（どうしてだよ、らいは。\n　いつものお前は、こんな風に\n　困らせるようなことをしたりしないのに）",
+    "translation": "(Why did you do this, Raiha?\n Usually you wouldn't do something\n that would cause trouble like this.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（どうしてそこまで水晶に……）",
+    "translation": "(Why would you go so far for the crystals...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（…………）",
+    "translation": "(......)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いや、お前はきっと……\n　俺のことを考えてくれたんだよな）",
+    "translation": "(No, you...\n must have been thinking about me.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こいつらの想いに対して優柔不断な俺を見て、\n　やきもきして……）",
+    "translation": "(Seeing my indecisiveness towards their feelings,\n you must have been anxious...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん？　あの、大丈夫ですか？",
+    "translation": "Uesugi-san? Um, are you okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……俺のせいだ。\n俺が最初から、らいはを水晶探しにつれていけば\nこんなことにはならなかったんだ。",
+    "translation": "...It's my fault.\nIf I had taken Raiha with me to look for the crystals\nfrom the beginning, this wouldn't have happened."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいははきっと、俺のために……。",
+    "translation": "Raiha must have done it for my sake..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君。\n今それを言っても仕方ないわ。",
+    "translation": "Fu-kun.\nThere's no point in saying that now."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが、らいはに何かあったら……。",
+    "translation": "But, if something happens to Raiha..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、ダメ。",
+    "translation": "Fu-kun, enough."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "何がダメなんだよ！\n実際、俺のためにらいはが\n危険な目にあってるかもしれないんだぞ！？",
+    "translation": "What's enough?!\nRaiha might be in actual danger\nfor my sake, ya know?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "俺のため、とか、そんなこと言ったら\nらいはちゃんの気持ちを否定してるのと同じことよ。",
+    "translation": "Saying things like 'for my sake' is the same as\nnegating Raiha-chan's feelings."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺は否定なんて！",
+    "translation": "I'm not negating anything!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君がらいはちゃんを心配してるのはわかるわ。",
+    "translation": "I understand that you're worried\nabout Raiha-chan, Fu-kun."
+  },
+  {
+    "character": "二乃",
+    "japanese": "でも、フー君のために水晶を探したいと思ったのは、\nらいはちゃん自身の気持ちなんでしょ？",
+    "translation": "However, Raiha-chan wanted to search for crystals\nfor you for her own sake, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "それが元でフー君が自分をただ責めるだけじゃ……。",
+    "translation": "If you keep blaming yourself for that like this..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "らいはちゃんの、フー君を想う気持ちまで\n否定してるみたいになっちゃう気がする。",
+    "translation": "It's like denying\neven Raiha-chan's love for you too, Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "誰が悪いとかないですよ。\n気持ちがちょっとすれ違っちゃっただけです。",
+    "translation": "There's no need to blame anyone.\nFeelings just got a little mixed up is all."
+  },
+  {
+    "character": "四葉",
+    "japanese": "だから、早く見つけてあげて、\nちゃんと話をしましょう。",
+    "translation": "So let's find Raiha-chan quickly\nand we'll talk things out properly."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな……。\nまずは、らいはを見つけることが先決だ。",
+    "translation": "That's right...\nFinding Raiha is our top priority."
+  },
+  {
+    "character": "四葉",
+    "japanese": "らいはちゃんも、上杉さんに\n心配かけちゃったことを反省してると思いますよ。",
+    "translation": "I think Raiha-chan is also reflecting on\ncausing us trouble, Uesugi-san."
+  },
+  {
+    "character": "四葉",
+    "japanese": "１人で勝手に出掛けるなんて悪い子だな！",
+    "translation": "Tell her she's a bad girl for going out alone!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "って叱って、そして許してあげてくださいね。",
+    "translation": "Scold her as such, but forgive her too, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ああ。",
+    "translation": "...Okay."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "泉まで来ちまったか……。",
+    "translation": "So we've come all the way to the spring..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "手分けして探すわよ。\n私たちと入れ違いでここに来てるかもしれない。",
+    "translation": "We'll split up and search.\nShe may have come here\nwhile we were passing each other."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、私は向こうを捜してますね！",
+    "translation": "Alright, I'll search over there!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、２人とも頼んだ。",
+    "translation": "Yeah, I'm leaving it to the two of you. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいはー！\n聞こえてたら返事してくれー！",
+    "translation": "Raihaaa!\nIf you can hear me, pleeaase respond!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……やっぱり泉まで来てなかったのか？\n　じゃあ森の中のどこかに……）",
+    "translation": "(...So she hasn't come to the spring after all?\n Then she must be somewhere in the forest...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ん？　何か蹴った？）",
+    "translation": "(Hm? Did I kick something?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（これは、また水晶か……）",
+    "translation": "(Another crystal, huh...)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、こっち！\nらいはちゃんがいたわ！",
+    "translation": "Fu-kun, over here!\nI found Raiha-chan!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いたのか！？",
+    "translation": "You did?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいは！？\nおい、しっかりしろ！　どうしたんだ！？",
+    "translation": "Raiha!\nHey, get a hold of yourself! What's wrong?!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "らいはちゃん、しっかりしてください！",
+    "translation": "Raiha-chan, please hang in there!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……っ！\n熱がある！　急いで連れて帰らないと！",
+    "translation": "...!\nShe's got a fever! We need to take her back, now!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ私がおんぶして運びます！",
+    "translation": "Then I'll carry her on my back!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、ここは俺に運ばせてくれ。",
+    "translation": "No, let me carry her."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……わかりました。\nでは、背負っているのを後ろから支えますね。",
+    "translation": "...Understood.\nI'll support you from behind."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、頼む。",
+    "translation": "Yeah, thanks."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（らいは、頑張ってくれ。\n　お兄ちゃんが、すぐに連れて帰って\n　やるからな……！）",
+    "translation": "(Raiha, hang in there.\n Your big bro will bring you home\n right away...!)"
+  }
+]

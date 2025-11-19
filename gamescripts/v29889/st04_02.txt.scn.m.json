@@ -1,0 +1,332 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "よーし、花火大会を始めましょー！",
+    "translation": "Alright, let's start the fireworks show!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえ待って、ここじゃ風情がないわよ。\nどうせなら浜辺でやらない？",
+    "translation": "Hey, wait, it doesn't look very elegant here.\nWhy don't we do it on the beach?"
+  },
+  {
+    "character": "一花",
+    "japanese": "いいね！\nせっかく島に来てるんだし。",
+    "translation": "Nice!\nYeah let's do it since we're here."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、そのほうが夏っぽい。\nフータロー、そうしようよ。",
+    "translation": "Yeah, it's more summery that way.\nFutaro, let's do that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、俺は構わないぞ。",
+    "translation": "Okay, I don't mind."
+  },
+  {
+    "character": "五月",
+    "japanese": "では行きましょうか。",
+    "translation": "Right, then shall we go?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "準備できたな。\nでは改めて花火大会、開始だ！",
+    "translation": "We're ready.\nLet's get started!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "わー、パチパチパチ！",
+    "translation": "Yaay! Snap, crackle, bang!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "花火、みんなに配ろうか？",
+    "translation": "Want to hand out fireworks to everyone?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、まずはやっぱりこの打ち上げ花火からだろ！",
+    "translation": "Nah, first we'll shoot this firework off!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "打ち上げ花火って言う割には\nずいぶんとミニサイズよね。",
+    "translation": "They're pretty small, for fireworks."
+  },
+  {
+    "character": "一花",
+    "japanese": "まあ、そこは我慢しようよ。",
+    "translation": "Well, nothing we can do about that."
+  },
+  {
+    "character": "四葉",
+    "japanese": "点火は私がするよ。\nみんなはちょっと離れてて。",
+    "translation": "I'll light it.\nStand back a little, everyone."
+  },
+  {
+    "character": "五月",
+    "japanese": "お願いします、四葉。",
+    "translation": "Please, Yotsuba."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、行くよー！　――点火！",
+    "translation": "Alright, here we go! %p-2;――%p; It's lit!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "わー、あがったー！",
+    "translation": "Oh, it shot up!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "打ち上げ成功です！",
+    "translation": "Lift-off was successful!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（う～ん……。\n　思った以上にしょぼかったな）",
+    "translation": "(Hmm...\n That was underwelming.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "……お母さん。\n今年も全員揃って花火を見れました。",
+    "translation": "...Mom.\nWe were able to all see fireworks together this year,\ntoo."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（そうだ、こいつらにとって\n　花火は母親との想い出だったな……）",
+    "translation": "(Oh yeah, for the quintuplets,\n fireworks reminds them of their mother...)"
+  },
+  {
+    "character": "一花",
+    "japanese": "それじゃ、本格的に花火大会を始めますか！",
+    "translation": "Now then, let's actually\nget started on the fireworks festival."
+  },
+  {
+    "character": "三玖",
+    "japanese": "思ったよりたくさんあるね。\nらいはちゃん、どれにする？",
+    "translation": "There's quite a lot more fireworks than I imagined.\nWhich do you want do you want, Raiha-chan?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "う～ん、どれにしようかな。\nこれがいいかな？",
+    "translation": "Hmm, let's see.\nWhat about this one?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "らいはちゃん、１本しか選ばないなんて甘いですね。\n私なんてほら！　二刀流ですよ！",
+    "translation": "Raiha-chan, you're such an amateur.\nLook at me! I'm dual-wielding!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うわ～！？　カッコいい！\n私もやろーっと！",
+    "translation": "WOWW?! AWESOME!\nI wanna try that!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "勝負ですね！\nさあ、この私の動きについてこれますか！？",
+    "translation": "Bring it on!\nNow, can you keep up with my moves?!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "あはは！　それー！",
+    "translation": "AHAHA! Hiyah!"
+  },
+  {
+    "character": "五月",
+    "japanese": "２人とも火傷しないように気をつけてくださいね。\n――あっ！　ほら四葉、火の向きには注意して！",
+    "translation": "Be careful not to get burn yourself, both of you.\n%p-2;――%p; Ah! Yotsuba, watch where you're pointing that!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "この花火の色、ちょっと好きかも。",
+    "translation": "I quite like the color of these fireworks."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんた、ホントに青いのが好きよね。\n私はこっちの派手なほうが綺麗で好きだわ。",
+    "translation": "You really like blue, don't you?\nI like these flashy ones because they're more beautiful."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そっちの花火も綺麗だと思うよ。\nでも、私はこっちが好きだから。",
+    "translation": "I think those fireworks are pretty, too.\nBut I like this one more."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ま、それでいいんじゃないかしら。\nどっちも花火なのには変わらないしね。",
+    "translation": "Well that one should be good.\nBoth are fireworks, so there's not a big difference."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、好きの形はそれぞれだよ。",
+    "translation": "Yeah, everyone has their preferences."
+  },
+  {
+    "character": "一花",
+    "japanese": "みんな楽しそう。\nこのタイミングで花火大会は正解だったね。",
+    "translation": "Everyone looks like they're having so much fun.\nIt was a good idea to hold a fireworks festival at this time."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "帰れるとわかったし一安心、\nってのもあるんだろうな。",
+    "translation": "I guess it's from the relief knowing we can go home."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、ホントに……\nなんとか無事に戻れそうでよかった。",
+    "translation": "Yeah, that's true...\nit seems we'll be able to make it back safely."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まだ油断はできないな。",
+    "translation": "We can't let our guard down just yet."
+  },
+  {
+    "character": "一花",
+    "japanese": "迎えの船がこの島に向かってきてるのに？",
+    "translation": "Even though the rescue ship is already heading our way?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そもそも予想外の嵐で島に閉じ込められたんだ。\n船が港に着くのを見るまでは安心できない。",
+    "translation": "Well nothing is certain, \nwe got trapped here because of a sudden storm.\nWe can't ease up until we see the ship dock."
+  },
+  {
+    "character": "一花",
+    "japanese": "ホント慎重だよね。\nでも、やっぱり君はそうでなくちゃ。",
+    "translation": "You're really so serious.\nBut I guess that's what make you, you."
+  },
+  {
+    "character": "一花",
+    "japanese": "それじゃ、私はてるてる坊主でも作って\nお祈りしておこうかな。",
+    "translation": "Then, I think I'll make a Teru Teru Bozu\nand pray for good weather."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんとかここまでこれたな。\n色々と問題はあったが、あと少しだ。",
+    "translation": "We somehow managed to get this far.\nIt's been tough, but hang in there a little longer."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、みんな頑張ったもんね。",
+    "translation": "Yeah, we should all be proud of our efforts."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一花にも感謝してる。\nフォローしてくれて助かったぞ。",
+    "translation": "I'm thankful towards you as well, Ichika.\nThank you so much for helping me with everything."
+  },
+  {
+    "character": "一花",
+    "japanese": "それは……\n私だって、妹たちと無事に帰りたいから当然だよ。",
+    "translation": "Well, that's...\nIt's only natural, \nI want to return home safely with my sisters too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、全員無事に帰るまで、\nお互い気を抜かずに行こうぜ。",
+    "translation": "Right, let's keep an eye out for each other\nuntil we get home safely."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、お互いね。",
+    "translation": "Yes, let's watch out for each other."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やっとだな……。",
+    "translation": "Finally..."
+  },
+  {
+    "character": "一花",
+    "japanese": "ずいぶんとお疲れみたいだね。\n大丈夫？",
+    "translation": "You seem awfully tired.\nAre you okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、あと少しの辛抱だ。\n船が到着するまでは\n疲れてるなんて言ってられないさ。",
+    "translation": "No, just gotta be a little more patient.\nUntil the ship arrives, I can't loosen up."
+  },
+  {
+    "character": "一花",
+    "japanese": "なんだ、やっぱり疲れてたんだ。\n頑張りすぎはよくないぞ？",
+    "translation": "Woah, so you are actually tired.\nDon't push yourself too hard, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "約束したからな。\n必ず全員で無事に帰るって。",
+    "translation": "I promised, didn't I?\nThat all of us would get home safe."
+  },
+  {
+    "character": "一花",
+    "japanese": "ふふ……。\n君にリーダーを任せてよかったよ。\nもうちょっとの間、頑張ってね。",
+    "translation": "Teehee...\nI'm glad we assigned you as the leader.\nKeep it up for a little longer."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君？\nさっきから花火もしないで\n一花となんの話をしてるのかしら？",
+    "translation": "Fu-kun?\nWhat have you been talking about with Ichika,\ninstead of doing fireworks?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここの暮らしももう少しだって考えてたんだよ。\n俺の目標は、全員無事に帰ることだからな。",
+    "translation": "We were just talking about how our island life\nwill soon come to an end.\nAnd, my goal is to get everyone home, safely."
+  },
+  {
+    "character": "一花",
+    "japanese": "そのためにも、船が来るまでは\nやっぱり気が抜けないってね。",
+    "translation": "To do that,\nwe can't let our guard down until the boat comes."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "二乃は、もう花火はいいのか？",
+    "translation": "Nino, are you finished with the fireworks?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっと休憩よ。",
+    "translation": "I'm taking a little break."
+  },
+  {
+    "character": "らいは",
+    "japanese": "三玖さん、それホント？\nお兄ちゃんでも、わからないことがあるんだ！",
+    "translation": "Miku-san, is that true?\nThere's even things big bro doesn't know!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……うん？",
+    "translation": "...Hm?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "向こうが気になるの？",
+    "translation": "Are you curious about what's going on over there?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、ちょっとらいはの様子を見てくる。",
+    "translation": "Yeah, I'll go check out how Raiha's doing."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……やっぱり、らいはちゃんには敵わないわね。",
+    "translation": "...As expected, I can't win against Raiha-chan."
+  },
+  {
+    "character": "五月",
+    "japanese": "四葉！　ちょっと待ってください！\nそれはさすがに危険です！",
+    "translation": "Yotsuba! Hold on a second!\nThat's dangerous!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……なんだ？\n四葉が何かやらかしたのかもしれないな。\nちょっと様子を見てくる。",
+    "translation": "...What?\nYotsuba might be causing trouble again.\nI'll go check things out."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、お願い。\n五月ちゃんじゃ四葉を止めきれないかも\nしれないしね。",
+    "translation": "Yes, please.\nItsuki-chan isn't enough to stop Yotsuba."
+  }
+]

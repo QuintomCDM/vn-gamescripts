@@ -1,0 +1,802 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "イヤッホーー！！　やっぱり夏は最高だな！\nお前らもそう思うだろ！？",
+    "translation": "YAHOOOOO!! Summer is really the BEST!\nDon't you guys think so?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "ええと、どうだろうね。",
+    "translation": "Um, I'm not sure."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうした元気がないぞ！\nほら、もっと声出して行こう！",
+    "translation": "What's wrong, why are you so quiet?\nCome on, let's make some noise!"
+  },
+  {
+    "character": "五月",
+    "japanese": "海だから声を出すのですか？\n理解ができませんが……。",
+    "translation": "Are you shouting because we're at the beach?\nI don't really understand..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（だ、ダメだ！\n　もう完全にいぶかしがられてるぞ！）",
+    "translation": "(O-oh no!\n They're totally suspicious of me now!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（どうするんだ、らいは！\n　そろそろこのキャラを続けるのも限界だぞ！？）",
+    "translation": "(What should I do, Raiha?\n There's a limit to how long I can keep this act going,\n ya know?!)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、みんなで楽しもうね！\n頑張って！",
+    "translation": "Let's all have fun together, big bro!\nDo your best!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（うううっ！\n　らいはの視線がまぶしすぎる！）",
+    "translation": "(Ooooohh!\n Raiha's gaze is too bright!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ここはやはり兄として、妹の期待に\n　応えてやらないといけないのか……！）",
+    "translation": "(As her older brother,\n I must meet her expectations, mustn't I?!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よ、よーし！\nお前ら、どうする！",
+    "translation": "A-alright!\nWhat are we gonna do?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "え？　どうするって何が？",
+    "translation": "Huh? What are we gonna do? What do you mean?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "何が？　何が？\nそうだなー、海と言えば……。",
+    "translation": "What? What?\nLet's see, when you think of the beach..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、海と言えば？",
+    "translation": "Yes, when you think of the beach?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "スイカ割り！",
+    "translation": "Watermelon splitting!"
+  },
+  {
+    "character": "五月",
+    "japanese": "スイカがありません。",
+    "translation": "We don't have a watermelon."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな！\nじゃあ……沖まで泳ぐ！",
+    "translation": "That's right!\nAlright... Then we swim out to sea!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私は無理。",
+    "translation": "I'm out."
+  },
+  {
+    "character": "一花",
+    "japanese": "私もパスかな。\nそこまでたっぷり泳ぎたいわけじゃないし。",
+    "translation": "I pass too.\nI don't really feel like swimming that far."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（くっ、食いつきが悪い！\n　ええと、他にらいはがくれたアドバイスは……）",
+    "translation": "(Darn, they're not interested!\n Let's see, what other advice did Raiha give me...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ビーチフラッグス……とか？",
+    "translation": "How about...beach flags?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ビーチフラッグスって……。",
+    "translation": "Beach flags?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ああ、砂浜を走って旗を取るやつ？",
+    "translation": "Oh, the game where you run along the beach\nand grab a flag?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そう、それだ！\nたまには新しいことに挑戦してみるのもいいだろ？",
+    "translation": "That's right!\nIt's a good idea\nto try something new once in a while, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "でも、この炎天下の中で走るのってどうなのかしら。",
+    "translation": "But is it okay to run around in this scorching heat?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（だよな！）",
+    "translation": "(That's true!)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "旗を取るとき、頭から滑り込むんだよね？\nなんだか痛そう。",
+    "translation": "When you grab the flag,\nyou have to slide head first, right?\nThat seems kind of painful."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（わかる！）",
+    "translation": "(I know, right?!)"
+  },
+  {
+    "character": "五月",
+    "japanese": "髪に砂がつくのは、ちょっと……。",
+    "translation": "Getting sand in my hair is a bit..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（女の子だもんな！）",
+    "translation": "(They're girls, aren't they!)"
+  },
+  {
+    "character": "一花",
+    "japanese": "それに私、あまり日に焼けたくないんだよね。",
+    "translation": "And also,\nI don't really want to get too tanned,\nyou know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（海を全否定かよ！）",
+    "translation": "(Is she really rejecting the beach altogether?!)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ビーチフラッグス、面白そう！\nなんか踊る感じがしない？　肉が！",
+    "translation": "Beach flags sound interesting!\nBut doesn't it feel like we're gonna boil?\nWith our blood!"
+  },
+  {
+    "character": "一花",
+    "japanese": "に、肉？",
+    "translation": "O-our blood?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "血湧き肉躍るか！\nさすが四葉だ、わかってるな！",
+    "translation": "You mean, your blood is boiling with excitement!\nAs expected of Yotsuba, you know what's up!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そんなことありませんよ～。",
+    "translation": "No, I really don't..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……私も面白そうだなーって思ってたわよ？",
+    "translation": "...I was thinking it would be fun too, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "本当か、二乃！",
+    "translation": "That so, Nino!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私もやりたいって思ってた。",
+    "translation": "I also wanted to try it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おお、三玖もか！",
+    "translation": "Oh, Miku too!"
+  },
+  {
+    "character": "一花",
+    "japanese": "あー、これはやる流れ？",
+    "translation": "Ah, looks like we're going to do this then?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そのようですね……。",
+    "translation": "Seems like it..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "というわけで、ルールの説明をしまーす！",
+    "translation": "Alright, let me explain the rules!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ルールは単純だよ。\n一対一で勝負して、先に旗をとった人が勝ち。",
+    "translation": "They're pretty simple.\nIt's a one-on-one battle,\nand whoever takes the flag first wins."
+  },
+  {
+    "character": "らいは",
+    "japanese": "そして決勝は、勝ち抜けた３人で戦います！",
+    "translation": "And then, the final round\nwill be played by the three people who made it through!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "対戦相手はどう決めよっか。",
+    "translation": "How should we decide who will face whom?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃんけんでいいんじゃない？",
+    "translation": "Rock-paper-scissors works, doesn't it?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そもそも１人余るよね。\n７人だから。",
+    "translation": "Wait, we have one person left over, don't we?\nThere are seven of us."
+  },
+  {
+    "character": "らいは",
+    "japanese": "あ、私は審判やるから！　大丈夫！",
+    "translation": "Oh, I'll be the referee! It's okay!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よーし、それじゃ対戦相手を決めるぞ！\nせーのっ！　じゃんけん――",
+    "translation": "Okay, let's decide who's versus who then!\nReady, set, go! Rock-paper-scissors%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一試合目は、俺と二乃だな！",
+    "translation": "The first match is between me and Nino!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "それじゃ、旗を背にしてうつ伏せに寝てくださーい。",
+    "translation": "Alright,\nplease lie face down with the flag on your back."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そして笛が鳴ったら旗めがけて走って、取る。\n本当に単純ね。",
+    "translation": "Then, when the whistle blows,\nrun towards the flag and try to take it.\nIt's really that simple."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "クックック、はたしてそうかな？",
+    "translation": "Heh-heh-heh, is it really?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "な、なに、その言い方。",
+    "translation": "Wh-what do you mean by that?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "それでは、位置についてーー！\nよーーーい！",
+    "translation": "Now, then, take your positions!\nReady... GO!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うらぁぁぁぁぁっ！！",
+    "translation": "URRAAAAAHH!!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あっ！\n……砂浜だと、足を取られて上手く走れない！",
+    "translation": "Ah!\n...The sand, my feet are sinking,\nand it's hard to run!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うおぉぉぉぉぉぉぉぉっ！！",
+    "translation": "WOOOOOOAAAAAAHHH!!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "くう、いくらフー君でも勝ちは譲らないわよ！",
+    "translation": "Hmph, even if I'm up against you,\nI won't let you win, Fu-kun!"
+  },
+  {
+    "character": "一花",
+    "japanese": "ていうか、フータロー君は声の勢いだけだし。",
+    "translation": "I mean, the only momentum Futaro-kun has\nis with his voice."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですね。\n二乃でも追いつけそうですが、どうでしょう？",
+    "translation": "Right.\nNino seems to be catching up, but can she make it?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "頑張れ、フータロー。",
+    "translation": "Hang in there, Futaro."
+  },
+  {
+    "character": "四葉",
+    "japanese": "二乃！　頑張ってー！",
+    "translation": "Nino! Keep going!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（死ぬ、肺が破裂する！　足の裏が熱い！）",
+    "translation": "(I'm dying, my lungs are going to burst!\n And my feet are so hot!)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "も、もうちょっと……！",
+    "translation": "J-just a little more!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しゃああああああ！！\nとうっ！！",
+    "translation": "YEAAAAAAHH!!\nTHERE!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よっしゃああああああ！",
+    "translation": "I DID ITTTT!"
+  },
+  {
+    "character": "一花",
+    "japanese": "おおー！　ジャンプで距離を稼ぐとは。\nフータロー君、マジだね。",
+    "translation": "Ohhh! Jumping to gain distance.\nYou're amazing, Futaro-kun!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あーっ！　もう！\nスタートで出遅れなければ勝てたのに！",
+    "translation": "Argh! Grr!\nIf only I didn't start so slow, I could have won!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "でも、真剣に走ってるフー君の横顔を\n近くで見られて、得しちゃったかも……。",
+    "translation": "But I got to see Fu-kun's serious side up close,\nso maybe that's a win..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "よーし！　二乃さんに効果あり！",
+    "translation": "Alright! It worked on Nino-san!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（な、慣れないことして体が……死ぬ……暑い……）",
+    "translation": "(I-I'm doing something I'm not used to\n and my body...is dying... It's hot...)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃんは少し休んでてね。\nじゃあ次は、一花さんと五月さんの勝負だよ。",
+    "translation": "Big bro, take a break for a bit.\nNext up is Ichika-san and Itsuki-san's match."
+  },
+  {
+    "character": "一花",
+    "japanese": "やるからには負けないよ？",
+    "translation": "I won't lose, you know?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、真剣勝負ですね。",
+    "translation": "Yes, it's a serious match."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はぁはぁ……。\nふ、２人とも、く、悔いが残らないように、\nが、が、がん、ばれ……。",
+    "translation": "Haah, haah...\nS-so n-neither of you don't h-have any regrets.\nD-d-do your, best..."
+  },
+  {
+    "character": "五月",
+    "japanese": "あの、言いたいことはわかりましたから、\n休んでいてください。",
+    "translation": "Um, we understand what you want to say,\nso please rest."
+  },
+  {
+    "character": "らいは",
+    "japanese": "それでは、２人とも位置についてー！\nよーい――",
+    "translation": "Now then, both of you, take your positions!\nGet ready%p-2;―――"
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ五月ちゃん。\nやっぱりフータロー君、なんか変だよね？",
+    "translation": "Hey, Itsuki-chan.\nFutaro-kun really is acting weird, isn't he?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ほら、今もなんか踊ってるし。",
+    "translation": "See, he's even kind of dancing right now."
+  },
+  {
+    "character": "五月",
+    "japanese": "え？　踊ってる？\n別に普通に座ってるだけでは――",
+    "translation": "Huh? He's dancing?\nHe's just sitting normally, though%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "お先に～！",
+    "translation": "See ya!"
+  },
+  {
+    "character": "五月",
+    "japanese": "あっ、ちょっと、ズルいですよ！？",
+    "translation": "Ah, hold on, that's CHEATING!!"
+  },
+  {
+    "character": "一花",
+    "japanese": "勝負の駆け引きってやつだよー！",
+    "translation": "It's what they call tactics!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "五月さーん！\nまだまだ取り戻せるよ、頑張ってー！",
+    "translation": "Itsuki-san!\nYou can still make a comeback! Do your best!"
+  },
+  {
+    "character": "五月",
+    "japanese": "……らいはちゃんに無様な姿は見せられませんっ！",
+    "translation": "...I can't let Raiha-chan see such an embarrassing sight!"
+  },
+  {
+    "character": "一花",
+    "japanese": "え？　え？\n五月ちゃん、速くない！？",
+    "translation": "Huh? Huh?\nItsuki-chan, you're pretty fast, aren't you?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月！　見せてみろ、土壇場の大逆転を！\nそして明日に向かって光り輝け！",
+    "translation": "Itsuki!\nShow us a dramatic comeback at the last minute,\nand shine on for tomorrow!"
+  },
+  {
+    "character": "五月",
+    "japanese": "うう！？",
+    "translation": "Oooohh?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "お！　スピードが落ちた！\nフータロー君、ナイスアシストー！",
+    "translation": "Ah! Your speed is dropping! Nice assist, Futaro-kun!"
+  },
+  {
+    "character": "一花",
+    "japanese": "いよっと！　はい、旗ゲット！",
+    "translation": "And there! Alright, I got the flag!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "一花さんの勝ちー！",
+    "translation": "Ichika-san wins!"
+  },
+  {
+    "character": "五月",
+    "japanese": "はぁ、はぁ……ダメでしたか。",
+    "translation": "*pant* *pant* I was too slow, huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "残念な結果だが、良い勝負だったぞ！",
+    "translation": "It's a shame, but what a good match!"
+  },
+  {
+    "character": "五月",
+    "japanese": "なんですか、明日に向かって光り輝けって！\nおかげで集中力が乱れてしまいました！",
+    "translation": "What was that 'shine on for tomorrow' thing?\nYou made me lose my concentration!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？　俺の応援が五月の足を引っ張ったと？",
+    "translation": "What? Did my cheering slow down your progress, Itsuki?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そこまでは言いませんが……もういいです。",
+    "translation": "I wouldn't go that far... But it's okay."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、よくない。\n思うところがあったら言ってくれないと\n改善できないだろ。",
+    "translation": "Well, it's not okay.\nIf you have any concerns,\nyou have to tell me so we can improve, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……なんだか調子が狂いっぱなしです。\nでも、こうして口げんかするときだけは\nいつも通りですね。",
+    "translation": "...Somehow, you're completely out of order.\nBut, it's just like usual when we argue like this."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うんうん！\nいいよいいよ、お兄ちゃん！",
+    "translation": "Yeah, yeah!\nIt's okay, big bro!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "さーて！　いよいよ私たちの番だね！",
+    "translation": "Alright then! It's finally our turn!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "勝てる気がしない……。",
+    "translation": "I don't feel like I can win..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いやいや、勝負はやってみないとわからないよ？",
+    "translation": "No, no, you won't know until you try, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ねえ、フータロー。\n私にもさっきみたいな元気が出る応援、してほしい。",
+    "translation": "Hey, Futaro.\nI want you to cheer for me like you did earlier\nto give me energy."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "任せておけ！",
+    "translation": "Leave it to me!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖、全力でやれ！\n出し切れば勝利だ！\nこれは桶狭間の戦いだ！",
+    "translation": "Miku, give it your all!\nIf you give it your best shot, you'll win!\nThis is the battle of Okehazama!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……わかった！　弱小大名の意地をみせる！",
+    "translation": "...Okay!\nI'll show off the pride of a small feudal lord!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "むむむ～、こう足場が悪いと……\n大きなストライドで行くのは無理かなぁ。",
+    "translation": "Mmmmhh, with this bad footing...\nit's impossible to take big strides, huh."
+  },
+  {
+    "character": "らいは",
+    "japanese": "じゃあ、２人とも準備はいい？\nよーい――",
+    "translation": "Well, are you both ready? Ready%p-2;――%p; GO!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "よっとっ！！",
+    "translation": "Whoo!!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "くっ、さすがは四葉……でもっ！！\nんん～～～～～～！！",
+    "translation": "Urg, of course, Yotsuba...!!\nNNNNGH!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おおっ、三玖もいいスタート！",
+    "translation": "Ohh, Miku got a good start too!"
+  },
+  {
+    "character": "一花",
+    "japanese": "だけど……。",
+    "translation": "But..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あの子、もう息が上がってるわ。",
+    "translation": "She's already out of breath."
+  },
+  {
+    "character": "三玖",
+    "japanese": "はぁ、はぁ、はぁ、はぁ……。\n四葉……速すぎ……。",
+    "translation": "Haah, haah, haah, haah...\nYotsuba...you're too fast..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "三玖、頑張れ～！",
+    "translation": "Miku, do your beeest!"
+  },
+  {
+    "character": "五月",
+    "japanese": "対戦相手にまで応援されてますね……。",
+    "translation": "Even Miku's opponent is cheering for her..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖、自分に負けるな！\n見せてみろ、奇跡の大逆転劇を！\nそして――",
+    "translation": "Miku, don't lose to yourself!\nShow us the miracle of a big comeback!\nAnd then%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "明日に向かって光り輝けはなしで。",
+    "translation": "Don't say, 'shine on for tomorrow.'"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（なぜだ……！）",
+    "translation": "(Why not?!)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえーい、私の勝ち！",
+    "translation": "Yay, I win!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "はぁ、はぁ……負け……ちゃった……。",
+    "translation": "*pant* *pant* I...lost..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "三玖、楽しかったね！",
+    "translation": "Miku, that was fun!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん……思ったよりも楽しかった。\nでも、それはきっと四葉が相手だったから。",
+    "translation": "Yeah... It was more fun than I thought.\nBut that's probably because you were my opponent,\nYotsuba."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、またやろっか！",
+    "translation": "Alright, let's try it again!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ごめん、それはいい……。",
+    "translation": "Sorry, but I'll pass..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖、すごかったぞ！！\n走ってるお前、最高に輝いてたぜ！",
+    "translation": "Miku, that was amazing!!\nYou were shining so brightly while you were running!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そ、そうかな……。",
+    "translation": "I-I guess so..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉もおめでとう！\n相手を励ましたたえる姿に俺は感動を禁じ得ない！\nまさにフェアプレーの精神だ！",
+    "translation": "Congratulations as well, Yotsuba!\nYour sportsmanship in encouraging your opponent\nis truly inspiring! It's the spirit of fair play!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは、そうでしょうか？",
+    "translation": "Hahaha, now is that true?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "本当に、お前ら、最高だ！！",
+    "translation": "You two! Are truly! AWESOME!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（な、なんだ？）",
+    "translation": "(Wh-what?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いかん、テンションを上げすぎて……\n　なんだか顔まで熱くなってきたみたいだ……）",
+    "translation": "(Oh no, I'm getting too excited...\n My face is starting to feel hot...)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "いい感じだよ、お兄ちゃん。\nここまで作戦は大成功だね！",
+    "translation": "We're doing well, big bro.\nThe plan has been a great success so far!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だったらよかった……。",
+    "translation": "In that case, that's great..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、このままどんどん行ってみよう！",
+    "translation": "Yeah, let's just keep on driving forward!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "何を言ってる、ここからが本番だろ。",
+    "translation": "What are you saying? It has only just begun!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "おおっ、やる気だね～！",
+    "translation": "Oh, you're motivated! Great!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "中途半端にやっても意味はないからな。\nやるなら全力だ。",
+    "translation": "There's no point in doing things halfway.\nIf we're going to do it, might as well go all the way."
+  },
+  {
+    "character": "らいは",
+    "japanese": "さすが！\n頑張ってね、お兄ちゃん。",
+    "translation": "As expected of you!\nDo your best, big bro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これも、らいはのおかげだ。",
+    "translation": "This is also thanks to you, Raiha."
+  },
+  {
+    "character": "らいは",
+    "japanese": "えへへ、そんなことないよ。\nお兄ちゃんが頑張ってるからだよ。",
+    "translation": "Ehehe, that's not true.\nIt's because you're working hard, big bro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、らいはの応援があってこそだ。\nもうしばらく見守っていてくれ。",
+    "translation": "No, it's thanks to your support.\nPlease continue to watch over me for a while longer."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うんっ！",
+    "translation": "Yes!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "さて！　次は決勝戦だよ！\nお兄ちゃん、一花さん、四葉さん、位置について。",
+    "translation": "Now then! It's time for the finals!\nBig bro, Ichika-san, Yotsuba-san,\nplease take your positions."
+  },
+  {
+    "character": "一花",
+    "japanese": "相手が四葉じゃ厳しいなぁ。",
+    "translation": "It's tough with Yotsuba as the opponent."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私だけじゃなくて、上杉さんもいるよ？",
+    "translation": "Not just me, but Uesugi-san is also here, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "いや、フータロー君は……ねぇ？",
+    "translation": "Well, Futaro-kun is... You know?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、一花があんなこと言ってますよ？\nこれはビシッと格好いいところを\n見せちゃいましょう！",
+    "translation": "Uesugi-san, did you just hear what Ichika said?\nYou'd better show her your cool side!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "え？　あ？　何が……だ？",
+    "translation": "Huh? Ah? What?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ん？　フータロー君？",
+    "translation": "Hm? Futaro-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あれ？　なんか視界が揺れる……）",
+    "translation": "(Huh? My vision is shaking...)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー？\n体がふらふらしてるよ？",
+    "translation": "Futaro?\nYour body is swaying, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あ、もしかしてこれ……）",
+    "translation": "(Ah, could this possibly be...)"
+  },
+  {
+    "character": "五月",
+    "japanese": "ま、また何か、おかしなことを……。",
+    "translation": "A-are you, doing something weird again?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（夏のお約束の……）",
+    "translation": "(The summer that was promised...)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "待って！\nこれ、本当に様子が変よ！",
+    "translation": "Wait!\nThere's really something wrong with him!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（熱中症ってやつじゃ……）",
+    "translation": "(Heatstroke...?)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん！？",
+    "translation": "Uesugi-san?!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃーん！",
+    "translation": "Big bro!"
+  }
+]

@@ -1,0 +1,687 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "海だー！",
+    "translation": "The beach!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "海だー！",
+    "translation": "The beach!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえーい！",
+    "translation": "YAA-AY!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おーい、ちょっと飛ばしすぎじゃないか？\nすぐにバテても知らないぞ？",
+    "translation": "Hey, aren't you guys a little too excited?\nIt's not my fault if you run out of steam quickly."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はーい！",
+    "translation": "Okay!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "返事だけはいいわねぇ。\nちゃんと見張っといたほうがよさそう。",
+    "translation": "They're just mindlessly giving a response.\nI'd better watch them closely."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉は体力が余るほどあるが、らいはが心配だ……。",
+    "translation": "Yotsuba's got enough stamina for it,\nbut I'm worried about Raiha..."
+  },
+  {
+    "character": "五月",
+    "japanese": "とりあえず、泳ぐ前に\nパラソルやチェアを準備してしまいましょうか。",
+    "translation": "For now, before swimming,\nShall we prepare the parasol and chairs?"
+  },
+  {
+    "character": "一花",
+    "japanese": "だね、１日ここで楽しめるように\n休憩所はちゃんと作っておかないと。",
+    "translation": "Oh yeah. We need to make sure we have a rest area\nso that we can enjoy ourselves out here all day."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん……。\nでないと干からびそう……。",
+    "translation": "Yes...\nOtherwise, I'll dry up..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "わっ、三玖さん！？\n大丈夫？　もう疲れてない？",
+    "translation": "Wah! Miku-san?!\nAre you okay? Are you already tired?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "別荘が涼しかったから……気温差で……。\n慣れたら大丈夫……。",
+    "translation": "The villa was so cool...\nthere's a temperature difference...\nOnce I get used to it, it'll be okay."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉、どこまで行く気だ……。",
+    "translation": "Just how far does Yotsuba intend to go?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（浮き輪に乗ったらいはを引っ張って泳いでるが、\n　ちゃんと戻ってこれるんだろうな？）",
+    "translation": "(She's swimming while pulling Raiha on a float,\n but will she be able to come back safely?)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、泳がないの？\n四葉たち、気持ちよさそうだよ。",
+    "translation": "Futaro, you aren't going to swim?\nWatching Yotsuba and Raiha,\nit looks like it feels great."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、俺も少しは泳ぐかな。",
+    "translation": "Yeah, maybe I'll swim a little."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ、一緒に――",
+    "translation": "Alright, let's go together%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、泳ぎに行くの？\n私も行くわ！",
+    "translation": "Fu-kun, are you gonna go swimming?\nI'm gonna go too!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別にいいが、ただ泳ぐだけだぞ？",
+    "translation": "That's fine, but I'm just gonna swim, okay?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君と一緒ならそれでいいの。",
+    "translation": "If I'm with you, Fu-kun, it's totally fine."
+  },
+  {
+    "character": "三玖",
+    "japanese": "むむむ……。",
+    "translation": "Mmmmhh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖も行くよな？",
+    "translation": "You're gonna come too, right Miku?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "う、うん、もちろん！　行く！",
+    "translation": "Y-yeah, of course! I'll go!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "むむむ……。",
+    "translation": "Mmmmhh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うおっ？\n結構、水が冷たいな。",
+    "translation": "Woah?\nThe water's pretty cold."
+  },
+  {
+    "character": "三玖",
+    "japanese": "気持ちいい……。",
+    "translation": "It feels good..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ホント冷たくて最高だわ。\nえいっ！",
+    "translation": "It's really cold, how nice!\nTake THAT!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うぷっ！？",
+    "translation": "AH, PFFT?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふっ！　気持ちいい？",
+    "translation": "Teehee! Feel good?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ああ、おかげさまでな。\nんじゃ、お礼をしないとなぁっ！",
+    "translation": "...Yeah, thanks soooo much.\nSo, please, allow me to RETURN THE FAVOR!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "甘いわよっ！",
+    "translation": "You're so naive!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ぶはっ！？",
+    "translation": "BWAAH?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ケホッ、ケホッ、しょっぺぇ……。\nやってくれたな二乃！",
+    "translation": "*cough* *cough* That's SALTY...\nYou've done it now, Nino!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃、ひどい。\n私まで巻き込んで……。",
+    "translation": "Nino, you're horrible.\nEven getting me involved..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "いいじゃない、泳ぎに来てるんだし\n濡れるのは当たり前よ。",
+    "translation": "It's fine, isn't it. We've come here to swim,\nit's obvious we'll be getting wet."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……フータロー。",
+    "translation": "...Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、ここは共同戦線といこうぜ。\n覚悟しろよ二乃。",
+    "translation": "Okay Miku, we'll call this our common front.\nPrepare yourself, Nino."
+  },
+  {
+    "character": "二乃",
+    "japanese": "えっ？\nちょっ、ちょっと、２人がかりなんて卑怯よ！",
+    "translation": "Huh?\nW-wait, it's so cowardly for you two to team up!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "問答無用だ！　おらぁ！",
+    "translation": "No use in arguing about it! YAHH!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "村上水軍の力を見せる！",
+    "translation": "We will show you the power of the Murakami Navy!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ひゃぁあぁ！？",
+    "translation": "HYAAaaAAaa?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふふ、大勝利。",
+    "translation": "Teehee, an overwhelming victory."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なーにが大勝利よ！\nまだ終わってないわっ！",
+    "translation": "WHAT'S an overwhelming victory?!\nIt's not over yet!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うぷっ！？",
+    "translation": "PFF-PFFT?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おわぁっ！？",
+    "translation": "WAAAH?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "まだまだっ！",
+    "translation": "I won't stop!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "わ、ちょ、えええっ！？",
+    "translation": "Wha%p-2;――%p; hold on, WHAAAA?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖、ひるむな！　反撃だ！",
+    "translation": "Miku, don't hesitate! Counterattack!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ええいっ！",
+    "translation": "YAAAH!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（うう……腕が疲れた……。\n　あんな子どもじみた遊びに夢中になっちまうなんて、\n　夏の海、恐るべし……）",
+    "translation": "(Oooh...my arms are tired... I can't believe\n I got so engrossed in such childish play.\n The summer sea is a force to be reckoned with...)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ああっ！　お兄ちゃん、ストップ！",
+    "translation": "AAAHH! Big bro, STOP!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ、おわぁっ！？",
+    "translation": "Eh, OWAAAH?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "大丈夫ですか、上杉さん？",
+    "translation": "Are you okay, Uesugi-san?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いてててて……。",
+    "translation": "Ow-ow-ow-ow..."
+  },
+  {
+    "character": "五月",
+    "japanese": "よかった、怪我はないようですね。\n足下がおろそかですよ、上杉君。",
+    "translation": "Good, it looks like you're not injured.\nYou need to be aware of\nwhere you put your feet, Uesugi-kun."
+  },
+  {
+    "character": "らいは",
+    "japanese": "ごめんね、お兄ちゃん。\n私たち、砂でお城を作ってたんだ。",
+    "translation": "Sorry, big bro.\nWe were making a sand castle."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、それに躓いて……。",
+    "translation": "Aah, and I stepped on it..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "って、うわっ！？　すまん、らいは！\nせっかく作ってたのに蹴っちまって……。",
+    "translation": "OH, UWAAH?! I'm sorry, Raiha!\nEven though you made it,\nI went and stomped on it..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "ううん。\nお城はまた作ればいいんだもん。",
+    "translation": "That's okay.\nWe can just make another castle."
+  },
+  {
+    "character": "五月",
+    "japanese": "甘やかしてはいけませんよ、らいはちゃん。\nきちんと責任持って作り直してもらいましょう。",
+    "translation": "Don't be spoiling him now, Raiha-chan.\nLet's have him take responsibility\nand rebuild it for us."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はっ？",
+    "translation": "WHAAA?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたが壊したお城は、らいはちゃんが\n丹精込めて作っていたものなんですよ？",
+    "translation": "The castle YOU destroyed\nwas painstakingly built by Raiha-chan, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うっ……わかったよ。",
+    "translation": "Ooh...got it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私もお手伝いしますね。\nさあ、立派なお城にしましょう！",
+    "translation": "I'll help out too.\nAlright, let's make a magnificent castle!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし、より豪華な城を作ってやる！\n見てろよ、らいは！",
+    "translation": "Okay, I'll make an even more majestic castle!\nWatch now, Raiha!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん！",
+    "translation": "Yeah!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "というか、四葉とらいはは\nいつの間に戻ってきたんだ？",
+    "translation": "Anyway, when did you two come back, Yotsuba, Raiha?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "結構、前ですよ？",
+    "translation": "A while ago, you know?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃんは、三玖さんたちと\n水かけ勝負に夢中だったからねー。",
+    "translation": "You were just so absorbed in your splash fight\nwith Miku-san and Nino-san."
+  },
+  {
+    "character": "五月",
+    "japanese": "結局、勝敗はどうなったのですか？",
+    "translation": "In the end, who won?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "引き分けだな。\n三玖が疲れたってダウンして……\nほら、あっちで二乃が様子を見てる。",
+    "translation": "It was a draw.\nMiku got tired and went down...\nlook, Nino's taking care of her over there."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ところで、四葉と五月は何を作ってるんだ？\n城には見えないんだが。",
+    "translation": "By the way, what are Yotsuba and Itsuki making?\nThey don't look like castles."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私はダムですよ。\n海まで繋げる壮大なプロジェクトなのです。",
+    "translation": "I'm making a dam.\nIt's a grand project, that connects to the sea."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ、水も流れるようにするのか？",
+    "translation": "Wow, are you going to flow water through it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい！\n最終的には、水門も動かせるようにしたいですね。",
+    "translation": "Yes!\nEventually,\nI'd like to be able to move the floodgates as well."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "本格的だな。\nそれで五月は――",
+    "translation": "A full-fledged dam, eh.\nAnd, Itsuki, you're making%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お！　わかったぞ！\nこれは、ベネズエラにあるテーブルマウンテンだろ。\nマニアックだな。",
+    "translation": "Oh! I've got it!\nThat's a table-top mountain in Venezuela.\nYou really are eccentric."
+  },
+  {
+    "character": "五月",
+    "japanese": "え……。",
+    "translation": "Huh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一見、ただのブロックに見えるが、\n所々いびつにし自然のディティールを出してるのか。",
+    "translation": "At first glance,\nit looks like just a block, but it's warped in places,\ndisplaying natural details, huh."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "実に味がある！\nなかなかやるじゃないか、五月。",
+    "translation": "It's actually very tasteful!\nYou're doing a great job, Itsuki."
+  },
+  {
+    "character": "五月",
+    "japanese": "うう……。",
+    "translation": "Ooohh..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あのう、上杉さん？\nそれ、テーブルなんとかじゃないと思いますよ？",
+    "translation": "Hmm, Uesugi-san?\nI don't think that's a table, or whatever, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ……。",
+    "translation": "Huh..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "ケーキだって五月さんが。",
+    "translation": "Itsuki's making a cake."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？　ケーキ？　これが？",
+    "translation": "Huh? A cake? THIS?"
+  },
+  {
+    "character": "五月",
+    "japanese": "うううう……。",
+    "translation": "Oooooohhhh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうか！\n五月らしい食べ応えがありそうなケーキだな！",
+    "translation": "I-I see!\nIt's a cake! It seems so filling!\nLeave it to Itsuki to make something so detailed!"
+  },
+  {
+    "character": "五月",
+    "japanese": "作り直します！！",
+    "translation": "I'm gonna remake it!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あああー！！",
+    "translation": "AAAHH!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（はあ、はしゃぎすぎた……。\n　飛ばしすぎたのは俺のほうだな。\n　ちょっと休むか）",
+    "translation": "(*sigh* I played around a little too much...\n I was the one who ended up\n getting a little too excited. I'll take a short break.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あれ、先客が……一花か。\n　そういやあいつ、遊んでる様子がなかったな）",
+    "translation": "(Oh, next up... Ichika, eh?\n Speaking of which, I never saw her playing around.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（もしかして、ずっとここで座ってたのか？）",
+    "translation": "(Was she sitting here the entire time, perhaps?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（スマホを見ている様だが……\n　圏外だし、写真を撮ってたんだろうか？）",
+    "translation": "(She looks like she's looking at her cell phone...\n we're out of range of any service,\n was she taking pictures?)"
+  },
+  {
+    "character": "一花",
+    "japanese": "ふう……。",
+    "translation": "Whew..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よお、こんなところに来てまでスマホか？",
+    "translation": "Yo, you're gonna use your smartphone,\nall the way out here?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、ああ、フータロー君か。\n……もしかして見た？",
+    "translation": "Y-yeah, Futaro-kun, hey.\n...Did you look at it, by chance?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "何を？",
+    "translation": "Look at what?"
+  },
+  {
+    "character": "一花",
+    "japanese": "スマホ……。",
+    "translation": "My smartphone..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、見られたらまずいもんでも見てたのか？",
+    "translation": "What, were you looking at something you shouldn't have?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そうじゃないけど……。",
+    "translation": "That's not it..."
+  },
+  {
+    "character": "一花",
+    "japanese": "ほら、スマホには女の子の秘密がいっぱいだから！",
+    "translation": "Come on, a girl's smartphone has all sorts of secrets."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、なんでも構わないが。",
+    "translation": "Well, whatever."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しかし、スマホでのんびりじゃ、\n家にいるのと変わらないだろ。",
+    "translation": "You relaxing with your smartphone,\nthat's no different than being at home."
+  },
+  {
+    "character": "一花",
+    "japanese": "痛いところを突くなぁ～。",
+    "translation": "Don't hit it where it hurts."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こんなときくらいスマホから離れろ。",
+    "translation": "You should put down your smartphone."
+  },
+  {
+    "character": "一花",
+    "japanese": "現代っ子ですからねー。\nいつも持ってなきゃ気がすまないの。",
+    "translation": "I'm a child of this generation, you know.\nI don't feel secure unless I've always got it."
+  },
+  {
+    "character": "一花",
+    "japanese": "だから、しょっちゅう触るのも\n手くせみたいなものだと思ってよ。",
+    "translation": "So I think it's just kind of a force of habit to hold\nit and play with it a little."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "第一、ここは圏外だろ？\nだってのに、何を見てたんだ。",
+    "translation": "We don't even have service here to begin with, right?\nSo, what could you be possibly looking at?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "言い出しっぺがどうした？\nお前が泳ごうって言ってたじゃないか？",
+    "translation": "Aren't you the one that suggested coming?\nSo what are you doing over here with your smartphone?"
+  },
+  {
+    "character": "一花",
+    "japanese": "えーと……。\nほ、ほら、女心と秋の空って、\nことわざにもあるじゃない。",
+    "translation": "Ummm...\nC-come on, there's that proverb, right?\n'A woman is as fickle as autumn weather.'"
+  },
+  {
+    "character": "一花",
+    "japanese": "女の子の気持ちっていうのは、髪をかき上げた\n次の瞬間には変わっているものなんだよ。",
+    "translation": "The instant a girl puts her hair up,\nshe changes how she feels about\nsomething she was dead set on a moment ago."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんなコロコロと変わられるのは迷惑だ。\n少しは自重しろ。",
+    "translation": "It's a nuisance to change that much.\nRestrain yourself a little."
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは、そうだね。",
+    "translation": "Hahaha, no doubt."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "てか、俺が言うのもなんだが、\n少しは空気ってもんを読んだほうが\nいいんじゃないか？",
+    "translation": "Well, I know that I'M the one who's saying it,\nbut maybe you should read the room\na little more, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こんなところでスマホをいじられてたら、\nもしかしたら、つまらないんじゃないかって\n周りのやつが気を遣うだろう。",
+    "translation": "If you mess with your phone in a place like this,\nmaybe the people around you will be worried\nthat you're bored."
+  },
+  {
+    "character": "一花",
+    "japanese": "あー、それはそうだね。ごめん……。",
+    "translation": "Ah-you're right about that. I'm sorry..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "第一、ここは圏外だろ？\nだってのに、何を見てたんだ。",
+    "translation": "We don't even have service here to begin with, right?\nSo, what could you be possibly looking at?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "体調が悪いのか？",
+    "translation": "Are you feeling okay?"
+  },
+  {
+    "character": "一花",
+    "japanese": "えっ……。",
+    "translation": "Mmmm..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "無理してつきあう必要はないぞ。\n正直に言ってくれ。",
+    "translation": "You don't need to try very hard to hang out with us.\nTell me honestly."
+  },
+  {
+    "character": "一花",
+    "japanese": "別に体調は普通だよ。\nほら、元気元気。",
+    "translation": "I'm feeling just fine.\nLook, I'm good, I'm good."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "本当か？\nお前の場合、みんなを気遣って\n演技している可能性もあるからな。",
+    "translation": "Really?\nIn your case, it's possible that you're acting\nout of concern for everyone."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういうとこ、損な性格というか……。\n悪いことじゃないが、俺にまで\n変に気を遣う必要はないからな。",
+    "translation": "I'm not saying that it's a character flaw or anything\nis wrong with you, but you don't have to worry\nabout acting weird around me, you know?"
+  },
+  {
+    "character": "一花",
+    "japanese": "……ふふっ！",
+    "translation": "...Teehee!"
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君、考えすぎ。\n気持ちは嬉しいけど、君こそ気を遣いすぎじゃない？",
+    "translation": "Futaro-kun, you're thinking too much.\nI'm happy to hear how you feel. If it's any consolation,\nI don't you think you're acting weird either."
+  },
+  {
+    "character": "一花",
+    "japanese": "お互いに損な性格、ってことかな。",
+    "translation": "Both of us have some character flaws, don't we."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "第一、ここは圏外だろ？\nだってのに、何を見てたんだ。",
+    "translation": "We don't even have service here to begin with, right?\nSo, what could you be possibly looking at?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あー、それはー、女の子の秘密かな？",
+    "translation": "Ah, well, that's for me to know\nand you to forget about, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "さて！\n私も、そろそろ一泳ぎしてこようっと。\nフータロー君はごゆっくり～。",
+    "translation": "Right!\nI'm thinking I might get in the water now.\nYou take it easy, Futaro-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "二乃",
+    "japanese": "一花、なんて言ってた？",
+    "translation": "What was Ichika saying?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "二乃？　見てたのか？",
+    "translation": "Nino? Were you looking?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あの子、ここに来てから様子が変だったのよ。\nだから気になって。",
+    "translation": "She's been strange since we've arrived.\nI was wondering what's up."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだったのか。\nいや、特には……。",
+    "translation": "Is that so.\nNah, it seems to be nothing..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうよね。\n何かあったとしても、素直に話す一花じゃないわ。",
+    "translation": "I see.\nEven if something happened,\nit's not like Ichika to talk about it directly."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だな……。",
+    "translation": "You're right..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（だが、様子が変なのは確かだ。\n　放っておくわけにもいかないが、\n　どうしたものか……）",
+    "translation": "(But, it's certain that she's been acting a little strange.\n I wonder what happened,\n there's no way I can just let this go...)"
+  }
+]

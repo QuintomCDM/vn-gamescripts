@@ -1,0 +1,432 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（山すそを回って……とは言ったものの、\n　やっぱり道がないのはキツイな……）",
+    "translation": "(Going around the foothills of the mountain...\n I may have said that but,\n it's actually really tough when there's no path...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉、足下に注意しろ。\nかなり滑るぞ。",
+    "translation": "Yotsuba, watch your step.\nIt's quite slippery here."
+  },
+  {
+    "character": "四葉",
+    "japanese": "は～い！",
+    "translation": "Okaaay!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……返事が元気なのはいいが、本当に注意しろよ？",
+    "translation": "...It's good that\nyou're energetic with your response,\nbut really, be careful, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いつもの森とは違う。\n　あっちは、別荘の管理に来てるって人たちが\n　たまに手を入れていたのかもしれないな）",
+    "translation": "(This forest is different from the usual one.\n Those people who came to manage the villa\n may have occasionally made some changes to that side.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こっちは植物が伸び放題だし\n　人の手が入った気配がない……かつての島民も\n　こちら側までは来てなかったのか？）",
+    "translation": "(Here, plants have grown rampant,\n and there's no sign of human intervention...\n Did the former islanders never come to this side?)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ん～……。",
+    "translation": "Hm..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（無理やり進んで蛇や蜂にでも出くわしたら、\n　それこそやっかいだ。そんな危険なところを\n　四葉に歩かせるわけにも……）",
+    "translation": "(If we force our way through and come across snakes\n or bees, that'll be a problem in itself. I can't let\n Yotsuba walk in such a dangerous place...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、こっちです。\nこっちからなら下草も少ないですし、\n藪を通らずに進めそうですよ。",
+    "translation": "Uesugi-san, this way.\nWe can proceed without going through the bushes\nand undergrowth since there's less of it here."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ああ、確かに進みやすそうだが\n結構傾斜があるぞ。\n登りづらくないか？",
+    "translation": "...Yeah, it does seem easy to go through,\nbut there's a considerable slope.\nWon't it be difficult to climb?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "これくらいなら大丈夫ですよ。\nさあ、一気に行きましょう！",
+    "translation": "This much is no problem.\nAlright, let's go all at once!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかった！\nわかったから引っ張るなって！",
+    "translation": "Got it!\nI got it, so don't pull me!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はー……ぜー……。\nぜー……はー……。",
+    "translation": "*huff* *puff*\n*puff* *huff*"
+  },
+  {
+    "character": "四葉",
+    "japanese": "大丈夫ですか、上杉さん。",
+    "translation": "Are you okay, Uesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……大丈夫に、見える、か？",
+    "translation": "...Do, I, look, okay?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "見えません……。",
+    "translation": "You don't..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前は……引っ張るなって言ってるのに\nなんで引っ張るんだよ……。",
+    "translation": "I told you...not to pull me...\nSo why'd you do that?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "斜面を登るのなら、\nそのほうが上杉さんも楽かと思いまして。\n役に立てるかなって。",
+    "translation": "We were climbing a slope, so I thought it'd be easier\nfor you if I pulled you up, Uesugi-san.\nI thought it might come in handy."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "気持ちはありがたいが、そもそも\nお前のペースに合わせるなんて俺には無理だ。",
+    "translation": "I appreciate your consideration,\nbut it's impossible for me to keep up with your pace."
+  },
+  {
+    "character": "四葉",
+    "japanese": "すみません……。",
+    "translation": "Sorry..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……いや、謝るな。\n心遣いには感謝してるし、\n方向性が間違ってただけだろ。",
+    "translation": "...No, don't apologize.\nI appreciate your concern,\nbut the way you did it was wrong."
+  },
+  {
+    "character": "四葉",
+    "japanese": "方向性、ですか？",
+    "translation": "The way I did it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あのう、お手数掛けてすみませんが\nおバカの私にもわかるように言ってもらえると\n嬉しいです。",
+    "translation": "Um, I'm sorry to bother you,\nbut could you explain that in a way\nthat even someone as foolish as me can understand?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー、つまり、傾斜だから引っ張りあげればいい、と\nお前は考えたんだろうが、そもそも素直に\n斜面を登る必要はないよな？",
+    "translation": "Okay, in other words, you thought that since there was\na slope, pulling me up would be enough, but we didn't\nneed to climb the slope in the first place, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "……あ。\nそうですね、歩きやすいところを\n歩けばいいんですよね。",
+    "translation": "...Ah.\nI see, we should walk in areas\nwhere it's easier to walk."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは……。\nなんだか気が急いてしまって、\nそんな単純なことも見落としちゃってました。",
+    "translation": "Ahaha...\nLike, I was in such a hurry,\nI missed such a simple thing, didn't I?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まっすぐ行くのが早いって発想はわかるけどな、\n世の中には、急がば回れなんて言葉もある。",
+    "translation": "I do understand the idea that going straight is faster,\nbut there's a saying that goes,\n'slow and steady wins the race.'"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "テストにはでないかもしれないが、覚えておけ。",
+    "translation": "It might not come up in a test, but keep it in mind."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はいっ！",
+    "translation": "Okay!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "でも、上杉さんから、テストには出ないかも、\nなんて聞くと変な感じです。",
+    "translation": "But it feels strange to hear you say\nthat it might not come up in a test, Uesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別に、俺だってテストがすべてだと\n思ってるわけじゃないぞ。",
+    "translation": "It's not like I think tests are everything, ya know."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ！　それはあれですね？\n知識は生活を豊かにしてくれるってやつですね？",
+    "translation": "Ah! You mean like,\nabout how knowledge enriches our lives, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、そういうことだ。",
+    "translation": "Well, I guess so."
+  },
+  {
+    "character": "四葉",
+    "japanese": "では、上杉さんから教えてもらった\n新たな生き方を、さっそく活かしていきましょう！",
+    "translation": "Now then, let's take advantage of the new way of life that Uesugi-san taught me!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "生き方って、大げさだな。",
+    "translation": "What a grandiose life you lead."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ふう……。\n歩きやすいところを探してるうちに、\nかなり登っちまったな。",
+    "translation": "Phew... As we were looking for a place\nthat's easy to walk through,\nwe ended up climbing quite a bit."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ！\n木の間からちょっとだけ海が見えますよ！",
+    "translation": "Ah!\nI can see the ocean a little bit through the trees!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別荘とか、何か知ってるものは見えないか？",
+    "translation": "Can you see anything that you know,\nlike the villa or something?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "う～ん、ダメですね、見えません。\nさっきまで私たちのいた浜辺も隠れちゃってます。",
+    "translation": "Hmm, nope, I can't.\nThe beach where we were a little while ago\nis also hidden."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか……。\n進んでる方向がわかれば助かったんだがな。",
+    "translation": "I see...\nIt would have been helpful\nif we knew which direction we were heading."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（これじゃ、登っている間に方角を間違えても\n　気が付かないかもしれない）",
+    "translation": "(Like this, we might not notice if we \n took a wrong turn while climbing.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（島の大きさすら正確に把握していないのに、\n　横断しようだなんて早計だったのか……？）",
+    "translation": "(Were we too hasty in attempting to cross the island\n without even accurately understanding its size?)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ん……？",
+    "translation": "Hm...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（海岸線が見えないのは崖になっているせいか？\n　人の手が入っていた様子は、相変わらず\n　見当たらないし……）",
+    "translation": "(Is the reason why we can't see the coastline\n because of the cliff? I still can't see any signs\n of human intervention...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（島民がこちら側へこなかったのにも、\n　何か理由があるのかもしれない）",
+    "translation": "(There may be a reason why the islanders\n didn't come to this side.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（もしかすると地盤が脆いのか？\n　転げ落ちた先が切り立った崖だったりしたら、\n　それこそ命に関わる問題だ）",
+    "translation": "(Could it be that the ground is fragile?\n If we roll and fall off a cliff,\n that would be a life-threatening problem.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（自然の島を甘く見すぎていたかもしれない……。\n　このまま進んでいて、俺たちは大丈夫なのか？）",
+    "translation": "(Perhaps I was underestimating\n this natural island...\n Are we really okay going forward like this?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なあ四葉、ちょっといいか？",
+    "translation": "Hey, Yotsuba, can I talk to you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あれ、四葉！？\nおい、どこに行った！？",
+    "translation": "...Huh, Yotsuba?\nHey, where did you go?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さーん！　こっちですよー！\n早く来てくださーい！",
+    "translation": "Uesugi-saaan! Over here!\nCome quiiickly!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あいつ、いつの間にあんなところまで……）",
+    "translation": "(She's gone THAT far without me noticing...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、早く早く！\nこれ、見てください！",
+    "translation": "Uesugi-san, hurry, hurry!\nPlease, come and see this!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はぁ、はぁ……。\n１人で勝手に進んだりしたら危ないだろ？\nこんな場所で、はぐれでもしたら……。",
+    "translation": "*gasp* *pant*\nIt's dangerous if you go ahead alone, ya know?\nIf we get separated in a place like this..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ……。",
+    "translation": "Ah..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "すみません！\nさっきも怒られたばかりなのに、私、また……。",
+    "translation": "I'm sorry!\nEven though you got angry earlier,\nI did it again..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "怒ってないだろ。\n方向性が間違ってるって教えてやっただけだぞ？",
+    "translation": "I wasn't angry.\nI just told you\nthat the way you do things was wrong, that's all."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それに、今も怒ってるわけじゃない。\nはぐれたら大変だということを\n自覚してほしいだけだ。",
+    "translation": "And I'm not angry now either.\nI just want you to be aware of how dangerous it would be\nif we got separated."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "って、これはさすがに、我ながら説教くさいな。",
+    "translation": "Yeesh, I'm starting to sound rather preachy, aren't I?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえ、そんなことありませんよ！\nそれに、上杉さんは私の家庭教師の先生ですから。\nお説教する権利だってあります。",
+    "translation": "No, that's not true!\nAnd besides, you're my tutor.\nYou have the right to lecture me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……それで？\n見てくださいって、何を見せたかったんだ？",
+    "translation": "...So?\nYou tell me to come and see this,\nwhat did you want to show me?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、そうです！\nジャ～ン！　これです！",
+    "translation": "Ah, that's right!\nTah-dah! This!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くだもの？",
+    "translation": "Fruit?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "森の中に１本だけ生えてたんですよ。\n実がなってるみたいだったので、\n思わず駆けつけちゃいました！",
+    "translation": "There was only one tree like this growing in the forest.\nIt looked like it had some fruit,\nso I rushed over here!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "どうですか？\n食べられるやつですかね？",
+    "translation": "What do you think?\nCan we eat it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "種類まではわからないが……柑橘類だろうな。\n食べれたとしても、かなり酸っぱいかもしれないぞ？",
+    "translation": "I don't know what kind it is...\nBut it's probably a citrus fruit.\nEven if we can eat it, it might be pretty sour."
+  },
+  {
+    "character": "四葉",
+    "japanese": "食べられるなら、それで充分じゃないですか？\nちょっと待ってくださいね。\nいま皮を剥きますから。",
+    "translation": "If it's edible, that's good enough, right?\nJust wait a minute, 'kay?\nI'm going to peel it now."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、皮も厚そうだしそんな簡単に……。",
+    "translation": "No, the skin looks too thick,\nit can't be that easy..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "任せてください！\nん～～……しょっと！",
+    "translation": "Leave it to me!\nNNnnhHHh... There we go!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（剥きやがった……）",
+    "translation": "(She actually peeled it...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "裂け目さえ入っちゃえば、あとは簡単ですよ？\nはい、これを食べて元気だしてください。",
+    "translation": "Once you make a cut, it's easy from there!\nHere, eat this and get some energy back."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？　ああ……。",
+    "translation": "Huh? Okay..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "では、私も……。",
+    "translation": "Then, I'll have some too..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ん～～！　これは酸っぱいですね！",
+    "translation": "Mm! This is sour, isn't it?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……だが、美味いな。\n酸味が体に染み入るみたいだ。",
+    "translation": "...But, it's delicious.\nThe acidity seems to soak into my body."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、わかります！\nこう、じわぁ～っと巡っていって、\nそれで体が喜んでるって感じがしますよね。",
+    "translation": "Oh, I know what you mean!\nIt's like it's slowly spreading through you,\nand it feels like it's pleased!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、上杉さん。\n残りも食べて、体を元気にしてあげてください。",
+    "translation": "Alright, Uesugi-san.\nPlease eat the rest and feel better."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前の分はどうするんだよ？",
+    "translation": "What about your share?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふっふっふ、ご安心を。\n実は何個も採っておいたのです！\nほら！",
+    "translation": "Heheheh, don't worry.\nI actually picked several of them!\nLook!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おお……。\nこういうことに関しては手が早いな。",
+    "translation": "Ooohh...\nYou're quick to act on things like this."
+  },
+  {
+    "character": "四葉",
+    "japanese": "もし足りなければ、もっと採りますから\n安心してくださいね。",
+    "translation": "If we don't have enough,\nI'll gather more, so please don't worry, 'kay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ああ。",
+    "translation": "...Okay."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（安心してください、か。\n　四葉なりに俺のことを気遣ってくれたんだな。\n　突っ走っていくのは困りものだが……）",
+    "translation": "(Please don't worry, she says.\n Yotsuba is taking care of me in her own way, isn't she?\n It IS troublesome when she rushes ahead though...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ここで休憩して、ちょっと元気が回復したら\n先に進みましょう。",
+    "translation": "Let's take a break here and regain our strength\nbefore moving forward."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私はおバカですからね。\n上杉さんだけが頼りなんですから、\nよろしくお願いします。",
+    "translation": "I'm a bit of an idiot.\nso I can only rely on you, Uesugi-san.\nI'm in your hands."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、任せておけ！\n慎重に、だが大胆に進むぞ！\n特に足下には注意して歩け！",
+    "translation": "Ah, leave it to me!\nWe'll move forward cautiously but boldly!\nBe especially careful where you step!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい！　探検再開です！",
+    "translation": "Yes! Let's resume our exploration!"
+  }
+]

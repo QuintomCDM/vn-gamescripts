@@ -1,0 +1,107 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "おお！　すごいぞ！\n今日の計算問題は全問正解だ！",
+    "translation": "Ohh! Wow!\nYou got all of the calculation problems correct today!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "本当ですか！？\nやった！　やりましたぁ！",
+    "translation": "Really?!\nYAY! I did it!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やればできるじゃないか。\nこの調子で頑張っていけば、\n数学も克服できるかもしれないぞ。",
+    "translation": "See, you can do it.\nIf you keep going at this rate,\nyou might be able to overcome math as well."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふふふ、今日の私だったら\nフェルマーの最終定理だって\nばしっと解いちゃえそうです！",
+    "translation": "Teehee, the Yotsuba today might be able\nto solve Fermat's Last Theorem!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、それは無理だ。",
+    "translation": "Nah, that's impossible."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えーっ！？\nそんなぁ、ふとしたきっかけで\n解けちゃうかもしれないじゃないですか。",
+    "translation": "WHAAA?!\nOh come on, maybe I could solve it by chance."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あのなぁ……。\nそもそも、フェルマーの最終定理なんて\nどこで知ったんだ？",
+    "translation": "Okay, so...\nWhere'd you hear about Fermat's Last Theorem?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えーと、前にネットのどこかで……\n世界のミステリーって記事だったと思います。\n誰にも解けない謎の問題がある、とかで。",
+    "translation": "Umm, I learned about it on the Internet sometime ago...\nI think it was an article about mysteries of the world.\nLike, mysterious problems that no one can solve. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だいぶ古い記事だな、それは。",
+    "translation": "That must have been a pretty old article."
+  },
+  {
+    "character": "四葉",
+    "japanese": "フェルマーさんが作った大昔のなぞなぞですよね。",
+    "translation": "It's a riddle that Fermat made a long time ago, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……しかも中途半端な知識じゃないか。",
+    "translation": "...It seems you only know half of it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私が解いてもいいんですが、\n私より頭のいい上杉さんだったら\nさらっと解けるんじゃないですか？",
+    "translation": "I don't mind solving it,\nbut since you're smarter than me,\nwouldn't you be able to solve it easily?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "どうです？　肩慣らしにやってみます？",
+    "translation": "You should try it out. Think of it as a warm up."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんな準備運動みたいな感覚で言うな。\nそれに、フェルマーの最終定理は\nとっくに解かれてるぞ？",
+    "translation": "Don't talk about it like it's a warmup. Besides,\nFermat's Last Theorem has already been solved, you know?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ？　えぇぇぇぇ！？",
+    "translation": "What? Whaaaaaaaat?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん！　なにモタモタしてたんですか！",
+    "translation": "Uesugi-san! Stop dawdling!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺が失敗したみたいに言うな。",
+    "translation": "I didn't fail yet, okay?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "残念です……。\n歴史的快挙に立ち会えるかと思っていたのに。",
+    "translation": "It's a shame..\nI thought I'd be able to witness\na historic achievement."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "３００年以上かけて、世界中の人々が\n苦労して解いた問題を、ぽっと出の俺が\n鼻歌交じりに解けるはずないだろ。",
+    "translation": "There is no way that I can solve a problem\nthat people from all over the world\nhad worked so hard to solve over 300 years."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん……ドンマイ？\nもっと早く生まれるべきでしたね。",
+    "translation": "Uesugi-san...don't beat yourself up for it, 'kay?\nYou just needed to be born earlier."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（な、なんで俺が慰められてるんだ！？）",
+    "translation": "(Wh-why is she consoling me?!)"
+  }
+]

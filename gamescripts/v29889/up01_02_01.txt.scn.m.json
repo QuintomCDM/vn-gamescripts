@@ -1,0 +1,102 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "今度は計算問題だ。\n制限時間は３０分だから、時間配分にも気をつけろ。",
+    "translation": "Now for some calculation problems.\nThe time limit is 30 minutes,\nso be careful how you allocate your time."
+  },
+  {
+    "character": "一花",
+    "japanese": "わかった。\nそれじゃ、始めるね。",
+    "translation": "Got it.\nOkay, I'll begin."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（一花は数学が得意科目だし、\n　この強みをもっと伸ばしていけたらいいんだが）",
+    "translation": "(Ichika's best subject is math,\n so I'd like to make her even better, if possible.)"
+  },
+  {
+    "character": "一花",
+    "japanese": "おっ、これは簡単簡単。\nふんふん～。",
+    "translation": "Oh, this is an easy one.\nHm, hmmm."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "よしっ、次の問題はっと。",
+    "translation": "Alright, now for the next problem."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（思ったよりペースが速いな。\n　問題が簡単すぎたか？）",
+    "translation": "(Her pace is faster than I thought.\n Were the problems too easy?)"
+  },
+  {
+    "character": "一花",
+    "japanese": "ええと、ここでこれを展開して……。",
+    "translation": "Umm, here, I'll expand this..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（今のところケアレスミスもない。\n　一花も力が付いてきてるってことか）",
+    "translation": "(She hasn't made any careless mistakes, either.\n It means Ichika's getting better, isn't she.)"
+  },
+  {
+    "character": "一花",
+    "japanese": "ふふふ、私の計算能力に驚いてるのかな？",
+    "translation": "Teehee, are you surprised at my calculation skills?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "一花",
+    "japanese": "きっと『一花……成長したな……』って\n思ってたんでしょ？",
+    "translation": "You're definitely thinking,\n'Ichika...you've grown...,' right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（確かにそう思ったが……\n　認めたら調子に乗るかもしれないし、\n　ここは気を引き締めさせるべきだな）",
+    "translation": "(Yes, I was certainly thinking that...\n But, if I admit it, she'll get full of herself,\n so I should toughen up a bit.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "計算問題はいわゆるボーナス問題だ。\n点を稼いでおくためにも、\nもっと素早く正確に解くことが必要だぞ。",
+    "translation": "Calculation problems are so-called bonus problems.\nYou'll need to solve them faster and more accurately\nto get a better score."
+  },
+  {
+    "character": "一花",
+    "japanese": "あらら、厳しいなぁ。\nでもこのペースで行けば\n制限時間前に解き終わっちゃうかもよ？",
+    "translation": "Oh my, aren't you strict.\nBut, if I keep it up at this pace,\nI'll finish before time runs out, yeah?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そうだ！\nもし制限時間前に終わったら、\nご褒美としてお茶しない？",
+    "translation": "I've got it!\nIf I can finish the problems within the time limit,\nwill you have tea with me as a prize?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほう？\nだいぶ余裕そうだな、だったら……。",
+    "translation": "Oh really?\nYou've got a lot of wiggle room. In that case..."
+  },
+  {
+    "character": "一花",
+    "japanese": "えっ？\nなんで問題集なんて広げてるの？",
+    "translation": "Huh?\nWhy are you opening the textbook?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "追加問題を用意しておく。\nさっさとその問題を片付けろ。",
+    "translation": "I'll prepare some extra problems for you.\nHurry up and take care of those problems, then."
+  },
+  {
+    "character": "一花",
+    "japanese": "うっ、嘘です！\n問題を解いたあとは、制限時間いっぱい\nミスがないかチェックします！",
+    "translation": "I-I'm just kidding!\nAfter I solve the problems, I'll check\nif I've made any mistakes until time's up!"
+  }
+]

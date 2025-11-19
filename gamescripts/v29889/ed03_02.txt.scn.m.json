@@ -1,0 +1,462 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（誰もいないな。\n　ちょっと早かったか？）",
+    "translation": "(No one's here.\n Am I too early?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（はあ……。\n　しかし、どうして俺がこんなバイトを……）",
+    "translation": "(*sigh*\n Why am I even doing this part-time job...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（島に行く前に親父の言ってたバイトってのが、\n　まさか写真のモデルだったとは）",
+    "translation": "(Before going to the island, Dad mentioned a job,\n but I never thought I'd be doing a photo shooting as \n a groom.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（しかも、結婚式場のＰＲ写真のモデルって。\n　明らかに俺向きじゃないと思うんだが……）",
+    "translation": "(It's for wedding venues PR photos.\n I don't think I'm cut out for this kind of job...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（その上、なんでわざわざ新婦役のモデルと\n　待ち合わせをして、一緒に会場に行かなきゃ\n　ならないんだ？）",
+    "translation": "(And why do I have to meet the bride model?\n Why should we be going to the venue together?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こういうのって、普通は現地に\n　集合するもんだろ……）",
+    "translation": "(Usually, people gather at the location\n for this sort of thing...)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、あの、フータロー。",
+    "translation": "U-um, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あれ、三玖か。\n久しぶりだな、島から戻って以来か？",
+    "translation": "If it isn't Miku!\nWe haven't seen each other since we came back from\nthe island, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、久しぶり。",
+    "translation": "Right."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖？　どうした？",
+    "translation": "Miku? What's up?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、あの……実は、その……。",
+    "translation": "U-um... Actually, well..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "何か話があるのか？\n悪いが、俺はこれからバイトだから\nまた今度にしてくれ。",
+    "translation": "Do you have something you want to talk about?\nSorry, but I'm about to start work in a few minutes,\nso let's catch up later."
+  },
+  {
+    "character": "三玖",
+    "japanese": "わ、私もアルバイトで……。\nだから、ここに来て……。",
+    "translation": "W-well, I'm also here for a part-time job...\nThat's why I came to this location..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……おい、お前いま、\nバイトでここに来たって言ったよな？\nまさか……。",
+    "translation": "...Hey, wait,\ndid you just say you came here for work?\nIt couldn't be..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はああぁぁ～！？\n三玖が新婦役なのか！！",
+    "translation": "WHAAAaaa?!\nYou're the bride, Miku?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ちょ、フータロー、声が大きい！\nみんなこっち見てる……！",
+    "translation": "Wait, Futaro, shhh!\nEveryone's looking over here!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "す、すまん。\nだが、どういうことなんだよ？",
+    "translation": "S-sorry.\nBut what the hell is going on?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "突然、代役が必要になったって、\nフータローのお父さんに頼まれて……。",
+    "translation": "Suddenly,\nyour dad asked me to help out,\ntelling me they needed a substitute model..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……あのクソ親父め！\n　三玖のことを言ったら俺が断ると思って\n　ここまで黙ってやがったな！？）",
+    "translation": "(...That bastard father of mine!\n He kept quiet all this time, thinking I would've\n refused if he told me it was Miku?!)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "すごく困ってたみたいだから、\n私で役に立てるならって。",
+    "translation": "He seemed to be in a really tough spot,\nso I thought, if I can help him out, why not."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だからって、お前、いいのかよ……。",
+    "translation": "That's the reason why you're doing this? \nAre you really okay?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……相手がフータローだから。\nそうじゃなかったら……断ったよ？",
+    "translation": "...It's also because you're the groom model Futaro.\nIf it was anyone else...I would have refused."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "っ……",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃ、じゃあ、早く行こう。\n遅れると迷惑かけちゃう。",
+    "translation": "A-alright, let's hurry up and go.\nWe don't want to cause any trouble by being late."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、ああ……。",
+    "translation": "O-okay..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "お、おおお、お待たせ、フータロー……。",
+    "translation": "T-th-th-th, thank you for waiting, Futaro..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう……。",
+    "translation": "N-no problem..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ガッチガチに緊張してるな。\n大丈夫か？",
+    "translation": "...You're awfully nervous.\nYou alright?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "だ、だだだだ、大丈夫！",
+    "translation": "I, I-I-I-I, I'm alright!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……お世辞にも大丈夫には見えないが。",
+    "translation": "...You don't exactly look alright."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（表情も引きつったままだし、\n　これでモデルなんて無理だろ。\n　俺がフォローしてやらないとまずそうだ）",
+    "translation": "(Her expression is still so strained.\n There's no way she can model right now.\n I'll have to support her.)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うう……。\nウェディングドレスなんて着るの\n初めてで……モデルも初めてで……。",
+    "translation": "Ooohh...\nThis is my first time wearing a wedding dress...\nand being a model, too..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それを言ったら俺もモデルは初めてだし、\nこんなタキシードを着たのも初めてだな。",
+    "translation": "Well, it's my first time being a model too.\nAnd to wear a tuxedo like this."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……じゃあ、どうしてフータローは\nそんなに平然としてられるの？",
+    "translation": "...How you can you be so calm?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうしてって言われても。",
+    "translation": "Even if you ask me why, I dunno."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、ズルい。\n私だけ緊張してるなんて。",
+    "translation": "Futaro, you're so sneaky. Why do I have to be the only \none who's nervous."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんでズルいになるんだよ。",
+    "translation": "Why is that sneaky?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、俺もさっきまでそこそこ緊張してたんだが、\nこの衣装は制服と大して変わらないんじゃ\nないかって気づいてな。",
+    "translation": "Well, I was pretty nervous until just now,\nbut I realized that this outfit\nisn't really that different from a school uniform."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あと、目の前にガッチガチになってるやつがいると\n逆に冷静になるんだなと実感している。",
+    "translation": "Also, I've realized that I calm down when there's\nsomeone around me who's completely stressed out."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、そうか！　ある意味、お前のおかげだな。\n助かったぞ三玖！",
+    "translation": "Oh, I see! I'm calm thanks to you.\nThanks, Miku!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "むうう……。\nこんなことでお礼言われたくない。",
+    "translation": "Mmmh...\nI don't want to be thanked for something like this."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（よしよし、少しは緊張がほぐれてきてるな。\n　ここでもう一押しだ）",
+    "translation": "(Good, good, she seems to be easing up a bit.\n One more push here.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あーあー、顔が怖くなってるぞ？\nそんなんじゃ、幸せそうな新婦の写真なんて\nいつまでたっても撮れないだろ。",
+    "translation": "Ah, your face looks scary.\nIf you keep that up,\nwe'll never be able to take a photo of the happy bride."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "新郎役としても、隣には\n一番の笑顔で立ってもらいたいんだがな。",
+    "translation": "As the groom,\nI want you to stand next to me with your biggest smile."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "もう……。\nフータロー、やっぱりズルい。",
+    "translation": "Oh my...\nFutaro, you really are sneaky."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、表情が緩んだな。\n少しは慣れてきたか。",
+    "translation": "Oh, your expression has loosened up.\nAre you starting to feel more comfortable?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、さっさと撮って済ませちまおうぜ？",
+    "translation": "Alright, let's take the photos and be done with it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。",
+    "translation": "Okay."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー。\n私のほうは最後の撮影が終わったよ。\nそっちはどう？",
+    "translation": "Futaro.\nI just finished my final shots.\nHow about you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺も今の写真で最後だってさ。",
+    "translation": "I'm done with mine as well."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ、これで終わりだね。\nお疲れ様、フータロー。",
+    "translation": "Well, that's it then.\nThanks for your hard work, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お疲れ、三玖。",
+    "translation": "Thank you too, Miku."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ……。\nやっとこの窮屈なタキシードを脱げるぜ。",
+    "translation": "Haah...\nI can finally take off this uncomfortable tuxedo."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ、脱いじゃダメだってのか？",
+    "translation": "What, I'm not supposed to take it off?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "違う。\n……まだ、感想を聞いてない。",
+    "translation": "No.\nI still haven't heard your thoughts."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？　感想？",
+    "translation": "Huh? My thoughts about what?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私のドレス姿……フータローから感想、聞いてない。",
+    "translation": "I haven't heard your thoughts...on my dress, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー、いや、確かに言ってなかった気がするけどな、\n感想なんて聞かれても困るんだが。",
+    "translation": "Oh, no, I don't think I've actually said anything about \nthe dress, but I don't know what to say, even if you \nask me about it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……に、似合ってる、と思う。",
+    "translation": "...I-I thought you looked good in it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その……正直、見違えた。\nすごく綺麗だったから……。",
+    "translation": "Uh... Honestly, I could hardly recognize you.\nYou were just so beautiful..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……！",
+    "translation": "!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そんな感じだ！",
+    "translation": "Th-that's what I thought!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "言っておくが！\n俺だって、最初にお前のドレス姿を見たとき、\n何も思わなかったわけじゃないんだからな！",
+    "translation": "Just so you know!\nWhen I first saw you in that dress,\nit's not like I didn't feel anything!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……ありがと。",
+    "translation": "...Thank you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まったく……これで満足か？",
+    "translation": "Good grief... Are you satisfied?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、満足。",
+    "translation": "Yes. I'm satisfied."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私、このアルバイトを受けてよかった。",
+    "translation": "I'm glad I took this part-time job."
+  },
+  {
+    "character": "三玖",
+    "japanese": "話を聞いたときは驚いたけど……\n勇気を出して引き受けて、本当によかった。",
+    "translation": "When I heard about it, I was really surprised...\nBut I'm glad I found the courage to accept it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……そうか。",
+    "translation": "...I see."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（確かに、出会った頃の三玖じゃ考えられないな。\n　こんなバイトを引き受けるなんて）",
+    "translation": "(The Miku I first met wouldn't be doing this kind of \n job at all.)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "どうしたの？\nなんだか嬉しそうだけど。",
+    "translation": "What's up?\nYou look kinda happy."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "嬉しそうだったか？",
+    "translation": "Do I look happy?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、なんとなく。",
+    "translation": "Yeah, kind of."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……三玖が変わったのが嬉しいってことか？\n　それは、どうして……）",
+    "translation": "(...Is it because I'm happy to see that Miku did some \n progress? Why am I happy about it?)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー？",
+    "translation": "Futaro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、お前が嬉しそうだからだろうな。\n幸せそうな新婦を見ていれば、\nみんな自然に笑顔になるもんだろ？",
+    "translation": "No, it's probably because you seem happy.\nIf you see a happy bride, everyone starts smiling,\nright?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふふ、そっか。\nじゃあ、今日の写真もきっとバッチリだね。",
+    "translation": "Teehee, that's true.\nI guess today's photos will surely be perfect."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だな。",
+    "translation": "Yeah."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あの頃は、三玖のこんな笑顔を見られるように\n　なるなんて、夢にも思ってなかったな……）",
+    "translation": "(I never thought\n I'd be able to see Miku smiling like this. It's like I'm\n dreaming...)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ね、フータロー。",
+    "translation": "Hey, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……今度はなんだ？",
+    "translation": "...What is it now?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "いつか、また一緒に……。",
+    "translation": "Let's do this again together someday..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "一緒に、着ようね。",
+    "translation": "Let's wear these outfits."
+  }
+]

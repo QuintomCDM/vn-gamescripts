@@ -1,0 +1,292 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "全員集まったな。\nさっそく肝試しの相談を始めるぞ！",
+    "translation": "We've all gathered.\nLet's start our discussion on the test of courage."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "まずはコースだよね。\nどうしよっか。",
+    "translation": "First is the course we should take.\nWhat should we do?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい！\n上杉さん、ここからちょっと離れたところに\n古い家がいくつかあるのはご存じでしょうか？",
+    "translation": "I got it!\nUesugi-san, there are some old houses\na little ways from here, do you know about them?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、島民が住んでた頃の集落跡か。\nどれも廃屋だし、夜に行ったら\nなかなか不気味だろうな。",
+    "translation": "Oh, those settlement remains, when islanders lived here.\nThey're all abandoned houses, and if you went at night,\nit'd be pretty creepy, wouldn't it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それだけではないんですよ。\nそこにですね、あるんです……ふるーい神社が……。",
+    "translation": "That's not the only thing there.\nThere's also...a reaaally old shrine..."
+  },
+  {
+    "character": "五月",
+    "japanese": "！？……",
+    "translation": "?!..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そんなのあったんだ。\n知らなかった。",
+    "translation": "There was a shrine there, huh.\nI didn't know."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そこで！\n神社に行って、この御札を取って帰ってくる――\nというのはどうでしょう？",
+    "translation": "So!\nYou go to the shrine, get this amulet, and come back%p-2;――\n%p;What do you think?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ベタだけどらしくていいじゃない。",
+    "translation": "It's cliche, but it'll work."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、面白そうですね！\n私はそれでも構いませんよ！？",
+    "translation": "Yes, that sounds interesting!\nI don't mind doing that at all!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "強がるなよ。\n嫌なら他のところでもいいんだぞ？",
+    "translation": "Don't act so tough.\nIf you're scared, you could choose somewhere else?"
+  },
+  {
+    "character": "五月",
+    "japanese": "別に怖がってなどいません！",
+    "translation": "I didn't say I was scared!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いやいや、怖いから変えてほしいって\n顔に書いてあるぞ？",
+    "translation": "Nah, but it's written all over your face\nthat you'd like to change the place."
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、そういう上杉君こそ、自分が怖いから\n場所を変更しようとしているのではありませんか？",
+    "translation": "You're just trying to change the plan\nbecause you're scared aren't you, Uesugi-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ？　なんで俺が怖がらなきゃならないんだよ？\nなんならもっとヤバそうな場所でもいいんだぞ？",
+    "translation": "HUH? I'm not scared at all!\nWe could even choose somewhere scarier."
+  },
+  {
+    "character": "五月",
+    "japanese": "私だって、もっと怖くても大丈夫ですよ？",
+    "translation": "I'd be fine with that, too!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それはちょっと怖いな。\n夜の神社だろ？",
+    "translation": "That's a bit scary.\nA shrine, at night?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あら？\n怖いのでしたら別の場所に変えてもいいのですよ？",
+    "translation": "Oh?\nWe could change the place, if you're scared?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前、そんなこと言って……\n自分が怖いから場所を変えさせようとしてるな？",
+    "translation": "I can't believe YOU'RE saying that...\nYou're the one who's scared, so you're\ntrying to change it, aren't you?"
+  },
+  {
+    "character": "五月",
+    "japanese": "先に怖いと言ったのは上杉君じゃないですか！",
+    "translation": "You're the one who said you were scared, first!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別に怖いから嫌だなんて言ってないだろ？\nなんなら、もっと怖そうな場所にしてもいいぞ！",
+    "translation": "I didn't say I didn't want to do it,\neven though it's a little scary.\nI don't mind at all if we chose a scarier place!"
+  },
+  {
+    "character": "五月",
+    "japanese": "わ、私だって、もっと怖くても平気です！",
+    "translation": "I-I'd be just fine if we chose somewhere scarier!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さすがに危険じゃないか？",
+    "translation": "Frankly speaking, isn't it dangerous though?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あら？　もしかして怖気づきましたか？",
+    "translation": "Oh? Are you scared perhaps?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんなんじゃない。\n集落跡近くに建っているのなら、\nその神社も廃屋と同じくらい古いはずだ。",
+    "translation": "Not really.\nIf the shrine is located near the ruins of a village,\nit must be as old as the abandoned houses."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あの辺の建物はどれも朽ちかけだったろ？\n何かの拍子で崩れでもしたら\n怪我どころの話じゃ済まないぞ。",
+    "translation": "All the buildings around there were decaying,\nweren't they? If the shrine was to collapse in some way,\nit wouldn't just be a mere injury."
+  },
+  {
+    "character": "五月",
+    "japanese": "それはそうですが……。\n不用意に近づかなければいいだけです。",
+    "translation": "That's true, but...\nWe just don't need to get too close to be able to\ngrab the amulet."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まったく……\nだったら最初から行かないほうがいいってことだよ。",
+    "translation": "Oh, come on...\nIn that case, we shouldn't even go in the first place."
+  },
+  {
+    "character": "一花",
+    "japanese": "夜の神社か～。\nやっぱり、ちょっと怖すぎじゃない？\n私はどこか別の場所がいいな。",
+    "translation": "A shrine, at night?\nIsn't that a little TOO scary?\nI'd rather go somewhere else."
+  },
+  {
+    "character": "一花",
+    "japanese": "それにほら、あんまり怖すぎたら\n息抜きにならないでしょ？\nちょっとしたスリルくらいが一番だよ。",
+    "translation": "And look, if we get scared along the way,\nwhy don't we take a little breather, you know?\nBite-sized thrills are the best."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、やりすぎはよくない。",
+    "translation": "Yes, it's best not to go too hard."
+  },
+  {
+    "character": "らいは",
+    "japanese": "じゃあ、いつも水汲みしてる滝はどうかな？\nあそこなら、みんな道を知ってるよね。",
+    "translation": "So, what about the waterfall where we always get water?\nEverybody knows the way over there."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、滝にしましょうか。\n脅かし役は誰がやります？\nまた私と上杉さんでやっちゃいますか？",
+    "translation": "Okay, let's go with the waterfall, then.\nWho will scare them?\nShall Uesugi-san and I take care of the scaring?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そこまでやらなくていいよ～。\nここには７人しかいないんだしさ。",
+    "translation": "You don't need to do all that.\nThere are only seven of us here."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、その代わり\nスタートしてから戻ってくるまでのタイムを競う！\nっていうのはどうかな？",
+    "translation": "Okay, then instead, we'll compete!\nLet's see who can get there and back the fastest!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "競争はちょっと……。",
+    "translation": "A competition? I think that's a little much..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうよ、そんなルールじゃ\n四葉が有利に決まってるじゃない。",
+    "translation": "Yeah, with those rules,\nyou're at an advantage, Yotsuba."
+  },
+  {
+    "character": "一花",
+    "japanese": "それに、暗い中で走るのは危ないよね。\nむしろ走らないで歩くってルールにしよう。",
+    "translation": "Also, it's dangerous to run at night.\nActually, we should make a rule not to run,\nbut to walk."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、いいだろう。\nあとは――",
+    "translation": "Okay, that's fine, then.\nThen%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "わかりました！\nちょっと御札を置きに行ってきますね！",
+    "translation": "I got it!\nI'll go set the amulet up!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……最後まで話を聞いてから行ってくれよ。",
+    "translation": "...Leave AFTER we've finished talking."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "すっかり暗くなってしまいましたね。",
+    "translation": "It's gotten really dark."
+  },
+  {
+    "character": "一花",
+    "japanese": "そうだね。\nこの暗さにはなかなか慣れないよ。",
+    "translation": "That's for sure.\nI can't get used to how dark it gets here."
+  },
+  {
+    "character": "らいは",
+    "japanese": "四葉さん、大丈夫かなぁ？\n……あっ！",
+    "translation": "I wonder if Yotsuba-san is okay?\n...AH!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "戻りましたー！",
+    "translation": "I'm back!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お疲れ様！",
+    "translation": "Good work!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "準備はどうだ？",
+    "translation": "How are preparations?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "バッチリです。\nお札はちゃんと見つけやすいように\n置いてきましたよ。",
+    "translation": "Perfect.\nI put the amulet in a place\nwhere it's easy to find."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "任せちまって悪かったな。\n助かった。",
+    "translation": "Sorry for making you do all that.\nYou're such a good helper."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえいえ、好きでやってることですから\n気にしないでください。",
+    "translation": "No no, I enjoyed it, so please don't worry."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、ペアを決めるか。\n何もないとは思うが、\nさすがに１人じゃ危険だからな。",
+    "translation": "Okay, let's set up pairs, then.\nI don't think anything will happen,\nbut going alone might be dangerous."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私、フータローとでいいよ。",
+    "translation": "I'll go with Futaro."
+  },
+  {
+    "character": "二乃",
+    "japanese": "何を勝手に言ってるのかしら？\nここは公平にやりましょ？　ね？",
+    "translation": "Um, what? You can't just decide that.\nLet's do things fairly? Hm?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "あれ？\nでも７人だから１人余っちゃうよ？",
+    "translation": "Huh?\nBut if we have seven, one is left over."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "１組は３人だな。\n二乃の言うとおり、公平にくじ引きで決めよう。",
+    "translation": "One group will have three members, then.\nAs Nino says, let's decide fairly by drawing lots."
+  },
+  {
+    "character": "五月",
+    "japanese": "はい……。",
+    "translation": "Okay..."
+  }
+]

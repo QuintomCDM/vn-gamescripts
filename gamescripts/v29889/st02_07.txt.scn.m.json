@@ -1,0 +1,402 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "指示を出すのはお前たち２人か。",
+    "translation": "So you two are going to give directions."
+  },
+  {
+    "character": "一花",
+    "japanese": "よろしくね、フータロー君。",
+    "translation": "Do your best, Futaro-kun."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんのこと、\n必ずスイカまで送り届けてみせますよ！",
+    "translation": "I'll try hard to guide you to the watermelon,\nUesugi-san!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……四葉は嘘をつくのが下手だ。\n　一花が俺をからかおうとしても、\n　四葉の反応に注意しておけば楽勝だな）",
+    "translation": "(...Yotsuba's no good at lying. Even if Ichika\n tries to tease me, if I pay attention\n to Yotsuba's reactions, it's an easy win.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "では、目隠ししますね。",
+    "translation": "Alright, I'll blindfold you now."
+  },
+  {
+    "character": "らいは",
+    "japanese": "それじゃ、よーい……スタート！",
+    "translation": "Okay, and... START!"
+  },
+  {
+    "character": "一花",
+    "japanese": "そのまま真っ直ぐ進めば大丈夫だよ！",
+    "translation": "You should just go straight!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、いい感じです！",
+    "translation": "Uesugi-san, you're doing well!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……今は、まっすぐ進めてるのか）",
+    "translation": "(...So I'm going forward now.)"
+  },
+  {
+    "character": "一花",
+    "japanese": "あれっ？　少し横にそれたかな？",
+    "translation": "Hm? You're kinda going to the side, I think?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ああ、そっちに行くと危ないです！\n戻ってください！",
+    "translation": "Aah, don't go that way, it's dangerous!\nCome back!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（戻るってどっちに戻ればいいんだ？\n　危ないようだし後ろに下がるか……）",
+    "translation": "(Which way is going back to them?\n If she says it's dangerous,\n I'll back up a little...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さーん！\n体の向きです！　向きが違うんですよー！",
+    "translation": "Uesugi-saaan!\nYour body! It's facing in the wrong direction!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（向きと言われても、どっちかわからん。\n　とりあえず右回りに……）",
+    "translation": "(That doesn't tell me where to go.\n I'll just turn right...)"
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君、困っちゃってるねぇ。\nそれなら……。",
+    "translation": "Futaro-kun, you're really struggling, aren't you.\nOkay then..."
+  },
+  {
+    "character": "一花",
+    "japanese": "そのまま向きを変えながら進めば大丈夫だよ！",
+    "translation": "If you just keep turning that way and moving forward,\nyou'll be fine!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ああ！　通りすぎました！\n戻ってくださーい！",
+    "translation": "Aahh! You went too far!\nCome back!"
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉、戻さなくて大丈夫だって。\nあのまま進めば元に戻ってくるでしょ？",
+    "translation": "Yotsuba, you don't need to call him back.\nIf he keeps going, he'll naturally turn around, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、ホントだ。\nまたスイカのほうに向かってるね。\n上杉さーん！　そのままでオッケーですよー！",
+    "translation": "Ah, you're right.\nHe's headed for the watermelon again.\nUesugi-saaan! Just keep moving forward like that!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ええ……あいつらは納得してるが\n　俺は今、どっちを向いてるんだ？\n　同じところをグルグルと回ってる気分だ）",
+    "translation": "(Okay...they understand what's going on,\n but I have no idea where I'm facing. I feel like\n I'm going around in circles.)"
+  },
+  {
+    "character": "一花",
+    "japanese": "ほーらー、足がもつれてるよ！\nもう１周してみよっ！",
+    "translation": "Look at you, your feet are tangled up!\nDo one more lap!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……！",
+    "translation": "...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やっぱり同じところを回ってるだけじゃねぇか！",
+    "translation": "I'm just spinning in place!"
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは、バレちゃった。",
+    "translation": "Ahaha, you caught me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まったく、お前ってやつは！\nそれと四葉、お前の指示も曖昧すぎて\nまったくわからん。",
+    "translation": "Grr, you guys are always messing with me!\nAnd Yotsuba, your instructions are way too vague.\nI couldn't understand them at all."
+  },
+  {
+    "character": "四葉",
+    "japanese": "すみません、うまく伝わってるかと思ってました。",
+    "translation": "Sorry,\nI thought I was getting myself across pretty clearly."
+  },
+  {
+    "character": "一花",
+    "japanese": "謝ることないって。\nあれでわからないなら、\nフータロー君がダメなんだよ。",
+    "translation": "There's no need to apologize.\nIf he can't understand based on that,\nthen that's Futaro-kun's problem."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あんな指示じゃ無理だろ。\n正しく進んでるのかもわからないんだぞ？",
+    "translation": "With instructions like that it's impossible.\nI had no idea if I was going in the right direction."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえいえ、大体はあってましたよ？\nちょっと向きが違ってたかもしれませんが。",
+    "translation": "No no, you were mostly right.\nYour direction was just a bit off."
+  },
+  {
+    "character": "一花",
+    "japanese": "おかげでグルグル回っちゃったけどねぇ。",
+    "translation": "Because of that, you were just going in circles."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そこはお前のせいだろ。\n四葉も、進む向きが間違ってるなら\nせめて方向くらいは言ってくれ。",
+    "translation": "That's your fault, isn't it?\nAnd Yotsuba, if I'm headed in the wrong direction,\ncould you at least correct my path?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ、それもそうですね。\nすっかり忘れてました！",
+    "translation": "Ah, you're right, there's that.\nI completely forgot that I should be doing that!"
+  },
+  {
+    "character": "一花",
+    "japanese": "仕方ないなぁ。\nじゃあ、ちょっと交代してみよっか。",
+    "translation": "Ah, well.\nWhy don't we try switching?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、やってみせろ。",
+    "translation": "Alright, I'll show you how it's done."
+  },
+  {
+    "character": "一花",
+    "japanese": "おっ？　そうきましたか。",
+    "translation": "Oh? That's how you're playing this?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その口ぶりからして、\n一花はあの四葉の指示でわかるんだろ？",
+    "translation": "You talk a big game but,\nyou think you can tell what's going on \nbased on Yotsuba's instructions, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "もちろん。",
+    "translation": "Of course."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほーう、自信満々だな。\nぜひともお手並み拝見したいものだ。",
+    "translation": "Oh wow, aren't you confident.\nPlease, show me how it's done."
+  },
+  {
+    "character": "一花",
+    "japanese": "オッケー、君にお手本を見せてあげましょう。\nなんなら邪魔してもいいよ？",
+    "translation": "I'd love to.\nFeel free to interfere as much as you want,\nFutaro-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、俺は口を出さない。\nそれだと、お前にやらせる意味がないからな。",
+    "translation": "No, I won't say a word.\nIf I did, there's no point."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺の理解が足りてなかったか。\nそこそこ長い付き合いになったし、\nわかってきたつもりではいたんだがな。",
+    "translation": "I didn't understand well enough, huh.\nWe've known each other for quite a long time,\nand I thought I was starting to figure things out."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえいえ、上杉さんは悪くありませんよ！",
+    "translation": "No, you haven't done anything wrong, Uesugi-san!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、そうだな。\nお前の指示出しが下手なのも事実だ。",
+    "translation": "I guess you're right.\nThe fact is, the way you give instructions\nis pretty bad."
+  },
+  {
+    "character": "四葉",
+    "japanese": "え。",
+    "translation": "Um."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "自分が考えたことの伝え方や、\n相手が理解しやすい言い方を身につけたほうがいい。",
+    "translation": "You should learn to say what you think\nin a way that's easy for others to understand."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは……。\nたまに言われます、それ。",
+    "translation": "Ahaha...\nPeople tell me that sometimes."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ四葉、ちょっと私と練習してみようか？",
+    "translation": "Okay, Yotsuba, why don't you try practicing with me?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん！\n上杉さん、頑張りますから見ててくださいね！",
+    "translation": "Okay!\nUesugi-san, I'll do my best, so please watch!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "準備できたよー！",
+    "translation": "The watermelon is ready!"
+  },
+  {
+    "character": "五月",
+    "japanese": "あのー、なぜ一花がやることになっているのですか？",
+    "translation": "Um, why is Ichika going to do it?"
+  },
+  {
+    "character": "一花",
+    "japanese": "まあまあ、そこは気にしないで。",
+    "translation": "Hey now, don't worry about that."
+  },
+  {
+    "character": "らいは",
+    "japanese": "それじゃ、一花さん！\nよーい……スタート！",
+    "translation": "Okay, Ichika-san!\nAnd... START!"
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉、よろしくねー！",
+    "translation": "Yotsuba, it's in your hands!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん！\n一花、そのまま真っ直ぐで……\nあ、ちょっとズレた！",
+    "translation": "Okay!\nIchika, go straight, just like that...\nAh, you're a little off!"
+  },
+  {
+    "character": "一花",
+    "japanese": "ほいほいっと。",
+    "translation": "Oopsie."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あー、今度は逆！",
+    "translation": "Aah, now you're going the wrong way!"
+  },
+  {
+    "character": "一花",
+    "japanese": "よっと。",
+    "translation": "Woah now."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いい感じ、そのまま進んで！\nこれなら絶対に行けるよ！",
+    "translation": "Good good, go straight!\nYou'll definitely get it now!"
+  },
+  {
+    "character": "一花",
+    "japanese": "ん～、そろそろかな？",
+    "translation": "Hmm, am I about there?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ドーンと一発やっちゃって！",
+    "translation": "Smash it with one strike!"
+  },
+  {
+    "character": "一花",
+    "japanese": "そーれっと！",
+    "translation": "Hi-yah!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "やったね一花！\n一発で決めちゃった！",
+    "translation": "Oh, NICE, Ichika!\nYou got it in one shot!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ええー……あれでわかるのか……）",
+    "translation": "(Well now... Ichika could understand that...?!)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、どうでした！？\n私、さっきよりも上手に\n指示出しできてた気がします！",
+    "translation": "Uesugi-san, how was that?!\nI feel like I gave directions\nbetter than before!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？　ああ……\nさっきよりはましだったんじゃないか？",
+    "translation": "Huh? Yeah...\nI think this time was a little better."
+  },
+  {
+    "character": "一花",
+    "japanese": "四葉、指示ありがと。\nおかげで思ってたより楽勝だったよ。",
+    "translation": "Yotsuba, thanks for guiding me.\nBecause of you, it was easier than\nI thought it was going to be."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えへへ、ちょっと自信が出てきたよ。\n上杉さんのときに上手にできなかったのが\n悔しいなぁ。",
+    "translation": "Hehehe, I'm feeling a little more confident.\nIt's frustrating that I couldn't do it well\nwith Uesugi-san."
+  },
+  {
+    "character": "一花",
+    "japanese": "君もちゃんと見ててくれた？\nこれが五つ子の絆だよ。",
+    "translation": "Were you paying attention?\nThat's the bond of quintuplets."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、しっかりと見てたぞ。\nただ絆というよりも、俺とお前たちの\n信頼関係の差な気がしてきた。",
+    "translation": "Yes, I saw it clearly.\nRather than just a bond, I felt that\nthere was a difference in trust between you guys and me."
+  },
+  {
+    "character": "一花",
+    "japanese": "もう、負け惜しみ言っちゃって。\n納得いかないって顔してるじゃん。",
+    "translation": "Oh, what a sore loser.\nYou still don't look convinced."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くっ……。",
+    "translation": "Urk..."
+  },
+  {
+    "character": "一花",
+    "japanese": "もうちょっと頑張らないとね、フータロー君。",
+    "translation": "You've gotta try a little harder, Futaro-kun."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん！　ファイトです！\n私は上杉さんのこと信頼してますから！",
+    "translation": "Uesugi-san! Fight!\nI trust you, Uesugi-san!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いくら五つ子だからって言われても、\n納得できないものは――！？",
+    "translation": "No matter how many times you tell me it's because you're\nquintuplets, I'll never be able to understand%p-2;――%p;!!"
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君。",
+    "translation": "Futaro-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ？",
+    "translation": "What is it?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そんなことじゃ、\nいつまでたっても距離は縮まらないぞ？",
+    "translation": "An attitude like that won't get you any closer, \nnow will it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？",
+    "translation": "What?"
+  },
+  {
+    "character": "一花",
+    "japanese": "頑張ってね。",
+    "translation": "Do your best!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  }
+]

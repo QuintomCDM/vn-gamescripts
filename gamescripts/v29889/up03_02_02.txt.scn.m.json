@@ -1,0 +1,117 @@
+[
+  {
+    "character": "三玖",
+    "japanese": "ねえ、フータロー。\n気になることがあるんだけど。",
+    "translation": "Hey, Futaro.\nThere's something bothering me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "待て。\n前みたいな、マイナスの存在意義がどうとか、\nそういう質問なら受け付けないぞ。",
+    "translation": "Wait.\nI don't wanna hear any more of your \napple analogies about negative numbers."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やっぱりか！\n今やってる問題に関係ない質問はあとにしてくれ。",
+    "translation": "I knew it!\nLeave the unrelated questions for later."
+  },
+  {
+    "character": "三玖",
+    "japanese": "関係ある質問ならいいんだ？",
+    "translation": "So questions related to them are okay?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ、どうして『二進法』とか『十進法』とか、\n色々あるのか教えてほしい。",
+    "translation": "Then please tell me why there are various \nnumeral systems, like binary numbers and decimal numbers."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "結局、関係ない質問じゃねぇか。",
+    "translation": "That question is unrelated to the subject matter."
+  },
+  {
+    "character": "三玖",
+    "japanese": "関係あるよ。\n数学の話だよ？",
+    "translation": "It IS related.\nIt's about math, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……まあいい。\n寄り道になるが付き合ってやる。",
+    "translation": "...Whatever.\nI'll teach you anyway."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうして二進法や十進法のような、\n表現方法があるのかって質問だったな。",
+    "translation": "Your question was why there are several methods of\nexpressing counting systems, such as binary and decimal."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、正直ややこしい。",
+    "translation": "Yes, to be honest, it's confusing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その辺りは、俺たち人間よりも、\nパソコンとか電子機器に必要な方法なんだ。\n特に二進法はな。",
+    "translation": "These mathematical expressions are necessary \nfor calculating on computers and electronic devices,\nespecially the binary system."
+  },
+  {
+    "character": "三玖",
+    "japanese": "電子機器に？　どうして？",
+    "translation": "Electronic devices? Why?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "簡単に言うと、そのほうが効率がいいんだ。",
+    "translation": "To put it simply, it's more efficient that way."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ざっくりすぎる……。",
+    "translation": "You didn't explain anything..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "詳しく話そうとすると時間がかかるんだよ。",
+    "translation": "Explaining it in detail would take a long time."
+  },
+  {
+    "character": "三玖",
+    "japanese": "わかった。\nじゃあこの話はまた別の機会にする。",
+    "translation": "I understand.\nThen, you can explain it to me some other time."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうしてくれると助かる。",
+    "translation": "That would help me out a lot."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しかし、色々なことに好奇心を持つのは、\nとてもいいことだぞ。",
+    "translation": "But I think it's fantastic\nthat you're so curious\nabout all sorts of things."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローが知ってることを、\n私も、もっと知りたいから。",
+    "translation": "I want to know more\nabout what you know about, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが！\nそれはそれとして、お前は基礎がダメダメだ！\nせっかくの好奇心もこれでは意味がない！",
+    "translation": "However!\nThat being said, you're not good at the basics!\nYour curiosity is meaningless as is!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "結局、そこに戻るんだね。",
+    "translation": "You always have to bring that up."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも……フータローの言う通り。\n同じ場所に行くにはまだ足りないや。",
+    "translation": "But...it's as you say, Futaro.\nI don't have what it takes to be on your level."
+  }
+]

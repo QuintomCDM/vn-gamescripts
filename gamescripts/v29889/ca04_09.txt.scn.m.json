@@ -1,0 +1,417 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "日没まではまだ時間があるな。\nどこか海を見渡すのに絶好な場所を探すか。",
+    "translation": "We still have time until sunset.\nShould we look for a perfect spot overlooking the sea?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "それなら、船から見ませんか？",
+    "translation": "How about seeing it from a boat?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "船？　確かに海の上から夕日が見られるなら\n最高の景色だろうが……船なんてないだろ？",
+    "translation": "A boat? Well yeah, it'd be the best view to see\nthe sunset from the sea,\nbut there's no boat around, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふっふっふ、実はですね？",
+    "translation": "He-he-he, well, actually..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "つい先日、船着き場の隅に\n古い手こぎボートがあるのを見つけたんです！\nそれを使いましょう！",
+    "translation": "Just the other day,\nI found an old rowboat in a corner of the pier!\nLet's use that!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……なんだ。\n　楽しそうに笑えてるじゃねぇか）",
+    "translation": "(...What the.\n She's actually laughing a lot and enjoying herself,\n right?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よーし、漕ぎ手は俺に任せておけ。\n絶景ポイントまで、お前を連れてってやる！",
+    "translation": "All right, leave the rowing to me.\nI'll take you to the perfect spot for the view!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はぁ……はぁ……はぁ……。\nか、代わってもらってすまん……。",
+    "translation": "Haah... Haah... Haah...\nS-sorry for having you switch with me."
+  },
+  {
+    "character": "四葉",
+    "japanese": "手漕ぎは結構、力を使いますからね。\n最初から私に任せてくれてもよかったんですよ？",
+    "translation": "Rowing requires a lot of strength, you know?\nYou could have left it to me from the beginning."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（それはさすがにどうかと思った結果が\n　このざまなんだがな……）",
+    "translation": "(Well, that's what I was thinking too,\n but this is the result...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、そろそろ港の入口近くですけど、\nどうしましょう？\nもうちょっと沖に行ってみますか？",
+    "translation": "Uesugi-san, we're getting close to the harbor entrance.\nWhat should we do? Should we go a bit further out?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "港の外は波も高くなるし、漕ぐのも大変になる。\nこの辺でいいだろ。",
+    "translation": "The waves get higher outside the harbor,\nand the rowing will become more difficult.\nThis area should be good enough."
+  },
+  {
+    "character": "四葉",
+    "japanese": "夕暮れまでもう少しですね……。",
+    "translation": "It's almost sunset..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、もう少しだな。",
+    "translation": "Yep, just a little longer."
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いかん、早くも話題がなくなっちまった。\n　四葉も黙っちまったし、どうするか……）",
+    "translation": "(Uh-oh, the conversation has already dried up.\n Yotsuba has gone quiet too.\n What should I do...?)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、あの！",
+    "translation": "U-um!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう、どうした？",
+    "translation": "Y-yeah, what's up?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "今日は晴れててよかったですね！\nきっと夕日が綺麗に見えますよ！",
+    "translation": "The weather's been nice today, hasn't it?\nThe sunset will surely be beautiful!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "え？　あ、ああ、そうだな。\n朝から晴れてて良かったよな。",
+    "translation": "Huh? Y-yeah, you're right.\nIt's been sunny since morning."
+  },
+  {
+    "character": "四葉",
+    "japanese": "こ、この前、五月と水汲みに行ったときは、\n急に曇っちゃって、慌てて帰ってきたんですよぉ！",
+    "translation": "Th-the other day when I went to get water with Itsuki,\nit suddenly became cloudy, and we had to hurry back!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "見た感じ雲は出ていないし、\n今日は心配しなくても大丈夫だろう。",
+    "translation": "Looks like there are no clouds in sight,\nso there's no need to worry today."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうですよね！　安心しました！",
+    "translation": "That's right! I sure am relieved!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あー、えー、そ、そうだ！\nあの水鉄砲、記念に持って帰っちゃダメですかね？",
+    "translation": "Ah, um, th-that's right!\nCan I take the water gun home as a souvenir, you think?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "昼間に遊んだやつか？\n別に持って帰っても問題はないと思うが……。",
+    "translation": "The one you played with this afternoon?\nI don't think there'd be a problem\nif you took it with you..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いいんですか！？\n勝手に持って帰って怒られたりしませんかね！？",
+    "translation": "Are you sure?!\nWon't I get scolded for taking it without permission?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あの別荘は、お前たちの親父さんの持ち物なんだろ？\nだったら構わないんじゃないか？",
+    "translation": "That villa belongs to your dad, right?\nThen it should be fine, I think."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ、それもそうですよね。\nえ～と、あの……。",
+    "translation": "Oh, yeah, you're right.\nUmm, well..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（もしかして四葉のやつ、間をもたせようとして\n　話題を探してくれているのか？）",
+    "translation": "(Is Yotsuba trying to find a topic\n to break the silence?)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "……すみません。\nなんか私、変ですよね。",
+    "translation": "...Sorry.\nI'm acting weird, aren't I?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……水鉄砲か。\n四葉との一騎打ち、楽しかったぞ。\nまた勝負しようぜ。",
+    "translation": "...The water guns, huh?\nIt was fun having a duel with you, Yotsuba.\nLet's do it again sometime."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ？　あ、はい！\nまたやりましょう！",
+    "translation": "Eh? Uh, yeah!\nLet's do it again!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "今度は入念に作戦を練って、\n必ずお前を討ち取ってやるぜ。",
+    "translation": "Next time, I'll plan a strategy\nand definitely bring you down."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私だって負けません！",
+    "translation": "I won't lose to you!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "なんでしたら、上杉さんは二丁拳銃でもいいですよ？\nそれくらいのハンデがあったほうが\n楽しそうじゃないですか。",
+    "translation": "If you want, Uesugi-san, you can even use two guns.\nIt would be more fun to have a handicap, wouldn't it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "言いやがったな？\n俺を甘く見たことを後悔させて――",
+    "translation": "What did you say?\nYou're underestimating me. I'll make you regret it%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん？　なんだ？",
+    "translation": "Hm? What's that sound?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "魚が跳ねたんでしょうか？",
+    "translation": "Did a fish jump out of the water?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それにしては大きな音だったが……。",
+    "translation": "It was a pretty loud noise for that..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "これは、もしかしてサメですかね？",
+    "translation": "Could it have been a shark?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉……。\nこの状況でそういう冗談はよくないと思うぞ。",
+    "translation": "Yotsuba...\nMaking jokes like that in this situation\nis not a good idea."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "またか！？\n一体なんなんだ！？",
+    "translation": "Again?!\nWhat exactly is it?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "これ、やっぱりサメですよ！",
+    "translation": "Now this has GOTTA be a shark!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "漂流した孤島、孤立し小舟に乗る登場人物！\n条件は揃ってます、映画だったら\n間違いなくサメの出番です！！",
+    "translation": "Castaways stranded on a deserted island, isolated and\nriding in a small boat! The conditions are perfect, so if\nit were a movie, there'd definitely be a shark scene!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前は変な映画の見すぎだ！\nそれに、こんなところで本当にサメなんかと\n出くわしたら――",
+    "translation": "You watch too many strange movies!\nAnd, if we really come across a shark\nor something in a place like this%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ！？　上杉さん！\n見てください！　あそこ！！",
+    "translation": "Huh?! Uesugi-san!\nLook! Over there!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あっ！　イルカか！？",
+    "translation": "...Ah! Dolphins?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、イルカさんですよ！\nしかも、あんなにたくさん！",
+    "translation": "Yes, they're dolphins!\nAnd there are that many of them!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "驚いたな、まさかこの島で\nイルカの群れが見られるなんて。",
+    "translation": "I'm surprised,\nI never thought we would see a pod of dolphins\non this island."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、見ましたか！？\nイルカさんがジャンプしましたよ！？",
+    "translation": "Uesugi-san, did you see them?!\nThe dolphins jumped outta the water!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "マジかよ……。\nこれはなかなか貴重なんじゃないか？",
+    "translation": "Unbelievable...\nThis is quite rare, isn't it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうですよ、こんな機会なかなかないです！\nもうちょっと近づいてみましょう！",
+    "translation": "That's right,\nwe don't get an opportunity like this often!\nLet's get a little closer!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、近づきすぎると危ないぞ。",
+    "translation": "No, getting too close is dangerous."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええ？\nすぐそこにイルカさんがいるんですよ！？\nもうちょっとだけでも、ダメですか？",
+    "translation": "Whaaa?\nThere are dolphins right there, aren't there?\nWe can't get just a LITTLE closer?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……仕方がないな。\nイルカを驚かさないように静かに進めよ？",
+    "translation": "...It can't be helped.\nMove forward quietly so as not to startle them, okay?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい！　任せてください！",
+    "translation": "Okay! Leave it to me!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こんな機会は滅多にないだろうし……\nちょっとだけだぞ？",
+    "translation": "Yeah, this a rare opportunity...\nJust a little, okay?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いいんですか！？\nよーし、行きますよー！",
+    "translation": "Really?!\nAlrighty, HERE WE GO!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちょ、ちょっと待て、慌てるな。\nあまりオールをバタバタさせると\nイルカが逃げちまう。",
+    "translation": "Wa-wait a minute, don't rush.\nIf we paddle too much,\nthe dolphins will swim away."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ！？　すみません！",
+    "translation": "AH?! Sorry!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "イルカを驚かさないように、静かに、だ。\nいいな？",
+    "translation": "Don't startle the dolphins. Move quietly.\nGot it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい。\n静かに、そ～っとですね。",
+    "translation": "Okay.\nNiiice and quiiiet."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、こんな機会は普通ないからな！\n俺ももっと近くで見てみたい！",
+    "translation": "Yeah, we normally don't have this kind of opportunity!\nI also want to see them closer!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "おお、上杉さんもテンションが上がってますね！\nなんか安心しました。",
+    "translation": "Oh, Uesugi-san, you're suddenly excited!\nIt somehow makes me feel relieved."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ここで、イルカさんの生態について、とか、\n勉強みたいなことを言われちゃったら\nどうしようかと。",
+    "translation": "I was wondering if you would start talking about\nthe ecology of dolphins\nand I'd have to study something."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、知りたいなら講義してやるぞ？\n実はイルカという生物の定義は――",
+    "translation": "What, if you want to know, I can give you a lecture.\nActually, the definition of dolphins as a species%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "わー！　わー！\n今はイルカさんが可愛いということが\nわかれば充分でーす！",
+    "translation": "Waa! Waa!\nFor now, knowing dolphins are cute\nis good enough for me!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ははっ！\n冗談だ、俺だって今はイルカ見物が最優先だ！",
+    "translation": "Haha!\nI was joking. \nRight now, watching dolphins is the top priority!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし行け、四葉！\nただし、イルカを驚かさないように注意しろ！",
+    "translation": "Alright, let's move, Yotsuba!\nBut be careful not to startle the dolphins!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "任せてください！\n行きますよ～！",
+    "translation": "Leave it to me!\nHere we gooo!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉！　ストップ！\nほら、見てみろ！",
+    "translation": "Yotsuba! Stop!\nLook there!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うわあっ！？\nいつの間にこんな近くに！？\n手を伸ばせば触れちゃいそうです！",
+    "translation": "Whoa?!\nWhen did they get this close?!\nI feel like I could reach out and touch them!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ！　イルカたちのお出迎えだ！",
+    "translation": "Ah! The dolphins are accepting us!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "私、こんなに近くで見るのは初めてです！",
+    "translation": "This is the first time\nI've seen them up close like this!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺だってそうだ。\n……おっ？　ボートの周りを泳ぎだしたぞ？",
+    "translation": "Same here.\n...Oh? They're swimming around the boat, aren't they?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "もしかして、私たち、歓迎されてるんですかね？",
+    "translation": "Could it be that they're welcoming us?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうかもしれないな。\nこんなに近づいてきてくれるとは……。",
+    "translation": "That might be it.\nFor them to be swimming so close..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ！？　一斉にジャンプしました！",
+    "translation": "Ah?! They all jumped at once!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すげぇな……。\n思わず見とれちまった……。",
+    "translation": "Amazing...\nHow mesmerizing..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（夕日を見るつもりが\n　こんなすごいものを見られるとは……）",
+    "translation": "(I came here to watch the sunset\n and saw something absolutely incredible...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "まるでショーみたいです！\nいえ、ショーよりももっとスゴいですよ！",
+    "translation": "It's like a show!\nNo, it's even more amazing than a show!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふわあぁ……。\nなんだか、夢みたいです……。\n２人で、こんな風に……。",
+    "translation": "Wowww...\nIt's, kind of like a dream...\nTo be like this, together..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（四葉も喜んでるし、連れ出して正解だったな）",
+    "translation": "(Yotsuba's pretty happy.\n I'm glad I brought her out here.)"
+  }
+]

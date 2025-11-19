@@ -1,0 +1,372 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "よりにもよって、お前と一緒になっちまうとはな。",
+    "translation": "For me to be paired with you, of all people."
+  },
+  {
+    "character": "五月",
+    "japanese": "でしたら辞退するか１人で行けばよかったのでは？",
+    "translation": "Then, should I pull out of the test,\nor go alone maybe?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くじで決まったんだから仕方がないだろ。",
+    "translation": "We drew straws this way. There's nothing we can do."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私はフータローと一緒になれて嬉しいよ？",
+    "translation": "I'm happy to be paired with you, Futaro."
+  },
+  {
+    "character": "五月",
+    "japanese": "三玖、その人を信じてはいけません。\n怖くなったら逃げ出すに決まってます。",
+    "translation": "Miku, you can't trust him.\nIf he gets scared, he's definitely gonna run away."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんで俺が怖がる前提なんだ。\n俺は夜道なんて、これっぽっちも怖くないぞ？",
+    "translation": "Why are you assuming I'll get scared?\nI'm not afraid of walking out here at night at all."
+  },
+  {
+    "character": "五月",
+    "japanese": "私だって怖がってなどいません。\nこの程度の暗さ、なんの問題もありません！",
+    "translation": "I'm not scared, either.\nThis level of darkness isn't any problem for me!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "もう、２人とも……。",
+    "translation": "Come on, you two..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "意地張りやがって、怖いんだろ？",
+    "translation": "Quit being so stubborn, aren't you scared?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いいえ、なんなら私は１人でも平気ですよ？\nあなたは私のあとをついて来てください。",
+    "translation": "No, I would be JUST fine going alone, you know?\nYou can just come after me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい待て！　俺が先に行く！",
+    "translation": "Hey, wait! I'll go first!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "むう……。",
+    "translation": "Mmmhh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はぁはぁ……。\nお前、ちょっと急ぎすぎだろ。",
+    "translation": "Haah, haah...\nYou're in too much of a hurry, aren't you?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたが遅いのでは？\n私が御札を取ってきますから、\n上杉君はそこで見ていてください。",
+    "translation": "Or, you could just be slow?\nI'll go get the amulet,\nso please watch from there, Uesugi-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ん？　おい、ちょっと待て。\n三玖はどうした？",
+    "translation": "...Hm? Hey, hold up a second.\nWhere's Miku?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あれ？　三玖？",
+    "translation": "Huh? Miku?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まさか、はぐれたのか！？",
+    "translation": "No way, did we lose her?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そんな、いつの間に……。\nもしかして私たちが勝手に先へ進んだから……。",
+    "translation": "Oh no, when could that have happened...?\nIt might have happened\nbecause we went ahead ourselves..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "今は考えてる場合じゃないぞ！\nおーい！　三玖ー！",
+    "translation": "Now's not the time to think!\nHeeeey! Mikuuu!"
+  },
+  {
+    "character": "五月",
+    "japanese": "三玖ー！　いたら返事をしてくださーい！",
+    "translation": "Mikuuu! If you're there, please say something!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（まずいぞ、返事がない。\n　声が聞こえる範囲にはいないってことか？）",
+    "translation": "(This is bad, there's no reply.\n Is she not close enough to hear us?)"
+  },
+  {
+    "character": "五月",
+    "japanese": "三玖ー！　三玖ー！！\nどこへ行ったのですかー！？",
+    "translation": "Mikuuu! Mikuuu!\nWhere did you go?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月、お前はここで待ってろ。\n俺は来た道を戻って探してくる。",
+    "translation": "Itsuki, you wait here.\nI'll go back the way we came to search."
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ……でも……。",
+    "translation": "Huh...? But..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖か！？",
+    "translation": "Miku?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "み、三玖……？\nそこにいるのは三玖ですよね？",
+    "translation": "M-Miku...?\nMiku, you're right there, aren't you?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖！\n急にいなくなるから心配したんだぞ？",
+    "translation": "Miku!\nYou just disappeared all of a sudden. We were worried!"
+  },
+  {
+    "character": "五月",
+    "japanese": "はあ、よかった。\nどこに行っていたのですか？",
+    "translation": "*sigh* Oh, what a relief.\nWhere did you go?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "２人ともなんで気づかなかったの？",
+    "translation": "Neither of you noticed?"
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "なんで、滝に来るまで\n私がいないことに気がつかなかったの？",
+    "translation": "Why didn't you notice I was gone\nuntil you reached the waterfall?"
+  },
+  {
+    "character": "五月",
+    "japanese": "それは……。",
+    "translation": "That's..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "２人とも意地張り合って\n周りのこと見てなかったでしょ。",
+    "translation": "Both of you were butting heads so much\nthat you lost sight of your surroundings."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "五月。\nなんで肝試しに賛成したの？\n夜に外へ出るのは危ないって言ってたよね。",
+    "translation": "Itsuki.\nWhy did you agree to a test of courage?\nYou'd said that going outside at night was dangerous."
+  },
+  {
+    "character": "五月",
+    "japanese": "言いました……。",
+    "translation": "I did say that..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローも、肝試しするなら\nもっと違うやり方があったと思う。",
+    "translation": "Futaro too, if you wanted to have a test of courage,\nyou should have thought of another way to do it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな……。",
+    "translation": "You're right..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……すまなかった、五月。\n無理やり肝試しなんて提案しちまって……。\nあれじゃ、お前への嫌がらせと変わらないよな。",
+    "translation": "...I'm sorry, Itsuki.\nTo suggest a test of courage the way I did...\nIt was like I was challenging you."
+  },
+  {
+    "character": "五月",
+    "japanese": "私も、ついカッとなってしまい、\n上杉君を挑発するようなことを言いましたから。\nすみませんでした。",
+    "translation": "I also got caught up in the moment \nand provoked you, Uesugi-kun.\nI'm sorry."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、これで仲直り。\nいいよね？",
+    "translation": "Right, now that you've made up.\nAre you both okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、そうだな。",
+    "translation": "Yeah, I'm ok."
+  },
+  {
+    "character": "五月",
+    "japanese": "はい。",
+    "translation": "Me too."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……よかった。",
+    "translation": "...Good."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういえば、三玖はどこに隠れてたんだ？\n全然わからなかったぞ。",
+    "translation": "By the way, where were you hiding, Miku?\nI had absolutely no idea."
+  },
+  {
+    "character": "三玖",
+    "japanese": "別に隠れてたつもりはないよ。\nただ木の陰を歩いてただけ。",
+    "translation": "I didn't really intend to hide, or anything.\nI was just walking in the shadows of the trees."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、すぐ近くにいたのか。\n驚かさないでくれよ。",
+    "translation": "Oh, you were close by?\nDon't surprise us like that."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君。\n三玖にそうさせたのは私たちが原因です。",
+    "translation": "Uesugi-kun.\nWe're the reason Miku had to do that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "う……。\nそうだな。\n三玖、気を遣わせてすまなかった。",
+    "translation": "Ooof...\nYou're right.\nMiku, sorry for acting like that."
+  },
+  {
+    "character": "五月",
+    "japanese": "ごめんなさい。",
+    "translation": "I'm sorry."
+  },
+  {
+    "character": "三玖",
+    "japanese": "もういいよ。\n驚かせたのは本当だから。",
+    "translation": "That's enough.\nBecause it's true that I surprised you."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それに、これで帰り道は３人一緒でしょ？",
+    "translation": "Besides, the three of us can go back together, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お見事だ。\nまったく気配を感じなかったぜ。",
+    "translation": "That's amazing.\nI didn't sense your presence at all."
+  },
+  {
+    "character": "三玖",
+    "japanese": "知りがたきこと陰の如く、だよ。",
+    "translation": "It's about becoming the darkness to conceal oneself."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、あそこまで気づかれないなんて\nちょっと思ってなかった。",
+    "translation": "But I didn't know that you would fail to notice me\nto such a degree."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すまなかった、余計な気を遣わせちまって。\nリーダーを買って出た人間の態度じゃなかったよな。",
+    "translation": "I'm sorry, I made things awkward for you.\nIt wasn't becoming behavior for someone\nwho volunteered as leader."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君のせいだけではありませんよ。\n私も同罪です。",
+    "translation": "It's not just Uesugi-kun's fault.\nI am guilty of the same thing."
+  },
+  {
+    "character": "五月",
+    "japanese": "三玖、ごめんなさい。\n今は全員が協力しなければならないのに。",
+    "translation": "Miku, I'm sorry.\nEven at a time like this,\nwhen we should all be cooperating."
+  },
+  {
+    "character": "三玖",
+    "japanese": "もういいよ。\n私も２人のこと驚かせちゃったし。\nだから、ここからは力を合わせて行こう。",
+    "translation": "It's fine.\nI surprised the two of you, as well.\nSo, let's combine our strength, and head back safely."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、もちろんです。",
+    "translation": "Yes, of course."
+  },
+  {
+    "character": "らいは",
+    "japanese": "あっ、おかえりなさい！\nお兄ちゃんたち早かったね！",
+    "translation": "Ah, welcome back!\nBig bro, you guys were fast!"
+  },
+  {
+    "character": "一花",
+    "japanese": "五月ちゃん、大丈夫だった？",
+    "translation": "Itsuki-chan, did you do ok?"
+  },
+  {
+    "character": "五月",
+    "japanese": "はい。\n私１人ではありませんでしたので。",
+    "translation": "Yes.\nI wasn't alone, so I was ok."
+  },
+  {
+    "character": "五月",
+    "japanese": "一花にも心配かけてしまいましたね。\nすみませんでした。",
+    "translation": "I made you worry too, Ichika.\nPlease excuse my behavior."
+  },
+  {
+    "character": "一花",
+    "japanese": "ふ～ん。\nうんうん、もう気にしなくていいよ。\nで、フータロー君と何があったの？",
+    "translation": "Hmm.\nGreat, than there's nothing to worry about it.\nSo, what happened with Futaro-kun?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、あるわけないじゃないですか！\n怒りますよ！？",
+    "translation": "Th-there was NOTHING that happened!\nPlease, don't make me mad!!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そうだね。\n何もなかったよね、フータロー。",
+    "translation": "Yes.\nNothing happened, right, Futaro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういうことにしておいてくれ。",
+    "translation": "We'll just leave it at that."
+  }
+]

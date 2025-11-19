@@ -1,0 +1,637 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "さーて、次の撮影だな。\n準備はいいか？",
+    "translation": "Alright, time for the next photoshoot.\nAre you ready?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、準備完了です！",
+    "translation": "Yes, preparations are complete!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "今度は私たちがカメラマンだね。",
+    "translation": "This time, we'll be the photographers."
+  },
+  {
+    "character": "二乃",
+    "japanese": "で、肝心の一花は？",
+    "translation": "Okay, where's the essential member? Ichika?"
+  },
+  {
+    "character": "五月",
+    "japanese": "シャワーを浴びて準備してくると言っていました。\nそろそろ来るのでは……。",
+    "translation": "She said she was going to take a shower and prepare.\nShe should be coming soon..."
+  },
+  {
+    "character": "一花",
+    "japanese": "お待たせ！\nごめん、ちょっと準備に手間取っちゃって。",
+    "translation": "Thank you for waiting!\nSorry, prep took longer than I thought."
+  },
+  {
+    "character": "五月",
+    "japanese": "あら、着替えてきたんですね。",
+    "translation": "Oh my, you changed, didn't you."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、雰囲気変えてみようかと思って。\nそれで、次はどんな撮影プランなのかな？",
+    "translation": "Yeah, I thought I'd change up the atmosphere.\nSo, what's our next photoshoot plan?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "せっかくだから、別荘ならではの写真を撮るよ。",
+    "translation": "We have this chance,\nso we'll take some photos in the villa."
+  },
+  {
+    "character": "四葉",
+    "japanese": "コンセプトは、別荘で生活している一花です！\nどうです？",
+    "translation": "The concept will be, Ichika's daily life in the villa!\nHow does that sound?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ、いいじゃないか。",
+    "translation": "Wow, sounds pretty good."
+  },
+  {
+    "character": "三玖",
+    "japanese": "一花は基本的に、自由に行動していいから。\n私と四葉でそれを撮っていくね。",
+    "translation": "You can basically do whatever you want, Ichika.\nYotsuba and I will photograph you doing so."
+  },
+  {
+    "character": "一花",
+    "japanese": "オッケー。\nじゃあ、さっそく始めちゃおっか。",
+    "translation": "Okay.\nThen, let's get started, okay?"
+  },
+  {
+    "character": "一花",
+    "japanese": "こうして改めてみると、\nこの別荘って豪華な作りをしてるよね。",
+    "translation": "Looking at again like this,\nthis villa is really a luxurious place."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん！\n綺麗だし、オシャレだし、\n１年に少し使うだけなんてもったいないなぁ。",
+    "translation": "Yeah!\nIt's beautiful, and stylish. It seems like\nsuch a waste you only use it for short time each year."
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは、ここは住むのが目的じゃなくて\n悠々自適な生活をするための場所だからね。",
+    "translation": "Hahaha,\nthat's because this isn't a place to live one's life,\nit's a place to live free from worldly cares."
+  },
+  {
+    "character": "五月",
+    "japanese": "の、はずだったのですが……。",
+    "translation": "Or, well, it should have been..."
+  },
+  {
+    "character": "一花",
+    "japanese": "いや、まさかサバイバル生活をするとは\n思ってもみなかったよねぇ。",
+    "translation": "Yeah, I didn't think that it would be used\nfor a life of survival."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ……。\n電気や水にまで不自由していたらと思うと\nゾッとします。",
+    "translation": "Yeah...\nIt's kind of scary thinking what it would have been like\nif we didn't have electricity or water."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "一花？　どうしたの？",
+    "translation": "Ichika? What's wrong?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ええっと、ね。\nちょっと提案があるんだけど。",
+    "translation": "Umm, well.\nI have a small suggestion."
+  },
+  {
+    "character": "一花",
+    "japanese": "正直、ちょっとコンセプトが大雑把すぎて\n私１人だとやりづらいかなーって。",
+    "translation": "To be honest, the concept is a bit too broad,\nand I was thinking it's a bit hard doing it alone."
+  },
+  {
+    "character": "二乃",
+    "japanese": "確かに。\nただ雑談してるだけになってるものね。",
+    "translation": "For sure.\nYou guys are just chatting."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あうっ！\nごめん一花、どうしたらいいかな？",
+    "translation": "AAWW!\nSorry, Ichika, what should we do?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、だから提案。\nフータロー君も手伝ってくれない？",
+    "translation": "Yes, that's why I suggested it.\nFutaro-kun, would you help?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺が？\nレフ板でも持てばいいのか？",
+    "translation": "Me?\nShould I bring a reflector board?"
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃなくて。\n君と会話しながら撮るのはどうかなって。",
+    "translation": "No.\nI was thinking, what if we had our picture taken\nwhile having a conversation?"
+  },
+  {
+    "character": "一花",
+    "japanese": "君は別荘生活に慣れてないから\n私が教えてあげてる、っていう流れを\n撮影に取り入れるの。",
+    "translation": "You're not used to living in a villa,\nso let's do a shoot\nwhere I'm teaching you what it's like."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君は写らなくてもいいよ。\nあくまで、会話でお手伝いしてくれればいいから。",
+    "translation": "Futaro-kun, you don't have to be in the picture.\nI just want you to help in making the conversation."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、お願いしてもいい？",
+    "translation": "Can we ask you to help, Futaro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかった、やってみる。",
+    "translation": "I got it, I'll give it a shot."
+  },
+  {
+    "character": "一花",
+    "japanese": "ありがと！\nじゃあ改めて、撮影再開だね。",
+    "translation": "Thank you!\nAlright, then let's restart the shoot again."
+  },
+  {
+    "character": "一花",
+    "japanese": "えーっと、それじゃ、話のとっかかりとして。\n君はこの別荘に来たとき、どう思った？",
+    "translation": "Well, let's see, how to start this?\nWhat did you think when you initially came to the villa?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな……。\n贅沢の極みだな、と思った。",
+    "translation": "Let's see...\nI thought it was the ultimate luxury."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "前の、タワーマンションのときも感じてたんだが、\nお前らは住む世界が違うな。",
+    "translation": "I felt that before at your high-rise apartment, too.\nThat, the world you live in is different than mine."
+  },
+  {
+    "character": "一花",
+    "japanese": "別に、そんなことは……。",
+    "translation": "Well, that's not really..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが――",
+    "translation": "However%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺の日常では絶対に味わえない、貴重な経験を\nさせてもらっていることには感謝している。",
+    "translation": "I am grateful for the valuable experiences\nthat I will never have in my daily life."
+  },
+  {
+    "character": "一花",
+    "japanese": "……そっか、だったらよかった。",
+    "translation": "...Is that so. In that case, great."
+  },
+  {
+    "character": "一花",
+    "japanese": "私たち、今、人生で一番\n贅沢な時間を過ごしてるのかもしれないね。",
+    "translation": "We may be having the most luxurious time\nof our lives right now."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いい雰囲気だね。\n上杉さんが会話に加わっただけで、\n一花の表情が柔らかくなってる。",
+    "translation": "What a nice atmosphere.\nJust having Uesugi-san join the conversation\nhas softened Ichika's expression."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……うん。",
+    "translation": "...Yeah."
+  },
+  {
+    "character": "一花",
+    "japanese": "君が別荘を買うんだったら、\nどんなところに気を遣う？",
+    "translation": "If you were to buy a villa,\nwhat parts would you care about?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、俺が別荘？\n想像しがたいが……。",
+    "translation": "I, if I bought a villa?\nI can't really imagine that, but..."
+  },
+  {
+    "character": "一花",
+    "japanese": "ほら、そこは頑張って！",
+    "translation": "Yes, this is where you do your best!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まず、勉強に集中できる防音室だな。\n辞書や参考書がそろっている大きな本棚もほしい。",
+    "translation": "First of all, I'd want a soundproof room\nwhere I can concentrate on my studies, as well as\na large bookshelf with dictionaries and reference books."
+  },
+  {
+    "character": "一花",
+    "japanese": "あははは！\n別荘に来てまで勉強のこと考えてるんだ。",
+    "translation": "Hahahaha!\nYou still think about studying,\neven while coming to a villa."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、こういうところでこそ\n勉強がはかどるってもんだろ。",
+    "translation": "Nah, it's exactly times like that\nwhen studying goes really well!"
+  },
+  {
+    "character": "一花",
+    "japanese": "はいはい。\nじゃあ、次の質問ね――",
+    "translation": "Yeah, yeah.\nRight, next question%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "これじゃ、フー君へのインタビューじゃない？",
+    "translation": "At this rate, isn't it an interview for Fu-kun?"
+  },
+  {
+    "character": "五月",
+    "japanese": "一花が楽しそうですし、それもよいのでは？",
+    "translation": "Ichika looks like she's having fun,\nisn't that a good thing?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "２人で新居を決めに来てるみたいだねー。",
+    "translation": "It looks like the two of you are here\nto decide on a new house."
+  },
+  {
+    "character": "一花",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、何をいいだすんだ、らいは！\nって、どさくさに紛れて俺を撮るな三玖！",
+    "translation": "Wh-what are you saying, Raiha!\nAnd, don't take my picture amongst the hubbub!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ごめん、つい。",
+    "translation": "Sorry. Just happened."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いいですよー！\n２人とも素敵な顔です！",
+    "translation": "That's great!\nYou two have such lovely faces!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すまん……。\n一花の写真なのに俺が変に動揺して\n邪魔してしまったな。",
+    "translation": "I'm sorry...\nI got weirdly upset and caused a scene,\neven though they're pictures of you, Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "いいっていいって。\n無理にお願いしてるのはこっちなんだから。",
+    "translation": "It's fine, it's fine.\nI was the one who pretty much forced you to help."
+  },
+  {
+    "character": "一花",
+    "japanese": "さあ、次の部屋を見に行こっか。",
+    "translation": "Alright, let's go see the next room."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう。",
+    "translation": "S-sure."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "もしかして演技してる？\n一花、本当は……。",
+    "translation": "Are you perhaps, acting?\nIchika, really..."
+  },
+  {
+    "character": "一花",
+    "japanese": "ふう～。\nあっちこっち見て回って、なんだか疲れちゃった。",
+    "translation": "Whew.\nAfter looking around here and there,\nI'm kind of tired."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なら、ちょっと休憩するか？",
+    "translation": "Wanna take a small break, then?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そうだね。\nそれじゃ、失礼しまして。",
+    "translation": "You're right.\nExcuse me, then."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "って、寝るのかよ！",
+    "translation": "What, you're gonna SLEEP?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "だって、ベッドが私を呼んでたから。",
+    "translation": "Well, it's just that my bed's calling to me."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うんうん、実に一花らしい写真が撮れたよ。",
+    "translation": "Oh yeah,\nI was able to get some very Ichika-esque shots."
+  },
+  {
+    "character": "一花",
+    "japanese": "えー、こんなとこまで撮るの？",
+    "translation": "Huh, you're even gonna take them even now?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんたらしいって意味では、\n今までで一番だと思うけど？",
+    "translation": "I think these are the most Ichika-esque shots of all."
+  },
+  {
+    "character": "一花",
+    "japanese": "あちゃー、反論できないや。",
+    "translation": "Aaagh, I have no response to that."
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ、フータロー君も休憩したら？\nこのベッド、ふかふかで気持ちいいよ？",
+    "translation": "Hey, why don't you take a break, Futaro-kun?\nThis bed is so fluffy, it feels wonderful, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……まさかとは思うが、\n一緒に寝ろって言ってるのか？",
+    "translation": "...I don't think you are,\nbut are you asking me to sleep together with you?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "！？",
+    "translation": "?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっ！？",
+    "translation": "WHAT?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "だって、ベッドの寝心地も\n別荘の価値を左右する重要なものでしょ？",
+    "translation": "Well, the comfort of the beds\nis also an important factor\nin determining the value of the villa, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……一花を見てるだけで\n寝心地いいってわかったから、それで充分だ。",
+    "translation": "...Just by looking at you, Ichika,\nI could tell the beds are comfortable.\nThat's sufficient."
+  },
+  {
+    "character": "一花",
+    "japanese": "ホントに？\n寝てみなくてわかるものかなぁ？",
+    "translation": "Really, now?\nCan you really understand without lying down?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかるって。\nお前はちょっと人をからかいすぎじゃないか？",
+    "translation": "I can.\nAren't you making fun of people a little too much?"
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "からかいがいがあるんだもん。",
+    "translation": "It's worth it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？　よく聞こえないぞ？",
+    "translation": "What did you say? I couldn't hear you."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君のバーカ。",
+    "translation": "Futaro-kun, you're such an idiot."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（聞こえん……！）",
+    "translation": "(I can't hear her!)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うわあ……。\n上杉さん、大胆ですね。",
+    "translation": "Uwaah...\nUesugi-san, you're so daring."
+  },
+  {
+    "character": "三玖",
+    "japanese": "か、顔、近づけすぎ……！",
+    "translation": "Y-your faces, they're too close!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君……。",
+    "translation": "Futaro-kun..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（い、一花……？）",
+    "translation": "(I-Ichika?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "起きろ、もう休憩は終わりだ。",
+    "translation": "Get up. Your break is over."
+  },
+  {
+    "character": "一花",
+    "japanese": "もうちょっとだけいいじゃない？\nねっ？",
+    "translation": "Can't I stay here a little longer?\nJust a little longer?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "甘えてもダメだ。\n撮影を続けるぞ、早くしないと日が暮れちまう。",
+    "translation": "It's no use trying to butter me up.\nWe're gonna continue the shoot.\nIf we don't hurry, the sun will set."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、こうして目を閉じると……\nなんだかリラックスしてきて……。",
+    "translation": "But, closing my eyes like this...\nI kinda feel relaxed..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ俺はこれで……。",
+    "translation": "Right, I'm gonna head out..."
+  },
+  {
+    "character": "一花",
+    "japanese": "どこに行くのかなー？",
+    "translation": "Where are you going?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ど、どこでもいいだろ？\nというか、人が見てる前で堂々と寝るなよ。",
+    "translation": "I-it doesn't matter where I'm going.\nAlso, don't sleep so brazenly in front of people."
+  },
+  {
+    "character": "一花",
+    "japanese": "寝てませーん。\nちょっと寝たふりしてみただけ。",
+    "translation": "I wasn't sleeping.\nI was just pretending to sleep a little."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だとしてもだ。\nその、なんだ……ややこしい事態になることだって\nあり得るだろうが。",
+    "translation": "Even so.\nUm, well...the situation could get complicated."
+  },
+  {
+    "character": "一花",
+    "japanese": "優しいけど……意気地なし。\n本当にフータロー君だなぁ。",
+    "translation": "It really is you, Futaro-kun.\nSo nice...but a coward."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ、またブツブツと。\n言いたいことがあるなら言ってくれ。",
+    "translation": "What are you muttering about again?\nIf you have something you wanna say, say it."
+  },
+  {
+    "character": "一花",
+    "japanese": "んー？\nこうして目を閉じると……\nなんだかリラックスしてきて……。",
+    "translation": "Hmmm?\nClosing my eyes like this...\nI kinda feel relaxed..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そのまま寝ていいぞ。\n疲れてるんだろ？",
+    "translation": "Go ahead and sleep like that.\nYou're tired, aren't you?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ということは、一緒に添い寝してくれるんだ？",
+    "translation": "Does that mean you'll sleep next to me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんでそうなる。\n俺は別に、休憩はいらない。",
+    "translation": "Why does that have to be the case?\nI don't really need a break."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いま撮ってるのは、お前のための写真なんだ。\n主役のお前が疲れた顔じゃ、しまらないだろ。",
+    "translation": "The pictures we're taking now are meant to be of you.\nWith the lead's face all tired, we won't finish."
+  },
+  {
+    "character": "一花",
+    "japanese": "……そうだね。\nそんなのプロの女優としてもプライドが許さないよ。",
+    "translation": "...That's right.\nAs a professional actress, my pride won't allow that."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、君の好意に甘えて少し休もっかな。",
+    "translation": "Then, I wonder if I could indulge in your kindness,\nand rest for a little."
+  },
+  {
+    "character": "一花",
+    "japanese": "こうして目を閉じると……\nなんだかリラックスしてきて……。",
+    "translation": "Closing my eyes like this...\nI kinda feel relaxed..."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっと、フー君？\nどうして一花の顔をじーっと見てるのかしら？",
+    "translation": "Hey, Fu-kun?\nWhy are you staring deeply into Ichika's face?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "！？\nいや意味はないというか、つい、その。",
+    "translation": "?!\nNah, it's not like there was any meaning or anything,\nuh, it just happened."
+  },
+  {
+    "character": "三玖",
+    "japanese": "つい見ちゃうものなんだ。",
+    "translation": "So you just happened to gaze into her face."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おい、一花？\nふざけるのはこのくらいにして、次に行こうぜ？",
+    "translation": "H-hey, Ichika?\nStop fooling around, would you?\nLet's go to the next shoot."
+  },
+  {
+    "character": "一花",
+    "japanese": "くー……すー……。",
+    "translation": "Zzz...zzz..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……は？",
+    "translation": "...HUH?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あのー、これは本当に寝ちゃってません？",
+    "translation": "Umm, I think she really might be asleep."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "の、ようだな。",
+    "translation": "Seems that way, huh."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ええー……。\nこの状況で本気で寝るとか、どういうことよ。",
+    "translation": "Huuuh...\nWhat's that all about, her actually sleeping\nin a situation like this?"
+  },
+  {
+    "character": "五月",
+    "japanese": "一花らしい、のでしょうか？",
+    "translation": "It's pretty Ichika-esque, isn't it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（まあ、気が緩んだのかもしれないな。\n　今までの反動が一気に出てきたのかも）",
+    "translation": "(Well, maybe she relaxed a little.\n Maybe all the reactions\n she's had so far came out all at once.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（だとしたら……こいつらの想いが間違いなく\n　一花に届いてるってことか）",
+    "translation": "(In that case...the feelings of these guys\n are definitely reaching Ichika.)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、少し休ませてあげよう。",
+    "translation": "Big bro, let's let her rest for a while."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、主役がこれじゃそうするしかないな。",
+    "translation": "Yeah, that's the only thing to do\nwhen the main character's like this."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、下に行って起きるのを待ってよう。",
+    "translation": "Yes. Let's head downstairs and wait for her to wake up."
+  }
+]

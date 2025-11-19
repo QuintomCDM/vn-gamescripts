@@ -1,0 +1,252 @@
+[
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、こっちだよ～！",
+    "translation": "Big bro, over heeree!"
+  },
+  {
+    "character": "五月",
+    "japanese": "遅いですよ、上杉君。",
+    "translation": "You're so slow, Uesugi-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "遅いって言うけどな……\nこのテント、意外と重いんだぞ？",
+    "translation": "You say I'm slow...\nbut this tent is really heavy, ya know?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……貸してください。\n私が持ちます。",
+    "translation": "...Please, give it to me.\nI'll carry it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "無理するなよ？",
+    "translation": "Don't overdo it, alright?"
+  },
+  {
+    "character": "五月",
+    "japanese": "よいしょ……。",
+    "translation": "There we go..."
+  },
+  {
+    "character": "五月",
+    "japanese": "確かに重量はありますが、\nそこまで言うほどではありませんね。",
+    "translation": "It is quite heavy,\nbut it's not as bad as you said."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "え、マジか……。",
+    "translation": "Huh, really...?"
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君が非力なだけでは？",
+    "translation": "Is it just that you're weak, Uesugi-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ぐっ……こいつ……！\n　だが四葉も軽々持ってたし\n　本当に俺が非力なのか？）",
+    "translation": "(Grr... Itsuki...!\n But Yotsuba was also able to carry it easily,\n so am I really that weak?)"
+  },
+  {
+    "character": "五月",
+    "japanese": "それより、明るいうちに\nテントを張ってしまいましょう。\n私も手伝いますから。",
+    "translation": "Anyway,\nlet's set up the tent while it's still bright out.\nI'll help too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……そうだな。",
+    "translation": "...Yeah, alright."
+  },
+  {
+    "character": "らいは",
+    "japanese": "私も手伝う！",
+    "translation": "I'll help out too!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいははダメだ。\n危ないから離れて見ててくれ。",
+    "translation": "Raiha, don't.\nIt's dangerous, so watch from over there."
+  },
+  {
+    "character": "らいは",
+    "japanese": "はーい……。",
+    "translation": "Okaaay..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（まずは袋から出して……）",
+    "translation": "(First, take it out of the bag...)"
+  },
+  {
+    "character": "五月",
+    "japanese": "ああっ！　大変です、上杉君！",
+    "translation": "Aaah! This is bad, Uesugi-kun!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうした？",
+    "translation": "What's wrong?"
+  },
+  {
+    "character": "五月",
+    "japanese": "組み立て方の説明書が……どこにもありません！",
+    "translation": "There's no assembly instructions...ANYWHERE!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ、そんなことか。",
+    "translation": "What, is that all?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そんなことか、ではないですよ！\nこのままではテントが張れません。",
+    "translation": "Not, 'is that all'!\nWe can't set up the tent like this."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "落ち着け。\nこういうやつは大概……。",
+    "translation": "Calm down.\nThese types of things are generally..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "……大概、なんなのですか？",
+    "translation": "...Generally, what?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、やっぱりそうだ。\nこのテント、簡単に組み立てられるタイプだな。",
+    "translation": "Oh, as I thought.\nThis tent is an easy-to-assemble type."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうなのですか？",
+    "translation": "Is that so?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、見てろって。\nこうしてテントを地面に広げて……。",
+    "translation": "Yeah, watch and learn.\nWe just spread the tent on the ground like this..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "――あとはこのロープを引っ張れば、ほら、完成だ。",
+    "translation": "%p-2;――%p; Then, pull this rope and voila,\nit's done in no time."
+  },
+  {
+    "character": "五月",
+    "japanese": "あっという間に張れましたね……。",
+    "translation": "You set it up in no time flat..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、すごーい！",
+    "translation": "Big bro, AMAZING!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、このタイプのテントじゃなかったら、\nさすがにお手上げだったと思う。",
+    "translation": "Nah, I would have had to give up\nif it wasn't this type of tent."
+  },
+  {
+    "character": "五月",
+    "japanese": "だとしても、パッと見ただけで\n組み立てられるのはすごいですよ。",
+    "translation": "Even so, it's impressive how you could figure \nout the assembly just by looking at the parts."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すごいのは俺じゃなくて、このテントの仕組みだ。\n最近のものはここまで簡単なんだな。",
+    "translation": "It's nothing special.\nThat's how the mechanism of this tent works.\nRecent ones are so easy to set up."
+  },
+  {
+    "character": "五月",
+    "japanese": "とりあえず、これで寝るための準備は整いましたね。",
+    "translation": "Well, with this, we're ready to prepare for bed."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……なあ、キャンプってのは\nこのあとどうするんだ？",
+    "translation": "...Well, what do we do next in order\nto have an amazing camping experience?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……何をするのでしょう？\n焚き火……でしょうか？",
+    "translation": "...What do you think?\nBuild a...campfire, right?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、焚き火をおこしてご飯作りじゃない？\n夕ご飯を作らないと。",
+    "translation": "Yeah, don't we need a campfire to cook food over?\nWe need to make dinner after all."
+  },
+  {
+    "character": "五月",
+    "japanese": "はっ！　それは大切です！",
+    "translation": "Ah! That's very important!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "あとはー、花火とか？",
+    "translation": "After that, fireworks, maybe?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが、もう花火はないだろ？\n前に全部使っちまったし。",
+    "translation": "We don't have any more fireworks, do we?\nWe used them all up last time."
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、実は、まだ倉庫に残っていたと\n四葉が渡してくれたんです。\nそれほど多くはありませんが。",
+    "translation": "Well, actually, Yotsuba gave us some\nthat were still in storage.\nThere aren't many, though."
+  },
+  {
+    "character": "らいは",
+    "japanese": "やった！\nじゃあ、夜は３人で花火だね。",
+    "translation": "Yay!\nAlright, let's light off some fireworks tonight,\njust the three of us."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう、そうするか。",
+    "translation": "Okay, let's do it, yeah?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ねえ、とりあえず中に入ってみていい？\nテントなんて初めてだし！",
+    "translation": "Hey, can we try going inside the tent for now?\nIt's my first time in one!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな、寝心地を確かめておくか。",
+    "translation": "That's right, let's see how comfortable it is."
+  },
+  {
+    "character": "らいは",
+    "japanese": "よーし、一番のりー！",
+    "translation": "Oh yeeaah, me fiiirst!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ふふっ、無邪気で可愛いですね。",
+    "translation": "Heehee, it's so cute how innocent she is."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こういう遊びなんて、したことないからな。\nはしゃいじまってるんだろう。",
+    "translation": "She's never done this kind of thing before.\nShe must be getting excited."
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、五月さーん！\n２人も早く入りなよー！",
+    "translation": "Big bro, Itsuki-saaan!\nYou two, hurry up and come in too!"
+  },
+  {
+    "character": "五月",
+    "japanese": "らいはちゃんが呼んでますよ。\n私たちも中に入りましょう。",
+    "translation": "Raiha-chan is calling us.\nLet's go inside too."
+  }
+]

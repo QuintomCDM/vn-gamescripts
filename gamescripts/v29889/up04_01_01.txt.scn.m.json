@@ -1,0 +1,97 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "よし、いいぞ、正解だ。\n時間はかかったが、よくできたな。",
+    "translation": "Okay, well done. That's correct.\nIt took some time, but you did really good."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はぁぁ……。\nちゃんと解けてよかったです。",
+    "translation": "*sigh*\nI'm glad I could get it right."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "国語は得意なのに、今日は珍しく苦戦してたな。\nそんなに難しかったか？",
+    "translation": "Even though you're good at Japanese,\nyou were struggling today, which is unusual.\nWas it that difficult?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえ、その……途中でふと\n思いついたことがあったんです。",
+    "translation": "Um, well...something suddenly occured to me along the way."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうしたら、だんだん\nそっちのことが気になりだしちゃって。",
+    "translation": "And then, I just started thinking about that\nmore and more."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それで集中できてなかったのか。\n一体何を考えてたんだ？",
+    "translation": "So, you lost your concentration from that.\nExactly what did you think about?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "この問題の例文は、\n１００年くらい前のものですよね？",
+    "translation": "The example sentences from these problems\nare from about 100 years ago, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、そうだな。",
+    "translation": "Yeah, that's about right."
+  },
+  {
+    "character": "四葉",
+    "japanese": "作者さんも亡くなっていますよね？\nとなると――",
+    "translation": "And the author's gotta be long dead, right?\nIn that case%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "登場人物が何を考えているのか、とか\n答えを聞こうにも聞けないから、\n本当に正解なのかなって思ったんです。",
+    "translation": "We can't exactly ask what the characters\nwere thinking or what their answers might be,\nso I wondered if these were really the correct answers."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、この問題は別に、作者自身が自分の作品を\n問題として出してるわけじゃないぞ。",
+    "translation": "No, it's not like the creator of this work\nmade questions to be answered about it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "問題の制作者が、作中の登場人物の\n心情や行動理由は何か、ということを\n聞いてるんだ。",
+    "translation": "The creator of the questions is asking\nwhat the characters in the story are feeling \nand the reasons behind their actions."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、この問題を作った人は、\n１００％作者さんの気持ちを理解してるんですか？",
+    "translation": "So, does the person who created these problems\nunderstand the author's feelings 100\\%?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "え……。\nそうだな、制作者が完全に理解しているとは\n限らないな……。",
+    "translation": "Eh...\nLet's see, that doesn't necessarily mean\nthat the creator totally understands everything per se..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ですよね。\nじゃあ、答えが本当に正しいかどうか\n怪しくないですか？",
+    "translation": "Makes sense.\nSo, isn't it suspicious that there's a right or wrong answer then?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうかもしれないが！\n問題の制作者からのクイズみたいなもんだから、\n答えは自ずと、作った人が考えたものなんだよ。",
+    "translation": "Th-that might be so!\nIt's like a quiz from the person who made the questions,\nso the answer is naturally from that same person as well."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うーん、じゃあ、\nなんで問題を作ろうとしたんでしょうね。",
+    "translation": "Hmm, okay,\nI wonder why they made the questions then."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それは国語の読解力の勉強のためだが？",
+    "translation": "Perhaps, to help people's reading comprehension\nof the Japanese language?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（はあ……\n　まったく、変な方向に考えが飛んでいくのは\n　四葉らしいな）",
+    "translation": "(*sigh*\n Good grief, of course Yotsuba would get me\n to fly off course.)"
+  }
+]

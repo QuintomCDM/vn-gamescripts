@@ -1,0 +1,47 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "この匂い……\nもしや今日のメニューは――",
+    "translation": "This smell...\nAre we perhaps having%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、豚汁です！",
+    "translation": "Yes, pork miso soup!"
+  },
+  {
+    "character": "五月",
+    "japanese": "あああああっ！？",
+    "translation": "AAAAAAAGH?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ど、どうした五月！？",
+    "translation": "Wh-what's wrong, Itsuki?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ごっ……ご、ご、ご……。",
+    "translation": "The r-r-r-r%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ご？",
+    "translation": "R%p-2;――%p;?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ご飯が炊けていません！",
+    "translation": "The rice isn't done!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー……やっちまったな……。",
+    "translation": "Ah...oh no..."
+  },
+  {
+    "character": "五月",
+    "japanese": "この、豚汁の美味しそうな匂いの中で\nご飯が炊けるまで待つなんて……ひどい話です……。",
+    "translation": "To must wait until the rice is cooked\nwith the delicious smell of pork soup...\nIt is, a tragedy..."
+  }
+]

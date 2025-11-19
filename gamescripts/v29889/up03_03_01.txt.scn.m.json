@@ -1,0 +1,122 @@
+[
+  {
+    "character": "三玖",
+    "japanese": "重い物と軽い物が\n本当は同じ速さで落ちるなんて、納得できない。",
+    "translation": "I'm not convinced that heavy and light objects\nreally fall at the same speed."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "教科書に書いてあることに対して\n文句を言われてもな……。",
+    "translation": "Well, it's written in the textbook..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "だって、羽根と鉄球なら\n鉄球のほうが速く落ちるに決まってるよ。",
+    "translation": "Like, if it's a feather and an iron ball,\nthe iron ball is bound to fall faster."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、最初はそう思うのも仕方ない。\nだが事実なんだ。",
+    "translation": "Well, I guess it can't be helped\nto think like that at first.\nBut it's the truth."
+  },
+  {
+    "character": "三玖",
+    "japanese": "机から消しゴムとペンケースを落としても\nペンケースのほうが速く落ちるよ？",
+    "translation": "If you drop an eraser and a pencil case from your desk,\nthe pencil case will fall faster, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そりゃそうだろ。",
+    "translation": "Yeah, obviously."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……どういうこと？",
+    "translation": "...Why exactly is that?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "物が落ちる速度に違いが生まれるのは、\n『空気抵抗』というものが存在するからだ。",
+    "translation": "The reason why there is a difference\nin the speed at which things fall\nis because there is something called 'air resistance.'"
+  },
+  {
+    "character": "三玖",
+    "japanese": "空気抵抗？",
+    "translation": "Air resistance?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "物体が空気中を――",
+    "translation": "When objects move through the air%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "って、そのままの説明でピンとこないから\n困ってるんだったな。",
+    "translation": "Wait, sorry, I'll use metaphors to make it easier for you to understand."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな……。\nパラシュートを思い浮かべると\nイメージしやすいかもな。",
+    "translation": "Let's see...\nImagine, if we use parachute as an example."
+  },
+  {
+    "character": "三玖",
+    "japanese": "パラシュート……。",
+    "translation": "A parachute..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "パラシュートを開いた状態で\n空から落ちると、ふわふわするだろ？",
+    "translation": "If you fall from the sky with your parachute open,\nyou'll fall slowly, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、ふわふわ落ちる。",
+    "translation": "Yeah, you would float down very slowly."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そのふわふわと落ちる感じが\n空気抵抗だと思ってくれればいい。",
+    "translation": "Now, that slow falling effect is air resistance."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どんな物も、落ちるときに\nパラシュートを開いている状態なんだ。\nだが、もしそれがなくなれば……。",
+    "translation": "Everything has a parachute open when it falls.\nHowever, if it were to be removed..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "地面に真っ逆さま……。\nそっか、そういうことなんだね。",
+    "translation": "It would fall straight to the ground...\nI see, that's how it works."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（まあ、空気抵抗がなかったら\n　パラシュートを開いていようが\n　地面に真っ逆さまなんだがな）",
+    "translation": "(Well, if there was no air resistance, \n even if the parachute was open, \n you'd still head straight into the ground.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ネットが使えれば実験動画を見せられるんだが……\nない物ねだりをしても仕方ないな。",
+    "translation": "If I could use the Internet,\nI could show you videos of experiments, but...there's no point\nin worrying about something we don't have."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それは、島から帰ったらだね。",
+    "translation": "We'll do that after we go back home."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああいう実験はかなり面白いから\n楽しみにしていてくれ。",
+    "translation": "Such experiments are actually quite interesting,\nso please look forward to them. "
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、楽しみにしておく。",
+    "translation": "Yeah, I'm excited for it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（これで、物理にもっと\n　興味を持ってくれたら嬉しいんだがなぁ）",
+    "translation": "(I hope this will make her more interested in physics.)"
+  }
+]

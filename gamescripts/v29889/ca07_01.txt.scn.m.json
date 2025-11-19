@@ -1,0 +1,407 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（よしっ！　ここの問題は完成だ。\n　くくく、あいつらはこの引っかけに\n　果たして気づけるかな？）",
+    "translation": "(Alright! This problem is finished.\n Heheh, I wonder if they'll notice this trap?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（次は……ボーナス問題も入れておいてやるか！）",
+    "translation": "(Next... I guess I'll include a bonus question too!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（自分たちの努力の成果を感じさせるのも、\n　家庭教師としての義務だしな）",
+    "translation": "(Feeling the results of one's efforts\n is also the duty of a tutor, after all.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "フッ、あいつらの喜ぶ顔が目に浮かぶようだ。\n待ってろよ、明日までに夏の突発問題集を\n完成させてやるからな！",
+    "translation": "Heh, I can almost see their happy faces.\nJust wait, I'll finish these sneaky summer\nself-made pop quizzes by tomorrow!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "なつの……とっぱつ……もんだいしゅう？",
+    "translation": "Sneaky...summer...self-made pop quizes?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うおっ！？\nらいは、いつの間に！",
+    "translation": "WOAH?!\nRaiha, when did you get here?!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ねえ、お兄ちゃん。\nまさかとは思うけど、明日からも\nみんなに勉強させるつもり？",
+    "translation": "Hey, big bro.\nI hope you're not planning to make everyone\nstudy again starting tomorrow, right?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "テストが終わったら、\nみんなと遊ぶって約束だったよね。",
+    "translation": "You promised to enjoy yourself with everyone\nonce the tests were over."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "誰も明日からやるなんて言ってないだろ。\nどうしてそう疑うんだ。",
+    "translation": "No one said anything about doing that\nfrom tomorrow.\nWhy do you doubt me like that?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "だって、お兄ちゃんだし。",
+    "translation": "You ARE my big bro, ya know."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（そうですか……）",
+    "translation": "(Is that so...)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "その問題集作りって、\n家に帰ってからじゃダメなのかな？",
+    "translation": "Do you need to make your quizzes right now?\nCan't you do it after we get home?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうすると問題集を始めるまで時間が空くだろ。\nそれこそ時間の浪費だ。",
+    "translation": "If I did that, too much time would pass\nbefore they started the problems.\nThat would be a waste of time."
+  },
+  {
+    "character": "らいは",
+    "japanese": "でも、今そういうことをするのはどうかと思うよ。",
+    "translation": "But I don't think it's a good idea to do that right now."
+  },
+  {
+    "character": "らいは",
+    "japanese": "みんなが見たら、\nまたこれから勉強させられるのかーって\nどんよりしちゃうもん。",
+    "translation": "If everyone sees the quizzes,\nthey'll feel like\nthey're going to be forced to study again."
+  },
+  {
+    "character": "らいは",
+    "japanese": "この島で過ごす残りの日くらいは\n勉強を忘れさせてあげないと。",
+    "translation": "We should let them forget about studying\nfor the rest of the days we spend on this island."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいはの言いたいことはわかる。\nしかしだ、夏を制する者が受験を制するという\n言葉があるように――",
+    "translation": "I understand what you're saying, Raiha.\nHowever, as they say, those who don't take\nadvantage of summer, fail the entrance exams%p-2;――"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、ちょっとそこに座りなさい。",
+    "translation": "Big bro, please sit over there for a moment."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "え？　なんで？",
+    "translation": "Yeah? Why?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "いいから座りなさい。",
+    "translation": "It's fine, sit down."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……はい。",
+    "translation": "...Okay."
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃんは、ちょっと周りが見えてなさすぎ。",
+    "translation": "Big bro,\nyou're not paying enough attention to your surroundings."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そんなことはないだろ。",
+    "translation": "Th-that's not true."
+  },
+  {
+    "character": "らいは",
+    "japanese": "そんなことある！",
+    "translation": "Yes, it is!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "だって、少しでも気が回るなら、\nみんなが勉強を思い出すようなこと\n絶対にしたりしないもん。",
+    "translation": "Because if you were even a little aware,\nyou wouldn't do something that would make everyone\nremember studying again."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（そ、そうなのか？）",
+    "translation": "(I-is that so?)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "今はまだいいけど、\nそんなことばっかり続けてたら……。",
+    "translation": "Right now, it's okay,\nbut if you keep doing that kind of thing..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "これまで積み重ねてきた信頼が\n崩れちゃうかもしれないんだよ？",
+    "translation": "The trust you've built up so far\nmight crumble, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（信頼関係が崩れる……）",
+    "translation": "(The trust might crumble...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確かにそれは困るな。\n信頼関係がなくなったら、\nこれからの受験勉強に支障をきたしそうだ。",
+    "translation": "Indeed, that would be a problem.\nIf I lost their trust,\nit could affect our future entrance exam studies."
+  },
+  {
+    "character": "らいは",
+    "japanese": "はぁぁぁぁぁぁぁぁ～～～～～～～……。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なんだそのため息は……。",
+    "translation": "Wh-what's with that sigh..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "ねえ、お兄ちゃんって、\nみんなに勉強をさせるためだけに\n信頼関係を作ってるの？",
+    "translation": "Look, big bro.\nAre you building trust with everyone\njust to make them study?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（勉強をさせるためだけに……か。\n　昔ならいざ知らず、今は……）",
+    "translation": "(Just to make them study...huh?\n Back then, maybe, but now...)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "違うでしょ？　違うよね？",
+    "translation": "That's not it, right? It's not, is it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな、違うな。",
+    "translation": "Yeah, you're right, it's not."
+  },
+  {
+    "character": "らいは",
+    "japanese": "みんなもね、同じだと思うんだよ。",
+    "translation": "I think everyone feels the same way too."
+  },
+  {
+    "character": "らいは",
+    "japanese": "損とか得とかそういうのはなしで、\nお兄ちゃんを信頼してると思うんだ。",
+    "translation": "Forgetting about gain or loss or anything like that,\nI think they trust you, big bro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうか？",
+    "translation": "R-really?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "でもお兄ちゃんは、\nそんなみんなの信頼の上であぐらを掻いています！",
+    "translation": "But,\nyou're just resting on your laurels.\nYou're leaning too much on everyone's trust!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだって！？",
+    "translation": "What?!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "だってそうでしょ。\nみんなの想い、この島の生活の中で\nお兄ちゃんに届いてるはずだよね。",
+    "translation": "But that's how it is, right?\nEveryone's feelings should have reached you\nin the midst of life on this island, big bro."
+  },
+  {
+    "character": "らいは",
+    "japanese": "それなのに、気づかないふりをしてるよね？",
+    "translation": "And yet, you're pretending not to notice, aren't you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（別に気づかないふりをしてるわけじゃない。\n　だだ俺自身……自分の気持ちがわからない……）",
+    "translation": "(It's not like I'm pretending not to notice anything.\n I just...don't understand my own feelings...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（とか言ったら、またらいはにどやされそうだ）",
+    "translation": "(If I say that, Raiha will probably tease me again.)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん。\n五月さんたちはとっても素敵な女の子なんだよ？",
+    "translation": "Big bro.\nItsuki-san and the others\nare really wonderful girls, you know?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ちゃんとしないと、あっという間に\n誰かに取られちゃうんだから！",
+    "translation": "You have to act fast,\nor else someone else might snatch them up in no time!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "想いは個人の自由だ。",
+    "translation": "Feelings are a personal freedom."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "誰が誰を好きになろうと、\n俺には……か、関係ないだろ。",
+    "translation": "Whoever likes whoever,\nit's...n-none of my business."
+  },
+  {
+    "character": "らいは",
+    "japanese": "言ってることと顔が全然合ってないよ、お兄ちゃん。",
+    "translation": "What you're saying and how you look\ndon't match at all, big bro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺は、あいつらの優しさに甘えていたんだろうか。",
+    "translation": "Was I taking advantage of their kindness?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん？",
+    "translation": "Big bro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "何度もぶつかってケンカをすることが多かったのに、\nあいつらは、俺を見捨てずにつきあってくれたんだ。",
+    "translation": "Even though we fought and argued so many times,\nthey never abandoned me, and stayed by my side."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういうことが積み重なるうちに、\n俺の中であいつらの優しさが当たり前のものに\nなってしまったのかもしれない。",
+    "translation": "Over time, their kindness to me\nmay have become something that I took for granted."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（それこそ、らいはの言うとおり、\n　あいつらの信頼の上であぐらを掻いていたのかもな）",
+    "translation": "(Maybe, as Raiha said,\n I was just sitting on my laurels,\n relying on their trust.)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "そこまでわかってるなら、\nやらなきゃいけないこともわかるよね？",
+    "translation": "If you understand that much,\nthen you should also understand\nwhat you need to do, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あいつらは本気だ。",
+    "translation": "They're serious."
+  },
+  {
+    "character": "らいは",
+    "japanese": "えっ……。",
+    "translation": "Huh...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だからこそ……\nお、俺も、真剣にならなければならないと\n思っている。",
+    "translation": "That's why...\nI-I also think I have to get serious."
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん……。",
+    "translation": "Big bro..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "し、しかしだ！　それと勉強とは別問題！\n俺は、あいつらの将来のためにも\n帰ったらすぐにこの問題集に取りかかれるように――",
+    "translation": "H-however! That's a separate issue from studying!\nFor the sake of their future, I need to start working\non these quizzes as soon as I get home%p-2;――"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、相手の気持ちを、考えようね？",
+    "translation": "Big bro,\nlet's consider the feelings of the other party, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はい、そうでした……。",
+    "translation": "Okay, you're right..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "もう、みんなに対しても\n勉強くらい積極的になれればいいのに。",
+    "translation": "Good grief, if only you could be more proactive\nabout the quintuplets than you are at studying."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（そんなこと言われても……）",
+    "translation": "(Even if you say that...)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "とにかく！\nお兄ちゃんは甘えすぎ！\nあぐらを掻きすぎ！",
+    "translation": "Anyway!\nYou're too reliant on others, big bro!\nYou're too complacent!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "みんなに迷惑をかけた分、\nこれからは、お兄ちゃんから積極的にいかないと！",
+    "translation": "You have to be more proactive from now on\nto make up for causing trouble for everyone!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ？　なんだって？",
+    "translation": "Huh? What do you mean?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "というわけで、私が一肌脱いであげる。",
+    "translation": "So, I'll lend you a hand."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ……？\n何をするつもりなんだ？",
+    "translation": "Huh...?\nWhat are you planning to do?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃんには、これから\n恋の特訓につきあってもらいます。",
+    "translation": "Big bro, you're going to accompany me\non love training from now on."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こ、恋のぉ！？",
+    "translation": "L-LOVE TRAINING?!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "問答無用だよ。\nこれは、私からお兄ちゃんへのテストなんだからね！",
+    "translation": "No questions.\nThis is a test from me to you!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なに……テスト……だと。",
+    "translation": "What... A test... You say?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "そう、お兄ちゃんが大好きなテスト。",
+    "translation": "Yes, the tests that you love so much, big bro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こ、これは冗談ではなさそうだ……）",
+    "translation": "(Th-this doesn't seem like a joke...)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "さて、まずは何をしてもらおうかなぁ。",
+    "translation": "Now, what should I have you do first, I wonder."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……正直、不安すぎる。\n　しかし、これはいい機会でもあるんだろうか）",
+    "translation": "(...To be honest, I'm really nervous.\n However, this could serve as a good opportunity.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（らいはの特訓とやらが、自分の気持ちを理解する\n　何かのきっかけになるんだったら\n　正直、助かりはする……）",
+    "translation": "(If Raiha's training can be a catalyst for\n me to understand my feelings,\n it would honestly be helpful...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……わかった。\nらいはの言うとおりにする。",
+    "translation": "...Alright.\nI'll do as you say, Raiha."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、じゃあ一緒に恋の特訓を始めるよ！",
+    "translation": "Okay, then let's start your love training!"
+  }
+]

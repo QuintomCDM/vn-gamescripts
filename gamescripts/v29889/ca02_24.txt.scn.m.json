@@ -1,0 +1,637 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "あー、やっぱり水の近くは涼しい！\n気持ちいいなぁ！",
+    "translation": "Ah, it's just so cool near the water!\nIt feels wonderful!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……空気が重い）",
+    "translation": "(...What a heavy atmosphere.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（い、いや、部屋から\n　出てきてくれただけでも御の字だ。\n　今度は俺の番だぞ！）",
+    "translation": "(N-no, I'm very glad, that she came out of her room.\n It's my turn next!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "二乃。",
+    "translation": "Nino."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なによ？",
+    "translation": "What?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前に、話がある。",
+    "translation": "I need to talk to you."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……水くみはいいの？",
+    "translation": "...We don't need water?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すまん、水くみというのは方便だ。\nお前とこうして、じっくり話したくてな。",
+    "translation": "Sorry.\nI just really wanted to talk to you thoroughly.\nThat's why we came here to draw some water."
+  },
+  {
+    "character": "二乃",
+    "japanese": "だろうと思ったわ。\n……それで？　話って何かしら？",
+    "translation": "I figured as much.\n...And? What do you want to talk about?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その……『妹』についてだ。",
+    "translation": "Well...the 'little sister' thing."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……！",
+    "translation": "...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あれから、俺も考えた。\nあいつらにも意見を聞いてな。",
+    "translation": "I thought about it all day long.\nAnd I asked the others about it, too."
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "結論から言う。\nお前は――妹というものに憧れているんだろ？\nらいはのような存在に。",
+    "translation": "I'll share my thoughts with you.\nYou%p-2;――%p; admire the 'becoming a little sister' thing, right?\nYou kinda wanna become a second Raiha, huh."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……ち、が……。",
+    "translation": "...N-no..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？",
+    "translation": "What?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ううん、なんでもないわ。\nとりあえず、あんたの意見を最後まで聞かせなさい。",
+    "translation": "Mmm. It's nothing.\nFirst, I'll listen to your side of the story."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "――俺の妹になりたいと望むなら\n妹扱いしてやりたい。",
+    "translation": "%p-2;――%p; If you'd like to become my little sister,\nI'd like to treat you as one."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが俺の妹はらいはだけだ。\nそれは絶対だ。",
+    "translation": "However, Raiha is my only little sister.\nAnd that's the truth."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前にしてやれるとしたら、\n妹のような扱い、それでギリギリだ。",
+    "translation": "I can try and start treating you as a little sister, but it is\nstill kinda off you know."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しかし……お前も知っているとおり、\nらいははよくできた妹だ。",
+    "translation": "However...as you know,\nRaiha is a PERFECT little sister."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺が覚えている限り、わがままを言ったことはない。\nいつも真面目に家事をこなし、笑顔を絶やさず、\n時には、お茶目な態度で俺を励ましてくれる。",
+    "translation": "As far as I can remember, she has never been selfish.\nShe always takes her chores seriously, keeps smiling,\nand sometimes cheers me on with a mischievous attitude."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "最近、少しませたことを言うようになったが、\nそれもまた愛嬌だ。",
+    "translation": "Recently,\nshe's been saying things that are a little more mature,\nbut that's one of her charms."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……そ、そう。",
+    "translation": "...I-is that so."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "逆を言えば、らいはが出来すぎているからゆえに、\n俺は世間一般の『妹』というものを\n理解できていない可能性が高い。",
+    "translation": "In other words, I don't know what a 'little sister' is like,\nbut that's because Raiha is just too perfect."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "つまりだ。\nお前が望む『妹扱い』をしてやれるかどうか\n自信がない。",
+    "translation": "To sum up.\nI don't have the confidence that I am able to treat you\nas a 'little sister,' in a way you want me to treat you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しかし、それでもいいと言うのなら、\nお前のことを妹のような存在として\n受け入れることも可能だ。",
+    "translation": "Yet, if you're okay with that,\nIt's possible for me to accept you\nas a little sister."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……どうだろうか？\nお前をらいはとしては見られない俺の、\n精一杯の妥協だ。",
+    "translation": "...What do you think?\nIt's the best plan I could come up with."
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "二乃？",
+    "translation": "Nino?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はああああああ……。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえ、フー君って頭いいのにバカなの？",
+    "translation": "How is it possible that you're so smart, but at the same\ntime such a DORK Fu-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なあっ！？\n俺は俺なりに必死に考えたんだぞ！\nそれをお前、バカの一言であっさり切り捨てるな！",
+    "translation": "WHAAA?!\nI'm thinking about how to solve this as hard as I can!\nDon't just shrug that off by calling me a DORK!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうね、言いすぎだったかしら。\nでもバカだと思うんだから仕方ないじゃない。",
+    "translation": "You're right, I might've been to harsh.\nBut, I DO think you're a DORK."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんでだ！！",
+    "translation": "Why don't you tell me what you really want then?!!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……なんて言えばいいのかしら。",
+    "translation": "...I wonder what I should say."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君が、私のことを真面目に\n考えてくれたことは、とても嬉しい。",
+    "translation": "I am so happy that you thought about me, Fu-kun."
+  },
+  {
+    "character": "二乃",
+    "japanese": "嬉しいんだけど、前提が間違ってるのよ。\n私は……フー君に妹扱いしてほしいわけじゃ\nないんだもの。",
+    "translation": "I'm glad, but you're mistaken.\nI...don't want to be treated\nlike your little sister, Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は！？　違うのか！？",
+    "translation": "HUH?! You don't?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "違うに決まってるでしょ！\nむしろ、どうしてそういう結論になったのかが\n不思議よ！",
+    "translation": "Of course I don't!\nYour conclusion is completely stupid!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあ……。\nもう、どうしてこうなるのかしら。",
+    "translation": "*sigh*\nI really wonder why it went south."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なら、何が望みなんだ？\nどうしてらいはの真似なんてしてたんだ。",
+    "translation": "What do you want?\nWhy were you acting like Raiha?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……フー君のせい！\nフー君が！　全部！　悪いの！",
+    "translation": "...It's YOUR fault, Fu-kun!\nIt's ALL! YOUR! FAULT!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺の何が悪いんだ！",
+    "translation": "What did I do wrong?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "それくらい自分で考えなさいよ！",
+    "translation": "YOU'RE the one who should think about that!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "考えた結論がさっきの話だぞ？\n間違ってるってのなら正解を示せ！",
+    "translation": "The previous conversation started like that, you know?\nIf I'm mistaken, then tell me the correct answer!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "い・や・よ。\n絶対に言わない。",
+    "translation": "NO.\nI won't tell you anything."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……俺にこの問題は難しすぎるんだよ。",
+    "translation": "...This seems to be a problem I can not solve."
+  },
+  {
+    "character": "二乃",
+    "japanese": "たまには、解けない問題に\n頭を悩ませてみればいいんだわ。\n嫌なら逃げ出せばいいじゃない。",
+    "translation": "I think it'll be good for you to think about a problem \nyou're unable to solve immediately.\nIf you don't like it, you can just run away."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "気持ちはわかる。\nだからそう、自棄になるな。",
+    "translation": "I understand how you feel.\nI get how you could sink into despair."
+  },
+  {
+    "character": "二乃",
+    "japanese": "えっ……。",
+    "translation": "Wha..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "もしかして……私がらいはちゃんの\n真似をしていた理由、わかったの？",
+    "translation": "Did you perhaps...\nunderstand the reason why I was imitating Raiha-chan?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいはは可愛い上にいい子だ。\nだから、らいはになりたいと思う気持ちはわかる。",
+    "translation": "Raiha is a cute, and above all a very good girl.\nThus I get it why you want to be like her."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だがな、それで俺に妹扱いされたとしても\n目標に近づくことはできないんじゃないか？",
+    "translation": "However, even if I treat you as my little sister,\nyou won't be able to get closer to your goal, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……違うって言ったでしょ。\n確かにらいはちゃんはいい子だけど……。",
+    "translation": "...I told you that I don't want to become your little sister.\nI know of course that Raiha-chan is a wonderful girl..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……俺にこの問題は難しすぎるんだよ。",
+    "translation": "...This seems to be a problem I can not solve."
+  },
+  {
+    "character": "二乃",
+    "japanese": "たまには、解けない問題に\n頭を悩ませてみればいいんだわ。\n嫌なら逃げ出せばいいじゃない。",
+    "translation": "I think it'll be good for you to think about a problem \nyou're unable to solve immediately.\nIf you don't like it, you can just run away."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だったら、理由を教えてくれ。",
+    "translation": "Tell me why! "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "たぶん、俺は大切なことを見逃してるんだと思う。\nだからお前の真意にたどり着けない。\n情けないが……。",
+    "translation": "I'm pretty sure I'm missing something important.\nThat's why I can't get what you're trying to accomplish.\nIt's pathetic, but..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "もう言っているも同然なのに。\nどうしてわからないの、フー君のバカ。",
+    "translation": "I presented you the answer on a silver platter.\nWhy can't you get it, Fu-kun, you dummy."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "二乃？",
+    "translation": "Nino?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "頼んだところで無駄よ。\n絶対に言わないわ。",
+    "translation": "Don't ask me.\nI will definitely not tell you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……俺にこの問題は難しすぎるんだよ。",
+    "translation": "...This seems to be a problem I can not solve."
+  },
+  {
+    "character": "二乃",
+    "japanese": "たまには、解けない問題に\n頭を悩ませてみればいいんだわ。\n嫌なら逃げ出せばいいじゃない。",
+    "translation": "I think it'll be good for you to think about a problem \nyou're unable to solve immediately.\nIf you don't like it, you can just run away."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんなことできるか！\nお前に関する問題を解かないまま放っておくなんて！",
+    "translation": "You think I can just do that?!\nTo abandon a problem that is still unsolved?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "頼む、二乃！　教えてくれ！",
+    "translation": "I'm begging you, Nino! Please tell me!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょ、ちょっと、近づかないでよ。\n離れて……。",
+    "translation": "W-wait, don't get too close to me.\nGo away..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "きゃあっ！？",
+    "translation": "EEEP?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "二乃っ！？",
+    "translation": "NINO?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（くそ、落っこちちまったか！\n　まったく、俺は肝心なときに\n　二乃１人支えきれないのかよ！）",
+    "translation": "(Oh NO, she fell!\n Good lord,\n I can't support Nino when it really matters!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（待ってろ、二乃！\n　いま助けるからな！）",
+    "translation": "(Hold on, Nino!\n I'm gonna help you!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ぷはっ！\nはぁ、はぁ、だ、大丈夫か、二乃！",
+    "translation": "PUAHH!\nHaah, haah, a-are you okay, Nino?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "けほっ、ごほごほっ！\nげほげほっ！",
+    "translation": "*cough* *cough* *cough*\n*cough* *cough*"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "暴れるな、俺につかまって大人しくしてろ。\n岸まで運んでやる。",
+    "translation": "Don't struggle, hold on to me and relax.\nI'll carry you to shore."
+  },
+  {
+    "character": "二乃",
+    "japanese": "けほ、けほけほっ！",
+    "translation": "*cough* *cough* *cough*"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（うなずいたな。\n　よし……）",
+    "translation": "(She nodded.\n Alright...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちゃんと連れて行ってやるから、安心しろ。",
+    "translation": "I'll carry you to shore, Nino. Take it easy for now."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……ふ、フー君。",
+    "translation": "...F-Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "無理して話さなくていい。\n息を整えることに集中してろ。\nいいな？",
+    "translation": "Don't speak.\nPlease save your energy. Just focus on breathing.\nOkay?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ん……。",
+    "translation": "Hm..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "こんなの、前にも……。",
+    "translation": "This is, the same..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうだわ……。",
+    "translation": "As before..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "真冬の、クリスマスの川で……\nあのとき落ちたのはフー君だったけど……。",
+    "translation": "During Christmas, in the middle of winter, the river... \nAlthough, it was you who fell into the river\nat that time, Fu-kun..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "大丈夫か？\nどこか打ったりしていないか？",
+    "translation": "Are you alright?\nDid you get banged up anywhere?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "平気よ。\n……ありがと、フー君。",
+    "translation": "I'm fine.\n...Thanks, Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、俺が聞き出そうと焦ったのがそもそもだしな。\n悪かった。",
+    "translation": "No, I was flustered,\ntrying to squeeze out any kind of information...\nThat was my bad."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんであんたが謝るのよ。\n本当に……ズルいわ。",
+    "translation": "Why are you apologizing?\nIt's...so unfair."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "早いとこ別荘に戻ろうぜ。\n濡れたままじゃ体に悪い。",
+    "translation": "Let's hurry back to the villa.\nIt's not good for us to be wet like this."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえ、その前に言っておくことがあるんだけど。\nあれはね、私なりの恋のアプローチよ。",
+    "translation": "Hey, there's something I want to tell you.\nThe 'little sister' thing. It was my approach to get closer \nto you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……はっ？",
+    "translation": "...Huh?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なによ、その間抜けな顔は。\n答えを知りたかったんでしょ？",
+    "translation": "What's with that goofy face?\nYou wanted to know the answer, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、いや、えっと……\nそれは、らいはの真似をしていた理由、なんだよな？",
+    "translation": "Ah, well, um...\nI wanted to know the reason\nwhy you were imitating Raiha."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうよ。",
+    "translation": "That's right."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんたは忘れてるかもしれないけど、\n好きなタイプについて、前に言ったでしょ？",
+    "translation": "You might have forgotten,\nbut you've told us what type of girl you liked, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "元気で、料理上手で、お兄ちゃん想いな子って。",
+    "translation": "Someone who's energetic, good at cooking,\nand who loves her big brother."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あ……そういや言ったような……）",
+    "translation": "(Ah... I did say something like that...)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "自分で言うのもなんだけど、\n私は、元気で料理上手まではクリアしてるでしょ？\nだから……。",
+    "translation": "I might be tooting my own horn,\nbut I'm pretty energetic, and a good cook,\nthus the first two criteria are met, right? So..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういうこと、だったのか。\nそうか……それはわからないわけだな……。",
+    "translation": "So that's what was going on.\nI see... I didn't get that at all..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "自分でも、やりすぎだったって思ってるから。\n嫌な気分にさせちゃって、ごめんなさい。",
+    "translation": "I know that I went too far.\nI'm sorry for putting you in a strange mood."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちょっと待て。\n別に謝ることはないだろ。",
+    "translation": "Hold on.\nYou don't need to apologize."
+  },
+  {
+    "character": "二乃",
+    "japanese": "でも、フー君には迷惑だったでしょ？\nしかも大失敗だったわけだし。",
+    "translation": "But, I caused you trouble, right, Fu-kun?\nAnd, my experiment was a massive failure."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー、いや、そうじゃなくてな？\n成功したかどうかはともかくとして……。",
+    "translation": "Ah, well, that's not really the case?\nIt doesn't matter if it was a success or not..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉や五月を観察してみたり、\nらいはに協力を仰いだりする努力は\n認められるべきだろ。",
+    "translation": "I think you did a good job at observing Yotsuba and\nItsuki, and it was pretty clever of you asking for\nRaiha's cooperation."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前のそういう、目標に向かって\n努力を惜しまない姿勢は素晴らしいものだと\n俺は思う。",
+    "translation": "I think it's great that you are willing to work hard to \nachieve your goals."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……ふふっ！\nなにそれ、まさかここで褒められるなんて\n思わなかったわ。",
+    "translation": "...Teehee!\nHuh? Are you praising me for that?\nWow, that's unexpected."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、俺は家庭教師だからな。\n頑張った生徒に対してはちゃんと評価をする。",
+    "translation": "I-I'm your tutor.\nI have to evaluate my students for the effort they've put\ninto a project."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが、今回は努力の方向が間違ってたんじゃないか？",
+    "translation": "However,\nI think you wasted a lot of your energy to pursue a goal\nthat's kinda off."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうね、わかってるわ。\nだからフー君に嫌な思いをさせちゃって……。",
+    "translation": "Ok, I get it.\nYou didn't like it, huh, Fu-kun..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "違う。",
+    "translation": "No."
+  },
+  {
+    "character": "二乃",
+    "japanese": "え……。",
+    "translation": "Wha..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前はお前だ。\n今のままの二乃が一番だろ。",
+    "translation": "You'll always be Nino.\nThe Nino you are right now is the best."
+  },
+  {
+    "character": "二乃",
+    "japanese": "！……",
+    "translation": "!..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なにしろ、同じ顔をしてる人間が\n周りに４人もいるんだぞ？",
+    "translation": "After all,\nyour other sisters look just like you, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なのに、お前はいつだって他の誰でもない\n『二乃』だし、そんな自分を俺に見せつけてくる。",
+    "translation": "However, you're 'you,' Nino. \nNow show me what that Nino is all about."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "他人の真似をする必要なんて、ないだろ？",
+    "translation": "You don't have to imitate others, do you?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君……。",
+    "translation": "Teehee..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえ、それって……フー君が、今までの\n私を見て……少しでも、私を想ってくれてるって、\nうぬぼれてもいいのかしら？",
+    "translation": "Hey, does it mean that...you're in love with me, maybe\njust a little bit...\nAm I the person that you have been looking for?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……さあ、どうだろうな。\nだが、お前はお前のままが一番だと思うぞ。",
+    "translation": "...Uhmmm, I'm not sure about that.\nHowever, the true Nino is the best version of yourself."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふ、そっか。\nありがと。",
+    "translation": "Teehee, is that so.\nThanks a lot."
+  },
+  {
+    "character": "二乃",
+    "japanese": "だったら、私は私のまま、フー君を好きでいるわ。",
+    "translation": "I'll like you as my true self, Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "っ……。",
+    "translation": "......"
+  },
+  {
+    "character": "二乃",
+    "japanese": "今、ドキッとしてくれた？",
+    "translation": "Were you startled, just now?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "二乃",
+    "japanese": "私は、フー君のことが好き。\nだから、絶対に、諦めない。",
+    "translation": "I like you, Fu-kun.\nAnd I cannot give up on you."
+  },
+  {
+    "character": "二乃",
+    "japanese": "いつか必ず、私らしい方法で\nフー君を振り向かせてみせるわ。",
+    "translation": "Someday, 'Nino' will become the girl you're looking for."
+  }
+]

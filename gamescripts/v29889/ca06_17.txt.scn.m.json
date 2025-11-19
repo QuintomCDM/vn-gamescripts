@@ -1,0 +1,457 @@
+[
+  {
+    "character": "五月",
+    "japanese": "……誰もいませんね。",
+    "translation": "...No one's here, huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここへ来てると思ったんだが。\nもう他の場所に行ったのか？",
+    "translation": "I thought they would come here.\nDid they already go somewhere else?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ここ以外で、泉や水に関係がありそうなのは\n川くらいですが……。",
+    "translation": "Apart from here,\nthe only place related to springs or water\nis the river..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ずいぶんと熱心に滝壺を覗き込んでるな。\n水晶を探してるのか？",
+    "translation": "...You're peering into the waterfall basin\nvery intently.\nAre you searching for crystals?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ち、違いますよっ！？\n何か、みんなの行き先の手掛かりがないかと\n探しているだけです。",
+    "translation": "N-no, that's not it!\nI'm just looking for some clues\nabout where everyone went."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そこに手掛かりが沈んでたら、まずいだろ。\n落っこちて流されたってことになるぞ？",
+    "translation": "If there were any clues there and they sank,\nthat would be bad.\nThat means they'd fall in and be swept away, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、そうですね！\n幸い何もありませんし、安心です！",
+    "translation": "Th-that's right!\nFortunately, there's nothing here, so I'm relieved!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（五月のやつ、さっきから明らかに水晶を探してる。\n　そんなにほしいのか？）",
+    "translation": "(That Itsuki has clearly been searching for the crystals\n since earlier. Does she really want them that badly?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（二乃や三玖なら、まあ……わからなくもない。\n　だが、なぜ五月が？\n　まさか……）",
+    "translation": "(I can understand it if it were Nino or Miku,\n but why Itsuki? Could it be...?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いや、それはないよな……ははは……）",
+    "translation": "(Nah, that can't be it... Hahaha...)"
+  },
+  {
+    "character": "五月",
+    "japanese": "あの、上杉君？",
+    "translation": "Um, Uesugi-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なんだ！？",
+    "translation": "Wh-what?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "実は……この機会にお聞きしたいことが……。",
+    "translation": "Actually...there's something I wanted to ask you\nnow that I have the chance..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へ……。\nな、なんだよ急に？",
+    "translation": "Huh...?\nWh-what is it, all of a sudden?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー？",
+    "translation": "Futaro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うわぁっ！？",
+    "translation": "UWAAH?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ひゃあっ！？",
+    "translation": "HYAAH?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "わっ！？",
+    "translation": "WAH?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "み、三玖かよ！？",
+    "translation": "M-Miku?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "なに？\nどうしてそんなにビックリしてるの？",
+    "translation": "What's wrong?\nWhy are you so surprised?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "い、いや、こんなところで、しかも背後から\n声をかけられたら驚くだろ！",
+    "translation": "N-no, it's just that it's surprising\nto be called from behind in a place like this!"
+  },
+  {
+    "character": "五月",
+    "japanese": "三玖だったのですか……。",
+    "translation": "So it was just Miku..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっ？\n五月、フータローと一緒だったの？",
+    "translation": "Huh?\nItsuki, were you with Futaro?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あっ！\nええと、これはですね、その、違います！\n上杉君と２人なのは、み、見回りなんです！",
+    "translation": "Ah!\nUm, well, you see, that's not it!\nUesugi-kun and I are, um, just doing a patrol!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……見回り？",
+    "translation": "...A patrol?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "なんだ……。\nじゃあ、フータローは\n水晶を探してるわけじゃないんだ。",
+    "translation": "Oh...\nSo, that means you're not looking for crystals,\nFutaro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、水晶探しじゃない。",
+    "translation": "Yeah, we're not looking for crystals."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前たちが危険なことをしてないか、\n様子を見に来ただけだ。\n目を離すと何をしでかすかわからん。",
+    "translation": "We're just checking to make sure you guys\naren't doing anything dangerous. We don't know\nwhat you'll do if we take our eyes off you."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……それで見回りって。",
+    "translation": "...So that's what the patrol is for."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういうことだな。",
+    "translation": "Yes, that's right."
+  },
+  {
+    "character": "五月",
+    "japanese": "で、ですが、そのついでに\n水晶を見つけられるかもしれませんよね！",
+    "translation": "But, while we're at it,\nwe might be able to find some crystals, won't we!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあな。\n見つかるかもしれない。",
+    "translation": "Well, maybe.\nWe might be able to find some."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……そっか。\n見つかったらラッキーだね。",
+    "translation": "...I see.\nIt would be lucky if we found some, huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それより、三玖は１人なのか？\n二乃や一花、四葉も水晶探しを\nしてるらしいんだが、見てないか？",
+    "translation": "Anyway, are you alone, Miku?\nNino, Ichika, and Yotsuba are supposed to be\nlooking for crystals too. Have you seen them?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、私は二乃と一緒だったんだけど、\n森の中ではぐれちゃって。\n捜しながら、ここまで戻って来たところ。",
+    "translation": "Oh, I was with Nino, but we got separated in the forest.\nI came back here while searching for her."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はぐれたって……。\nさっそく問題起こしてんじゃねーか。",
+    "translation": "You got separated...\nYou're causing problems already, aren't you?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "こっちには戻って来てない？",
+    "translation": "Has she come back here?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、私たちは見かけていません。",
+    "translation": "No, we haven't seen her."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ水晶が見つかったらそのときだ。",
+    "translation": "Well, if we find some, we find some."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それって、探してるってこと？",
+    "translation": "Does that mean you're looking for them?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、いや、違うぞ？\nわざわざ探しに来たつもりはない。",
+    "translation": "Oh, no, it's not like that.\nI didn't come here specifically to search for them."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前たちが危険なことをしてないか\n様子を見に来ただけだ！",
+    "translation": "We're just checking to make sure\nyou guys aren't doing anything dangerous."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、そのついでに見つかったらいいなと、\nそういうことです！",
+    "translation": "Yes, we just thought it would be nice\nif we found some while we were at it!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……そ、そうだな。",
+    "translation": "...Th-that's right."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そっか。",
+    "translation": "Is that so."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローも、見つけられるといいね。",
+    "translation": "It sure would be nice if you can find some too, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それより、三玖は１人なのか？\n二乃や一花、四葉も水晶探しを\nしてるらしいんだが、見てないか？",
+    "translation": "Anyway, are you alone, Miku?\nNino, Ichika, and Yotsuba are supposed to be\nlooking for crystals too. Have you seen them?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、私は二乃と一緒だったんだけど、\n森の中ではぐれちゃって。\n捜しながら、ここまで戻って来たところ。",
+    "translation": "Oh, I was with Nino, but we got separated in the forest.\nI came back here while searching for her."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はぐれたって……。\nさっそく問題起こしてんじゃねーか。",
+    "translation": "You got separated...\nThere are some issues right off the bat, aren't there."
+  },
+  {
+    "character": "三玖",
+    "japanese": "こっちには戻って来てない？",
+    "translation": "Has she come back here?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、私たちは見かけていません。",
+    "translation": "No, we haven't seen her."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月が見回りだって言っただろ。\nお前たちが危険なことをしてないかどうか\n様子を見に来たんだよ。",
+    "translation": "Itsuki said we were on patrol, didn't she?\nWe were checking to see\nif you guys were doing anything dangerous."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そっか、心配してくれてたんだ。",
+    "translation": "That so, you were worried about us, huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……どこにあるかもわからん泉を探そうなんて、\nお前らだけじゃ、危なっかしいにもほどがある。",
+    "translation": "...Searching for a spring\nwith an unknown location\nis too dangerous for you guys to do alone."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別に、泉や水晶を探すのを\n手伝うつもりはないからな？",
+    "translation": "Either way, I don't plan on helping you\nsearch for the spring or crystals, ya know?"
+  },
+  {
+    "character": "五月",
+    "japanese": "手伝わなくても、見回りのついでに\n見つかるかもしれませんからね。",
+    "translation": "Even if you don't help us,\nYou might find it while on patrol, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ま、まあな。",
+    "translation": "I-I guess."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……ふふ、そういうことなんだ。",
+    "translation": "...Heheh, so that's how it is."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、何を笑ってる。\n何か思い違いをしてないか？",
+    "translation": "Hey, why are you laughing?\nDid I misunderstand something?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ううん、してないよ。\n大丈夫。",
+    "translation": "No, you didn't misunderstand anything.\nIt's nothing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それより、三玖は１人なのか？\n二乃や一花、四葉も水晶探しを\nしてるらしいんだが、見てないか？",
+    "translation": "Anyway, are you alone, Miku?\nNino, Ichika, and Yotsuba are supposed to be\nlooking for crystals too. Have you seen them?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、私は二乃と一緒だったんだけど、\n森の中ではぐれちゃって。\n捜しながら、ここまで戻って来たところ。",
+    "translation": "Oh, I was with Nino, but we got separated in the forest.\nI came back here while searching for her."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はぐれたって……。\nさっそく問題起こしてんじゃねーか。",
+    "translation": "You got separated...\nThere are some issues right off the bat, aren't there."
+  },
+  {
+    "character": "三玖",
+    "japanese": "こっちには戻って来てない？",
+    "translation": "Has she come back here?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、私たちは見かけていません。",
+    "translation": "No, we haven't seen her."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "とにかく捜しに行くぞ。\n森の中で１人なんて危険すぎる。",
+    "translation": "Anyway, let's go look for Nino, then.\nIt's too dangerous to be alone in the forest."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前たちも、泉や水晶探しは\n二乃を見つけてからにしてくれ。",
+    "translation": "You guys should also wait to search\nfor the spring and the crystals until we find Nino."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、わかってる。",
+    "translation": "Yes, I know."
+  },
+  {
+    "character": "五月",
+    "japanese": "当然です。\n今は二乃が最優先ですから。",
+    "translation": "Of course.\nFinding Nino is our top priority right now."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それで、三玖たちはどっちに行ってたんだ？",
+    "translation": "So where did Miku and the others go?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "川に沿って下ったところの森。\nあまり離れてなかったはず。",
+    "translation": "They went to the forest along the river.\nThey shouldn't be too far away."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし、取りあえず下流へ向かうぞ。\nお前らもはぐれないように気をつけろ。",
+    "translation": "Alright, let's head downstream for now.\nBe careful not to get lost."
+  },
+  {
+    "character": "五月",
+    "japanese": "わかりました。",
+    "translation": "Understood."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……ねえ、五月。\nちょっと。",
+    "translation": "...Hey, Itsuki.\nGot a sec?"
+  },
+  {
+    "character": "五月",
+    "japanese": "なんです？",
+    "translation": "What's up?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "さっきのフータロー、なんか変だった。\n五月、フータローとなにしてたの？",
+    "translation": "Something was off about Futaro just now.\nWhat were you doing with him?"
+  },
+  {
+    "character": "五月",
+    "japanese": "べ、別に？\n何もしていませんよ？",
+    "translation": "N-nothing, really?\nWe weren't doing anything at all, you see?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……本当に？",
+    "translation": "...Really now?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ほ、本当です。\n私も上杉君と同じで、三玖たちを心配して\n見回りに来ただけですから。",
+    "translation": "R-really.\nI don't know what you're talking about.\nBecause, we just came on patrol."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……本当は、五月も\n水晶を探しに来たんじゃないの？",
+    "translation": "...Didn't you actually come here\nto search for crystals?"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローに渡すの？",
+    "translation": "To give to Futaro?"
+  },
+  {
+    "character": "五月",
+    "japanese": "それは……どうなんでしょう……。",
+    "translation": "I'm not...quite sure about that..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "どうって？",
+    "translation": "Quite sure? What do you mean?"
+  },
+  {
+    "character": "五月",
+    "japanese": "私は……。",
+    "translation": "I..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、２人ともなにやってんだ。\n早く行くぞ？",
+    "translation": "Hey, what are you two doing?\nLet's get going, okay?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ごめん、フータロー。\nすぐ行くから。",
+    "translation": "Sorry, Futaro.\nWe're going now."
+  },
+  {
+    "character": "五月",
+    "japanese": "すみません、三玖。\n今は……まだ……。",
+    "translation": "Sorry, Miku.\nI still...don't..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、わかった。\nじゃあ、もう聞かない。\n今は二乃を捜すのが先だね。",
+    "translation": "Okay, I understand.\nI won't ask anymore, then.\nLet's focus on finding Nino."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、行きましょう。",
+    "translation": "Yes, let's go."
+  }
+]

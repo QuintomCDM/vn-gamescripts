@@ -1,0 +1,392 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "なんとか暗くなり始める前に帰ってこれたか。\n結局、１日まるごと自由時間になっちまったな。",
+    "translation": "Did we actually manage to make it back\nbefore it started getting dark?\nIn the end, the whole day became free time."
+  },
+  {
+    "character": "一花",
+    "japanese": "だね……。\n想い出作りとか言ってたのに、ごめん。",
+    "translation": "Yeah...\nSorry for saying we were going to make memories."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、お前らが満足してるんなら俺は構わない。\n謝るなら、１人で留守番してた\nらいはにしてやってくれ。",
+    "translation": "Well, as long as you guys are satisfied, I don't mind.\nIf you want to apologize, you can apologize to Raiha,\nwho watched the house for us."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうです！！\nらいはちゃんを１人にしてしまうなんて……\nこれは土下座ものの事態です！",
+    "translation": "That's right!! Leaving Raiha-chan alone... \nThis is the kinda situation where we need to \nget on our hands and knees and apologize!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "急いで謝らなければー！\nらいはちゃーん！！",
+    "translation": "We have to apologize right away!\nRaiha-chaaan!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ただいま、らいは。\n遅くなっちまって悪かったな。",
+    "translation": "We're back, Raiha.\nSorry we're late."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あれ？\nらいは、いないのかー？",
+    "translation": "Huh?\nIs Raiha not here?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "もしかしたら、先に夕ご飯の準備を\n始めてくれてるのかな？",
+    "translation": "Maybe she started preparing dinner already?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん！！\n変です、らいはちゃんの姿がありません！\n談話室にもキッチンにもいませんよ。",
+    "translation": "Uesugi-san!! Something's wrong.\nRaiha-chan is nowhere to be found!\nShe's not in the lounge or the kitchen."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……もしかして、待ちくたびれて寝ちまったか？\nちょっと２階の部屋を見てくる。",
+    "translation": "...Maybe she got tired of waiting and fell asleep?\nI'll go check the second floor."
+  },
+  {
+    "character": "五月",
+    "japanese": "では、私も行きます。",
+    "translation": "I'll come with you."
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ四葉、談話室とキッチン以外は確認した？",
+    "translation": "Hey, Yotsuba, have you checked all the rooms\nbesides the lounge and kitchen?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ううん。\n他の部屋は、らいはちゃん行きそうにないし。",
+    "translation": "Nope. The other rooms didn't seem like places\nRaiha-chan would go."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……一応、見てこよう。\nもしかしたら、お風呂に入ったり\nしてるかもしれない。",
+    "translation": "...I'll check, just in case.\nMaybe she's taking a bath, or something."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうね。\n私たちで１階を捜しておきましょうか。",
+    "translation": "Right. Let's search the first floor."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あ、フー君。\nらいはちゃんはいた？",
+    "translation": "Oh, Fu-kun. Did you find Raiha-chan?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや……。\n部屋をノックしても返事がなくて\n中に入ってみたんだが、いなかった。",
+    "translation": "No... I knocked on her door, but she didn't answer,\nso I went in, but she wasn't there."
+  },
+  {
+    "character": "五月",
+    "japanese": "念のため、上杉君や私たちの部屋、\n父の部屋や物置などもすべて確認しましたが、\n姿はありませんでした。",
+    "translation": "Just to be sure, we checked Uesugi-kun's room,\nour rooms, father's room, and the storage room,\nbut she wasn't there."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっと待って。\n私たちで１階の部屋は全部見たけど、\nどこにもいなかったわよ？",
+    "translation": "Wait a minute.\nWe checked all the first-floor rooms,\nbut she wasn't anywhere?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なに……！",
+    "translation": "What...?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "念のために地下も見たけど、もちろんいなかった。\n四葉がいま別荘の周りを見に行って\nくれてるんだけど……。",
+    "translation": "Just in case, we checked the basement too,\nbut of course she wasn't there. Yotsuba went around\nthe villa to look for her, but..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、上杉さん！\n別荘の周りを１周して来ましたが、\nらいはちゃんは見当たりません。",
+    "translation": "Oh, Uesugi-san!\nI did a lap around the villa once,\nbut I couldn't find Raiha-chan."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……マジかよ。\n　そんな……らいは……？）",
+    "translation": "(...It couldn't be.\n No way... Raiha...?"
+  },
+  {
+    "character": "五月",
+    "japanese": "どこに行ってしまったのでしょう？\nお留守番をお願いしましたし、\n勝手に出歩くようなことはないと思いますが。",
+    "translation": "Where could she have gone? We asked her to stay at home,\nso I don't think she would have gone out on her own."
+  },
+  {
+    "character": "一花",
+    "japanese": "何か事情があって外に出たとしても、\nらいはちゃんならメモくらいは残すよね？",
+    "translation": "Even if there was a reason for her to go out,\nRaiha-chan would have left a note, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。\nフータローを心配させないように。",
+    "translation": "Yes. To not worry Futaro."
+  },
+  {
+    "character": "四葉",
+    "japanese": "では、そうできなかった事情が……。",
+    "translation": "But then,\nwhat's the reason that she couldn't leave a note?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はうっ！　ま、まままま、まさか！\n誘拐されたのでは！？",
+    "translation": "Oh no! N-n-n-n-n-NO WAY!\nShe was kidnapped?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ゆ、誘拐だと！？",
+    "translation": "K-KIDNAPPED?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "誘拐犯は誰だぁ！？\n今すぐ名乗り出ろ！！",
+    "translation": "WHO'S THE KIDNAPPER?!\nShow yourself, now!"
+  },
+  {
+    "character": "五月",
+    "japanese": "う、上杉君？\n何を言い出して……。",
+    "translation": "U-Uesugi-kun?\nWhat are you saying, out of nowhere..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この島には俺とお前らしかいないんだぞ！？\n俺じゃないとしたら――",
+    "translation": "There's no one on this island other than us, ya know?!\nIf it wasn't me, then%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "犯人はこの中にいる！",
+    "translation": "The culprit is among us!"
+  },
+  {
+    "character": "一花",
+    "japanese": "いやいや、ドラマじゃないんだから。",
+    "translation": "No, no, this isn't a drama."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ほら、フー君！\n深呼吸！",
+    "translation": "Come on, Fu-kun!\nTake a deep breath!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はぁ、はぁ……はぁぁー……。",
+    "translation": "Haah, haah... Haaaah..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それもそうだよな。\nすまん、ちょっと取り乱しちまった。",
+    "translation": "You're right about that.\nSorry, I got a little carried away."
+  },
+  {
+    "character": "二乃",
+    "japanese": "らいはちゃんが心配なのはわかるわ。\nでも、だからこそ、しっかりしなさいよね。",
+    "translation": "I understand that you're worried about Raiha-chan.\nBut, for that reason, please stay calm."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（らいはが自分から出掛けたとして……\n　向かう可能性があるのはどこだ？\n　らいはは何をしようとして姿を消したんだ？）",
+    "translation": "(If Raiha went out on her own...\n where could she have gone?\n What was she trying to do before disappearing?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いかんぞ、冷静になれ俺！\n　誘拐なんてこんな島ではありえない。\n　ここで無駄に取り乱してどうするんだ！）",
+    "translation": "(Oh no! Calm down, Futaro!\n A kidnapping would be impossible on this island.\n What's the point of getting upset?)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、どうしましょう！\nらいはちゃんがピンチですよー！！",
+    "translation": "Uesugi-san, what should we do?\nRaiha-chan is in trouble!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……四葉、無駄に騒いでも何にもならないぞ。\nもう一度確認するが、確かに別荘の中には\nいないんだな？",
+    "translation": "...Yotsuba, getting hysterical won't help.\nLet's confirm again.\nShe's definitely not in the villa, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ええ、そのはずよ。\n１階は全部、普段は入らないような部屋まで\n見て回ったから。",
+    "translation": "Yes, that's right.\nI even checked the rooms on the first floor\nthat we don't usually go in."
+  },
+  {
+    "character": "一花",
+    "japanese": "地下も同じくね。",
+    "translation": "The same goes for the basement."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうなると、やはり外に出たことに……。",
+    "translation": "In that case, she must have gone outside..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "でも、少なくとも別荘の周りにはいませんでした。\n１人で遠くに行くようなことはないと\n思うのですが……。",
+    "translation": "But at least, she wasn't around the villa.\nI don't think she would go far alone, though..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だとしても、別荘内にいないなら\n外に出たで決まりだろう。",
+    "translation": "Even so, if she's not in the villa,\nshe must have gone out."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（らいはが自分から出掛けたとして……\n　向かう可能性があるのはどこだ？\n　らいはは何をしようとして姿を消したんだ？）",
+    "translation": "(If Raiha went out on her own...\n where could she have gone?\n What was she trying to do before disappearing?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "い、いや、そんなわけないだろ。\nこの島には、俺とお前らしかいないんだぞ？",
+    "translation": "N-no, that couldn't be.\nThere's only us on this island, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別荘内にいないなら、らいはは\n自分の意思でどこかへ出掛けたということだ。",
+    "translation": "If she's not in the villa, then Raiha\nmust have gone out on her own accord."
+  },
+  {
+    "character": "一花",
+    "japanese": "だよね。\n四葉、思いつきで混乱させるようなこと\n言っちゃダメだって。",
+    "translation": "Yeah, you're right.\nYotsuba, don't say things that\nwill confuse us like that."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ごめん……。\nらいはちゃんがピンチだと思って\n頭が真っ白になって……。",
+    "translation": "I'm sorry...\nI just get so flustered\nthinking Raiha-chan might be in trouble..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、謝らなくてもいい。\n実を言うと、俺も一瞬、頭に血が上りかけたしな。",
+    "translation": "No need to apologize.\nTo be honest, I was also briefly panicked."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉が先におかしなことを言ってくれたおかげで、\n冷静になった気がする。",
+    "translation": "But thanks to Yotsuba's weird idea,\nI feel more composed now."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……なんだかよくわかりませんが、\n私、褒められました？",
+    "translation": "...I'm not sure, but\ndid you just compliment me?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "褒めてはないでしょ。\nでもまあ、フー君の助けには\nなったってことじゃない？",
+    "translation": "It's not exactly a compliment.\nBut well, you did help Fu-kun, didn't you?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "でしたら嬉しいです！\n上杉さんの力になれたのなら本望ですから！",
+    "translation": "If that's the case, I'm happy!\nI'd be glad to be of help to Uesugi-san!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "本望って大げさな。\nけどまあ、ありがとな。",
+    "translation": "That's a bit of an overstatement.\nBut well, thanks."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（しかし、らいははどこへ……\n　どうしても必要があって出て行ったんだと思うが）",
+    "translation": "(However, where did Raiha go...\n I think she must have had a reason to leave.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（らいはが自分から出掛けたとして……\n　向かう可能性があるのはどこだ？\n　らいはは何をしようとして姿を消したんだ？）",
+    "translation": "(If Raiha went out on her own...\n where could she have gone?\n What was she trying to do before disappearing?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（今日、らいはと話したことに\n　ヒントがあるかもしれない。\n　最初から、よく思い出すんだ……）",
+    "translation": "(There might be a clue in our conversation\n with Raiha today. I need to try and remember it...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……そうだ。\n五月、らいはは水晶を探したがってたよな？\n留守番だって言ったらすごく残念がってた。",
+    "translation": "...Oh yeah.\nRaiha wanted to look for the crystals, right? She was\nreally disappointed when she was told to stay put."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、確かにそうでした。",
+    "translation": "Yeah, you're right about that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいはは伝説に興味を持ってたし、\n俺にも水晶探しをしようと何度も言ってた。",
+    "translation": "Raiha was interested in the legend and\nkept telling me to search for crystals with her."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃあ、まさか……。",
+    "translation": "So, could it be..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "１人で探しに行っちゃったんですか！？",
+    "translation": "That she went out to search for them alone?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "可能性はある。\nあとは、また神社へ手掛かりを探しに\n行ってるかもしれない。",
+    "translation": "It's a possibility.\nOr she might have gone back to the shrine\nto search for clues."
+  },
+  {
+    "character": "五月",
+    "japanese": "そろそろ日が傾き始めます。\n暗くなっては危険です。",
+    "translation": "The sun is starting to set.\nIt's dangerous after dark."
+  },
+  {
+    "character": "五月",
+    "japanese": "らいはちゃんは、それまでに\n帰ってくるつもりなのかもしれませんが、\n捜しに行ったほうがいいのでは？",
+    "translation": "Raiha-chan might be planning to come back\nby then,\nbut should we still go and search for her?"
+  },
+  {
+    "character": "一花",
+    "japanese": "明るくても１人で行動するのは危ないよ。\nみんなで手分けして捜そう。",
+    "translation": "It's dangerous to go out alone even in daylight.\nLet's split up and search together."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すまん、助かる。\n俺はさっきの泉まで行ってみる。",
+    "translation": "Thanks, I appreciate it.\nI'll go check the spring I saw earlier."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私も一緒に行きます！\n森の中を捜し歩くのは体力を使いますから、\n任せてください！",
+    "translation": "I'll go with you!\nSearching through the forest can be tiring,\nso leave it to me!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "私も行くわ。\n四葉だけじゃ心配だし。",
+    "translation": "I'll come too.\nI'm worried if it's just Yotsuba alone."
+  },
+  {
+    "character": "一花",
+    "japanese": "なら私たちは３人で神社に行ってみるよ。\nいいよね？",
+    "translation": "Then the three of us will go to the shrine.\nIs that okay?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。",
+    "translation": "Okay."
+  },
+  {
+    "character": "五月",
+    "japanese": "わかりました。",
+    "translation": "Got it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし、じゃあ行くぞ。\nみんな、らいはを頼む！",
+    "translation": "Okay, off we go, then.\nLet's find Raiha, everyone!"
+  }
+]

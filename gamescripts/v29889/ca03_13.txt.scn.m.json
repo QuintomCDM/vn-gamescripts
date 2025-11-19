@@ -1,0 +1,427 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（あいつらに聞けない以上、\n　三玖に直接聞くしかないわけだな！）",
+    "translation": "(Since I can't ask them,\n the only choice is to ask Miku directly!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（これこそノーデリカシーな行動なんだろう。\n　しかし、放っておくわけには……悩ませといて\n　知らんぷりなんて人としてダメだろ）",
+    "translation": "(This probably sounds tactless.\n However, I can't just leave it alone... As a human being,\n it's impossible to feign ignorance after causing someone distress.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（それに、みんなで\n　夏の想い出を作るって話はどうなるんだ。\n　三玖だけ暗い顔の想い出なんて冗談じゃない）",
+    "translation": "(And what about our plan\n to make summer memories together? It's no joke that\n Miku would be the only one with a gloomy memory...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……とにかく、言葉や行動には注意だ。\n　三玖を傷つけないように）",
+    "translation": "(...Anyway, I need to be careful\n with my words and actions.\n I don't want to hurt Miku.)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……誰？",
+    "translation": "...Who is it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺だ。\n今、時間いいか？",
+    "translation": "It's me.\nIs now a good time?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうしてもお前と話したいんだ。\n頼む。",
+    "translation": "I just need to talk to you. Please."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……いいよ、入って。",
+    "translation": "...Fine, come in."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ありがとな。",
+    "translation": "Thanks."
+  },
+  {
+    "character": "三玖",
+    "japanese": "話ってなに？",
+    "translation": "What do you want to talk about?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前が落ち込んでるように見えてな。\n悪いが、他のやつらに少し事情を聞いた。",
+    "translation": "You looked like you were feeling down.\nI'm sorry, but I asked some of the others about it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……聞いたの？",
+    "translation": "...Did you hear everything?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、全部じゃない。\n俺が原因かもしれないってことだけだ。",
+    "translation": "No, not everything.\nI just heard that I might be the reason for this."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……そっか。",
+    "translation": "...Oh, I see."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（この反応、二乃の言った通りだったか。\n　さすが五つ子だな）",
+    "translation": "(This response, it's just as Nino predicted.\n As expected for quintuplets, huh.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一体どうしたんだ？\n悩みがあるなら話してくれ。\n俺に原因があるのなら、なおさらだ。",
+    "translation": "What's going on?\nIf you have a problem, please tell me.\nEspecially if it's because of me."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……ごめん。\nこれは、フータローにだけは言えない。",
+    "translation": "...Sorry.\nThis is something I can't tell you, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうして、と聞いても、その理由も言えないわけか。",
+    "translation": "So you're just gonna tell me even if I ask."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん……。",
+    "translation": "Yeah..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一花に言われた。\n俺が気がつくことが問題解決の第一歩だと。",
+    "translation": "Ichika told me.\nThat realizing the problem\nis the first step to solving it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だか、すまんが正直、俺には心当たりがない。\nだから言ってくれないと謝ることも\n正すこともできないんだ。",
+    "translation": "But honestly,\nI don't have any idea.\nSo if you don't tell me, I can't apologize or fix it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……それでも言えない。",
+    "translation": "...I still can't tell you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺がこのまま一生、気がつかなくてもか？",
+    "translation": "Even if I have to go on like this\nforever without realizing it?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……まいった。\n　ここまで意固地になられちまうとは）",
+    "translation": "(...I give up.\n I didn't think she'd be this stubborn.)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "話はそれだけ？\n今は１人にしてほしい。",
+    "translation": "Is that all you wanted to talk about?\nI want to be alone now."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "悪いがそれはできない相談だ。",
+    "translation": "Sorry, but that's not up for discussion."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺が原因で悩んでるなら、罵倒でもなんでも\n言っちまったほうが楽になるだろ。\nほら言え！　黙って聞くぞ！",
+    "translation": "Just tell me if I'm the reason for your troubles.\nIf you want to curse me out, just say it.\nIt'll feel better. Come on, say it! I'll listen!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そんなこと言われても……言えないものは言えない。",
+    "translation": "Even if you tell me that...I can't say it, I JUST CAN'T!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ご、強情だな……！\n言いたいことがあるならはっきり言ってくれ！",
+    "translation": "Y-you're so obstinate!\nIf there's something you'd like to say,\nplease say it clearly!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……言わない。",
+    "translation": "...I won't say it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、夏の想い出を作るって話はどうなるんだ。\nお前が暗い顔してたら楽しい想い出にならないだろ？",
+    "translation": "Then what about the plan to make summer memories\ntogether? If you have a gloomy face,\nthat won't be a good memory, will it?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖！",
+    "translation": "Miku!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "話はもう終わり。\n出ていかないなら追い出す。",
+    "translation": "The conversation is over here.\nIf you won't leave, I'll make you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……断る。\nお前が言うまで絶対に出ていかない。",
+    "translation": "...I refuse to leave.\nI will definitely not leave until you talk."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ、私が出てく。",
+    "translation": "Then I'll leave."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なら、ついていく。\nどこまでもな。",
+    "translation": "If you do, I'll follow you.\nWherever you go."
+  },
+  {
+    "character": "三玖",
+    "japanese": "はあ……。\n本当に頑固だね、フータローは。",
+    "translation": "*sigh*\nYou're really stubborn, Futaro."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……でも、ありがとう。",
+    "translation": "...But, thank you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖？　なんだ？",
+    "translation": "Miku? What is it?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ごめん、やっぱり言えない。",
+    "translation": "Sorry. I just can't say."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、夏の想い出を作るって話はどうなるんだ。\nお前が暗い顔してたら楽しい想い出にならないだろ？",
+    "translation": "Then what about the plan to make summer memories\ntogether? If you have a gloomy face,\nthat won't be a good memory, will it?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖！",
+    "translation": "Miku!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "話はもう終わり。\n出ていかないなら追い出す。",
+    "translation": "The conversation is over here.\nIf you won't leave, I'll make you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "放っておけねぇんだよ。\nそう言われて、はいわかりましたって出ていけるか！",
+    "translation": "I can't leave you alone here.\nIf you tell me that,\ndo you really think I can just say okay and leave?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここで、みんなで想い出を作るんだろ？\n俺のせいでお前だけいい想い出がないまま\n終わるなんて――",
+    "translation": "We're supposed to make memories together here, right?\nIt's not fair that you'll be the only one\nwithout good memories because of me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺が俺を許せねぇ。\nだから……頼む、三玖。",
+    "translation": "I can't forgive myself.\nSo...please, Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー……。",
+    "translation": "Futaro..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……でも、やっぱりダメ。\nフータローには言えない……。",
+    "translation": "...But, it's still no good.\nI can't tell you..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖！",
+    "translation": "Miku!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "話はもう終わり。\n出ていかないなら追い出す。",
+    "translation": "The conversation is over here.\nIf you won't leave, I'll make you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なっ！？　くそっ！\n力づくで追い出す気かよ！",
+    "translation": "What?! Dammit!\nAre you trying to force me out?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "出てって……！",
+    "translation": "Get out!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "断る！",
+    "translation": "No!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（というか、ここで押し負けるのは絶対に阻止だ！）",
+    "translation": "(Or rather, I absolutely can't back down here!)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "んんん～っ！",
+    "translation": "NGHHHH!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おいっ！\nお前、そんな無理に押すな！\nこれじゃ態勢が……おわぁっ！？",
+    "translation": "H-hey!\nMiku, don't push so hard!\nI'm gonna lose my balance...WAAH?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "きゃあっ！？",
+    "translation": "EEEP?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほら見ろ、言わんこっちゃない！\n俺が受け止めなきゃ転んでただろ！",
+    "translation": "Now look, I told you so!\nYou would have fallen if I hadn't caught you!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……ご、ごめん。",
+    "translation": "...S-sorry."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まったく……。\nちゃんと立てるか？　怪我はしてないよな？",
+    "translation": "Good grief...\nAre you able to stand? Are you hurt?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "大丈夫、フータローが受け止めてくれた、か、ら……。",
+    "translation": "No, I'm fine, you caught me, Futaro,\nS-so..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖？　どうした？",
+    "translation": "Miku? What's up?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おーい、三玖？",
+    "translation": "Hey-y, Miku?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "い、い、いま、わ、私、フータローと……。",
+    "translation": "N-n-now, I-I, and you, are..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "い、いやぁっ！？",
+    "translation": "N-NOO?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どわぁっ！？",
+    "translation": "WAAAH?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ！？　おい三玖！\nまだ話は終わってないぞ！　中に入れろ！",
+    "translation": "Yo?! Hey, Miku!\nI'm not done talking with you!\nLet me in here!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ごめん、フータロー。\n今日はもう無理……！",
+    "translation": "I'm sorry, Futaro.\nI can't talk anymore today!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "無理じゃないだろ！　ドアを開けてくれ！",
+    "translation": "Yes you can! Open the door!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……ダメだ、完全に締め出されちまった。\n　どうする、なんとかしてもう一度話を……）",
+    "translation": "(...No good, I've been completely locked out.\n What do I do?\n I have to find a way to talk to her again...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "今の悲鳴はっ！？\n三玖、どうしたの！？",
+    "translation": "What was that scream just now?!\nMiku, what's wrong?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "って、フー君？\nなんでドアの前でへたり込んでるの？",
+    "translation": "Hey, Fu-kun?\nWhy are you sunk down in front of the door?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こ、これは……。",
+    "translation": "Th-this is..."
+  },
+  {
+    "character": "一花",
+    "japanese": "ははーん、これは、\n話を聞こうと強引に三玖に迫ったら、\n逆に追い出されたってところかな？",
+    "translation": "Ha-haah, I bet,\nwhen you tried to force Miku to talk,\nyou ended up getting kicked out instead."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "誤解だっ！\n俺はいたって穏便に……。",
+    "translation": "It's a misunderstanding!\nI was very much peaceable..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃあ、話は聞けたのかしら？",
+    "translation": "Then, did she talk to you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……聞けてない。",
+    "translation": "...She didn't."
+  },
+  {
+    "character": "五月",
+    "japanese": "つまり追い出されたわけですね？\n一体、三玖にどんなことをしたのですか？",
+    "translation": "So, you WERE kicked out then?\nWhat on earth did you do to Miku?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だから誤解だと！\nこうなったのは不可抗力だー！！",
+    "translation": "Like I was just saying, it's all a misunderstanding! \nThis situation was beyond my control!"
+  }
+]

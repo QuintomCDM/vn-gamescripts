@@ -1,0 +1,382 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（これは……これは現実なのか……\n　俺は……夢を見てるんじゃないか……）",
+    "translation": "(Is this... Is this reality?\n Am I...having a dream?)"
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君。",
+    "translation": "Futaro-kun."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君。",
+    "translation": "Fu-kun."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー。",
+    "translation": "Futaro."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん。",
+    "translation": "Uesugi-san."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君。",
+    "translation": "Uesugi-kun."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……せーのっ！",
+    "translation": "...And, go!"
+  },
+  {
+    "character": "一花",
+    "japanese": "私を選んでください！",
+    "translation": "PLEASE CHOOSE ME!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（夢だとしたら、とんでもない悪夢だ……）",
+    "translation": "(If this is a dream, it's an absolute nightmare...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ？　演劇部の助っ人！？\nしかも５人全員でって……。",
+    "translation": "Huh? You're supposed to help out the theater club?!\nAnd all five of you..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それが、どうしても断れなくて\nお手伝いすることになっちゃいまして。",
+    "translation": "Well, I couldn't say no,\nso I ended up agreeing to help them out."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "夏休みは受験勉強のためにあるってのに、\n一体何を考えてるんだ！",
+    "translation": "Summer vacation\nis supposed to be for studying for exams,\nwhat in the hell are you thinking?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "まあまあ、そんなに怒らないであげてよ。",
+    "translation": "Now now, you don't need to get that angry."
+  },
+  {
+    "character": "二乃",
+    "japanese": "勉強は、ちゃんと自分たちで進めてるわ。\n臨時の手伝いくらいなら問題ないでしょ？",
+    "translation": "Well, we're still studying on our own.\nIt's not a problem to help out temporarily, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "台本チェックの予行演習に１回付き合うだけ。\nそれに、ここで断ったら相手が困ると思う。",
+    "translation": "We just have to check the script once in a practice run.\nPlus, if we decline now,\nit'll cause trouble for the club."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですね。\n引き受けてしまった以上、演劇部の方々に\nご迷惑はかけられません。",
+    "translation": "That's right.\nSince we've already agreed,\nwe can't create any problems for the theater club."
+  },
+  {
+    "character": "四葉",
+    "japanese": "と、このようにみんなも申しておりますので、\nここは何卒お許しを～！",
+    "translation": "As you can see, everyone else here feels the same,\nso please, forgive us!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかったわかった。\nしかし、四葉だけならともかく５人ともって\nどんな劇なんだよ。",
+    "translation": "Alright, alright. But, it's not just Yotsuba,\nit's all five of you. What kind of play is this?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あら？　フー君も入ってるんだから６人よ？",
+    "translation": "Huh? You're in it too, Fu-kun,\nso it's the six of us, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……は？",
+    "translation": "...Huh?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "男手も足りないって言われちゃったの。\nねー、四葉？",
+    "translation": "They said they don't have enough guys.\nRight, Yotsuba?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そ、そうなんですよぉー。\nここは１つ、力を貸していただきたくー。",
+    "translation": "Y-yes, that's right!\nCould you lend us your strength here, please?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "１日だけお願い……ね？",
+    "translation": "Just for one day... Okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はああぁぁぁ……。\n俺まで勝手に巻き込みやがって。",
+    "translation": "*sigh*\nDragging me into this without asking, really."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "受験勉強もあるんだし、\n手伝うのは予行演習だけだからな？",
+    "translation": "And I still have to study for exams.\nI'm only gonna help out with the practice run, got it?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ありがと、フー君！",
+    "translation": "Thanks, Fu-kun!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし、ちょっとタイムだ！\n確かにあのとき、俺は手伝うと言った。",
+    "translation": "Alright, time out!\nI DID say I'd help out."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが、なんで新郎役をやらされてるんだ？\nこれはサポートなんかじゃなくて\n主役の立ち位置だろ！",
+    "translation": "But, why am I being made to play the groom?\nThis isn't just supporting, it's the main role!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、上杉さん。\nそこ、セリフ間違ってますよ？",
+    "translation": "Uesugi-san, Uesugi-san.\nYou got your lines wrong there."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？\nああ、すまん。",
+    "translation": "Huh?\nOh, sorry."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "集いし麗しき花嫁たちよ！\nその言葉を待っていた！",
+    "translation": "Gathered together are the beautiful brides!\nI await their words!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この俺様の愛がほしくば、\n戦い、奪い、勝ち取るがいい！",
+    "translation": "If you want my love,\nfight for it, seize it, and win it!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さあ！　『ウェディング・バトルロイヤル』開幕だ！",
+    "translation": "Now, let the 'Wedding Battle Royale' begin!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃ、ねぇって！",
+    "translation": "I'm NOT saying that!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "さすがフー君。\n渡した台本、しっかり覚えてるじゃない。",
+    "translation": "Wow, Fu-kun, you're something else.\nYou really memorized the script I gave you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、それはまあ、手伝うからには\nどんな劇なのか知っておくべきだろ？\nそのついでに覚えちまったんだよ。",
+    "translation": "Well, if I'm helping out,\nI should know what kind of play it is, right?\nAnd I happened to memorize it along the way."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふっ、ホント真面目なんだから。\nそんなところも素敵よ。",
+    "translation": "Hehe, you're so serious.\nIt's one of the things I adore about you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ていうか、演劇部の連中、\nなんの迷いもなく俺に衣装を着せてきたぞ？\nお前ら、最初からこうするつもりだったんだな？",
+    "translation": "...Or rather, the theater club guys didn't hesitate\nat all to dress me up in costume, did they?\nYou guys planned to do this from the beginning, right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "安心して。\nタキシードも似合ってるから。",
+    "translation": "Don't worry.\nYou look good in a tuxedo too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そこじゃねぇよ！",
+    "translation": "That's not the point!"
+  },
+  {
+    "character": "一花",
+    "japanese": "いやぁ、ほら、フータロー君がやってくれたほうが\n雰囲気出るでしょ？\n色々と、ね？",
+    "translation": "Well, come on, it would create the right atmosphere\nif you did it, right, Futaro-kun?\nIn more ways than one, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "あの、私は、この劇の内容そのものは\nいかがなものかとは思っていますが――",
+    "translation": "Well, um, I have my reservations about the content\nof this play itself, but%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "演劇部のみなさんは\nとても真剣に取り組んでいますし……\n上杉君にも、お手伝いいただけませんか？",
+    "translation": "The members of the theater club\nare working very seriously...\nCould you please help us too, Uesugi-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……わかったよ。\n今回だけ付き合ってやる。",
+    "translation": "...Got it.\nI'll help out, just this once."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ありがとうございます！",
+    "translation": "Thank you very much!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっと、じゃあ次のテストはシーン３ですね。\nやってみましょう！　はい、スタート！！",
+    "translation": "Um, then the next test is scene three, right?\nLet's give it a try! Alright, start!!"
+  },
+  {
+    "character": "一花",
+    "japanese": "そろそろ観念したらどうかな？\n君にだったら、お姉さんの全部を\n見せてあげてもいいんだよ？",
+    "translation": "Shouldn't you just give in already?\nIf it's you, I could show you everything about me,\nyou know?"
+  },
+  {
+    "character": "一花",
+    "japanese": "その代わり、よそ見なんてしちゃダメ。\n私のことだけを見ててくれなきゃ嫌だからね。",
+    "translation": "But in exchange, don't look away.\nI don't want you to look at anyone else but me."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえ、あんたが私のことを一番愛してくれてるのは、\nちゃーんと知ってるんだからね？",
+    "translation": "Hey. You know WELL that you love me the most, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "私だって、あんたのことを愛してるわ。\n自分で自分の気持ちがわかるまで\n時間がかかっちゃったけど……本気よ。",
+    "translation": "Well, I love you too. It took me some time\nto understand my own feelings...\nbut I'm serious."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私はもう、あなたなしでは生きられない。\n……責任とってくれる？",
+    "translation": "I can't live without you anymore.\n...Will you take responsibility for that?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "お願い……。\nいっそ、この身も心も全部、奪っていって。",
+    "translation": "Please...\nTake everything from me,\nmy body, and my heart."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あの、私なんかを\n選んでくれるとは思ってませんけど……\nでも、もし、あなたのそばにいてもいいのなら……。",
+    "translation": "Well, I don't really expect you\nto choose someone like me...\nBut if it's alright for me to be by your side..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "２人で頑張っていきたいです。\n一緒に、並んで、手をつないで、\nどこまでも歩んでいきましょう。",
+    "translation": "I want to work hard together with you.\nLet's walk together, side by side, hand in hand,\ngoing anywhere and everywhere together."
+  },
+  {
+    "character": "五月",
+    "japanese": "……別に私は、あなたのことなんて\n好きでもなんでもありません。",
+    "translation": "...It's not like I like you or anything."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが、あなたが必要かと言われたら……。",
+    "translation": "But if someone asked if you were necessary..."
+  },
+  {
+    "character": "五月",
+    "japanese": "共にありたいと思っています。\nそう思う自分がいることを……否定できません。",
+    "translation": "I want to be with you.\nI can't deny that there's a part of me...\nthat feels that way."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "～～～～～っ。",
+    "translation": "~~~~~"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やっぱ、勘弁してくれ。\nこれ以上は無理だ……。",
+    "translation": "Please, spare me.\nAny more is impossible..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー……。\nこっちは真面目にやってるのに。",
+    "translation": "Futaro...\nWe're taking this seriously, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、これはさすがに、\n内容に無理がありすぎるだろ……。",
+    "translation": "Nah, really now,\nthis is just too much to handle..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは……。\nやっぱり、この劇、ボツになっちゃいそうですかね。",
+    "translation": "Ahaha...\nLooks like this play is going to be scrapped after all."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "第一、勝ち残ったら選ぶなんて傲慢すぎる。\n相手の気持ちと――",
+    "translation": "First of all, it's too arrogant to choose someone\nonly if they win. You should consider\nthe other person's feelings and, above all else%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なによりも、自分自身の想いと\nちゃんと向き合って選び取るべきだ。",
+    "translation": "You should face your own feelings,\nand choose for yourself."
+  },
+  {
+    "character": "一花",
+    "japanese": "ふ～ん……。\nじゃ、フータロー君は\nちゃんと１人を選んでくれるんだ。",
+    "translation": "Mmm...\nThen, Futaro-kun, you will choose one of us, won't you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……はっ？",
+    "translation": "...Huh?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "今の言葉、忘れないでよね？\n必ず私を選ばせてみせるわ。",
+    "translation": "Don't forget what you just said, okay?\nI'll make sure you choose me."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私を選んでもらえるように頑張る。\nだから私を、しっかり見ていてほしい。",
+    "translation": "I'll do my best to be chosen.\nSo please, watch me closely."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんなら、ゆうげんじっこーしてくれますよね。\nほら、男に二言はないとも言いますし！",
+    "translation": "Uesugi-san, you'll keep your promise, won't you?\nAfter all, they say a man's word is his bond!"
+  },
+  {
+    "character": "五月",
+    "japanese": "自身の言動には責任を持つべきです。\nもちろん、わかっているとは思いますが。",
+    "translation": "You should take responsibility\nfor your words and actions.\nOf course, I'm sure you know that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……わかってる。",
+    "translation": "...I understand."
+  },
+  {
+    "character": "五月",
+    "japanese": "でしたら、いいのです。",
+    "translation": "I do know that. So it's fine."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（これは劇のワンシーンにすぎない。\n　だが……現実は劇のように筋書き通りに\n　都合良くは進んでくれない）",
+    "translation": "(This is just a scene in a play.\n But...real life doesn't always go\n as smoothly as the script.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いつか、答えを出すべき時が来る。\n　その時までに、俺は、自分自身の気持ちを\n　理解することができるのだろうか）",
+    "translation": "(Someday, the time will come\n when I have to give an answer.\n Will I be able to understand my own feelings by then?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いや、しなくちゃならない。\n　でなければ、こいつらの前に立つ資格も\n　ないんだからな……）",
+    "translation": "(No, I have to do it.\n Otherwise, I won't have the right\n to stand in front of these quintuplets...)"
+  }
+]

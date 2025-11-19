@@ -1,0 +1,477 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（らいは……早く元気に……）",
+    "translation": "(Raiha... Feel better, soon...)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃーん、おはよっ！",
+    "translation": "Big brooo, good mornin'!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "――らいは！？",
+    "translation": "%p-2;――%p; RAIHA?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……なんだ、夢か）",
+    "translation": "(...Oh, it's a dream.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（外が明るいってことは、もう朝なのか。\n　いつの間にか寝ちまってた……）",
+    "translation": "(It's already morning since it's bright outside.\n I must have fallen asleep without realizing it...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（らいはの様子を見に行かないと。\n　夕べはあいつらに頼りっきりだったし――）",
+    "translation": "(I have to go check on Raiha's condition.\n I relied on those guys too much last night%p-2;――%p;)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー！　起きて！\nらいはちゃんが！！",
+    "translation": "Futaro! Wake up!\nIt's Raiha-chan!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "っ！？",
+    "translation": "?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいはがどうした！？",
+    "translation": "What happened to Raiha?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "わ、私にも何がなんだか……とにかく早く来て！",
+    "translation": "I-I don't really understand...\nAnyway, come quickly!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（まさか……！）",
+    "translation": "(It couldn't be!)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいはっ！？",
+    "translation": "Raiha?!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "わあっ！？\nお兄ちゃん、びっくりさせないでよ。",
+    "translation": "WAAH?!\nBig bro, don't scare me like that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……え？　らいは？",
+    "translation": "...Huh? Raiha?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "おはよー、お兄ちゃん！",
+    "translation": "Good mornin', big bro!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おはよう……。\nお前、起きて大丈夫なのか……？",
+    "translation": "Good morning...\nIs it okay for you to be up like this...?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん。\nなんか、もうスッキリしちゃった。",
+    "translation": "Yep. I feel much better now, somehow."
+  },
+  {
+    "character": "三玖",
+    "japanese": "らいはちゃん、\n目が覚めたらすっかり元気になってて……。\n熱も、いつの間にか下がったみたい。",
+    "translation": "When Raiha-chan woke up,\nshe was completely energetic...\nHer fever seems to have gone down too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はは……そうだったのか……。\nなんだよ、驚かすなよ……。",
+    "translation": "Haha... Is that so...\nCome on, don't surprise me like that..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "また熱出しちゃったみたいで、ごめんね。",
+    "translation": "It looks like I got a fever yet again.\nSorry about that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まったく、無理するからだぞ。\nでも治ってよかった……！",
+    "translation": "Geez, don't push yourself too hard.\nBut I'm glad you're feeling better...!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "わわっ！\nちょっと、お兄ちゃん！　苦しいよ！\n三玖さんも見てるし、恥ずかしいから～！",
+    "translation": "Wawah!\nOuch, big bro! You're hurtin' me!\nMiku-san is looking too! It's embaaarraaassing!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、ずっと心配してたもんね。\n本当に、元気になってよかった……。",
+    "translation": "Futaro, you were worried the entire time.\nI'm so glad she's feeling better..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "らいはちゃん！",
+    "translation": "Raiha-chan!"
+  },
+  {
+    "character": "五月",
+    "japanese": "目が覚めたんですか！？",
+    "translation": "Are you awake?!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、もうすっかり元気だよ。\n心配させちゃってごめんなさい。",
+    "translation": "Yes, I'm completely better now.\nI'm really sorry for worrying you."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ううっ、元気になってよかったですぅ～！",
+    "translation": "Ooohh, I'm SO HAPPY you're feeling better!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ひゃあ！？\nこ、今度は四葉さん！？",
+    "translation": "HYAAH?!\nN-now you, Yotsuba-san?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "こら、四葉！\nらいはちゃんは病み上がりなのよ？\n無理させない！",
+    "translation": "Hey, Yotsuba!\nRaiha-chan is still recovering, isn't she?\nDon't push her too hard!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは……。\nごめん、勢いあまっちゃった。",
+    "translation": "Ahaha...\nSorry, I got carried away."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、すっかり元気だね。\n本当によかった。",
+    "translation": "Yeah, she's completely better now.\nI'm really glad."
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、でも病院へは行こうか。\n元気になったとは言え、\nちゃんと診てもらったほうがいいよ。",
+    "translation": "Oh, but we're still going to the hospital, right? \nEven if she's feeling better,\nit's better to get checked."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、そうだな。",
+    "translation": "Yeah, that's true."
+  },
+  {
+    "character": "二乃",
+    "japanese": "けど、不思議だわ。\nこんなに急に治っちゃうものなの？",
+    "translation": "But, it's strange.\nCan someone really recover so suddenly like this?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うーん、どうだろう？\n夕べはなかなか熱が下がらなくて、\n本当に心配だったんだけど。",
+    "translation": "Well, I don't know.\nLast night, Raiha's fever wasn't going down,\nand I was really worried."
+  },
+  {
+    "character": "五月",
+    "japanese": "……あら？",
+    "translation": "...Huh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "どうしたの？",
+    "translation": "What's wrong?"
+  },
+  {
+    "character": "五月",
+    "japanese": "いえ、置いておいた水晶が見当たらなくて……。\n枕の下にでも入ってしまったのかと。",
+    "translation": "Um, I can't find the crystal I left here...\nIs it under the pillow or something?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "本当だ。\n私、ずっと看病してたけど気がつかなかった。",
+    "translation": "Oh, you're right.\nI didn't notice it while I was taking care of her."
+  },
+  {
+    "character": "五月",
+    "japanese": "……見当たりませんね。\nどこへいってしまったのでしょう。",
+    "translation": "I can't find them anywhere.\nWhere did they go?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、水晶ってなんのことだ？",
+    "translation": "Hey, what crystals are you talking about?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "夕べ、泉で見つけた水晶に、\nらいはちゃんが元気になりますようにって\nみんなで願掛けしたんですよ。",
+    "translation": "The crystals we found at the spring last night\nand wished for Raiha-chan's quick recovery."
+  },
+  {
+    "character": "らいは",
+    "japanese": "えっ！？\n水晶、見つけたんだ！",
+    "translation": "Huh?!\nYou found the crystals?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "はい、それをらいはちゃんの枕元に\n置いておいたのですが……。",
+    "translation": "Yes, and we left them by your pillow, Raiha-chan,\nbut..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "水晶が消えて、代わりに\nらいはちゃんが元気になった……ってこと？",
+    "translation": "The crystals disappeared,\nand instead,\nyou got better...is what happened?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "だったら、本当に不思議な力が宿ってたのかも！\n力を使い切って消えちゃったとか！",
+    "translation": "If that's the case, then maybe there really was\nsome mysterious power! Maybe the crystals used up\nall their power and disappeared!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "すごいですよ上杉さん！\n伝説は本当だったんです！",
+    "translation": "Amazing, Uesugi-san!\nThe legend was true!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、違うだろ。",
+    "translation": "No, it wasn't."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええー……。\nこれでも伝説を信じないんですか？",
+    "translation": "Wow...\nYou won't believe, even after \nsomething like THIS has happened?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "信じる信じないじゃない。\nらいはが元気になったのは\n水晶の力なんかじゃなくて――",
+    "translation": "It's not about believing or not.\nIt's not the power of the crystals\nthat made Raiha-chan better%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいはを心配して、夜通しで看病してくれた\nお前らのおかげだ。",
+    "translation": "It's because all of you stayed up all night\nto take care of her, and worried about her."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君……。",
+    "translation": "Uesugi-kun..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だよな、らいは？",
+    "translation": "Right, Raiha?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "そっか、みんなが看病してくれたんだ。\nありがとうございました。",
+    "translation": "Oh, I see.\nEveryone took care of me. Thank you very much."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえいえっ！　そんな！",
+    "translation": "No no! It's no trouble at all!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "当然のことなんだから、お礼なんていいわ。",
+    "translation": "It's something we'd do naturally,\nso there's no need to thank us."
+  },
+  {
+    "character": "一花",
+    "japanese": "そうそう。\n元気になってくれたのなら、それでオッケーだよ。",
+    "translation": "That's right.\nIf she's feeling better now,\nthat's all that matters."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……そうだ。\n　水晶といや確かポケットに……）",
+    "translation": "(...That's right.\n The crystal, it was in my pocket...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あった。\nらいは、ほら、これ。お前にやるよ。",
+    "translation": "...Here it is.\nRaiha, here. I'll give this to you."
+  },
+  {
+    "character": "らいは",
+    "japanese": "水晶？\nお兄ちゃんもちゃんと拾ってきてたんだ！",
+    "translation": "A crystal?\nBig bro even picked one up!"
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ……！",
+    "translation": "Huh...?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっとフー君？\nどういうことよ、本当は拾ってたの？",
+    "translation": "Hey, Fu-kun?\nWhat's going on? You really picked one up?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "まさか、私たちに黙っておいて、\nあとでこっそり誰かに渡そうとしたんじゃ……。",
+    "translation": "You didn't secretly pick it up,\nplanning to give it to someone later..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "違う、変な想像をするな。\nらいはを探しに行ったときに拾ったんだよ。",
+    "translation": "No, don't imagine anything weird.\nI picked it up when I went to look for Raiha."
+  },
+  {
+    "character": "五月",
+    "japanese": "ああ、そうだったんですか。",
+    "translation": "Oh, that's how it was then."
+  },
+  {
+    "character": "らいは",
+    "japanese": "……私がもらっちゃっていいの？",
+    "translation": "...Is it really okay if I take it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いいんだよ。\n伝説なんて関係なく、俺がお前にやりたいんだ。",
+    "translation": "It's okay.\nIt doesn't matter if it's a legend or not.\nI just want to give it to you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（きっと、らいはは俺がこいつらのうちの誰かに\n　渡すことを望んでるんだろうが……）",
+    "translation": "(I'm sure Raiha wants me to give it\n to one of the quintuplets...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（すまん、俺にはまだわからないんだ。\n　自分の気持ちも、どうすべきかも）",
+    "translation": "(Sorry, I still don't know.\n My own feelings, or what to do...)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "う～ん……。",
+    "translation": "Hmm..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……どうした？",
+    "translation": "...What's up?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ねえ、お兄ちゃん。\nこの水晶、看病してもらったお礼に\n五月さんたちにあげてもいいかな？",
+    "translation": "Hey, big bro.\nCan I give this crystal to Itsuki-san and the others\nas a thank you for taking care of me?"
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、もうお前の物だからな。\n好きにしていい。",
+    "translation": "Well, it's already yours.\nYou can do whatever you want with it."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが……。",
+    "translation": "But..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "看病してもらったお礼と、あと……。",
+    "translation": "As a thank you for taking care of me, and also..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "私とお兄ちゃんをこの島に誘ってくれて、\nたくさん楽しい想い出を作ってくれて、\nありがとうございました！",
+    "translation": "For inviting me and big bro to this island\nand making so many fun memories with us.\nThank you very much!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "この水晶が、みんなとの想い出の\nしるしになったらいいなって。",
+    "translation": "I was hoping this crystal could be a symbol\nof our memories together."
+  },
+  {
+    "character": "五月",
+    "japanese": "らいはちゃん……。",
+    "translation": "Raiha-chan..."
+  },
+  {
+    "character": "一花",
+    "japanese": "そう言われたら、\n受け取らないわけにはいかないよね。",
+    "translation": "If you say so, we can't refuse, can we?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうね。\n島での想い出と一緒に、大切にしないと。",
+    "translation": "Well, yeah.\nWe have to cherish it\nalong with our memories of the island."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん！\nみんなで過ごした時間の結晶だよ。",
+    "translation": "Yeah!\nIt's the crystallization of the time we spent together."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ありがとう、らいはちゃん。",
+    "translation": "Thank you, Raiha-chan."
+  },
+  {
+    "character": "五月",
+    "japanese": "では、大切にさせていただきますね。",
+    "translation": "I'll make sure to keep it safe."
+  },
+  {
+    "character": "らいは",
+    "japanese": "あと、それとね？\nこれからも、お兄ちゃんをよろしくお願いします。",
+    "translation": "Oh, and also?\nPlease take care of big bro from now on, too."
+  },
+  {
+    "character": "二乃",
+    "japanese": "もちろんよ！\nフー君のことは私に任せて！",
+    "translation": "Of course!\nLeave Fu-kun to us!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "なんで二乃が返事してるの？",
+    "translation": "Why are you the only one responding, Nino?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あら？　文句あるのかしら？",
+    "translation": "Huh? You have a complaint?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、あの、２人とも？\nらいはちゃんの前ですからねー？",
+    "translation": "U-um, you two?\nYou're in front of Raiha, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "というか前提がおかしいだろ。\n俺が、お前らの面倒を見てるんだが？",
+    "translation": "Well, the premise is all wrong.\nI'm the one who's taking care of you guys, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いつもありがとうございます！\n今後もご迷惑をおかけすることと思いますが、\nなにとぞ、よろしくお願いいたします。",
+    "translation": "Thank you so much, as always!\nWe'll probably continue to cause you trouble\nin the future, so please take care of us."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前はお前で、迷惑かける前提か。",
+    "translation": "You're already planning to do so, aren't ya?"
+  },
+  {
+    "character": "一花",
+    "japanese": "いやー、だって私たちって根っからのおバカだし？\nちゃんと卒業できるか、まだ油断できないと思うよ？",
+    "translation": "Well, we are just a bunch of airheads, you know?\nI don't think we can let our guard down\nuntil we graduate, yeah?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "自分で言うかっ！\nそう思うのならちょっとでも勉強に励め！！",
+    "translation": "You said it yourself!\nIf you feel that way, then you should study harder!!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "あははっ！\nお兄ちゃん、頑張ってね！",
+    "translation": "Ahaha!\nGood luck, big bro!"
+  }
+]

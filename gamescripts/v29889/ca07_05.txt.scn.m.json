@@ -1,0 +1,372 @@
+[
+  {
+    "character": "一花",
+    "japanese": "あ、五月ちゃん、どこに行ってたの？\n朝食の準備できてるよ。",
+    "translation": "Ah, Itsuki-chan, where were you?\nBreakfast is ready."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "二乃",
+    "japanese": "どうしたのよ、顔色が悪いけど。",
+    "translation": "What's wrong? You don't look so good."
+  },
+  {
+    "character": "四葉",
+    "japanese": "お腹すきすぎちゃった？",
+    "translation": "Are you super hungry?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……大変です。",
+    "translation": "...We're in trouble."
+  },
+  {
+    "character": "三玖",
+    "japanese": "大変って、何が？",
+    "translation": "Trouble? What?"
+  },
+  {
+    "character": "五月",
+    "japanese": "先ほど、朝の散歩をしていたら\n上杉君がやってきて……\n急に、歯の浮くようなことを言い出したんです。",
+    "translation": "Just now, when I was taking my morning walk,\nUesugi-kun came up to me and suddenly said \nsomething that set my teeth on edge."
+  },
+  {
+    "character": "二乃",
+    "japanese": "歯の浮くようなって、つまりどんなこと？",
+    "translation": "Set your teeth on edge? What'd he say?"
+  },
+  {
+    "character": "五月",
+    "japanese": "爽やか……と。",
+    "translation": "That...it's so refreshing."
+  },
+  {
+    "character": "三玖",
+    "japanese": "さ、爽やか？",
+    "translation": "R-refreshing?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ。\nそして、日の光まで俺たちを祝福している、\nとも言っていました。",
+    "translation": "Yes.\nAnd he said that even the sunlight was blessing us."
+  },
+  {
+    "character": "二乃",
+    "japanese": "待ちなさい、祝福ってなに？\nあんた、まさかフー君と\n何かあったんじゃないでしょうね？",
+    "translation": "Wait, what did he mean by blessing?\nNothing happened between you and Fu-kun, did it?"
+  },
+  {
+    "character": "五月",
+    "japanese": "安心してください、\n二乃が思っているようなことなどありえません。",
+    "translation": "Don't worry.\nNothing like what you're thinking about\ncould happen, Nino."
+  },
+  {
+    "character": "一花",
+    "japanese": "んー、それって、いつものあれじゃないかな。\n変な方向に情熱を燃やしちゃうやつ。",
+    "translation": "Hmm, isn't that the usual for him?\nHe gets passionate about weird things."
+  },
+  {
+    "character": "五月",
+    "japanese": "私もそうは思ったんですが、\nでも、それとは何か違うような気がして……。",
+    "translation": "I thought so too,\nbut it feels different this time..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "違うって、どんな感じで？",
+    "translation": "Different? How?"
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですね、例えば……。",
+    "translation": "Well, for example..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やあみんな、モーニン！",
+    "translation": "Yo, everyone, mornin'!"
+  },
+  {
+    "character": "五月",
+    "japanese": "こんな感じで、です……。",
+    "translation": "Like, this..."
+  },
+  {
+    "character": "一花",
+    "japanese": "なるほど、これは……。",
+    "translation": "I see. This is..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "確かに……いつものフー君とは違うわ。",
+    "translation": "Yes... Surely different than the normal Fu-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おいおい、みんなどうしたんだい？\n挨拶は大切だぜ。",
+    "translation": "Hey, hey, everyone, what's going on, yeah?\nGreetings are important, ya know."
+  },
+  {
+    "character": "らいは",
+    "japanese": "（お兄ちゃん、いいよ！　その調子！）",
+    "translation": "(Big bro, nice! Just like that!)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "おはよ……フータロー。",
+    "translation": "Good morning...Futaro."
+  },
+  {
+    "character": "四葉",
+    "japanese": "お、おはようございます。",
+    "translation": "G-good morning."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うむ、おはよう諸君。\n今日もいい朝だな！",
+    "translation": "Yep, good morning, everyone.\nWhat a beautiful morning today is as well!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "家族そろっての朝食！　いいじゃないか！\nこれぞ団らんというものだ。",
+    "translation": "Gathering with the family for breakfast!\nSo nice, isn't it?\nThis is what togetherness is all about."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちなみに、団らんというのはだな、\n輪になって座る――",
+    "translation": "By the way, togetherness means sitting in a circle%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっと、これどういうこと？\n頭でもぶつけたのかしら？",
+    "translation": "Hold on, what's going on here?\nDid you hit your head or something?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "何かいいことがあって、浮かれてるとか。",
+    "translation": "Or, he's excited because something good happened?"
+  },
+  {
+    "character": "一花",
+    "japanese": "というか無理してるのバレバレだけど、\n何か理由でもあるのかなぁ……。",
+    "translation": "He's obviously trying too hard,\nbut is there a reason for it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "爽やかなんだけど目が笑ってないよ。\nむしろ怖いよ。",
+    "translation": "It may be refreshing to see him like this,\nbut his eyes aren't smiling.\nIt's rather scary."
+  },
+  {
+    "character": "五月",
+    "japanese": "この上杉君、どう思います？",
+    "translation": "What do you think of this Uesugi-kun?"
+  },
+  {
+    "character": "一花",
+    "japanese": "どうって――",
+    "translation": "What do I think%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "変。",
+    "translation": "He's weird."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "フッ、さて朝餉を始めるとしようか。\nああ！　ちなみに朝餉とは、朝食のことだ。",
+    "translation": "Right then, let's start breakfast, eh?\nOh yeah! It's the most important meal of the day."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ふむ……。\n今日の朝食は、二乃と三玖が作ったのか。",
+    "translation": "Hm...\nDid Nino and Miku make breakfast today?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "美味いよ、いつもありがとう。\nこんな美味いものを食べられるなんて、\n俺は日本一の幸せ者だ。",
+    "translation": "It's delicious, thank you as always.\nBeing able to eat such delicious food,\nI am the happiest person in Japan."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ど、どういたしまして……。",
+    "translation": "Y-you're welcome..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "喜んでもらえたならよかった……。",
+    "translation": "I'm glad you're happy..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一花。",
+    "translation": "Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "なっ、何かな？",
+    "translation": "Wh-what is it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちゃんと起きられて偉いぞ。\nやっぱり、食事はみんなでそろって食べるのが\n一番美味いもんな。",
+    "translation": "You woke up on time. Good for you.\nEating together with everyone\nis the most delicious thing after all."
+  },
+  {
+    "character": "一花",
+    "japanese": "そ、そうだね！　美味しいなぁ！\nあははは……。",
+    "translation": "Th-that's right! It's so delicious!\nAhahaha..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん？　なんだ四葉、リボンが曲がってるぞ？",
+    "translation": "Hm? What's up Yotsuba, your ribbon is crooked."
+  },
+  {
+    "character": "四葉",
+    "japanese": "へっ？　そ、そうですか？",
+    "translation": "Wha? I-is that so?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "せっかくのチャームポイントが、\n朝露に濡れ、しおれている草花のようだ。\nほら、じっとしてろよ？",
+    "translation": "It's your signature style,\nbut it's looking like a dew-drenched, withered flower.\nLook, just stay still, okay?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ……ありがとう……ございます。",
+    "translation": "Ah... Thanks...a lot."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん？　五月、おかわりはしないのか？",
+    "translation": "Hm? Itsuki, aren't you getting seconds?"
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ！？\nしますけど……。",
+    "translation": "HUH?!\nWell, I am..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺ももらっちゃおうかな。\n今日のメシは美味くて、いくらでも入りそうだ。\n五月だってそうだろ？　フフッ！",
+    "translation": "I might get some too.\nToday's food is delicious, I could eat forever.\nYou too, eh, Itsuki? Heheh!"
+  },
+  {
+    "character": "五月",
+    "japanese": "うっ……。",
+    "translation": "Urg..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、そういえば五月。",
+    "translation": "Oh yeah, by the way, Itsuki."
+  },
+  {
+    "character": "五月",
+    "japanese": "なっ、なんですか？",
+    "translation": "Wh-what is it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さっき言い忘れたんだが、\nいつもつけている、その、星のヘアピン。\nとても似合ってるぞ。",
+    "translation": "I forgot to mention earlier,\nbut the star hairpins you always wear.\nThey look great on you."
+  },
+  {
+    "character": "五月",
+    "japanese": "は、はあ……。",
+    "translation": "Oh, ohh..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "（うんうん、お兄ちゃん絶好調だね！\n　作戦通りに、爽やかにみんなを持ち上げて\n　会話を弾ませてる）",
+    "translation": "(Yes, big bro is doing great!\n Just as planned, he's lifting everyone's spirits\n and keeping the conversation lively.)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "（きっとみんなも、お兄ちゃんのこと見直して――）",
+    "translation": "(I'm sure everyone\n is starting to see him in a new light%p-2;――%p;)"
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、三玖、お砂糖取ってもらえる？",
+    "translation": "Hey, Miku, can you pass me the sugar?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほら！　あまり使いすぎるなよ。\n女優はスタイルも重要だろ？",
+    "translation": "Hey now! Don't use too much.\nAn actress needs to take care of her figure, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、おかわりどうぞ。",
+    "translation": "Fu-kun, feel free to have seconds."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ありがとう！\nいやぁ、美味すぎて食べすぎてしまいそうだ。",
+    "translation": "Thanks!\nIt's so delicious, I feel like I could stuff myself silly. "
+  },
+  {
+    "character": "三玖",
+    "japanese": "ごちそうさま……。",
+    "translation": "Thanks for the meal..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あっ、三玖。\nもしよかったら、食後のコーヒーに\nつきあってくれないか？",
+    "translation": "Ah, Miku.\nWould you like to join me for coffee after breakfast?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "コーヒーですね！\n私が入れてきます！",
+    "translation": "Coffee, huh?!\nI'll put it on!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、ズ、ズルい！\n私も行く……！",
+    "translation": "Ah, y-you're so cunning!\nI'll go too...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はっはっは、どうしたんだあいつら、\nあんなに慌てて。",
+    "translation": "Hahaha, what's up you guys?\nYou're so flustered."
+  },
+  {
+    "character": "五月",
+    "japanese": "あむあむっ……んむっ……んむっ！",
+    "translation": "Nom nom...nom...nom!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おいおい、五月。\nそんなに急いで食べなくても、朝食は逃げないぞ。",
+    "translation": "Hey, hey, Itsuki.\nYou don't have to eat so fast,\nbreakfast isn't going anywhere."
+  },
+  {
+    "character": "五月",
+    "japanese": "ご、ごちそうさまです。\n私もコーヒーを入れてきますね。",
+    "translation": "Th-thanks for the meal.\nI'll go make some coffee too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ふふ、みんな慌ただしいな。\nもっと朝食は優雅に取らなければ。",
+    "translation": "Hehe, everyone seems so busy.\nWe should be more leisurely with our meal."
+  },
+  {
+    "character": "一花",
+    "japanese": "そ、そうだねぇ。",
+    "translation": "Th-that's right."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうね……。",
+    "translation": "Yes..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "（あれれ？　なんだか様子が変？\n　みんな、お兄ちゃんから\n　離れていってるような……）",
+    "translation": "(Hmm? Something seems off.\n Everyone seems to be moving away from big bro...)"
+  }
+]

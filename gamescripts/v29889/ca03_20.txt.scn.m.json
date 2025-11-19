@@ -1,0 +1,637 @@
+[
+  {
+    "character": "五月",
+    "japanese": "ここなら、あの鳥もいるかと思ったのですが……。",
+    "translation": "I thought that bird might be here but..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "見当たらないね。\nもう山まで帰っちゃったのかも。",
+    "translation": "I can't see it anywhere.\nMaybe it already went back to the mountains."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "五月、そろそろ戻ろっか。",
+    "translation": "Itsuki, let's head back soon."
+  },
+  {
+    "character": "五月",
+    "japanese": "え、ええっ！？",
+    "translation": "Huhhh?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "もう少し、もう少しだけ、鳥を探してみませんか？\n諦めるのは早いと思うんです！",
+    "translation": "Can't we try to find the bird\nA little longer, just a little longer?\nI think it's too early to give up!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、朝ご飯に遅れると困るし。",
+    "translation": "But I don't want to be late for breakfast."
+  },
+  {
+    "character": "四葉",
+    "japanese": "おやおや～？　そこにいるのは……。",
+    "translation": "Oh, look? Over there, isn't that..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "おっはよー、２人とも！\nこんなところで偶然だね～。",
+    "translation": "Good morning, you two!\nWhat a coincidence we all ended up here."
+  },
+  {
+    "character": "五月",
+    "japanese": "四葉？　どうしてここに？",
+    "translation": "Yotsuba? Why are you here?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "というか、偶然じゃないよね。\n別荘からずっと、草むらに隠れてついてきてたし。",
+    "translation": "Well, it's not really a coincidence.\nYou've been following us from the villa,\nhiding in the bushes."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うえっ！？\nそそそ、そんなことしてないよ？",
+    "translation": "WH-WHAAAT?!\nI-I-I-I haven't been doing that?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私たちを追いかけて来たんだ？",
+    "translation": "You've been following us?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "追いかけてなんてないって！\n私はただ日課のランニングをしてただけだから。",
+    "translation": "I wasn't really following you,\nI was just out for my daily run."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そんな日課があるなんて初耳。",
+    "translation": "I never knew you had a daily running routine."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あう……。",
+    "translation": "Ooohh..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "四葉？",
+    "translation": "Yotsuba...?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、追いかけてました。",
+    "translation": "Yeah, I followed you."
+  },
+  {
+    "character": "三玖",
+    "japanese": "はあ……。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あと、一花。\n木の裏にいるのはわかってるから。",
+    "translation": "Oh, and Ichika.\nI know you're hiding behind that tree."
+  },
+  {
+    "character": "一花",
+    "japanese": "なーんだ、私のことも気づいてたんだ。\n三玖ってば鋭いなぁ。",
+    "translation": "What?\nYou noticed me too?\nMiku, you're really sharp."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええっ！？\n一花までいたんですか？",
+    "translation": "WHAAA?!\nYou even found Ichika?"
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、私は四葉みたいに\nあとをつけてたわけじゃなくて、\nちゃんとジョギングしてたよ？",
+    "translation": "But I wasn't really following you like Yotsuba.\nHonestly I was just out for a jog."
+  },
+  {
+    "character": "一花",
+    "japanese": "たまたま、ジョギングコースの先に\n三玖と五月ちゃんがいたんだよね～。",
+    "translation": "It just so happened\nthat you were both here on the jogging course."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあ？\n別荘から全力で先回りしてたのはどこの誰よ。",
+    "translation": "Huh?\nWho was it that ran here at full speed from the villa?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あちゃー。\n二乃、それ言っちゃう？",
+    "translation": "Ahhh.\nDid you really have to say that, Nino?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃まで？\n朝ご飯はどうしたの？",
+    "translation": "Nino too?\nWhat are we going to do about breakfast?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "今日はらいはちゃんとフー君に任せたわ。",
+    "translation": "I asked Raiha-chan and Fu-kun to take care of it today."
+  },
+  {
+    "character": "二乃",
+    "japanese": "それにしても……。",
+    "translation": "At any rate..."
+  },
+  {
+    "character": "五月",
+    "japanese": "全員、揃っちゃいました……。",
+    "translation": "We're all here now..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……ふふっ！",
+    "translation": "...Teehee!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "三玖？",
+    "translation": "Miku?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ごめん、なんかおかしくなってきちゃった。\nみんな心配性だなって。",
+    "translation": "Sorry, I just thought it was kinda funny.\nEveryone is such a worrywart."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんたがそれを言う？\n心配するに決まってるじゃない。",
+    "translation": "YOU'RE the one saying that?\nOf course we would worry."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……うん、そうだよね。\nみんな、本当にありがとう。",
+    "translation": "...Yeah, that's true.\nEveryone, thank you so much."
+  },
+  {
+    "character": "一花",
+    "japanese": "どう？\n一晩考えて、少しは整理がついた？",
+    "translation": "How do you feel?\nHave you thought about it more since yesterday?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……うん。\n本当にごめん、心配かけちゃって。",
+    "translation": "...Yes.\nI'm really sorry for worrying everybody."
+  },
+  {
+    "character": "四葉",
+    "japanese": "しっかり受け止めるよ。\nなんでも話して。",
+    "translation": "We fully accept your apology.\nPlease tell us everything."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……わかった。",
+    "translation": "...Okay."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "昨日、私が将来のことで悩んでるって話はしたよね。",
+    "translation": "Well, yesterday I talked about\nhow I was feeling uncertain about my future plans."
+  },
+  {
+    "character": "五月",
+    "japanese": "はい。\n料理の学校に行きたいという想いに\n迷いが生じたのですよね。",
+    "translation": "Yes.\nYou had doubts about wanting to go to culinary school."
+  },
+  {
+    "character": "三玖",
+    "japanese": "だけど行きたくなくなったわけじゃない。\nただ、このままじゃダメだって感じて。",
+    "translation": "But it's not that I don't want to go anymore.\nI just don't feel like I can go on like this."
+  },
+  {
+    "character": "二乃",
+    "japanese": "その、ダメってなんなのよ。",
+    "translation": "What do you MEAN, 'like this'?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……心構え、みたいなところかな。\n二乃が言ったとおりなんだ。",
+    "translation": "...It's more of a mindset thing, I think.\nLike what Nino said."
+  },
+  {
+    "character": "二乃",
+    "japanese": "え？",
+    "translation": "What?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "私は、フータローのためだけに\n料理を勉強したいのかもしれない。",
+    "translation": "I'm afraid that I only want to study how to cook,\nso that I can cook for Futaro."
+  },
+  {
+    "character": "三玖",
+    "japanese": "料理学校で勉強して調理師になったら、\nフータロー以外の人にも喜んでもらえるように\nならないといけないのに。",
+    "translation": "If I become a chef after studying at cooking school,\nI don't only have to make Futaro happy with my cooking,\nI have to make other people happy, too."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも私はずっとフータローのことしか考えてない。\n作りながら、フータローが喜んでくれるところばかり\n想像してる。",
+    "translation": "But I've always thought only of Futaro.\nWhile I'm making cooking,\nall that I imagine is Futaro being happy."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そんな、身勝手な気持ちのままで\n料理の道に進んでいいのかって……怖くなった。",
+    "translation": "I wonder if it's okay to go down the path of cooking\nwhile being so selfish...\nI got so scared."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうだったんですか……。",
+    "translation": "So that's it..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……まさか、そんな風に受け止められるとはね。\n予想してなかったわ。",
+    "translation": "...I never expected you'd take it like that."
+  },
+  {
+    "character": "三玖",
+    "japanese": "待って、二乃が責任を感じる必要ないから。\nいずれ必ずぶつかる問題だったんだ。",
+    "translation": "Wait, you don't have to feel responsible, Nino.\nIt was a problem\nthat I was bound to run into eventually."
+  },
+  {
+    "character": "三玖",
+    "japanese": "むしろ、二乃が言ってくれて、\n進学しちゃう前に考えることができて、よかった。",
+    "translation": "In fact, I'm glad that you told me\nand I was able to think about it\nbefore going on to higher education."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……そう。",
+    "translation": "...Is that so."
+  },
+  {
+    "character": "二乃",
+    "japanese": "けど私、こうも言ったわよね？\nフー君のためだけに料理を覚えたいなら止めないって。",
+    "translation": "But I also said this, right?\nThat if you want to learn to cook just for Fu-kun,\nyou won't stop."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうだよ、上杉さんのためだって立派な理由だよ。\n誰かのために頑張るのって悪いことじゃないよね？",
+    "translation": "Yes, doing it for Uesugi-san is a wonderful reason.\nIt's not a bad thing to work hard for someone, is it?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……かもしれない。\nでもどうしても、私自身が納得できない。",
+    "translation": "...Perhaps.\nBut no matter what,\nI can't convince myself to go for that reason alone."
+  },
+  {
+    "character": "一花",
+    "japanese": "三玖は、根がすごく真面目だからね。\n他の人に申し訳ないって思っちゃうのかな。",
+    "translation": "Miku, you're very serious at heart.\nI wonder if you're just projecting your\ndissatisfaction upon other people."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが、これも難題ですね。\n料理と縁遠い私では、これと言った\nアドバイスもできません。",
+    "translation": "This is a difficult situation, isn't it.\nSince I'm not really into cooking,\nI can't give you any advice."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、二乃はどう？",
+    "translation": "Alright, how about you, Nino?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "どうもなにも……三玖の気持ち次第でしょ？",
+    "translation": "None from me...it depends on how Miku feels, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "進学するなら止める気ないけど、\nここでフー君のためでもいいんだって\n三玖を納得させる理由もないわ。",
+    "translation": "If you want to go on to higher education,\nI'm not going to stop you, but there should be no need\nfor us to convince you that it's okay to go just for Fu-kun."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "三玖……。",
+    "translation": "Miku..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "んんんー、料理の勉強をする理由かぁ。",
+    "translation": "Hmmm, a reason to study cooking."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、そうだ！\n花嫁修業って考えたらいいんじゃない？",
+    "translation": "Ah, that's right!\nWhat about thinking of it as bride training?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあっ？\nあんたなに言って……。",
+    "translation": "Huh?\nWhat are you saying?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ああ、なるほどねぇ！\nそのままフータロー君のお嫁さんになればいいんだ。",
+    "translation": "Ah, I see!\nThen you can become Futaro-kun's wife, just like that."
+  },
+  {
+    "character": "一花",
+    "japanese": "だったら、フータロー君のためだけに\n料理をしてても問題なしだよ。",
+    "translation": "In that case, there's no problem at all\nwith only cooking for Futaro-kun."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "え、えぇえええぇぇっ！？",
+    "translation": "H-HuUUUuuhh?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "一花まで……。\nその冗談はシャレになってないから。",
+    "translation": "You too, Ichika...\nThat's not very funny."
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、そうです！\nいきなり、そんな、お嫁さんだなんて\n話が飛躍しすぎですよ！？",
+    "translation": "Y-Yeah!\nAll of a sudden like that, \ngoing and talking about her as his bride?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ですよね、三玖！",
+    "translation": "Isn't that right, Miku!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ？　おーい、三玖？",
+    "translation": "Umm? Earth to Miku?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローのお嫁さん……。",
+    "translation": "Futaro's bride..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "帰ったぞ、三玖。",
+    "translation": "I'm home, Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "おかえりフータロー。\nお仕事、おつかれさま。",
+    "translation": "Welcome home, Futaro.\nYou worked hard today."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ご飯できてるよ。\nそれとも、先にお風呂にする？",
+    "translation": "Dinner is ready.\nOr, would you like to take a bath first?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな……じゃあ……。",
+    "translation": "Hmm...well..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ひゃっ！？",
+    "translation": "EEEPP?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺は、お前がいいな。",
+    "translation": "You're the one for me, Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー……。",
+    "translation": "Futaro..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖はどうだ？",
+    "translation": "Miku, how do you feel?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "だ、ダメだよフータロー……。\nそんな、いきなり……困る……。",
+    "translation": "N-no, Futaro...\nI-if you do that so suddenly...\nthere'll be trouble..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺をその気にさせるお前が悪いんだぜ？\nまったく、可愛いやつだな。",
+    "translation": "It's your fault for making me interested in you, yeah?\nGod, you're so cute."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "わかった。\nフータロー、このまま……。",
+    "translation": "Okay.\nFutaro, let's stay just like this..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、もう逃がさない……。",
+    "translation": "Yeah, I won't let you go anymore..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "逃げたりなんてしないから……。",
+    "translation": "I wouldn't try to run away..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "正気に戻りなさいっ！",
+    "translation": "THIS IS GROUND CONTROL! EARTH TO MIKU!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あうっ……。",
+    "translation": "Oohh..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、あれ？\n私とフータローの家は……。",
+    "translation": "H-huh?\nFutaro and my house..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんたね、どんな妄想してたわけ？",
+    "translation": "Just what were you imagining?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……っ！？",
+    "translation": "...?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そそ、そ、そんなことしてない！",
+    "translation": "I-I, I-I wasn't imagining anything!"
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは、ごめんごめん。\nまさかここで三玖が妄想モードに入っちゃうとは\n思わなかったよ。",
+    "translation": "Haha, sorry, sorry.\nI never thought Miku would start daydreaming\nright here and now."
+  },
+  {
+    "character": "三玖",
+    "japanese": "妄想してない！！",
+    "translation": "I wasn't daydreaming!!!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はいはい、わかったわよ。",
+    "translation": "Okay, okay, we understand."
+  },
+  {
+    "character": "一花",
+    "japanese": "いやぁ、ホントごめんね？\n話を脱線させちゃって。",
+    "translation": "Yeah, I'm really sorry, okay?\nWe got off track."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……ううん。",
+    "translation": "...It's okay."
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、もしかして……。",
+    "translation": "Ah, perhaps..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "（そうだよね。\n　たぶん、一花は空気を変えようとしてくれたんだ。\n　あんまり思い詰めないようにって）",
+    "translation": "(That's right.\n Maybe Ichika was trying to change the mood.\n Just so we don't overthink it too much.)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあ、まったくもう。",
+    "translation": "*sigh* Good lord."
+  },
+  {
+    "character": "二乃",
+    "japanese": "言うまでもないけど、\nフー君のお嫁さんは却下！　だから。",
+    "translation": "It goes without saying,\nthe idea of you as Fu-kun's bride, I reject it out right!\nAnd that's that."
+  },
+  {
+    "character": "三玖",
+    "japanese": "割といい考えだと思ったのに。",
+    "translation": "I thought it was a pretty good idea though."
+  },
+  {
+    "character": "二乃",
+    "japanese": "みぃーくぅー？",
+    "translation": "Miikuu!!"
+  },
+  {
+    "character": "一花",
+    "japanese": "まあ、花嫁修業のつもりで進学します、なんて\nフータロー君が知ったら、怒られるに決まってるしね。",
+    "translation": "Well, if Futaro-kun found out\nthat you're going to higher education as part of\nbride training, he'd surely get angry."
+  },
+  {
+    "character": "四葉",
+    "japanese": "人生なめてるだろ！\nなんて言われちゃいそう。",
+    "translation": "He'd probably say something like,\n'Aren't you taking life for granted?'"
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君がどう言うかはともかく、\nまだ答えを出すのは早いのでは？",
+    "translation": "Regardless of what Uesugi-kun says,\nit's still too early to decide, isn't it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうだねー。\n私は三玖がどんな道に進んでも応援するけど、\nもっと色々な人の意見を聞いたほうがいいよ。",
+    "translation": "That's right. Miku, I'll support you\nno matter what path you take, but it's better for you\nto hear the opinions of more people."
+  },
+  {
+    "character": "五月",
+    "japanese": "私は、三玖が自分で納得しているのならば\nどんな進路でもいいと思います。",
+    "translation": "I think that as long as Miku is satisfied\nwith her choice, any path is fine."
+  },
+  {
+    "character": "一花",
+    "japanese": "私も。\nというか、二乃も含めてみんなそうだよね。\nこれじゃアドバイスにはならないか。",
+    "translation": "I think so too.\nIn fact, everyone, including Nino, feels that way.\nThis isn't really advice, is it?"
+  },
+  {
+    "character": "五月",
+    "japanese": "料理の学校に行くか、\n大学に進学するか、それとも他の道か……。\n幸いなことに、考える時間はまだ少しあります。",
+    "translation": "Whether to go to culinary school, university,\nor another path... Fortunately,\nwe still have a little time to think about it."
+  },
+  {
+    "character": "五月",
+    "japanese": "たくさん悩みましょう。\n私たちも、いくらでも相談に乗りますから。",
+    "translation": "Let's think it over a lot.\nWe're always here to help with any consultations."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん……。\nありがとう、みんな。",
+    "translation": "Okay...\nThank you, everyone."
+  },
+  {
+    "character": "四葉",
+    "japanese": "よかったぁ。\nなんとか一歩くらいは前進した感じ？",
+    "translation": "That's good.\nDoesn't it feel that we've moved forward a step?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、５人で一歩だけど今は充分でしょ。",
+    "translation": "Yes, it took the five of us to take one step,\nbut that's okay."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃ、そろそろ別荘に戻ろうか。\nフータロー君たちが待ってるよ。",
+    "translation": "Well, shall we go back to the villa now?\nFutaro-kun and Raiha-chan are waiting."
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、そうです、三玖。\nあなたの悩みのこと、上杉君も気にしていますし\n伝えたほうが……。",
+    "translation": "Oh, right, Miku.\nUesugi-kun is also concerned about you,\nso maybe you should tell him..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、フータローは私たちの家庭教師で、\n大学進学のために頑張ってくれてる。\nだから、どう伝えたらいいのか……。",
+    "translation": "But, Futaro is our tutor,\nand he's working hard for our university entrance exams.\nSo I don't know how to tell him..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うーん、きっと怒りはしないだろうけど、\n大学に行かないのは、上杉さんとしては\n複雑だろうね。",
+    "translation": "Well, he probably won't be angry,\nbut not going to university\nmight be complicated for Uesugi-san."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それに、まだ進学先を決めたわけでもないし。",
+    "translation": "And it's not like I've decided on a university yet."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なら、私たちから、進学のことは伏せて、\nあんたが料理のことで悩んでるって伝えておく。\nそれでどう？",
+    "translation": "Then, we'll keep quiet about your education,\nand tell him that you're worried about your cooking.\nHow about that?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……うん、わかった。",
+    "translation": "...Okay, that's fine."
+  }
+]

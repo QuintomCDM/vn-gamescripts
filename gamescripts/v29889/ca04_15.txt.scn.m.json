@@ -1,0 +1,562 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "ふう……。\nそろそろ昼をまわった頃か？",
+    "translation": "Whew...\nHas it already passed noon?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "どうでしょう？\nそれくらいの時間は歩いたような気もしますけど。",
+    "translation": "What do you think?\nIt feels like we've been walking for about that long."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "しばらく、ずっと森の中だしな。\nこう同じ景色ばかり続くと、どれだけ進んだのか\nわからなくて嫌になる。",
+    "translation": "We've just been in the forest for a while.\nBut being in the same scenery for so long\nmakes it hard to tell how far we've come. I don't like it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ちょっとだけでも、ひらけた場所に\n出られればいいんですけどね。",
+    "translation": "Just a little bit of open space would be nice,\nwouldn't it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここじゃ休憩も――",
+    "translation": "Why don't we take a break here%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……なんだ？）",
+    "translation": "(...What?)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あそこの草むら……今、動きましたよね？\nなにかいるんでしょうか。",
+    "translation": "In the grass over there... \nDid you see some movement, just now?\nCould something be there?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉、ちょっと下がってろ。",
+    "translation": "Yotsuba, get back a little."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……あっ！\nもしかして、一花たちが探しに来てくれたのかも！？",
+    "translation": "...Ah!\nCould it be Ichika and the others came to look for us?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、あいつらだったら、\nたぶん声をあげて捜すはずだ。\n俺やお前の名前を呼んだりしてな。",
+    "translation": "Nah, if it were them,\nthey'd probably be shouting our names or something\nto find us."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そっか、確かに。\n声が聞こえないのは変ですね。",
+    "translation": "I see. You're right.\nIt's strange that we can't hear their voices."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それに、お前が苦労している森なんだぞ。\nあいつらがここまで入って来れるとは思えない。",
+    "translation": "Also, this is a pretty difficult forest\nfor YOU to get through.\nI don't think they could make it this far."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、一体……。",
+    "translation": "Then, what exactly...?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "……何も出てきませんね。\n風が吹いて揺れただけだったんでしょうか？",
+    "translation": "...Nothing's coming out.\nMaybe it was just the wind blowing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "風だったとしたら、あそこの草だけが\n動くなんてことはないだろ。",
+    "translation": "If it was the wind,\nthe grass right there wouldn't be the only thing moving."
+  },
+  {
+    "character": "四葉",
+    "japanese": "う～ん……。\n考えれば考えるほど謎です。",
+    "translation": "Hmm...\nThe more we think about it,\nthe more mysterious it becomes."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ま、まさか凶暴な獣が！？\nあの茂みからガオー！　ってなって、\n私たちがご飯にされてしまうのでは！？",
+    "translation": "D-don't tell me it's a ferocious animal?!\nIt could jump out of that bush with a ROAR!\nAnd we'd be its dinner, couldn't we?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さすがに肉食獣はいないだろうが、\n野生のイノシシくらいなら出るかもしれないな。",
+    "translation": "There probably aren't any carnivorous animals here,\nbut a wild boar might show up."
+  },
+  {
+    "character": "四葉",
+    "japanese": "イノシシ……。\nちょっと会いたくはないですね。",
+    "translation": "A wild boar...\nI'd rather not meet one."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、でも毒蛇のほうがもっと危険か。\n気づかずに踏みつけて噛まれでもしたら、\nそれこそ命に関わる。",
+    "translation": "Yeah, but venomous snakes are even more dangerous.\nIf you step on one without realizing it and get bitten,\nyou might die."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ひええ……。\nマムシとかいませんよね……。",
+    "translation": "Eehh...\nThere aren't any pit vipers here, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いる可能性はある。\n島のこちら側にあまり人の手が入っていないのは、\n危険が多かったからなのかもな。",
+    "translation": "There's a possibility.\nMaybe there haven't been many people on this side\nof the island because it's so dangerous."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "危険なのは野生生物だけじゃない。\n崖や岩場の裂け目だって、落ちたら助からないぞ。\n注意しておけ。",
+    "translation": "It's not just wild animals that are dangerous. If you\nfall off a cliff or a rocky area, you won't survive.\nBe careful."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うええ……。\n考え出したら、もう危険だらけじゃないですか。",
+    "translation": "Eeeeghh...\nIt seems like everything is dangerous\nonce you start thinking about it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それだけじゃないぞ？\n自然の森の中には、都会育ちの俺たちじゃ\n想像もできない危険があるかもしれない。",
+    "translation": "And it's not just that, ya know?\nThere might be dangers in this forest\nthat we city folk can't even imagine."
+  },
+  {
+    "character": "四葉",
+    "japanese": "想像もできない……。\nもしかして、オバケとか妖怪とか？",
+    "translation": "That we can't imagine...\nYou mean like, ghosts or monsters?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんなのは存在しない！\nさあ、先へ進むぞ！",
+    "translation": "Those things don't exist!\nC'mon, let's keep moving!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "否定早いですよ、もう！\n待ってくださーい！",
+    "translation": "You denied that too quickly!\nWait uuup!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん……。",
+    "translation": "Uesugi-san..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、気づいてる。\n何かがあとをついて来てるな。",
+    "translation": "Yeah, I noticed it too.\nSomething's following us, isn't it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "やっぱり、オバケですかね？",
+    "translation": "You think it might actually be a ghost?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "オバケなんているわけないだろ。\nそれに、そういうのが出るとしたら夜じゃないか？",
+    "translation": "There's no such thing as ghosts.\nAnd even if there were,\nwouldn't they only come out at night?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "それなら妖怪だったりして。",
+    "translation": "Well, what about a monster?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……なんにしろ、姿も見せずに\nずっとついて来るなんて穏やかじゃないな。",
+    "translation": "...Regardless, it's not a good sign\nif it's been following us for so long\nwithout showing itself."
+  },
+  {
+    "character": "四葉",
+    "japanese": "も、もしかすると、私たち、\nオバケに目をつけられたんじゃ……。\n『島を荒らした報いじゃー！』とか……。",
+    "translation": "M-maybe, just maybe,\nwe've been targeted by a ghost...\n'Punishment for ruining the island!' or something..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ああああ！？\nまさか、島の人たちも\nそのオバケに捕まって行方不明になって無人島に！？",
+    "translation": "AAAAGH?! Perhaps the people on the island\nwere also caught by those ghosts\nand went missing, so it became a deserted island?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ねぇよ。\nお前はそろそろオバケから離れろ。",
+    "translation": "No way.\nYou should start getting over ghosts already."
+  },
+  {
+    "character": "四葉",
+    "japanese": "け、けど、このままついて来られたら……。",
+    "translation": "B-but, if one is following us like this..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確かに正体は気になるが、\n向こうから出てこない限り――",
+    "translation": "It's true that I'm curious about their true identity,\nbut unless one shows itself%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ひゃ！？",
+    "translation": "HYA?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "また音だけか？\nいい加減しつこいな。",
+    "translation": "Another sound?\nThis is getting ridiculous."
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "やっぱりダメですよ、上杉さん。\nここでオバケ退治しましょう。",
+    "translation": "I think we're in trouble, Uesugi-san.\nLet's exorcise the ghost here."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあっ？\n突然、何を言い出すんだ？",
+    "translation": "What?\nWhat are you saying outta nowhere?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "このままじゃ、オバケが\n別荘までついて来ちゃうかもしれません。",
+    "translation": "If we don't,\nthe ghost might follow us to the villa."
+  },
+  {
+    "character": "四葉",
+    "japanese": "もし、そうなったら、みんなに危険が……。",
+    "translation": "And, if that happened,\neveryone would be in danger..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "だから、ここで退治して、\nみんなのことを守らないといけません！",
+    "translation": "That's why we have to exorcise the ghost here\nand protect everyone!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さすがにオバケってことはないだろ。\n少し冷静になれ。",
+    "translation": "Come on, there's no way it's a ghost.\nPull yourself together."
+  },
+  {
+    "character": "四葉",
+    "japanese": "オバケじゃなくても妖怪ってこともあります！",
+    "translation": "Then, it might be a monster, not a ghost!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だから、そんなもんいないと何度言えば……。",
+    "translation": "I keep telling you, those things don't exist..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "オバケや妖怪じゃなくて獣だとしても、\nこのまま連れてはいけませんよ！",
+    "translation": "Even if it's not a ghost or a monster,\nwe can't just let it follow us like this!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉の言うとおり、\n他のやつらを危険に晒すわけにはいかない。",
+    "translation": "As you say, Yotsuba,\nwe can't expose the others to danger."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "オバケだ妖怪だは抜きにしても、\n正体を知っておく必要はあるかもな。",
+    "translation": "Whether it's a ghost or a monster,\nwe still need to know its true identity."
+  },
+  {
+    "character": "四葉",
+    "japanese": "その通りです！\n上杉さんもやる気になってもらえましたか？",
+    "translation": "That's right!\nAre you feeling motivated now, Uesugi-san?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（別にやる気になったわけじゃないが……）",
+    "translation": "(It's not that I'm really feeling motivated,\n or anything...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "素手じゃ危険だな。\n何か武器になりそうなものを……。",
+    "translation": "It's dangerous to fight barehanded.\nIs there anything that could be used as a weapon?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、これ使ってください！",
+    "translation": "Uesugi-san, please use this!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前はもっと、自分を大事にしろ。",
+    "translation": "You should take better care of yourself."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……えっ？",
+    "translation": "...Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前がやる気なのはいいが、\nそれで怪我でもしたら、誰が悲しむと思ってんだ。",
+    "translation": "It's good that you're motivated,\nbut if you get injured,\nwho do you think will be sad about it?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それがわかってないわけじゃないよな？",
+    "translation": "I know you know that, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "もちろんです、わかってます。",
+    "translation": "Of course, I do."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あいつらに心配かけたくなかったら、\n闇雲に行動するのだけは止めておけ。\nいいな？",
+    "translation": "If you don't want to worry the others,\ndon't act recklessly.\nGot it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい。\n勝手に無茶なことはしません。",
+    "translation": "Okay.\nI won't do anything reckless on my own."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……よし。",
+    "translation": "...Alright."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、オバケだ妖怪だは抜きにしても、\n正体を知っておく必要はあるかもな。",
+    "translation": "Whether it's a ghost or a monster,\nwe still need to know its true identity."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉の言うとおり、\n他のやつらを危険に晒すわけにはいかない。",
+    "translation": "As you say, Yotsuba,\nwe can't expose the others to danger."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はいっ！\nよーし、気合入ってきました！",
+    "translation": "Okay!\nOH YEAH, I am pumped!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "素手じゃ危険だな。\n何か武器になりそうなものを……。",
+    "translation": "It's dangerous to fight barehanded.\nIs there anything that could be used as a weapon?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、これ使ってください！",
+    "translation": "Uesugi-san, please use this!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、お前のことは俺が守ってやるよ。",
+    "translation": "Alright, I'll protect you, then."
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、なんで固まるんだ。",
+    "translation": "Hey, why are you freezing up?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えええええ！？\nどうしちゃったんですか、急に！？",
+    "translation": "EHHHHH?!\nWhat happened, all of a sudden?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……すまん、変なことを言った。\n聞かなかったことにしてくれ。",
+    "translation": "...Sorry, I said something strange.\nPlease pretend that didn't happen."
+  },
+  {
+    "character": "四葉",
+    "japanese": "できませんよ！　しっかり聞きましたから！\n守ってくれるって……本当ですか？",
+    "translation": "I can't do that! I heard it clearly!\nYou'll protect me... Is that true?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、何が起こるかわからないんだ。\nそれくらいの心構えは……できてるつもりだ。",
+    "translation": "I-I don't know what might happen.\nBut I think...I'm prepared for it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、あの……ありがとうございます。\nえへへ……。",
+    "translation": "Uesugi-san, um... Thank you very much.\nEhehe..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "と、ともかくだ。\nオバケだ妖怪だは抜きにしても、\n正体を知っておく必要はあるかもな。",
+    "translation": "A-anyway, whether it's a ghost or a monster,\nwe still need to know its true identity."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉の言うとおり、\n他のやつらを危険に晒すわけにはいかない。",
+    "translation": "As you say, Yotsuba,\nwe can't expose the others to danger."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はいっ！\nよーし、気合入ってきました！",
+    "translation": "Okay!\nOH YEAH, I am pumped!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "素手じゃ危険だな。\n何か武器になりそうなものを……。",
+    "translation": "It's dangerous to fight barehanded.\nIs there anything that could be used as a weapon?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、これ使ってください！",
+    "translation": "Uesugi-san, please use this!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "枝か。\n四葉も一応、何か持っておけよ？",
+    "translation": "A branch, eh?\nYou hold onto something too, just in case, Yotsuba."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、私も準備オッケーです――",
+    "translation": "Okay, I'm ready, too%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（うおっ！　な、なんだ！？\n　何か飛び出してきたぞ！？）",
+    "translation": "(WOAH! Wh-what?!\n Something's jumped out?!)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "う、上杉さーん！？",
+    "translation": "U-Uesugi-saaan?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉！？　大丈夫か！？",
+    "translation": "Yotsuba?! Are you alright?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うわあああ～！　可愛い～！",
+    "translation": "Uwaaah! How CUTE!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ウサギ？",
+    "translation": "...A rabbit?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "しかもたくさんいますよ！\nふわぁ、もっふもふで癒やされますねぇ。",
+    "translation": "What's more, there are so MANY of them!\nWaah, they're so fluffy and soothing!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあああぁぁ……。\nなんだよ、ウサギかよ……。",
+    "translation": "*sigh*\nCome on, they're just rabbits..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私たちのあとをついて来てたのは、\nこの子たちなんでしょうか？",
+    "translation": "Were these what were following us, maybe?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、そうだろうな。\nとにかく、危険な動物じゃなくて一安心だ。",
+    "translation": "Well, seems like it.\nAnyway, at least we don't have to worry\nabout dangerous animals."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ウサギなら害もないだろうし、\n　これで余計な心配事が１つ減ったな）",
+    "translation": "(Rabbits shouldn't pose a threat,\n so at least one worry is gone.)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "でも、なんでこんなところに\nウサギさんがいるんでしょう？",
+    "translation": "But why are there rabbits here in the first place?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "たぶん、昔の住民が持ち込んだのが逃げ出して、\nそのまま野生化したんだろうな。",
+    "translation": "Some of the former residents probably brought them here,\nand they escaped and became wild."
+  },
+  {
+    "character": "四葉",
+    "japanese": "野生化しちゃったんですか！\n可愛いのにたくましいんですね、ウサギさんって。",
+    "translation": "They became wild, huh?!\nEven though they're so cute,\nthey're quite tough creatures, rabbits."
+  },
+  {
+    "character": "四葉",
+    "japanese": "でも別荘の周りにはいませんでしたよね。\nいたらエサをあげたりしたのにな――",
+    "translation": "But they weren't around the villa,\nwere they? If they were, we could have fed them%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "って、そうでした！\n早く別荘に帰らなきゃいけないのに、\nこんなことしてる場合じゃないですよね。",
+    "translation": "Oh, that's right!\nWe have to hurry back to the villa,\nwe don't have time for this, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "すみません。\nつい遊んじゃって……すぐに出発しましょう。",
+    "translation": "Sorry.\nI got carried away...\nLet's head out right away."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、ここまで歩き詰めだったし、\nもう少し休憩していこう。",
+    "translation": "Well, we've been walking for a while now,\nso let's take a break."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ？　休憩ですか？\n私はまだまだ元気ですけど。",
+    "translation": "Huh? A break?\nI've still got a lot of energy, though."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺が疲れてんだ。\n俺の体力のなさを甘く見るなよ？",
+    "translation": "I'm the one who's tired.\nDon't underestimate my lack of physical stamina, okay?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは、それもそうでしたね。",
+    "translation": "Hahaha, you're right."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この先、休める場所があるとも限らないしな。\n疲れたまま進んで事故でも起こしたら元も子もない。",
+    "translation": "And we can't be sure if there will be another place\nto rest ahead. We don't want to risk an accident\nby pushing ourselves too hard."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺が休んでいる間、\nお前はウサギと遊んでればいいだろ。",
+    "translation": "While I rest,\nyou can play with the rabbits if you want."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい……。\n上杉さん、ありがとうございます。",
+    "translation": "Okay...\nUesugi-san, thank you so much."
+  }
+]

@@ -1,0 +1,677 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "あちぃな……。",
+    "translation": "It's so hot..."
+  },
+  {
+    "character": "一花",
+    "japanese": "さすがの日差しだねぇ。\nこれは、ちゃんと対策しないと大変だ。",
+    "translation": "This sunlight's really strong.\nWe need to take the proper precautions,\nor we'll be in trouble."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、あっちにチェアとパラソルを\n準備してますから、疲れたら休憩してくださいね。",
+    "translation": "Uesugi-san,\nwe have chairs and parasols set up over there,\nso please take a break if you get tired."
+  },
+  {
+    "character": "二乃",
+    "japanese": "飲み物も準備してるわよ。",
+    "translation": "I also have drinks prepared."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう、助かる。",
+    "translation": "Okay, thanks a lot."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ、なにやろう？",
+    "translation": "Alright, what should we do?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだなぁ。\n定番のスイカ割りは前にやったし、\nビーチバレーもやったよな。",
+    "translation": "Let's see.\nWe've already done some classic watermelon splitting\nand we already played beach volleyball..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふっふっふ。\n実はそう思って、ちゃんと用意してきました！\nさあ、これを見てください！",
+    "translation": "He-he-heh.\nI actually anticipated this and came prepared!\nHave a look!!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……木の棒？",
+    "translation": "...A wooden stick?"
+  },
+  {
+    "character": "五月",
+    "japanese": "さっき拾っていたものですね。\nでも、それを何に使うのですか？",
+    "translation": "You picked it up earlier, didn't you?\nBut what are we supposed to do with it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "砂山崩し！",
+    "translation": "Sandpile demolition!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "すな……？",
+    "translation": "Sand...?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "砂で山を作って、これをてっぺんに差して、\n倒れないように山を崩していくんだよ。\n倒しちゃった人の負け！",
+    "translation": "We'll make a mountain of sand, put the stick in the top,\nand then take turns destroying it while trying\nto keep the stick from falling! Make it fall, and lose!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ああ……。",
+    "translation": "Ahh..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんか地味ねぇ。",
+    "translation": "That sounds a bit dull."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "地味だが、駆け引きは面白いんじゃないか？\n俺はやってもいいぞ。",
+    "translation": "It may be dull, but the strategy sounds interesting,\ndon't you think? I'm willing to play."
+  },
+  {
+    "character": "二乃",
+    "japanese": "まあ、フー君が賛成なら私は文句ないわ。",
+    "translation": "Well, if Fu-kun agrees,\nthen I don't have any complaints."
+  },
+  {
+    "character": "五月",
+    "japanese": "では、砂山崩しで決定でしょうか？",
+    "translation": "Then, have we agreed on sandpile demolition?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、いいんじゃない？\n面白そう！",
+    "translation": "Sure, let's do it.\nIt sounds interesting!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、準備しちゃいまーす！",
+    "translation": "Alright, I'll get the sandpile reeaady!"
+  },
+  {
+    "character": "一花",
+    "japanese": "削る順番は、公平にじゃんけんでいいよね。\nそっちも決めておこっか。",
+    "translation": "To make it fair, the order should be made through playing rock-paper-scissors.\nWe'll use that to decide."
+  },
+  {
+    "character": "四葉",
+    "japanese": "では、らいはちゃん！\nトップバッターをお願いします！",
+    "translation": "Alright, Raiha-chan!\nYou're up to bat first!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "はーい！",
+    "translation": "Okaaay!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "それじゃ……えーい！",
+    "translation": "Alright, then... YAH!"
+  },
+  {
+    "character": "一花",
+    "japanese": "おっ、手堅く取ったね。",
+    "translation": "Oh, you knocked down quite a bit."
+  },
+  {
+    "character": "三玖",
+    "japanese": "次は私……このくらいで……。",
+    "translation": "I'm up next... How about this...?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあ？\nいくらなんでも少なすぎじゃない？",
+    "translation": "Huh?\nIsn't that way too little?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "少なくちゃダメだってルールはないし。",
+    "translation": "There's no rule that says you can't take only a little."
+  },
+  {
+    "character": "一花",
+    "japanese": "確かに。\nじゃあ次は私だけど、\n三玖とは逆に、ここは大胆に行こっかな。",
+    "translation": "Of course.\nAlright, I'm up next.\nUnlike Miku, however, I'll take a risk here."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おお、かなり取ったな。",
+    "translation": "Ohh, she took out a lot."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっと一花！　次は私なのよ！\n少しは自重しなさいよっ！",
+    "translation": "Hey, Ichika! I'm up next!\nShow a little restraint, will ya?"
+  },
+  {
+    "character": "一花",
+    "japanese": "頑張ってね～？",
+    "translation": "Do your beeest."
+  },
+  {
+    "character": "二乃",
+    "japanese": "くうう～、もう崩れそうじゃない。",
+    "translation": "Urrk, it already looks like it's gonna collapse."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ねえ、フー君？\nどれくらい砂を取ればいいと思う？",
+    "translation": "Hey, Fu-kun?\nHow much sand should I take off, you think?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺に聞くのかよ。",
+    "translation": "Why ask me?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "聞いちゃダメってルールもないわよね？",
+    "translation": "There's no rule that says you can't ask, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へいへい。\nそうだな、今の砂山の状態から考えるに……。",
+    "translation": "Okay then.\nHmm,\nconsidering the state of the sandpile right now..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "うんうん、考えるに？",
+    "translation": "Yeah, yeah, considering that?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……むむむ。",
+    "translation": "...Mmmhh."
+  },
+  {
+    "character": "五月",
+    "japanese": "ああっ！\nこのままでは、また……！？",
+    "translation": "Aaahh!\nAt this rate, it's still...?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "って、感じで取れば、まだ崩れないはずだがどうだ？",
+    "translation": "If you take it down by feeling it out,\nthe stick shouldn't fall yet.\nWhat do you think?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "うーん、言葉だとわかりづらいから、\n横でアドバイスしてくれないかしら？\nほら、もっとこっちに来て？",
+    "translation": "Hmm, it's hard to understand just from those words.\nCould you over here and give me some advice?\nCome on, come a little closer."
+  },
+  {
+    "character": "一花",
+    "japanese": "こーら、二乃？\nさすがに、そこまでいくとズルじゃない？",
+    "translation": "Heyyy, Nino?\nDon't you think going that far\nis cheating a little?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "うっ……。\nわかったわよ。",
+    "translation": "Ooh...\nI understand."
+  },
+  {
+    "character": "五月",
+    "japanese": "ふうっ……。",
+    "translation": "Whew..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "んんん……このくらいなら……。\nよし、いけたわ！",
+    "translation": "Hmmm... I think this should be good...\nAlright, I made it!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "次は私！　てりゃー！",
+    "translation": "I'm up next! Hiyaah!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあっ！？\nあんた、怖いもの知らずね……。",
+    "translation": "HUH?!\nYou're so fearless, Yotsuba..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "こういうのは考えてないで勢いでやるのが一番だよ！\nでは上杉さん、どうぞ！",
+    "translation": "It's best to not think too much and just go for it!\nAlright, Uesugi-san, it's your turn now!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここで俺かぁ。\n難しいな、これは。",
+    "translation": "So it's my turn.\nThis is pretty tough, eh?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ふふっ、倒してくれてもいいんですよ？",
+    "translation": "Heheh, you can beat us, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "絶対に！　お前に回してやる。\nとはいえ、ここからどう砂を取るべきか……。",
+    "translation": "Absolutely! You're going down.\nAlthough, I'm not sure how to go about it from here..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……ここは慎重に、軽く一握り分でいくか）",
+    "translation": "(...Let's play it safe with a small handful here.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "あら、いいんですか？\nそんな少しで。",
+    "translation": "Oh my, is that okay?\nGoing with such a small amount?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "棒を倒したら元も子もないからな。",
+    "translation": "If I knock down the stick,\nthere's nothing to gain from it."
+  },
+  {
+    "character": "五月",
+    "japanese": "倒してしまうのがそんなに怖いのですか。\n私ならば、ここで勝負をかけますが。",
+    "translation": "Are you really that afraid of knocking it down?\nI, on the other hand, would take the challenge here."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……言ったな？\nそれならこうだぁ！",
+    "translation": "...Did you really just say that?\nThen, how's THIS?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ？　ちょっ！？\nそんなに取ったら……あぁぁぁ～！",
+    "translation": "Huh?! Ah?!\nIf you take that much... Aaaaahh!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "フハハハ！　どうだ、見たか！",
+    "translation": "Fuhahaha! How's that?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "ま、まだ負けたわけではありません！",
+    "translation": "I-I haven't lost yet!"
+  },
+  {
+    "character": "五月",
+    "japanese": "さあ、行きますよ……！",
+    "translation": "Alright, here we go...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（まあ、考えても仕方ない。\n　そこそこ適当に、と）",
+    "translation": "(There's no use in thinking about it too much.\nModeration is key.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "あら、それだけでいいんですか？",
+    "translation": "Oh, is just that much okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "安い挑発には乗らないぞ？",
+    "translation": "I'm not falling for such a cheap provocation."
+  },
+  {
+    "character": "五月",
+    "japanese": "別に構いませんが……意外ですね。\nもっと豪快に取ってくれると思ったのですが。",
+    "translation": "It doesn't matter to me... But it's surprising.\nI thought you would be more bold in taking out the sand."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……言ったな。\nそれなら！",
+    "translation": "...Did you really just say that?\nIn that case!"
+  },
+  {
+    "character": "五月",
+    "japanese": "なっ！？\nそんな、ガッツリと……。",
+    "translation": "WHA?!\nYou didn't have to be so aggressive..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くっくっく、口は災いの元だなぁ？",
+    "translation": "Heh-heh-heh, words can lead to disaster, can't they?"
+  },
+  {
+    "character": "五月",
+    "japanese": "こ、これくらい想定の範囲内です！",
+    "translation": "Th-this is still within my expectations!"
+  },
+  {
+    "character": "五月",
+    "japanese": "さあ、行きますよ……！",
+    "translation": "Alright, here we go...!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ここは一気に行くか……！）",
+    "translation": "(Let's go all out, here...!)"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええぇぇぇっ！？\nそんなに取ったら……。",
+    "translation": "EHHHHHH?!\nIf you knock down THAT much..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すまんすまん、ちょっと取りすぎちまったか？\nだが、これでこそ勝負ってもんだろ？",
+    "translation": "Sorry, sorry, did I take too much?\nBut, isn't that what competition is all about?"
+  },
+  {
+    "character": "五月",
+    "japanese": "……いいでしょう！\nその挑戦、受けて立ちます！",
+    "translation": "...Fine, then!\nI shall accept your challenge!"
+  },
+  {
+    "character": "五月",
+    "japanese": "さあ、行きますよ……！",
+    "translation": "Alright, here we go...!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "おお、五月の目がいつになく真剣だ。",
+    "translation": "Oh, Itsuki's gaze is unusually serious."
+  },
+  {
+    "character": "五月",
+    "japanese": "棒を倒さないようにするには、この辺りを……\nああ、でもそうなると左側のバランスが崩れますね。",
+    "translation": "To prevent the stick from falling, I need to...\nAh, but then the balance on the left will be thrown off."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが左側を意識しすぎたら、\n今度は右側のバランスが……。\nむむむ……。",
+    "translation": "But if I focus too much on the left,\nthen the balance on the right will be...\nMmmhh..."
+  },
+  {
+    "character": "五月",
+    "japanese": "ああああああ……私はどうすればぁ！",
+    "translation": "Aaaaahhhh... What should I DO?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あーあ、これはドツボにハマったパターンだわ。",
+    "translation": "Uh-oh, she's spiraling."
+  },
+  {
+    "character": "三玖",
+    "japanese": "完全にフータローが煽ったのが原因。",
+    "translation": "This is all because Futaro provoked her."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "先に挑発してきたのはあいつだからな。\n俺は受けて立っただけだ。",
+    "translation": "Itsuki's the one who provoked me first.\nI just accepted her challenge."
+  },
+  {
+    "character": "五月",
+    "japanese": "……い、いったん、落ち着きましょう。\nなにも一気に砂を取る必要はありません。\n人差し指で、ちょっとだけすくえば……。",
+    "translation": "...L-let's just all calm down.\nI don't have to take a lot of sand all at once.\nI can just scoop up a little with my index finger..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月。",
+    "translation": "Itsuki."
+  },
+  {
+    "character": "五月",
+    "japanese": "は、話しかけないでください！\n集中してるんですから！",
+    "translation": "D-don't speak to me right now!\nI'm trying to concentrate!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "もっとガバっと行けよ、ガバっと。\n勝負から逃げる気か？",
+    "translation": "You've gotta really dig it out, here, dig it out.\nWhat, are you gonna run away from our challenge?"
+  },
+  {
+    "character": "五月",
+    "japanese": "その手には乗りませんよ。\nここは手堅く次に繋げるんです！",
+    "translation": "I'm not falling for that.\nI'll play it safe and move on to the next round!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へーえ、そうかぁ～。\nやっぱり逃げるのかぁ、残念だなぁ。",
+    "translation": "Hmmmm, is that sooo?\nSo you ARE gonna chicken out. That's tooo bad."
+  },
+  {
+    "character": "五月",
+    "japanese": "いいでしょう、やってやります！",
+    "translation": "Fine then, I'll show you!"
+  },
+  {
+    "character": "一花",
+    "japanese": "あちゃー、見事に乗せられちゃって。",
+    "translation": "Ooof, she's completely taken the bait."
+  },
+  {
+    "character": "五月",
+    "japanese": "乗せられてなどいません！\nここを乗り越えて、必ずや勝利を――",
+    "translation": "I HAVEN'T!\nI will overcome this, and surely attain victo%p-2;――"
+  },
+  {
+    "character": "らいは",
+    "japanese": "あ、棒、倒れちゃった。",
+    "translation": "Ah, the stick fell over."
+  },
+  {
+    "character": "五月",
+    "japanese": "ああ、ああ、ああぁぁぁ……。",
+    "translation": "Aaaah, aaaah, aaaaaahhh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ハーッハッハッハ！　ざまぁないな！",
+    "translation": "HAA-HA-HA-HA! Would you look at THAT!"
+  },
+  {
+    "character": "五月",
+    "japanese": "くうぅぅぅっ！",
+    "translation": "GRRRRRR!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "さすがに大人げないわ……。",
+    "translation": "So childish..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、これもフータローだから。",
+    "translation": "But, this is also because of Futaro."
+  },
+  {
+    "character": "五月",
+    "japanese": "もう１回です！　再戦を要求します！",
+    "translation": "One more try! I want another game!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、いいとも。\nでは順番を決めるとしよう！",
+    "translation": "Ah, fine, then.\nLet's decide the order!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "今度は五月がトップバッターか。",
+    "translation": "This time, Itsuki's first up."
+  },
+  {
+    "character": "五月",
+    "japanese": "そして私の次が上杉君ですね。",
+    "translation": "Then you're up, Uesugi-kun."
+  },
+  {
+    "character": "一花",
+    "japanese": "いやー、出来すぎてるよねぇこの順番。",
+    "translation": "Oh wow, this order is too perfect, isn't it?"
+  },
+  {
+    "character": "五月",
+    "japanese": "さあ、リベンジマッチです！\nここで一気に砂を取って\n上杉君にプレッシャーを……！",
+    "translation": "Time for my revenge match!\nI'll just quickly grab some of the sand over here\nand put the pressure on Uesugi-ku...!"
+  },
+  {
+    "character": "五月",
+    "japanese": "……って、ああぁぁっ！？",
+    "translation": "...Wha-AAAAaaah?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あーあ。\n棒、倒れちゃった。",
+    "translation": "Aaahh.\nThe stick fell over."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "フッ、自滅とはな！\n俺が手をくだすまでもなかったか。",
+    "translation": "Heh, self-destruction, huh?!\nI didn't even have to do anything."
+  },
+  {
+    "character": "五月",
+    "japanese": "も、もう１回ですっ！",
+    "translation": "O-one more time!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "何回やるつもりよ……。",
+    "translation": "How many times are we going to do this?"
+  },
+  {
+    "character": "五月",
+    "japanese": "また私が最初ですね！",
+    "translation": "I'm up again first, I see!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そして俺の順番も変更なしか。",
+    "translation": "And I'm still up after you."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……嫌な予感がする。",
+    "translation": "...I have a bad feeling about this."
+  },
+  {
+    "character": "五月",
+    "japanese": "今度こそ、上杉君にプレッシャーを！",
+    "translation": "This time, the pressure's on you, Uesugi-kun!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "懲りないやつだな……。",
+    "translation": "You never learn, do you...?"
+  },
+  {
+    "character": "一花",
+    "japanese": "お？　今度は倒さなかったね。",
+    "translation": "Oh? This time, it didn't fall down."
+  },
+  {
+    "character": "五月",
+    "japanese": "さあ、上杉君の番ですよ？",
+    "translation": "Alright, you're up, Uesugi-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ハン、俺をなめるなよ？\nこの場合なら、反対側を削れば問題なしだ！",
+    "translation": "Hmph, don't underestimate me, okay?\nIn this case, if I shave off the opposite side,\nthere won't be a problem!"
+  },
+  {
+    "character": "五月",
+    "japanese": "くっ……。\nやりますね、さすがです。",
+    "translation": "Urk...\nImpressive. As expected."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが負けません！\nここを乗り切って、もう一度あなたの番に――",
+    "translation": "I won't lose!\nI'll get through this\nand it will once again be your turn%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、ああああっ！？",
+    "translation": "AH, AAAAAAAHH?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺の勝ち、だな？",
+    "translation": "I win, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、あと１回！　あと１回だけやりましょう！",
+    "translation": "O-ONE more time! Let's just do it ONE more time!"
+  },
+  {
+    "character": "一花",
+    "japanese": "おーい、五月ちゃーん？\n私たちがいることを忘れてない？",
+    "translation": "Heeey, Itsuki-chaaan?\nHave you forgotten we're here too?"
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ！？　あっ……！",
+    "translation": "Wha?! Ah...!"
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君の次、私だったんだけど。",
+    "translation": "I was next after Futaro-kun, you know."
+  },
+  {
+    "character": "五月",
+    "japanese": "す、すみません！\n勝負に集中してしまい、つい。",
+    "translation": "I-I'm sorry!\nI just got so focused on the game."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは、いいっていいって。\n五月、すっごく楽しそうだったし気にしない！",
+    "translation": "Ahaha, that's just fine.\nItsuki, we don't mind at all because it \nlooked like you were having SO much fun!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "気にするわよ。",
+    "translation": "Well, I mind."
+  },
+  {
+    "character": "三玖",
+    "japanese": "気にする。",
+    "translation": "I mind."
+  },
+  {
+    "character": "五月",
+    "japanese": "……すみません。",
+    "translation": "...Sorry."
+  },
+  {
+    "character": "二乃",
+    "japanese": "四葉の言う通り、ずいぶんと楽しそうだったわねぇ？\nフー君と２人で。",
+    "translation": "As Yotsuba said, you both seemed to be having\na lot of fun together, huh?\nYou and Fu-kun only."
+  },
+  {
+    "character": "三玖",
+    "japanese": "すごく盛り上がってたね。\nフータローと２人で。",
+    "translation": "Yeah, you were really enjoying yourselves.\nYou and Futaro, the two of you."
+  },
+  {
+    "character": "五月",
+    "japanese": "ほ、本当に、ごめんなさい……。",
+    "translation": "I-I'm really, sorry..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そんなに五月ばかり責めるなって。\n俺もちょっと調子に乗っちまったしな。",
+    "translation": "Don't blame Itsuki so much.\nI also got a little carried away."
+  },
+  {
+    "character": "らいは",
+    "japanese": "そうだよ、お兄ちゃん？\nちゃんとみんなで一緒に遊ぼう？",
+    "translation": "That's right, big bro?\nMake sure to play with everyone, okay?"
+  },
+  {
+    "character": "五月",
+    "japanese": "らいはちゃんも、すみませんでした……。",
+    "translation": "I'm sorry to you too, Raiha-chan..."
+  }
+]

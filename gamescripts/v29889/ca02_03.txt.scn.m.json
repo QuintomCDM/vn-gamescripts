@@ -1,0 +1,767 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "はあ……。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（せっかくの想い出作りだってのに、\n　俺は一体何をやってるんだ……）",
+    "translation": "(Dang! We're supposed to create summer memories, \n what the hell am I doing...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あいつらは頑張って成果を出した。\n　なのに俺ときたら不安感を覚えて暴走した結果、\n　このザマだ）",
+    "translation": "(They worked hard and got good grades.\n But as a result of me feeling anxious and getting\n out of control, this is what happens.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "くそ、情けないにもほどがあるぞ。",
+    "translation": "Shit. It's almost pathetic."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、朝ご飯持ってきたわよ。\n入っていいかしら？",
+    "translation": "Fu-kun, I brought you your breakfast.\nMay I come in?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、ああ、いいぞ。",
+    "translation": "Y-yeah, it's okay."
+  },
+  {
+    "character": "二乃",
+    "japanese": "どう？　少しは寝れたかしら？",
+    "translation": "How are you feeling? Did you get some sleep?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、少しな。",
+    "translation": "Yeah, a little."
+  },
+  {
+    "character": "二乃",
+    "japanese": "よかった。\nさっきよりは顔色が良くなってる。",
+    "translation": "Good.\nYou look better than you did earlier."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ご飯、食べられそうなら食べたほうがいいわよ。\nどうぞ。",
+    "translation": "You should eat something, if you're able to.\nGo right ahead."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わざわざ持ってきてくれたのか。\n病気になったわけでもないのに、大げさな。",
+    "translation": "Bringing it to me even though I'm not sick.\nI think you're overdoing it a bit."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あのね、倒れた時点で充分病人なの！\nそのことを自覚しなさい。",
+    "translation": "Now listen, as soon as someone collapses he'll become a\npatient. Message received?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "だいたい、病気でもないのに、なんて台詞、\nもし私たちの誰かが同じように倒れたら言える？",
+    "translation": "When one of us would collapse would you tell us that it's \nnot a big deal?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……言えないな。",
+    "translation": "...I wouldn't say that."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、お願いだから\nもう少し自分の身体も労ってあげて。",
+    "translation": "Fu-kun, I'm asking you,\nplease take care of your body a little more."
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君が私たちを気遣ってくれるように、\n私たちもフー君のことが心配なのよ。",
+    "translation": "We're worried about you\njust as much as you worry about us."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……わかった。\nありがとな、二乃。",
+    "translation": "...I understand.\nThank you, Nino."
+  },
+  {
+    "character": "二乃",
+    "japanese": "わかればよろしい。",
+    "translation": "Good! As long as you're getting it."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃ、ちゃんと私の言うことを聞きなさい。\nまずは朝ご飯ね。",
+    "translation": "Now listen to me.\nYou need to eat your breakfast first."
+  },
+  {
+    "character": "二乃",
+    "japanese": "食べさせてあげるからこっち向いて。\nはい、あーん。",
+    "translation": "I'll be feeding you, now face me.\nSay, ahhh."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おい、そんなことしなくても１人で食えるって。",
+    "translation": "H-hey, you don't need to do that.\nI can eat by myself."
+  },
+  {
+    "character": "二乃",
+    "japanese": "いいから。\nほら、あーん？",
+    "translation": "It's fine.\nCome on, aaaah?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あーん？",
+    "translation": "Aaaah?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はぁ……。\nあーん……もぐもぐ……。",
+    "translation": "*sigh*\nAh... Nom, nom..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "どう？　美味しい？\nちゃんと食べて栄養とらないとね。",
+    "translation": "How is it? Is it good?\nYou've got to eat and get those proteins."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（圧に負けて食べてしまった……。\n　なんだろう、この圧倒的な敗北感は……）",
+    "translation": "(I collapsed under the pressure and ate the food...\n Why do I feel this overwhelming sense of defeat?)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "お代わりもあるわよ？\n遠慮しないで、でも、無理もしないで食べてね。",
+    "translation": "There are seconds if you want them, okay?\nDon't hesitate to ask, but don't try to force yourself."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……すまん、助かる。",
+    "translation": "...Thanks, you're a big help."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ん？　なんか音がしたか？）",
+    "translation": "(Hm? Was there a noise just now?)"
+  },
+  {
+    "character": "五月",
+    "japanese": "な、な、なぁ！？\n二乃は何をしてるのですか！？",
+    "translation": "Wh-wh-whaaa?!\nNino, what are you doing?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……静かに。\n中に聞こえちゃう。",
+    "translation": "...Be quiet.\nThey can hear you."
+  },
+  {
+    "character": "五月",
+    "japanese": "三玖はどうして落ち着いていられるんですか！\nあれではまるで……！",
+    "translation": "How can you be so calm, Miku?!\nIt's like as if you're...!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "五月、騒ぐなら戻って。",
+    "translation": "Itsuki, go away, if you're going to be noisy."
+  },
+  {
+    "character": "五月",
+    "japanese": "……すみません。\n少し動揺してしまいました。",
+    "translation": "...Sorry.\nI was a little upset."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……気のせいか？\n　なんだか視線を感じるような）",
+    "translation": "(...Is it my imagination?\n I feel as if someone is looking at me.)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君？　どうしたの？",
+    "translation": "Fu-kun? What's wrong?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや……。",
+    "translation": "Nothing..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "うん、ちゃんと食べられたわね。\n味は濃かったりしなかったかしら？",
+    "translation": "Glad you could eat it.\nThe food wasn't too spicy or anything?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "美味かったよ。\nごちそうさま。",
+    "translation": "It was delicious.\nThanks for the meal."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふ、お粗末さまでした。",
+    "translation": "Teehee, you don't have to thank me for that."
+  },
+  {
+    "character": "二乃",
+    "japanese": "それじゃ、次は熱を測っておきましょっか。",
+    "translation": "Now, we should check if you have a fever."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうだな。\nそれで体温計は？",
+    "translation": "Where's the thermometer?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "うーん、さすがにないんじゃないかしら。",
+    "translation": "Hmm, we don't have one."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "たぶん、ただの寝不足だ。\n検温するほどじゃないだろ。",
+    "translation": "Maybe I'm just sleep deprived.\nIt's not necessary to take my temperature."
+  },
+  {
+    "character": "二乃",
+    "japanese": "うーん……。",
+    "translation": "Hmmm..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（なんだ？　どうした？）",
+    "translation": "(What? What is it?)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "し、しょうがないわね。\nじゃあ、おでこをくっつけて測ってあげるわ。",
+    "translation": "I-it can't be helped, huh.\nThen, I'll have to take your temperature by touching your\nforehead with mine."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんでそうなるんだ！？",
+    "translation": "Why do you have to do that?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんでって、\nそれしか方法がないからに決まってるでしょ。",
+    "translation": "Why, you ask?\nBecause that's the only method available to us."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "熱はない！　絶対ない！\nないから測る必要もない！",
+    "translation": "I don't have a fever! No way!\nI'm fine, and you don't have to measure anything!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "それは、測ってみないとわからないでしょ。",
+    "translation": "I won't know that unless I take your temperature."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "自分の体調だぞ、熱を測らなくてもわかる！",
+    "translation": "It's my body, I know if I have a fever or not!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "後先考えずに徹夜で勉強する人の言葉なんて\n信用できると思うかしら？",
+    "translation": "Do you actually think I can trust the words\nof someone who studies all night\nwithout thinking of the consequences?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（くっそ、ぐうの音も出ない！）",
+    "translation": "(Dammit, I'm at a loss for words!)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "さ、さあ、熱を測らせなさい。",
+    "translation": "A-alrighty then, let's take your temperature."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（くそっ、付き合ってられるか！）",
+    "translation": "(Shit, she thinks I'll tag along!)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あっ、逃げるな！",
+    "translation": "Ah, don't run away!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "手でいいだろ、手で！",
+    "translation": "Use your hand!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "手はダメよ！\nさ、さっき魚をさばいたから生臭いわ。",
+    "translation": "I can't use my hand!\nI-I was just preparing fish, and my hand smells fishy."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ、お前魚もさばけるのか、すごいな！",
+    "translation": "Wow, you can prepare fish? Amazing!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "え？　そ、それくらい普通だと思うけど。\nなんなら、今度教えてあげようかしら？",
+    "translation": "Huh? W-well, I think that's pretty much normal.\nShall I teach you how to do it on a different ocasion?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "今度と言わず、今すぐ教えてくれ。\n善は急げだ！",
+    "translation": "You can show me right now, how it's done.\nSpeed is a virtue!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ええ、構わないわよ。\nって、そんな単純な手でごまかせると思ったわけ！",
+    "translation": "Sure, I don't mind.\nWait, I won't be fooled by such a cheap trick!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "さあ、諦めて熱を測らせなさい。",
+    "translation": "A-alrighty then, let's take your temperature."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（くそ、こんなことに付き合ってられるか！）",
+    "translation": "(Shit, she thinks I'll tag along!)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あっ、逃げるな！",
+    "translation": "Ah, don't run away!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "風邪だったら困る。\nお前にうつるかもしれないだろ。",
+    "translation": "I'll be in trouble, if this is a cold.\nYou could get it as well."
+  },
+  {
+    "character": "二乃",
+    "japanese": "の、の、の、望むところだわ！",
+    "translation": "B-b-b-bring it on!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あのなー、もし俺が風邪をひいていて、\nお前にうつしてしまったら……絶対、俺は後悔する。",
+    "translation": "Now listen, if I have a cold,\nand I'll infect you with it...\nI will definitely regret it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だから、その、額で熱を測るのはダメだ。\nわかったな？",
+    "translation": "So, um, don't measure my temperature with your forehead.\nGot it?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "もう、病人なのに変な風に気を遣うんだから。\nでも……。",
+    "translation": "Oh come ON, even though you're a patient,\nyour anxiety goes through the roof.\nBut..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "私だって、本当はフー君が熱を出してたんだって、\nあとで知ったら後悔するわ。",
+    "translation": "I'd regret it, if you actually had a fever,\nand we figure it out later."
+  },
+  {
+    "character": "二乃",
+    "japanese": "だから、わかってくれるわよね？\n今の私の気持ちも。",
+    "translation": "A-alrighty then, let's take your temperature."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あー、もう付き合ってられるか！）",
+    "translation": "(Shit, she thinks I'll tag along!)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あっ、逃げるな！",
+    "translation": "Ah, don't run away!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こら掴むな！\n危ないだろ！",
+    "translation": "Hey, don't grab me!\nIt's dangerous!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "きゃ、きゃあ！",
+    "translation": "Eep-eeep!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "痛たたた。\nおい、二乃大丈夫か？",
+    "translation": "Ow-ow-ow.\nH-hey, Nino, are you okay?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "うっ、うう……。",
+    "translation": "Oo-oooh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まさか、どこか痛めて――",
+    "translation": "Did you perhaps hurt yourself somewhere%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "って、うお！？",
+    "translation": "Wha%p-2;――%p; WOAH?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おい、二乃？\n怪我でもしたか？",
+    "translation": "H-hey, Nino?\nAre you injured?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "し、してないけど……。",
+    "translation": "N-no..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうか、ならよかった。\nそれでだな、どいてくれると助かるんだが。",
+    "translation": "Glad to hear.\nSo, it'd be real helpful if you could get off of me."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あっ、ごご、ごめん、すぐどくから……\nん？　ちょっと待って。",
+    "translation": "Ah, s-s-sorry, I'll get off of you now...\nHm? Hold on a second."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（なんだ？　どうした？）",
+    "translation": "(What? What is it?)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君、これは逃げられないんじゃないかしら。",
+    "translation": "Fu-kun, you can't run away now, huh."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（た、確かに……）",
+    "translation": "(I-I can't, it's impossible...)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "さあフー君、年貢の納め時よ。\n覚悟を決めなさい。",
+    "translation": "Alright, Fu-kun. It's time to pay the piper.\nPrepare yourself."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんの覚悟だ、なんの！",
+    "translation": "Prepare for what? What?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そ、それは……。\n熱を測られる覚悟に決まってるじゃない……。",
+    "translation": "I-Isn't it obvious...\nPrepare yourself to have your temperature taken..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "少し冷静になれ！\nいま自分がなにしてるかわかってんのか！？",
+    "translation": "Would you calm down a little?!\nDo you understand what you're doing?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そ、それはわかってるわよ。",
+    "translation": "I-I do understand that."
+  },
+  {
+    "character": "二乃",
+    "japanese": "だから、こんなにドキドキしてるんじゃない……。",
+    "translation": "My heart is beating really fast now..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それこそ、\n他のやつらに見られたらまた面倒ごとが起こるぞ。",
+    "translation": "If the others could see us,\nwe'd be in huge trouble."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この島にいられるのもあと２日なんだ。\n頼むから心穏やかに過ごさせてくれ。",
+    "translation": "We're only here for two more days,\nso I'm begging you to let me rest easy."
+  },
+  {
+    "character": "二乃",
+    "japanese": "嫌よ！",
+    "translation": "No!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんで！？",
+    "translation": "Why?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "こんなチャンスが次いつ来るかわからないわ。\nだから……。",
+    "translation": "Because I don't know, if I'll ever get another chance.\nSo..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だからなんだよ。",
+    "translation": "So what?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "え、ええと……だから……。",
+    "translation": "U-ummm...so..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だからなんなんだ。",
+    "translation": "So, what, then?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "だ、だからぁ～～～～、それくらい察しなさいよ！",
+    "translation": "Make an educated guess!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（わけわからん！）",
+    "translation": "(I don't get this girl!)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "とにかく、あれよ！\nこうなったら私の威信にかけて\n絶対におでこで熱を測ってやるんだから！",
+    "translation": "Anyhow!\nI'll take your temperature no matter what!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はぁ、わかった、わかったよ。\nおとなしく熱を測られてやるから、\nとっととすませてくれ。",
+    "translation": "*sigh* Okay, fine.\nI'll behave and let you take my temperature,\nso just get it done quick."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あら、意外にあっさり折れたわね。\nじ、じゃあ、いくわよ……。",
+    "translation": "Oh my, you really are very weak to any kind of pressure.\nA-alrighty, here we go..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（これはいったいなんなんだ……）",
+    "translation": "(What exactly is she doing...)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "う、うぅ……。",
+    "translation": "O-oooh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、まだか？\n早くやってくれ。\n重くて仕方ない。",
+    "translation": "Hey, why is it taking you so long?\nHurry up.\nYou're heavy."
+  },
+  {
+    "character": "二乃",
+    "japanese": "おも！？",
+    "translation": "HEAVY?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん？　どうした？",
+    "translation": "Hm? What's wrong?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんた、女の子への一番の禁句を言ったわね。",
+    "translation": "You just said the most forbidden of words to a girl."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はい？　禁句？",
+    "translation": "What now? Forbidden words?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "予定変更。\nおでこで熱を測るだけじゃすまさない。",
+    "translation": "I've changed plans.\nJust taking your temperature with my forehead\nisn't enough."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おい、どういうことだ！",
+    "translation": "H-hey, what do you mean?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そこまで！\nそこまでですっ！",
+    "translation": "Enough!\nStop right there!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "きゃあっ！？",
+    "translation": "EEEEPP?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（た、助かった……）",
+    "translation": "(Th-thanks for the help.)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "三玖、五月！？\nどうして……。",
+    "translation": "Miku, Itsuki?!\nWhy..."
+  },
+  {
+    "character": "五月",
+    "japanese": "どうしてではありませんよっ！",
+    "translation": "What do you MEAN, why?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "もう見てられない……！",
+    "translation": "I can't look at it anymore!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はっ！？　あんたたち覗いてたの！？\nなにそれ信じらんない！",
+    "translation": "HUH? Were you two eavesdropping on us?!\nI really can't BELIEVE that!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、見ててよかった。",
+    "translation": "But, I'm glad I caught you guys!."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、二乃に流されすぎ。",
+    "translation": "Futaro, you're led astray by Nino too easily."
+  },
+  {
+    "character": "五月",
+    "japanese": "まったく同感です。\n男性のあなたが、毅然とした態度を取らないで\nどうするのですか。",
+    "translation": "I feel exactly the same way.\nHow can you call yourself a man\nwithout taking a resolute stance?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここで俺が怒られるのか！？\nむしろ被害者だろ！",
+    "translation": "You're gonna blame ME here?!\nI'm the victim!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あ、私だって、フー君が\n大人しく熱を測らせてくれたら、\nこんなことするつもりなかったわ。",
+    "translation": "Well, I didn't plan on doing this if Fu-kun would've played \nalong and let me take his temperature."
+  },
+  {
+    "character": "三玖",
+    "japanese": "やっぱりフータローが悪い。",
+    "translation": "It's your fault, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えええ……。",
+    "translation": "Whaaat..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "看病はもう充分だよね？\nさあ二乃、フータローは\nゆっくり寝たいだろうから行くよ。",
+    "translation": "You've done enough nursing for now, huh?\nCome on, Nino.\nLet's go. He probably wants to sleep."
+  },
+  {
+    "character": "二乃",
+    "japanese": "えっ！？　ちょっと三玖！\n私はまだフー君の看病をしなくちゃ……。",
+    "translation": "Huh? Come on, Miku!\nI haven't finished nursing Fu-kun..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ダメ。\n二乃が看病したら\nフータローの具合が悪くなりかねない。",
+    "translation": "No. His condition might worsen if you continue to take \ncare of him."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なんでよーーー！！！",
+    "translation": "WHY!!!"
+  },
+  {
+    "character": "五月",
+    "japanese": "さて、上杉君？\n何かおっしゃりたいことはありますか？",
+    "translation": "Uesugi-kun?\nIs there something you'd like to say?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（まずい、これは本気で怒っている五月だ。\n　下手なことを言えば逆鱗に触れてしまう！）",
+    "translation": "(Oh no, Itsuki's really angry at me.\n If I say something stupid, it'll backfire on me!)"
+  },
+  {
+    "character": "五月",
+    "japanese": "……はあ。",
+    "translation": "*sigh*"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "え？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "五月",
+    "japanese": "言いたいことはたくさんありますが、\nとりあえず今は寝てください。",
+    "translation": "There are a lot of things I want to say,\nbut please, just sleep for now."
+  },
+  {
+    "character": "五月",
+    "japanese": "今のあなたは、\nいつものあなたではありませんから。",
+    "translation": "You act differently, you know."
+  },
+  {
+    "character": "五月",
+    "japanese": "二乃も二乃で、少々、\n平静さを失っていた節がありますし。",
+    "translation": "I think Nino herself might've lost her composure, as well."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう……。",
+    "translation": "Y-yeah..."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが、どうして二乃が平静さを失っていたのかも、\n少しは考えてください。",
+    "translation": "Think about why Nino may have lost her composure."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうしてって。",
+    "translation": "Why?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたが心配だから、というのも\n理由の１つであることは間違いありませんよ。",
+    "translation": "One of the reasons is\nbecause she's worried about you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ああ、だろうな。",
+    "translation": "...Yeah, I see."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、とっとと元気にならないとまずいな。\n想い出作りもできやしない。",
+    "translation": "Then, I need to get better on the double.\nWe can't create summer memories, while I'm in bed."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、そのために\nこちらもテストを頑張ったのですから。",
+    "translation": "In order to enjoy this summer together, we did our best to\nget good test results."
+  },
+  {
+    "character": "五月",
+    "japanese": "あなたは、私たちの努力を\n無駄にしたりなんてしませんよね？",
+    "translation": "You wouldn't waste our efforts that easily, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "当然だ。\n……じゃあ、しばらく寝かせてもらう。",
+    "translation": "Right.\n...Alright, let me sleep for a while."
+  },
+  {
+    "character": "五月",
+    "japanese": "らいはちゃんのことは任せてください。\nおやすみなさい、上杉君。",
+    "translation": "Leave Raiha-chan to us.\nSleep well, Uesugi-kun."
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "さあ、探検開始ですよ！\nまずは隠された入り口や洞窟を捜しましょう！",
+    "translation": "Alright, let's begin the expedition!\nFirst, let's search for hidden entrances,\nor caves!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いいですか、らいはちゃん。\n怪しい石像や大木があったら要チェックです。",
+    "translation": "Now listen, Raiha-chan.\nBe extra aware of strange stones or large trees."
+  },
+  {
+    "character": "らいは",
+    "japanese": "了解！\nお兄ちゃんも、ちゃんと探してね！",
+    "translation": "Roger!\nBig bro, you have to look out for them too, okay?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかってるって。\nそれよりも、２人とも足下に気をつけろ。\n周りばかり見てないで、ちゃんと前を見て歩けよ。",
+    "translation": "Got it, got it.\nBut both of you, watch your step.\nDon't just look around, properly look in front of you."
+  },
+  {
+    "character": "らいは",
+    "japanese": "はーい！",
+    "translation": "Okay!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "探検、探検！　いえーい！",
+    "translation": "Exploring, exploring! Yaaay!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（楽しそうでなによりだが、\n　浮かれすぎて怪我をしないか心配だ……）",
+    "translation": "(It's great that they're having fun,\n but I'm worried that if they're too careless,\n they might get injured...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "宝の地図があれば、\nますます雰囲気が出そうなんですけどねぇ。",
+    "translation": "If we had a treasure map,\nit would add to the atmosphere."
+  },
+  {
+    "character": "らいは",
+    "japanese": "私たちが作ってもいいかも。\n今日調べたところを地図にして、\nどこかに隠しておくとか。",
+    "translation": "We might be able to make one. We could explore \nthe island and create a map based on what we've \nseen, and then stash it away somewhere."
+  },
+  {
+    "character": "四葉",
+    "japanese": "おおっ！　それはいいですね！\nナイスアイディアです！",
+    "translation": "Ooh! That's great!\nWhat a nice idea!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……四葉やらいはが楽しんでいるのは\n　見てわかるが、二乃は何をしてるんだ？）",
+    "translation": "(...I can see that Yotsuba and Raiha are having fun,\n but what is Nino doing?)"
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ、フータロー君\n二乃はどうしたんだろう？",
+    "translation": "Hey, Futaro-kun,\nwhat's going on with Nino?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前もそう思うよな？\nさっきから２人の後ろを無言で歩いてて\n明らかに変だよな？",
+    "translation": "You noticed it too, eh?\nShe was walking right behind them,\nwhich is kinda weird, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、変だよ。\nそもそも探検に賛成したことだって意外だしさ。\nねえ、五月ちゃん？",
+    "translation": "Yes, it's weird.\nI'm surprised that she agreed to go exploring\nin the first place. Right, Itsuki-chan?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、まあ。\n二乃は、財宝や埋蔵金など\n信じないタイプだと思っていました。",
+    "translation": "Well, yeah. I thought that Nino wasn't the type\nto take an interest in buried treasure,\nloot or things like that."
+  },
+  {
+    "character": "一花",
+    "japanese": "だよねー。\n二乃ってそういうところは割とリアリストだもん。",
+    "translation": "Right?\nNino's a realist and has other interests."
+  },
+  {
+    "character": "五月",
+    "japanese": "もっとも、最後に島らしいことを\nしておきたいのかもしれませんが。",
+    "translation": "Maybe she just wanted to do something you can\nonly do on an island."
+  },
+  {
+    "character": "一花",
+    "japanese": "そうなのかなぁ？\nなんだか違う気がするんだけど。",
+    "translation": "I wonder?\nI kinda feel that that's not the case."
+  },
+  {
+    "character": "四葉",
+    "japanese": "おおっ！？\nあっちを見てください、らいはちゃん！",
+    "translation": "Oohh?!\nLook over there, Raiha-chan!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "え？　なになに？",
+    "translation": "Huh? What, what?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ちょっと変わった大きな岩があります。\nなんだか怪しいですねぇ。",
+    "translation": "There's a slightly odd, big boulder over there.\nIt kind of looks suspicious."
+  },
+  {
+    "character": "らいは",
+    "japanese": "これは調査が必要かも！",
+    "translation": "This may require investigation!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ではらいは隊員、行くでありますよー！",
+    "translation": "Alright then, trooper Raiha, let's proceed!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "いえっさー！",
+    "translation": "Yes ma'am!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あいつ、スマホ出してなにやってるんだ？\n　写真を撮るのか？）",
+    "translation": "(What is she doing? Why is she \n pulling out her smartphone?\n Is she gonna take some pictures?)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃、歩きスマホは危ない。",
+    "translation": "Nino, it's dangerous to walk while looking on \nyour smartphone."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ああ、うん、そうね。\nちょっとメモしたいことがあって。\nすぐにすませるわ。",
+    "translation": "Ah, yes, you're right.\nThere's something I wanted to take notes on.\nI'll make it quick."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "あ、ちょっと！\n岩に登ったら危ないよ、四葉！",
+    "translation": "Wait, hold on!\nIt's dangerous to climb that boulder, Yotsuba!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "だーいじょーぶー！",
+    "translation": "I'm o-kay!"
+  },
+  {
+    "character": "一花",
+    "japanese": "本当に大丈夫かな……。\n私、ちょっと見てくる。",
+    "translation": "I wonder if she really is okay...\nI'm gonna go check on her."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、頼む。",
+    "translation": "Okay, thanks."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖？　どうした？",
+    "translation": "Miku? What's up?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃が変。",
+    "translation": "Nino's acting strange."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それは俺たちも思ってたところだが……。",
+    "translation": "That's what we were thinking too..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃のスマホがちょっと見えちゃったんだけど……\n四葉とらいはちゃんのことを書いてた。",
+    "translation": "I could take a look at Nino's smartphone...\nshe was writing about Nino and Raiha-chan."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "四葉とらいはちゃんの観察日記みたいだった……。",
+    "translation": "She's writing something like a journal about her\nobservations regarding Nino and Raiha-chan..."
+  },
+  {
+    "character": "五月",
+    "japanese": "観察日記……ですか？\nどうしてそんなものを……。",
+    "translation": "An...observation journal?\nWhy would she be making that..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さっぱりわからん……。",
+    "translation": "I haven't the slightest..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、二乃に何か変なこと言ったりしてない？",
+    "translation": "Futaro, you haven't said anything strange\nto Nino, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "言ってねぇよ。\nなんで俺に聞くんだ。",
+    "translation": "I haven't said anything strange.\nWhy are you asking me?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃が変なことをするとしたら、\n原因はフータロー以外にないと思う。",
+    "translation": "If Nino is doing anything out of the ordinary,\nI think there's no other reason for that\nthan you, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（そんなこと言われても、\n　心当たりはないんだが……）",
+    "translation": "(Well, I have no idea what it could be...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ここで考えていても仕方なさそうだな。\n二乃に聞いてみる。",
+    "translation": "...Thinking about that now ain't gonna help us.\nI'll ask Nino."
+  },
+  {
+    "character": "五月",
+    "japanese": "変な聞き方をして、\n事態をこじらせないでくださいね？",
+    "translation": "Don't aggravate the situation\nby asking her in a weird way, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、二乃。",
+    "translation": "Hey, Nino."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前、変だぞ。",
+    "translation": "You're acting strange."
+  },
+  {
+    "character": "二乃",
+    "japanese": "急に何を言い出すのよ、失礼ね。\n私はいつも通りじゃない。",
+    "translation": "What's gotten into you? How rude!\nI'm the same as usual, aren't I?."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、明らかにいつもと違うぞ？\n三玖や五月も変だって言ってるし。",
+    "translation": "No, you're clearly different than usual, you know?\nMiku and Itsuki also agree that you're acting weird."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……みんな考えすぎじゃない？\nいつもと同じだってば。",
+    "translation": "...Aren't you guys thinking too much about it?\nI'm the same as usual."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あーあ、それにしても虫が多くて嫌になっちゃうわ。\n虫除けスプレー、効いてないのかしら。",
+    "translation": "But you know what? There are a lot of bugs\ncrawling around, which I really don't like.\nI wonder if the bug spray isn't working."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いつもと同じ……。\n　言われてみるとそんな気もしなくもないが……）",
+    "translation": "(Same as usual...\n Doesn't exactly sound like it...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こうしてて楽しいか？",
+    "translation": "Are you having fun doing this?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ええ、楽しいわ。\nどうしてそんなこと聞くの？",
+    "translation": "Yes, I am.\nWhy are you asking me that?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、いや、その……楽しいならいいんだ。\nつまらないのに無理してないかと気になってな。",
+    "translation": "Ah, well, um... I'm glad that you're having fun. I \nwas worried that this adventure bothered you, yet \nyou were trying so hard."
+  },
+  {
+    "character": "二乃",
+    "japanese": "まったく、心配性なんだから。\n面白くなきゃとっくに別荘へ戻ってるわ。\n気を遣いすぎよ。",
+    "translation": "Oh, give me a break. You are such a worrywart.\nIf I wasn't having fun, I would have already\ngone back to the villa. You're thinking too much."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……そうか。",
+    "translation": "...That so."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（口では楽しいと言ってるが……\n　どうもそうは見えない。\n　本当に楽しんでるのか？）",
+    "translation": "(She CLAIMS to be having fun...\n but she doesn't look the part, at all.\n Is she really enjoying herself?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "探検が好きなんだな。",
+    "translation": "You like exploring, don't you."
+  },
+  {
+    "character": "二乃",
+    "japanese": "え、ええ！　そうなの！\n探検が大好きなのよ！",
+    "translation": "Y-yes! That's right!\nI just love exploring!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう、そうなんだな。\n知らなかったよ。",
+    "translation": "O-oh, I see.\nI didn't know that."
+  },
+  {
+    "character": "二乃",
+    "japanese": "私も四葉やらいはちゃんと同じなのよね～。\nロマン感じちゃうわ～。",
+    "translation": "I'm just like Yotsuba and Raiha-chan, aren't I?\nI really feel the romance."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へえ……。",
+    "translation": "Wow..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふふっ！\n覚えておいてよね。",
+    "translation": "Teehee!\nYou'd better remember that, now."
+  },
+  {
+    "character": "らいは",
+    "japanese": "おにーちゃーん！\n遅いよー！",
+    "translation": "Big BRO!\nYou're so slow!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "早くしないと日が暮れちゃいますよー！",
+    "translation": "If you don't hurry, the sun will set!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ほらフー君、呼んでるわよ。\n急ぎましょ！",
+    "translation": "Come on, Fu-kun. They're calling us.\nLet's go!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "どうだった？",
+    "translation": "How was talking to her?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やっぱり変だ。\n本人は隠してるつもりか、\nそれとも自覚がないのか……。",
+    "translation": "No doubt, Nino's acting weird.\nWhether she's hiding it herself,\nor she's not aware of it..."
+  },
+  {
+    "character": "五月",
+    "japanese": "二乃はどうしてしまったんでしょう。",
+    "translation": "I wonder what happened to Nino."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わからんが、今は先に進もう。\nらいはたちを見失っちまう。",
+    "translation": "I'm not sure, but let's move ahead for now.\nWe'll lose sight of Raiha and the others."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん……。",
+    "translation": "Yeah..."
+  }
+]

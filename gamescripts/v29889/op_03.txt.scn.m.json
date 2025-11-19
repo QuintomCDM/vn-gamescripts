@@ -1,0 +1,532 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（そして夏休みに入り、\n　こうして別荘にやってきたわけだが――）",
+    "translation": "(And so, summer vacation has begun,\n and we've come to the villa, but%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まさか、別荘がある場所が\n無人島だとは思わなかったんだが。",
+    "translation": "I didn't think the villa\nwould be on an uninhabited island, of all things."
+  },
+  {
+    "character": "一花",
+    "japanese": "あれ、言ってなかった？",
+    "translation": "Oh? We didn't tell you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "言ってないぞ。\n海の近くだとしか聞いてない。",
+    "translation": "You didn't.\nI only heard it was near the water."
+  },
+  {
+    "character": "らいは",
+    "japanese": "ここまで送ってくれた船も\n五月さんたちの家のものなんだよね？\nクルーザーを持ってるなんて、すっごいね！",
+    "translation": "The boat that brought us here \nalso belongs to your family, right, Itsuki? \nThat's so cool you guys have a cruiser!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "久しぶりに乗ったけれど、\nやっぱりクルージングは気持ちよくていいわ。",
+    "translation": "It's been a while since I've ridden in it,\nbut riding in a cruiser boat sure does feel good."
+  },
+  {
+    "character": "三玖",
+    "japanese": "明後日には迎えに来てくれるんだし、\nまた楽しめる。",
+    "translation": "They'll come pick us up the day after tomorrow,\nso we can enjoy riding in it again once they're back."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それじゃ、別荘に向かいましょー！\n案内は任せてください！",
+    "translation": "With that, let's head to the villa!\nI'll lead the way!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、こちらが別荘でございまーす。",
+    "translation": "Alrighty! Here is our villa!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おお……！",
+    "translation": "Ohhh...!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "すっごい立派だね……！",
+    "translation": "It's magnificent...!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ちなみに裏には山や滝があって\nお散歩にぴったりですよ。\nあっちの道を行くとビーチがあって、あとは――",
+    "translation": "By the way, there are mountains and waterfalls\nout back, which are perfect for walks. That path\nthere leads to the beach, and%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "四葉、一気に説明してもわかんなくなっちゃうわよ。",
+    "translation": "Yotsuba, if you explain everything at once,\nthey won't remember."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、そうだね！\nその辺はまたゆっくり説明するとして、\nひとまず中へどうぞ。",
+    "translation": "Oh, that's right!\nI'll tell you all about that later,\nso please head on inside."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、ああ……。",
+    "translation": "O-okay..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "ふわぁ……素敵……。",
+    "translation": "Wooah... AMAZING..."
+  },
+  {
+    "character": "五月",
+    "japanese": "気に入ってもらえましたか？",
+    "translation": "Do you like it?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うんっ！\nこんなところで過ごせるなんて！\n本当にありがとう！",
+    "translation": "Yes!\nTo think I can stay in a place like this!\nThank you SO much!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえいえ～、えへへへ。",
+    "translation": "Not at all, not at all, teeheehee."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "無人島だってのに手入れが行き届いてるな。\n驚きだ。",
+    "translation": "It's a deserted island, but it's well maintained.\nI'm surprised."
+  },
+  {
+    "character": "二乃",
+    "japanese": "パパが管理を任せている人たちがいるの。\n年に何回か、設備の点検や掃除に来てるらしいわ。",
+    "translation": "Daddy has people that manage the island.\nThey come several times a year\nto check and clean the equipment."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、ざっと説明しておくね。\n１階はこのリビングやキッチン、トイレ、\nあとお風呂とかがあるんだ。",
+    "translation": "Right, I'll give a quick run-down.\nOn the first floor is the living room, the kitchen,\ntoilet, as well as the bathroom, and so on."
+  },
+  {
+    "character": "一花",
+    "japanese": "２階がお客様を泊める部屋。\n７部屋は余裕であるはずだから、\nあとで誰がどの部屋で寝るか決めよっか。",
+    "translation": "The second floor is where the guest rooms are.\nSeven rooms should be enough,\nso let's choose who sleeps where after."
+  },
+  {
+    "character": "らいは",
+    "japanese": "はーい！",
+    "translation": "Okaaay!"
+  },
+  {
+    "character": "五月",
+    "japanese": "２階には他に、父の私室や談話室もありますよ。",
+    "translation": "Other than that, there's our father's personal room, as well as a lounge."
+  },
+  {
+    "character": "らいは",
+    "japanese": "だんわしつって？",
+    "translation": "What's a lounge?"
+  },
+  {
+    "character": "五月",
+    "japanese": "簡単に言うと、みんなが集まって\nおしゃべりしたりする部屋です。\n確か、本なども置いてありましたね。",
+    "translation": "To put it simply, it's a room for everyone\nto gather and talk.\nThere were some books and stuff there, if I recall."
+  },
+  {
+    "character": "二乃",
+    "japanese": "パパの部屋は勝手に入らないほうがよさそうね。",
+    "translation": "It'd be best not to go into Daddy's room\nwithout permission."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、そうしましょう。",
+    "translation": "Yes, let's keep that in mind."
+  },
+  {
+    "character": "一花",
+    "japanese": "あとは地下室かな。\nえーっと、地下って何があったっけ？\n倉庫？",
+    "translation": "There's also the basement.\nUmmmm, what's in the basement again?\nStorage?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、食べ物とか必要なものは\nそこに用意してくれてるはず。",
+    "translation": "Yes, food and other important things\nhave been prepared there."
+  },
+  {
+    "character": "一花",
+    "japanese": "と、まあ、そんな感じかな。\nわからないことがあったらまた聞いて。",
+    "translation": "And, well, that's about it.\nIf there's anything you don't understand, please ask."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ちなみに、お風呂は温泉ですよ！",
+    "translation": "By the way, the bath is a hot spring!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "温泉！？",
+    "translation": "A HOT SPRING?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そんな大げさなものじゃないよ。\n湧いてる温泉を利用してるだけで、\n普通のお風呂だから。",
+    "translation": "It's not anything that elegant.\nWe're just using flowing hot spring water.\nIt's a normal bath."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はー……。\n島だってのに至れり尽くせりだな。",
+    "translation": "*sigh*\nYou guys are really living it up here."
+  },
+  {
+    "character": "一花",
+    "japanese": "でしょ？\nこれでネットが使えたら完璧なんだけど、\nそこまで贅沢は言えないか。",
+    "translation": "Right?\nIf only we could use the Internet, it'd be perfect.\nBut maybe that's asking too much?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん？　そういや外との連絡はどうするんだ？\n万が一ってこともあるだろ。\n船は帰っちまったし。",
+    "translation": "Hm? In that case, how do we contact the outside world?\nJust in case, you know.\nThe boat left already, so there's no leaving now."
+  },
+  {
+    "character": "一花",
+    "japanese": "ああ、非常用の無線があるよ。\nといっても、本当に非常用で\n今まで使ったことないんだけどね。",
+    "translation": "Yes, there is a wireless signal we can use\nin emergencies. Yet, even so, it's for true\nemergencies, so we've never used it before."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "使うような事態にならないことを祈るぜ。",
+    "translation": "I hope we don't get into a situation\nwhere we'll have to use it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ダメですよ上杉さん！\nそういうことを言うと使う事態になるのが\nお約束です！",
+    "translation": "No, Uesugi-san!\nIf you say something like that it's bound to happen!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "心配しなくても、たった２泊３日だもの。\n何事もないわよ。",
+    "translation": "Don't worry too much.\nIt's just a three-day, two-night stay.\nWhat could go wrong?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そうだね……。",
+    "translation": "That's right..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "二乃",
+    "japanese": "何事かあってほしいって顔ね。",
+    "translation": "You look like you're waiting for something to happen."
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃こそ、そんな顔。",
+    "translation": "You look that way too, Nino."
+  },
+  {
+    "character": "二乃",
+    "japanese": "まあ、気持ちはお互い同じか。\n迎えの船が来るまで、ここにいるのは\n私たちだけだもの。",
+    "translation": "Well, we all feel the same way.\nUntil the return ship arrives,\nwe're gonna be the only ones here."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローと３日も一緒……。\n１つ屋根の下で……。",
+    "translation": "Two nights with Futaro...\nUnder one roof..."
+  },
+  {
+    "character": "五月",
+    "japanese": "やっぱり、２人は本気なんですね。",
+    "translation": "You two look really serious."
+  },
+  {
+    "character": "らいは",
+    "japanese": "五月さん？　どうかした？",
+    "translation": "Itsuki-san? Is something wrong?"
+  },
+  {
+    "character": "五月",
+    "japanese": "い、いえ、なんでもありませんよ。\nさっそくですが夕食の準備を始めませんか？",
+    "translation": "N-no, nothing at all.\nSorry to change the subject so suddenly but,\nshall we start preparations for dinner?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "あ、お腹空いてたんだね。",
+    "translation": "Ah, you were hungry, huh."
+  },
+  {
+    "character": "五月",
+    "japanese": "そういうわけでもないのですが……。",
+    "translation": "Well, not exactly, but..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前、船のビュッフェもあれだけ食ってたのに。",
+    "translation": "Even though you pigged out\non the ship's buffet."
+  },
+  {
+    "character": "五月",
+    "japanese": "違います。\nもうすぐ日も傾いてきますし、\n今日はもう外に出るのは止めておきましょう。",
+    "translation": "That's not true.\nThe sun is setting soon,\nso let's not go outside anymore today."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うーん、残念だけど\n明日から思いっきり遊べばいいもんね。",
+    "translation": "Hmm, that's too bad,\nbut we can start playing\nas much as we want tomorrow."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、２階に行って部屋を決めちゃおっか。",
+    "translation": "Okay, let's head to the second floor\nand choose rooms."
+  },
+  {
+    "character": "二乃",
+    "japanese": "私は先に夕食の準備を始めてるわ。\n部屋はどこでもいいから荷物入れておいて。",
+    "translation": "I'll start getting dinner ready first.\nI don't care which room I get so,\nwhatever room isn't taken, put my stuff in there."
+  },
+  {
+    "character": "一花",
+    "japanese": "オッケー、よろしくね。",
+    "translation": "Okay, thanks."
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃、手伝う。",
+    "translation": "Nino, I'll help you."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そう？\nじゃあ倉庫に行きましょ。\n材料、何があるのか確認しないと。",
+    "translation": "You will?\nThen, let's head for storage.\nWe have to check what ingredients we have."
+  },
+  {
+    "character": "らいは",
+    "japanese": "私もお手伝いする！",
+    "translation": "I'll help too!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なら、らいはたちの荷物は俺が持ってくぞ。",
+    "translation": "Then, I'll take Raiha and the other's luggage."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえいえ、何をおっしゃいますか。\n上杉さんとらいはちゃんはお客様なんですから、\nここでゆっくりしていてください。",
+    "translation": "No no, what are you saying?\nYou and Raiha-chan are our guests.\nPlease, take it easy!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、そうだったな。\nじゃあ、お言葉に甘えさせてもらうか。",
+    "translation": "Oh yeah, that's right.\nOkay, I'll take you up on your offer."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、そちらのソファーにどうぞ。",
+    "translation": "Alright, take a seat on that sofa."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おお、ふかふかだ。\nうんうん、リラックスには最適だな。\nはあ、落ち着くなぁ。",
+    "translation": "Oh, it's so soft.\nWow, it's really the best for relaxing.\n*sigh* It's quite soothing."
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "一花",
+    "japanese": "はは……。",
+    "translation": "Haha..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだ？　どうした？",
+    "translation": "What? What's wrong?"
+  },
+  {
+    "character": "一花",
+    "japanese": "いえいえ別に？",
+    "translation": "Oh, nothing."
+  },
+  {
+    "character": "五月",
+    "japanese": "そこまでふんぞり返られると、さすがにちょっと。\nいえ、まあ、文句はありませんが。",
+    "translation": "Aren't you relaxing just a little TOO much?\nWell, not like I'm complaining or anything."
+  },
+  {
+    "character": "らいは",
+    "japanese": "私、お部屋の中も見たいから\n一花さんたちと一緒に行くね。\nお兄ちゃんの部屋は私の隣でいい？",
+    "translation": "I want to see what the rooms look like,\nso I'll go with Ichika and them.\nDo you wanna be next to me, big bro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、いいぞ。\n荷物はあとで自分で持ってく。",
+    "translation": "Yeah, sure.\nI'll take my stuff there later."
+  },
+  {
+    "character": "らいは",
+    "japanese": "はーい。",
+    "translation": "Okaaay."
+  },
+  {
+    "character": "一花",
+    "japanese": "それじゃ、またあとで。",
+    "translation": "Okay, see you later."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（お客様か。\n　あいつらにこんな扱いをされるのは新鮮だ。\n　嫌じゃないし、気持ちは嬉しいんだが――）",
+    "translation": "(Guests, huh.\n It's refreshing to be treated like this by them.\n I don't dislike it, and I'm happy, but%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こうも落ち着かなくなるもんなんだな。\n　またあいつらに教えられたか）",
+    "translation": "(It makes me pretty uneasy.\n Looks like they taught me something, again.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……ん？）",
+    "translation": "(...Hm?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（外が妙に暗くなってる？\n　まだ日没には早いはずだが）",
+    "translation": "(Is it already this dark outside?\n It's still gotta be too early for sunset.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お礼にじっくり勉強を教えてやるからな。",
+    "translation": "In return, I'll do my best to teach you."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、ありがとうございます！",
+    "translation": "Okay, thank you!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、あれ？　上杉さんがお客様なのは\n私たちのお礼で、お礼のお礼？\nじゃあそのお礼のお礼のお礼の……あれれ？",
+    "translation": "H-huh? You being our guest is our thanks,\nso a thanks for a thanks? So, this is thanks\nfor this thanks that's a thanks for...huuuh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そこは深く考えるな。\nいつもの家庭教師ってことでいいから。",
+    "translation": "Don't think too much.\nI'll just be your tutor, as usual."
+  },
+  {
+    "character": "らいは",
+    "japanese": "私、お部屋の中も見たいから\n一花さんたちと一緒に行くね。\nお兄ちゃんの部屋は私の隣でいい？",
+    "translation": "I want to see what the rooms look like,\nso I'll go with Ichika and them.\nDo you wanna be next to me, big bro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、いいぞ。\n荷物はあとで自分で持ってく。",
+    "translation": "Yeah, sure.\nI'll take my stuff there later."
+  },
+  {
+    "character": "らいは",
+    "japanese": "はーい。",
+    "translation": "Okaaay."
+  },
+  {
+    "character": "一花",
+    "japanese": "それじゃ、またあとで。",
+    "translation": "Okay, see you later."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（お客様か。\n　あいつらにこんな扱いをされるのは新鮮だ。\n　嫌じゃないし、気持ちは嬉しいんだが――）",
+    "translation": "(Guests, huh.\n It's refreshing to be treated like this by them.\n I don't dislike it, and I'm happy, but%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こうも落ち着かなくなるもんなんだな。\n　またあいつらに教えられたか）",
+    "translation": "(It makes me pretty uneasy.\n Looks like they taught me something, again.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……ん？）",
+    "translation": "(...Hm?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（外が妙に暗くなってる？\n　まだ日没には早いはずだが）",
+    "translation": "(Is it already this dark outside?\n It's still gotta be too early for sunset.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、夕飯を楽しみに待たせてもらおう。",
+    "translation": "Well, I'm looking forward to dinner."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふっ！\nそう言われるとますます張り切っちゃうわね。",
+    "translation": "Teehee!\nIf you say things like that,\nI'll get even more and more excited."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、料理だってお礼なんだから、\n絶対に満足してもらわないと。",
+    "translation": "Yes, well, cooking is our way to give thanks,\nso we've definitely gotta satisfy you too."
+  },
+  {
+    "character": "らいは",
+    "japanese": "私、お部屋の中も見たいから\n一花さんたちと一緒に行くね。\nお兄ちゃんの部屋は私の隣でいい？",
+    "translation": "I want to see what the rooms look like,\nso I'll go with Ichika-san and them.\nDo you wanna be next to me, big bro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、いいぞ。\n荷物はあとで自分で持ってく。",
+    "translation": "Yeah, sure.\nI'll take my stuff there later."
+  },
+  {
+    "character": "らいは",
+    "japanese": "はーい。",
+    "translation": "Okaaay."
+  },
+  {
+    "character": "一花",
+    "japanese": "それじゃ、またあとで。",
+    "translation": "Okay, see you later."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（お客様か。\n　あいつらにこんな扱いをされるのは新鮮だ。\n　嫌じゃないし、気持ちは嬉しいんだが――）",
+    "translation": "(Guests, huh.\n It's refreshing to be treated like this by them.\n I don't dislike it, and I'm happy, but%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こうも落ち着かなくなるもんなんだな。\n　またあいつらに教えられたか）",
+    "translation": "(It makes me pretty uneasy.\n Looks like they taught me something, again.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……ん？）",
+    "translation": "(...Hm?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（外が妙に暗くなってる？\n　まだ日没には早いはずだが）",
+    "translation": "(Is it already this dark outside?\n It's still gotta be too early for sunset.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（雲行きが怪しくなってる。\n　いつの間に）",
+    "translation": "(The clouds are getting darker.\n When did that start happening?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（そういや、送ってくれた船の船員が\n　遠くに嵐が来ているが、島に影響はないだろうと\n　話していたが……）",
+    "translation": "(Speaking of which, the boatman who brought us here\n told me that a storm was coming in but,\n he said that it wouldn't affect the island...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（いや、まさかな。\n　あんなことを言ったからってまさか……\n　ははは……）",
+    "translation": "(No, it couldn't be.\n Because of what I said earlier, it couldn't...\n Hahaha...)"
+  }
+]

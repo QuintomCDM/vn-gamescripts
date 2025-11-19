@@ -1,0 +1,282 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "はぁ、はぁ……。\nいつまでたっても、この森から抜け出せないな。",
+    "translation": "Haah, haah...\nNo matter how long we walk,\nwe can't seem to get out of this forest."
+  },
+  {
+    "character": "四葉",
+    "japanese": "こんなに森が深いと、\n本当にどっちに進んでるのか\nわからなくなっちゃいますね……。",
+    "translation": "When the forest is this dense,\nit's hard to tell which way we're going.\nIt's really confusing..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そこは注意して見てるから安心しろ。\n太陽の位置から考えて、今のところ、\n南に向かってるのは間違いない。",
+    "translation": "Don't worry, I'm paying attention.\nJudging from the position of the sun,\nwe're definitely heading south for now."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "木の枝の生え方や、苔の生え具合なんかでも\n普段、日の当たってる側がわかるからな。",
+    "translation": "You can usually tell where the sun touches the plants\nby how the tree branches and moss are growing."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうなんですか？",
+    "translation": "Is that so?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "大抵の場合は、よく育ってる側が南だ。",
+    "translation": "Usually, the side that grows better is the south side."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はあああ～。\nそんなことまでわかっちゃうなんて\nすごいですね、上杉さんは。",
+    "translation": "Wowww.\nYou're so amazing knowing that kind of stuff, \nUesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、大体の方角がわかるってだけで、\n島の南側のどこに出るのかはわからん。",
+    "translation": "Well, I can only tell the general direction,\nI don't know where we'll end up\non the south side of the island."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "偶然、道にでもぶち当たらなきゃ、\nまた別の浜辺に出ちまうかもしれない。",
+    "translation": "After coming out of the forest,\nwithout accidentally stumbling upon a path,\nwe might end up on a different beach."
+  },
+  {
+    "character": "四葉",
+    "japanese": "でも、私の知らないことばかりですよ。\nやっぱり上杉さんは頼りになります。",
+    "translation": "But you know so many things I haven't even heard \nabout. Uesugi-san, you're so reliable."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "普段からしっかり勉強をしておけば、\nお前でもこのくらいのことはできるはずだがな？",
+    "translation": "Well, if you study hard on a regular basis,\nyou should know that kind of stuff, Yotsuba?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは……。",
+    "translation": "Ahaha..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "笑って誤魔化すな。\nまったく……。",
+    "translation": "Don't laugh it off like that.\nGood grief..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "太陽の位置からして、夕暮れまでまだ時間はある。\nなんとか明るいうちに、見覚えのある場所までは\n辿り着きたいところだな。",
+    "translation": "Based on the position of the sun, we still have time\nuntil dusk. I want to get back to a familiar place\nwhile it's still light out."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうですね。\nこんな森じゃ、暗くなっちゃったら\n進むどころじゃないです。",
+    "translation": "That's true.\nWe can barely move on, when the forest is \ngetting dark."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……でも、このままだと、今日中に\n別荘まで帰り着けないかもしれませんね。",
+    "translation": "...But if we keep going like this,\nwe won't make it back to the villa tonight."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "せめて、獣道でもあれば\nもう少し楽に歩けそうなんだが……。\nいたのがウサギじゃ、それも期待できないか。",
+    "translation": "If there was some kind of animal trail, walking would \nbecome much easier... I doubt we'll\nfind anything like that as we only found rabbits."
+  },
+  {
+    "character": "四葉",
+    "japanese": "すみません。\n私がウサギさんと遊んでいたせいで、\n大事な時間を無駄にしちゃって……。",
+    "translation": "I'm sorry.\nBecause of me playing with the rabbits,\nwe wasted precious time..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "何を言ってんだ？\nお前のせいじゃないだろ。\n休憩を提案したのは俺なんだからな。",
+    "translation": "What are you talking about?\nIt's not your fault.\nI was the one who suggested to rest."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれは……私がはしゃいでたから、\n上杉さんが気を遣ってくれたんですよね？",
+    "translation": "That's...because I was fooling around,\nand you were worried about me, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "何度も言ってるが、お前は気にしすぎだ。\nあのときは俺も体力の限界だったんだよ。",
+    "translation": "I've told you many times, that you worry too much.\nI also reached my limit at that time, ya know."
+  },
+  {
+    "character": "四葉",
+    "japanese": "それは……私が上杉さんを\n振り回してしまったからで……。",
+    "translation": "That's because... I was the one who pushed you \nthrough the forest, Uesugi-san..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "私は……もう、上杉さんに迷惑をかけたくないです。\n足を引っ張りたくないのに……。",
+    "translation": "I...don't want to be a burden on you anymore.\nI don't want to hold you back..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "足を引っ張ってるのは俺のほうだろ？\nお前と違って、体力はからっきしだからな。",
+    "translation": "It's me who's holding you back, you know?\nUnlike you, I have no stamina at all."
+  },
+  {
+    "character": "四葉",
+    "japanese": "そんなことないです！\n上杉さんは頭を使って、\n私をたくさん助けてくれてます。",
+    "translation": "No, that's not true!\nYou've been helping me a lot\nby using your head, Uesugi-san."
+  },
+  {
+    "character": "四葉",
+    "japanese": "だから私は、この体力を活かして\n上杉さんをちゃんと助けないと……。",
+    "translation": "I want to help you by using my strength,\nUesugi-san..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（もう四葉には充分助けられてるんだがな。\n　俺１人じゃ、ここまで来れたかすら怪しい――）",
+    "translation": "(Yotsuba has helped me so much already.\n I'm not sure if I could've made it this far alone%p-2;――%p;)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ああ、そうか。\n　俺は１人じゃない、だからここまでこれた。\n　それは四葉だって同じなんだよな）",
+    "translation": "(Oh, wait.\n I only made it this far because of her strength.\n And Yotsuba because of my knowledge.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まったく、強情なやつだな。\nなら、お前の好きなようにしていいぞ。",
+    "translation": "My lord, you're really stubborn.\nDo whatever you like."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はいっ！\n私、もっともっと頑張ります！",
+    "translation": "Okay!\nI'll do my absolute best then!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ただ、私はおバカですから、また勝手なことして\n迷惑かけちゃうかもしれません……。",
+    "translation": "But, I'm a bit of an airhead,\nso I might cause you trouble again..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "何かあったら、そのときは俺が助けてやるから。",
+    "translation": "If anything happens, I'll be there to help you."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……へっ？",
+    "translation": "...Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉に足りないものがあるなら、\n俺にだって足りないものはある。\nどっちのせいかだなんて言い合うだけ不毛だ。",
+    "translation": "If there's something that you're lacking, Yotsuba,\nI won't be able to do anything at all.\nIt's pointless to just blame each other for it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それならいっそ、お互い、\n自分がやりたいことをやっちまったほうが\n気楽だと思わないか？",
+    "translation": "In that case, wouldn't it be easier for both of us\nto just do what we want to do?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えっ……。",
+    "translation": "Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前が気を遣おうが遣うまいが、俺はもう構わない。\nお前の好きなようにしてみろ。",
+    "translation": "Whether you care about it or not,\nI don't care about it anymore.\nDo whatever you want."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その代わり、お前が失敗しそうなら反対もするし、\n失敗したなら勝手に気を遣ってフォローする。\nそれでどうだ？",
+    "translation": "I will hinder you, if I think that you're going to fail at \nsomething, and if you do fail, I'll support you without \nasking for anything in return. What do you think?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さあ、どうする？",
+    "translation": "So, what do you want to do?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、今だけは……\n少しだけ自分勝手になっちゃいますね。",
+    "translation": "Well, for now...\nI'll be a little selfish."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "好きにしろ。\nただし、危険なことをしようとしたら\n意地でも止めるからな？",
+    "translation": "Do as you please.\nHowever, if you try to do something dangerous,\nI'll stop you no matter what, okay?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい。\nそのかわり、失敗しても怒らないでくださいね？",
+    "translation": "Okay.\nBut if I fail, please don't get angry, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "怒らないし、安心していいぞ。\nお前がどんな失敗をしたとしても、\n必ず俺がお前を別荘まで連れて行ってやる。",
+    "translation": "Relax, I won't get angry.\nNo matter what kind of mistake you make,\nI'll definitely take you back to the villa."
+  },
+  {
+    "character": "四葉",
+    "japanese": "違いますよ、上杉さん。",
+    "translation": "It's not about that, Uesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うん？",
+    "translation": "Hm?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんが私を連れて帰るんじゃなくて、\n私と上杉さん、２人で一緒に帰るんです！",
+    "translation": "You're not taking me back, Uesugi-san.\nWe're going home together!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ああ、その通りだ。",
+    "translation": "...That's exactly right."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、ここからは私が先に進んで、\nなるべく歩きやすい場所を探しますね。",
+    "translation": "I'll go on ahead from now on and keep an eye out for\nbetter terrain."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、任せる。\nしっかり頼んだぞ。",
+    "translation": "Okay, I'll leave it to you.\nIt's in your hands."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さんは、私が間違ったほうに進まないように\nちゃんと見張っててくださいよ？",
+    "translation": "Uesugi-san, please watch over me.\nI don't wanna go the wrong way."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あと、疲れたら早めに言ってください。\n気がつかずに置いてっちゃったりしたら\n困りますから。",
+    "translation": "And if you get tired, please let me know.\nI don't want to leave you behind without realizing it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "了解だ。",
+    "translation": "Roger."
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、出発です！\n頑張っていきましょーう！",
+    "translation": "Alrighty, let's move out!\nWe're gonna do our best!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう！",
+    "translation": "Yeah!"
+  }
+]

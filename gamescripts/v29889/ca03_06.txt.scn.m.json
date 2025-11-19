@@ -1,0 +1,792 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "とうちゃーくっ！",
+    "translation": "We're heeere!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はぁ、はぁ……やっと、か。",
+    "translation": "*puff* *puff* Finally."
+  },
+  {
+    "character": "三玖",
+    "japanese": "お疲れさま、フータロー。\n荷物置くから貸して。",
+    "translation": "Good work, Futaro.\nLet me take the luggage, I'll put it down for you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、すまない……。",
+    "translation": "Here, thanks a lot..."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君、大丈夫？\nほら、こっちにちょうどよさそうな\n段差があるから、座って。",
+    "translation": "Futaro-kun, are you okay?\nThere's a nice little place to sit over here."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "助かる……。",
+    "translation": "That's a big help..."
+  },
+  {
+    "character": "五月",
+    "japanese": "別荘からここまで、ずっとお弁当を\n背負ってくれたわけですからね。\nお疲れさまでした、上杉君。",
+    "translation": "You carried the bento all the way\nfrom the villa to here.\nThank you for your hard work, Uesugi-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああー、ダメだ。\nしばらくは一歩も歩ける気がしねぇ。",
+    "translation": "I can't feel my legs.\nI don't think I can take another step."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あはは、完全にノックダウンですね。\nホントにお疲れさまです。",
+    "translation": "Ahaha, you look completely worn out.\nThank you so much for your hard work."
+  },
+  {
+    "character": "五月",
+    "japanese": "ここでお昼を食べるつもりでしたし、\n上杉君が回復するまで私たちも休みましょう。",
+    "translation": "We were planning on stopping here to have lunch anyway,\nso let's take a break until Uesugi-kun recovers."
+  },
+  {
+    "character": "四葉",
+    "japanese": "さんせーい！",
+    "translation": "I AGREE!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ！　そうだ！\n上杉さん、水分補給も忘れずに\nしておいてくださいね？",
+    "translation": "Ah, almost forgot!\nUesugi-san, don't forget to drink water, okay?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "は……っ！",
+    "translation": "Ah!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君！　お水よ！",
+    "translation": "Fu-kun! Here's some water!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、これ飲んで。",
+    "translation": "Futaro, drink this."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっと三玖？\n今のは私のほうが早かったと思うけど？",
+    "translation": "What are you doing, Miku?\nI handed him the water first."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ううん、私のほうが絶対に早かった。",
+    "translation": "No, I was definitely faster."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どっちも飲むから、とっととよこせ。\nめちゃくちゃ喉乾いてるんだ……。",
+    "translation": "Just give 'em to me,\nI'll drink 'em both.\nI'm really thirsty..."
+  },
+  {
+    "character": "一花",
+    "japanese": "ああ、いい風が吹いてきた。\n少しは涼しくなりそう。",
+    "translation": "Oooh, the breeze is so nice.\nThe weather is getting nice and cool."
+  },
+  {
+    "character": "五月",
+    "japanese": "ふふ、なんと言えばいいのか……。\nまさに、山にハイキングに来た、という\n雰囲気になってきましたね。",
+    "translation": "Teehee, how do I put it...\nIt's almost like we are 'hiking in the mountains.' LITERALLY. "
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。\nこういうのがいいと思ったんだ。",
+    "translation": "Yeah.\nI knew this would be a nice experience."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、確かに。\nいい提案だったな。",
+    "translation": "Yeah, for sure.\nNice suggestion."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "……あっ！\nみんな、静かに！",
+    "translation": "...Hey!\nEveryone, quiet!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "え？　なに？　何か聞こえた？",
+    "translation": "Huh? What? Did you hear something?"
+  },
+  {
+    "character": "一花",
+    "japanese": "……鳥の声？",
+    "translation": "...A bird?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "近くなったな。\nこの木のどこかに止まったのか？",
+    "translation": "I can hear it getting closer.\nDid it perch on some branch of this tree?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "綺麗な鳴き声だね。\nどこにいるんだろう？",
+    "translation": "What a beautiful chirping sound.\nI wonder where it's coming from?"
+  },
+  {
+    "character": "五月",
+    "japanese": "こんな近くで聞こえるなんて……感激です。",
+    "translation": "To be able to hear it this close... It's phenomenal."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、どんな鳥かわかる？",
+    "translation": "Futaro, do you know what kind of bird it is?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さすがに鳴き声で判断するのは無理だって。\n野鳥観察のプロならともかく。",
+    "translation": "You think I can guess the bird just by its chirp?\nMaybe possible for a professional birdwatcher though."
+  },
+  {
+    "character": "らいは",
+    "japanese": "……あっ！　見つけた！　あそこ！\n木の枝に鳥がとまってるよ！",
+    "translation": "...Ah! I see it! Right there!\nThe bird is perched on the branch of that tree!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "おお、本当です！\nしかも青い鳥じゃないですか！",
+    "translation": "Ohh, it's true!\nAnd it's a blue one!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "四葉、声が大きい。\n逃げちゃうから。",
+    "translation": "Yotsuba, be quiet.\nIt'll fly away."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、ごめん。",
+    "translation": "Ah, sorry."
+  },
+  {
+    "character": "らいは",
+    "japanese": "すごいよお兄ちゃん、幸せの青い鳥だよ。\n何かいいことがあるかも。",
+    "translation": "It's amazing, big brother! It's the bluebird of happiness. \nSomething good might happen."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうだろうなぁ。\n俺が思うに、青い鳥を見てそれだけ\nはしゃげる時点で、充分幸せじゃないか？",
+    "translation": "I wonder. In my opinion, just getting excited by seeing a bluebird\nis happiness enough, don't you think?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そもそも、幸せの青い鳥ってのはだな――",
+    "translation": "Anyway, the bluebird of happiness is just a legend%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "はいはい、ウンチクはストップ。\n今はそんな空気じゃないでしょ？",
+    "translation": "All right, all right, stop with the trivia.\nNow is not the time, is it?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "耳を澄ませてみると、違う鳥の鳴き声もする。\nあの青い鳥以外にもたくさんいそう。",
+    "translation": "If you listen carefully, you can hear the other birds chirping too. \nThere seem to be more birds and not just the bluebird."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "夜に来たら、フクロウなんかとも\n出会えるかもしれないな。",
+    "translation": "If we come back here at night,\nwe might be able to see an Ural owl."
+  },
+  {
+    "character": "二乃",
+    "japanese": "いいわね、見てみたいわ。\nフクロウって可愛いし。",
+    "translation": "I'd really like to see one.\nUral owls are cute."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "可愛いか？",
+    "translation": "You find them cute?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "可愛いわよ。\n目がくりくりしてて、もふもふで、\n耳みたいに羽が飛び出してるのもいいわね。",
+    "translation": "They're really cute.\nTheir eyes are round, they're fluffy,\nand I like how their feathers stick out like ears."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "残念、羽が飛び出してるのはミミズクだ。\nよくある間違いだな。",
+    "translation": "Wrooong, the one with the feathers sticking\nout like ears is the long-eared owl.\nThey're commonly mistaken for a Ural owl."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ど、どっちも可愛いの！",
+    "translation": "B-both of them are cute!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フクロウ、もしいるなら見たいな……。",
+    "translation": "If there are Urals owls here, I want to see one..."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが、夜にここまで来るのはさすがに危険ですね。",
+    "translation": "But, wandering this far out at night seems dangerous."
+  },
+  {
+    "character": "四葉",
+    "japanese": "うん、明かりもないもんね。\nお月様と星の明かりだけじゃ厳しいよ。",
+    "translation": "Yeah, and there's no light.\nIt'd be tough finding our way back here with just moonlight and stars."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……鳥、逃げないね。",
+    "translation": "...The bird hasn't flown away yet."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうねぇ。\nこれだけ騒いでるのに飛んでく気配がないわ。",
+    "translation": "Yeah.\nDespite all the noise we're making."
+  },
+  {
+    "character": "四葉",
+    "japanese": "街にいるハトなんて、ちょっと近づいただけでも\nバーって飛んでいっちゃうのに。",
+    "translation": "Even city pigeons will fly away\nif you approach them just a little."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私たちのこと、怖くないの？",
+    "translation": "I wonder if it isn't afraid of us."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "警戒心が薄いんだろ。\nこの島は長いあいだ無人島だったわけだし。\n人間を敵だと思ってないのかもしれない。",
+    "translation": "It's probably because they are less wary other birds.\nThis island has been uninhabited for a long time, after all.\nThey might not see humans as enemies."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ああ、そういうことなんだ。",
+    "translation": "Ahh, I see."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あくまで予想だけどな。\n俺は素人だし。",
+    "translation": "But that's just a guess.\nI'm just an amateur."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……なあ、それより、そろそろ飯にしないか？\n休んでたら腹が減ってきちまった。",
+    "translation": "...Hey, you know what?\nHow about we eat soon. \nI'm starting to get hungry after resting a little."
+  },
+  {
+    "character": "五月",
+    "japanese": "賛成です。\n実は私もお腹が……。",
+    "translation": "I agree.\nMy stomach is also growling..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（お前の場合、いつもだろうに……）",
+    "translation": "(You're always freaking hungry...)"
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君、何か言いたそうな顔ですね？",
+    "translation": "Uesugi-kun, you look like you have something you want to say."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、別に？",
+    "translation": "Nah, I'm good."
+  },
+  {
+    "character": "一花",
+    "japanese": "とりあえず、手分けして広げちゃおうか。",
+    "translation": "Anyway, let's spread out the picnic blanket."
+  },
+  {
+    "character": "四葉",
+    "japanese": "りょーかい！",
+    "translation": "You gooot it!"
+  },
+  {
+    "character": "五月",
+    "japanese": "んん～♪\nこのおにぎり、とても美味しいです。",
+    "translation": "Mmmm ♪\nThese rice balls are so good."
+  },
+  {
+    "character": "四葉",
+    "japanese": "山菜ご飯も、味が染み染みー！",
+    "translation": "The mixed rice with mountain vegetables has a rich flavor, too."
+  },
+  {
+    "character": "一花",
+    "japanese": "お弁当と言えば、やっぱり唐揚げだよね。\nお魚のっていうのがまた新鮮だよ。",
+    "translation": "When it comes to bento, fried chicken is the best.\nHaving fish with it is also novel."
+  },
+  {
+    "character": "らいは",
+    "japanese": "やったね、二乃さん、三玖さん。\nみんな喜んでくれてる！",
+    "translation": "Great job, Nino-san, Miku-san.\nEveryone seems to be enjoying it!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "私が作ったんだから当然よ。",
+    "translation": "I made them, so of course they'll like it."
+  },
+  {
+    "character": "二乃",
+    "japanese": "……なんて。\nやっぱり、目の前であれだけ美味しそうに\n食べてもらえると、嬉しいわね。",
+    "translation": "...Kidding. \nReally, it makes me happy to see everyone\nenjoy their food so deliciously."
+  },
+  {
+    "character": "三玖",
+    "japanese": "喜んでもらえて、本当によかった。",
+    "translation": "I'm glad everyone is happy."
+  },
+  {
+    "character": "一花",
+    "japanese": "んー……。\nでも、ちょっと味付けが濃いめかな？",
+    "translation": "Hmm..\nBut, the seasoning's a little heavy, isn't it?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あ！　別に不味いとかじゃないからね？",
+    "translation": "Ah! Don't take it the wrong way,\nI'm not saying it tastes bad or anything!"
+  },
+  {
+    "character": "五月",
+    "japanese": "そういえばそうですね。\nおにぎりも少し塩気が強い気がします。",
+    "translation": "Come to think of it, you're right.\nThe rice balls are a bit salty."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おそらくだが、長時間歩くことを見据えて\n塩分を補給できるようにってことじゃないか？",
+    "translation": "I'm guessing they purposely made it saltier for us, \nso we can replenish our electrolytes."
+  },
+  {
+    "character": "四葉",
+    "japanese": "おおー！　そういうことですか！\n３人ともそこまで考えて作ってくれたんだ！",
+    "translation": "Oh! I see, I didn't know you three\nput that much thought into making them!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "正解よ。\nそこまで見抜かれると、嬉しい反面、\nちょっと恥ずかしいわね。",
+    "translation": "Yep, you're correct, Fu-kun.\nIt's a little embarrassing to have been seen through\nlike that, but it's nice to be appreciated."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローはどう？\n私たちの作ったお弁当、美味しい？",
+    "translation": "So, what do you think about the lunch we made, Futaro?\nIs it tasty?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、美味いぞ。\n歩いて汗もかいたし、塩分が濃いのはありがたい。",
+    "translation": "Yeah, It's delicious.\nIt's nice to eat something savory after walking and sweating all day."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……ちなみにだけど、\nどのおかずが美味しかったとか、好きな味とかある？",
+    "translation": "...By the way,\nis there a side dish or any particular flavor you liked?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "特にこれってことはないな。\nどれも美味い。",
+    "translation": "I can't really pick one thing.\nAll of them are delicious."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そっか……。\n喜んでもらえたなら、私も嬉しい。",
+    "translation": "I see...\nI'm happy that you're enjoying it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（とか言ってる割に、顔が曇ってないか？\n　俺は褒めたつもりなんだがな）",
+    "translation": "(Why is she frowning, I thought I complimented her?)"
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、そうだ。\nデザートってわけじゃないけど、\nクッキーも持ってきたんだ。",
+    "translation": "Oh yeah!\nIt's not really a dessert,\nbut I also brought some cookies."
+  },
+  {
+    "character": "四葉",
+    "japanese": "クッキー！？\n三玖、準備いい！\nちょうど甘いものがほしいなって思ってたんだ。",
+    "translation": "Cookies!\nMiku, you came prepared!\nI was just thinking I wanted something sweet."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、しょっぱいものの後には、\nやっぱり甘いものがほしくなりますね。",
+    "translation": "Yes, after eating something savory,\nI always crave something sweet."
+  },
+  {
+    "character": "三玖",
+    "japanese": "多めに焼いてきたから、ちゃんと全員分あるよ。",
+    "translation": "I made extra,\nso there should be enough for everyone."
+  },
+  {
+    "character": "らいは",
+    "japanese": "ありがと、三玖さん！",
+    "translation": "Thanks, Miku-san!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……あ、また鳴いてる。",
+    "translation": "...Oh, I hear the bird's chirping again."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さっきより声が近くないか？",
+    "translation": "It sounds like it's closer than before?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ですね。\nこれはもう、姿が見えるんじゃないでしょうか？",
+    "translation": "Yes, exactly. At this point, shouldn't we be able to see it?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "わっ！？",
+    "translation": "WOAH?!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ああっ！　ホントに出てきましたよ！？",
+    "translation": "Aaah! It really came out?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（驚いたな、俺たちのすぐ近くに……）",
+    "translation": "(I can't believe it, it's right there...)"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ちょっと？\nお弁当を狙ってきたんじゃないでしょうね？",
+    "translation": "Hey birdy.\nDid you come to steal our lunch?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、ありえますよ！？\n観光地では、トンビが食べ物を奪っていく、\nという話を聞いたことがあります！",
+    "translation": "Be careful, hide the food!\nI've heard that seagulls steal food at tourist sites!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、あの鳥はそういう類いのじゃないと思うが。",
+    "translation": "No, I don't think this bird is the kind that steals food."
+  },
+  {
+    "character": "三玖",
+    "japanese": "！？",
+    "translation": "?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖！？",
+    "translation": "Miku?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……え？\nあの、お前、なんで私の近くに来るの？",
+    "translation": "....HEY.\nYou stupid bird, stop getting close to me."
+  },
+  {
+    "character": "一花",
+    "japanese": "いや、鳥さんに聞いても返事はないんじゃない？",
+    "translation": "You know birds can't speak right, Miku?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ！\nもしかして、三玖のクッキーに\nつられて来ちゃったんじゃないかな？",
+    "translation": "Maybe they're here for your cookies, Miku?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、えっと……じゃあクッキー、いる？",
+    "translation": "Ah, um...hey birdy would you like a cookie?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "わっ……。",
+    "translation": "It's eating it..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "当たりみたいね。\nそれにしても、まさか自分から寄ってくるなんて。",
+    "translation": "It seems Yotsuba was right.\nBut it's surprising that it would come to us on its own."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君の言った通り、人への警戒心が薄いのですね。",
+    "translation": "As Uesugi-kun said,\nit doesn't seem to be wary of humans."
+  },
+  {
+    "character": "三玖",
+    "japanese": "えっ、ちょ……！？",
+    "translation": "Wha%p-2;――%p; hey?!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "わあ、肩にのった！\n可愛い～！",
+    "translation": "Oh my god, it's sitting on your shoulder!\nHow cute!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "大丈夫、三玖？　肩、痛くない？",
+    "translation": "Are you okay, Miku? It's not hurting your shoulder?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "平気……。",
+    "translation": "I'm alright..."
+  },
+  {
+    "character": "一花",
+    "japanese": "これは、三玖のクッキーが\nすっごく気に入ったってことかな。",
+    "translation": "This must mean the bird REALLY likes Miku's cookies."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そんなこと言われても、どうすれば……。",
+    "translation": "Okay, but how do I get it off my shoulder."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "落ち着け。\n無理に払いのけようとしなければ、\n大人しくしてるだろ。",
+    "translation": "Calm down.\nIf you don't try to forcefully push it away, it should stay quiet."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そう……なの？",
+    "translation": "Really...?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは、そうだって言ってるみたい。",
+    "translation": "Ahaha, it seems like it's agreeing with you."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうかしら？\n私には、もっとクッキーを寄越せって\n言ってるように聞こえるわよ？",
+    "translation": "Are you sure about that?\nTo me it sounds like it's asking for more cookies."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "五月に負けず劣らずの食いしん坊だな。",
+    "translation": "It's just as much a glutton as Itsuki."
+  },
+  {
+    "character": "五月",
+    "japanese": "ど、どうしてここで私が出てくるんですか！",
+    "translation": "Wh-why are you dissing me?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……クッキー、いる？",
+    "translation": "...Hey, do you want another cookie?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふふ、可愛い。\nもっと食べていいよ？",
+    "translation": "Teehee, you're so cute.\nYou can have more if you'd like."
+  },
+  {
+    "character": "らいは",
+    "japanese": "わあ、食べてる食べてる！\n三玖さん、次は私も食べさせてみていい？",
+    "translation": "Wow, look, look, it's eating!\nCan I try feeding it next?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、クッキーは小さくしてね。",
+    "translation": "Sure, break the cookie up into small pieces."
+  },
+  {
+    "character": "らいは",
+    "japanese": "はーい。",
+    "translation": "Okay."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この鳥、完全に野生を忘れてるな。\n警戒心が薄いって言っても限度があるだろ。",
+    "translation": "This bird has totally lost its wild instincts.\nThe little guy should at least have some survival instincts,\nor it'll end up as some predator's meal."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私も、ちょっと思った。\nこのままカゴに入れたら飼えちゃいそう。",
+    "translation": "I thought so too.\nIt's so friendly that if we put it in a cage,\nwe could keep it as a pet."
+  },
+  {
+    "character": "一花",
+    "japanese": "確かにいけちゃいそうだね。",
+    "translation": "Yeah, that sounds plausible."
+  },
+  {
+    "character": "三玖",
+    "japanese": "鳥を飼うのって、ちょっと憧れるかも。",
+    "translation": "I've always wanted a pet bird."
+  },
+  {
+    "character": "二乃",
+    "japanese": "クッキーを囮に使えば\nカゴに入れるのも簡単そうだけど。",
+    "translation": "If we use cookies as bait,\nwe could easily put it in a cage."
+  },
+  {
+    "character": "五月",
+    "japanese": "……どうして私を見ながら言うんですか、二乃？",
+    "translation": "...Why are you looking at me\nlike that, Nino?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "怖くないか？",
+    "translation": "Aren't you scared?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "平気だよ。\nこの子、小さいし、暴れたりもしなそうだし。\n心配してくれてありがとう。",
+    "translation": "I'm fine.\nThis bird's quite small and doesn't seem like it'll act up.\nThank you for worrying about me though."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それなら、まあいいが。",
+    "translation": "In that case, good."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、でも……\n動き回られると、ちょっとくすぐったいかも。",
+    "translation": "Oh, but...\nit kind of tickles when it moves around a lot."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ホント、無邪気な鳥ねぇ。",
+    "translation": "Such a friendly bird."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すっかり懐かれたな、三玖。",
+    "translation": "The bird seems to really like you, Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、自分でも驚いてる。",
+    "translation": "Yeah, I'm quite surprised myself."
+  },
+  {
+    "character": "四葉",
+    "japanese": "幸せの青い鳥に懐かれるなんて。\nもしかしたら、本当にいいことが\n起きるかもしれませんよね、上杉さん。",
+    "translation": "To be loved by the bluebird of happiness.\nMaybe something really good will happen to us,\nUesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "かもな。\nこうして三玖を見てると、\nそんな話も信じてみたくなる。",
+    "translation": "Maybe.\nBut, seeing Miku this happy makes me want to believe that."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふふ、どうかなぁ。\nご飯をあげたら懐いちゃうゲンキンな青い鳥だし。",
+    "translation": "Hehe, I don't know about that. \nIt's probably just here for the food."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そう言う割には、お前も嬉しそうだな。",
+    "translation": "You say that, but you seem real happy about it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……うん。\n懐かれるのは、やっぱり嬉しいから。",
+    "translation": "...Yeah.\nWell, I love being appreciated."
+  },
+  {
+    "character": "四葉",
+    "japanese": "……あれ？\n鳥さん、寝ちゃいました？",
+    "translation": "...Oh?\nDid the bird fall asleep?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "ホントだ。\n目を閉じちゃってる。",
+    "translation": "It did.\nIts eyes are closed."
+  },
+  {
+    "character": "一花",
+    "japanese": "三玖の肩、そんなに居心地よかったのかな。",
+    "translation": "Is Miku's shoulder that relaxing to sleep on?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "こんなに近くで\n鳥が寝てるところを見るの、初めてだー。",
+    "translation": "I've never seen a bird sleep on someone's shoulder before."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私も初めて。\n触っても起きないし……。",
+    "translation": "Me neither.\nIt won't even wake up if I nudge it..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "これは……もしかしたら三玖には、\n鳥使いの才能があるのかも？",
+    "translation": "Wait a second...\nMaybe Miku has a natural talent for bird charming."
+  },
+  {
+    "character": "二乃",
+    "japanese": "その才能、一体どこで役に立つのよ。",
+    "translation": "What good is THAT talent for?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "えーっと、マジックとか？\nこうなったら、マジシャンを目指すのはどう？",
+    "translation": "Well, maybe for magic tricks?\nShe could aim to be a magician, how's that?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "どうって言われても。",
+    "translation": "How do I respond to something like that."
+  },
+  {
+    "character": "一花",
+    "japanese": "確かに返事に困るね。",
+    "translation": "Indeed, it's hard to come up with a response for that."
+  },
+  {
+    "character": "らいは",
+    "japanese": "けど、こんなに好かれてるんだもん。\n三玖さん、本当に幸せを\n分けてもらえるかもしれないよ。",
+    "translation": "But, this bird seems to like you so much.\nMiku, you might actually get some good fortune from it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。\nいいこと、あるといいな。",
+    "translation": "Yes.\nI hope something good happens."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……あいつら、鳥１羽で\n　よくあんなに盛り上がれるな。\n　楽しそうだし、止めるつもりはないが）",
+    "translation": "(How can they get so excited over a single bird?\n It looks like they're having fun, so I'll leave them be.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ふあ、あ……。",
+    "translation": "*yawn*"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（というか、ヤバい。\n　弁当を食ったせいか眠気がきた）",
+    "translation": "(Oh man, this is bad.\n I'm started to feel sleepy.\n Maybe I ate too much food.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あー……。\n　これはダメだ、目を開けてられねぇ……）",
+    "translation": "(Oh no...\n This is not good. I can't keep my eyes open...)"
+  }
+]

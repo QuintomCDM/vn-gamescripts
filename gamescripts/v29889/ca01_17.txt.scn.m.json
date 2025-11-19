@@ -1,0 +1,712 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "えー、宴もたけなわと言ったところでございますが、\n次の撮影に参りたいと思いますでございます。",
+    "translation": "Well yes, the party DOES seem to be in full swing,\nbut I do believe we should be\nmoving on to the next shoot."
+  },
+  {
+    "character": "二乃",
+    "japanese": "なにその挨拶。",
+    "translation": "What's with the speech?"
+  },
+  {
+    "character": "一花",
+    "japanese": "今度は何を撮るの？",
+    "translation": "What are we going to shoot next?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "それでは、最後のコンセプトを\n発表させていただきます。\nずばり――",
+    "translation": "Now then, I would like to present the final concept.\nDrumroll%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "デート！",
+    "translation": "A DATE!"
+  },
+  {
+    "character": "一花",
+    "japanese": "……え？",
+    "translation": "...Huh?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "デートです！",
+    "translation": "IT'S A DATE!"
+  },
+  {
+    "character": "一花",
+    "japanese": "ちょ、ちょっと待って？\nどうしてそんなコンセプト？\nデートって誰と……。",
+    "translation": "H-hold on?\nWhy is it that a concept?\nA date with who..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふっふっふ、実はこれまでの撮影を見てたときに\nピンと来ちゃって。",
+    "translation": "He-he-he, I actually just thought of it\nwhile looking at the photos just now"
+  },
+  {
+    "character": "四葉",
+    "japanese": "一花は上杉さん相手だと\nとーってもいい表情してたから、\nよいところを伸ばして行く方針で！",
+    "translation": "You had such an amaaazing expression\non your face when you were with Uesugi-san,\nso the plan is to get the good expressions going!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "というわけで、上杉さんには\nデートの相手役として続投してもらいます。",
+    "translation": "So, we're going to have Uesugi-san\ncontinue to play the role of your date partner."
+  },
+  {
+    "character": "一花",
+    "japanese": "いいの？\nそんな役を任せられちゃって……。",
+    "translation": "Is that okay?\nTo entrust that role to him..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前がいいなら、俺は問題ない。\n一応、それっぽくなるように着替えてきたし。",
+    "translation": "If that's fine with you, I'm okay too,\nI've changed my clothes to kind of look the part."
+  },
+  {
+    "character": "一花",
+    "japanese": "……そうなの？\nで、でも、じゃあ、みんなはどうなの？",
+    "translation": "...Is that so?\nB-but, well, how does everyone else feel?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "いいんじゃないかしら。\nあくまでも撮影のコンセプトだもの。",
+    "translation": "I guess it's alright.\nIt's simply the concept for a photoshoot."
+  },
+  {
+    "character": "五月",
+    "japanese": "ええ、いい表情をたくさん撮らせてください。",
+    "translation": "Yes, please let us capture some good expressions."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そうだよ。\nありのままの一花を残さなくちゃ、意味がないから。",
+    "translation": "That's right.\nIt'll all be in vain unless we can preserve you\nas naturally as possible, Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "みんな……。",
+    "translation": "Everybody..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、一花さんに素敵な想い出を\n作ってあげなくちゃダメだからね？",
+    "translation": "Big bro, you need to help Ichika-san\nmake some wonderful memories, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、わかってるよ。",
+    "translation": "Yeah, I understand."
+  },
+  {
+    "character": "四葉",
+    "japanese": "では、さっそく撮影スタートです！\nまずは上杉さんがデートに誘うところから！",
+    "translation": "Alright, then let's start the shoot!\nFirst will be Uesugi-san inviting Ichika on the date!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はっ！？\nそこからなのか？",
+    "translation": "HUH?!\nThat's where we're starting?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "さあさあ、歯がふわふわ浮くような甘い台詞で\nエスコートしちゃってください。",
+    "translation": "Okay, okay! Ask to escort her with a line\nthat will sweep her off her feet."
+  },
+  {
+    "character": "一花",
+    "japanese": "いや、なにもそこまでこだわらなくても。",
+    "translation": "Well, you don't have to be so particular about everything."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やれやれ。\nカメラマンの指示だ、従うしかないな。",
+    "translation": "Good grief.\nIt's the photographer's orders, we have to obey."
+  },
+  {
+    "character": "一花",
+    "japanese": "……む、無理、しないでね？",
+    "translation": "...D-don't push your self if you aren't feeling it, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なあ一花……。\n俺と一緒に……う、海でも、眺めに行かないか？",
+    "translation": "H-hey, Ichika...\nW-would you...l-like to go look at the sea\nwith me?"
+  },
+  {
+    "character": "一花",
+    "japanese": "……ぷっ！",
+    "translation": "Ppfft!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（くっ……。\n　慣れない台詞のせいで\n　イントネーションが変なことに……！）",
+    "translation": "(Urk...\n Because I'm not familiar with this kind of line,\n my intonation must have been all strange!)"
+  },
+  {
+    "character": "一花",
+    "japanese": "ご、ごめん、ここで笑っちゃダメだよね。\nちょっと待って、気を落ち着かせるから。",
+    "translation": "I-I'm sorry, I shouldn't laugh.\nHold on, I need to calm down a little."
+  },
+  {
+    "character": "一花",
+    "japanese": "ふー……。",
+    "translation": "Whew..."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、いいよ。\n君からのお誘いを断るわけないでしょ？",
+    "translation": "Yes, that'd be nice.\nYou know I could never decline your invitation, right?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うわぁ……。\nここから見る夕日、こんなに綺麗なんだ。",
+    "translation": "Oh, wow...\nThe sunset from here is this beautiful."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、茜色に染まっているせいか、\nいつもとは違う世界のようだな。",
+    "translation": "Yeah, perhaps because it's so red,\nit seems to be like a different world."
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ、あっちの岩場に行ってみよっか……。",
+    "translation": "Hey, why don't we go to the rocks over there?"
+  },
+  {
+    "character": "一花",
+    "japanese": "きゃっ！？",
+    "translation": "Yeeep?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おっと！",
+    "translation": "Woah!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "大丈夫か？\n足場が悪いんだし、その……ほら。\n俺の手を離すなよ？",
+    "translation": "Are you okay?\nThe footing is pretty rough here, so...here.\nDon't let go of my hand, okay?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、ありがとう。",
+    "translation": "Okay, thanks."
+  },
+  {
+    "character": "四葉",
+    "japanese": "カーット！\n自然な流れで、いい雰囲気でしたよ！",
+    "translation": "And, CUT!\nThat was such a good atmosphere, with natural flow."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうか、よかった。",
+    "translation": "I-I see. That's great."
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃、顔が怖い。",
+    "translation": "Nino, your face is so scary."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんたもね。",
+    "translation": "Yours is too."
+  },
+  {
+    "character": "一花",
+    "japanese": "さて、カメラマンのみなさん？\n次のシーンのプランは？",
+    "translation": "Alright then, photographers?\nWhat's the plan for the next scene?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ダメだ、四葉はもうネタ切れらしい。",
+    "translation": "Aw, looks like Yotsuba is out of ideas."
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、他のみんなは……。",
+    "translation": "Alright, anyone else..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "三玖。",
+    "translation": "Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ズ、ズルい二乃。\n私に押しつけるなんて。",
+    "translation": "Y-you're so cunning, Nino.\nTo volunteer me like that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前ら……。\nノープランすぎないか？",
+    "translation": "You guys...\nAren't you a little too lacking\nin the planning department?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あの……本当に、思いつきでよければ、\n１つ意見があるのですが。",
+    "translation": "Um... I do have one idea,\nif just a small suggestion is okay."
+  },
+  {
+    "character": "一花",
+    "japanese": "何かな？",
+    "translation": "I wonder what it is?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ダンス、なんてどうでしょう？\nさっき２人が手をつないでいるのを見て、\nふと思いついたんです。",
+    "translation": "How about you dance?\nWhen I saw you two holding hands,\nthe thought came to me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここでダンスか？\nさっきも一花が砂に足を取られたし、\n激しい動きは無理そうだが。",
+    "translation": "Dancing, here?\nIchika just got her leg caught in the sand,\nso it seems impossible to move any more than this."
+  },
+  {
+    "character": "一花",
+    "japanese": "まあまあ、カメラマンの指示なんだし、\n役者は全力で応えなきゃね。",
+    "translation": "Well now, it is the photographer's instructions.\nWe need to fulfill our roles as best we can."
+  },
+  {
+    "character": "一花",
+    "japanese": "それにさ、想像してみて？\n夕暮れ時のビーチでのダンスなんて、\nこれ以上ないシチュエーションだよ。",
+    "translation": "And then, can you imagine it?\nDancing on the beach during a sunset.\nThere's no situation better than this."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……一花がいいなら、俺は構わないが。",
+    "translation": "If you're okay with it, Ichika, then I am too."
+  },
+  {
+    "character": "一花",
+    "japanese": "ふふっ！\nそれじゃ――",
+    "translation": "Teehee!\nIn that case%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "Ｗｏｕｌｄ　ｙｏｕ　ｌｉｋｅ　ｔｏ　ｄａｎｃｅ？",
+    "translation": "'W O U L D  Y O U  L I K E  T O  D A N C E?'"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……Ｙｅｓ。",
+    "translation": "...Y E S."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どこで覚えたんだ、そんな言葉。",
+    "translation": "Where did you learn that phrase?"
+  },
+  {
+    "character": "一花",
+    "japanese": "とある映画のヒロインが、社交界の\nダンスパーティーに誘われるシーンが好きなんだ。\n繰り返し見ているうちに覚えてたの。",
+    "translation": "I love a scene in a movie where the heroine\nis invited to a high society dance party.\nI remembered the line watching it over and over again."
+  },
+  {
+    "character": "一花",
+    "japanese": "さあ、フータロー君！\n踊ろう！",
+    "translation": "Alright, Futaro-kun!\nLet's dance!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちょ、い、いきなり手を引っ張るな！\nと、と、おわわっ！？",
+    "translation": "Wai%p-2;――%p; d-don't just pull my hand all of a sudden!\nWoa-woa-owawa?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "そんなに慌てないの。\nほら、私と同じ動きをしてみて。",
+    "translation": "Don't be so flustered.\nCome on, try to move the same way I do."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "簡単に言うが、結構難しいんだぞ？",
+    "translation": "You say it like it's easy, but it's really not,\nyou know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "フォークダンスは踊ったことがあるが、\n本格的なものなんて知らないし……。",
+    "translation": "I've done some folk dances before,\nbut nothing this proper..."
+  },
+  {
+    "character": "一花",
+    "japanese": "似たようなものだって。\nはい、ここでステップ！",
+    "translation": "It's similar, I tell you.\nAlright, and a step here!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？　とっととと！？",
+    "translation": "Huh? Wowowow?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "そうそう、できてるよ。",
+    "translation": "Good, you're doing it well."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、こういうときは男の子のほうが\nリードするものなんだけどな～。",
+    "translation": "But, it's times like this\nwhen the man should be leading."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "仕方ないだろ……。\nさっきも言ったが、\nそもそもダンスなんて経験がないんだ。",
+    "translation": "I can't help it...\nLike I said before,\nI don't have any dance experience from the start."
+  },
+  {
+    "character": "一花",
+    "japanese": "まだまだ勉強が足りないねぇ。",
+    "translation": "Looks like you haven't studied enough, huh."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、まったくだ。\n俺は本当に勉強が足りない。\n学ぶべきことが山のようにある。",
+    "translation": "Yeah, that's for damn sure.\nI really haven't studied enough.\nThere is a mountain of things I've left to learn."
+  },
+  {
+    "character": "一花",
+    "japanese": "お互いにね。\nまだこれから、私たちは\nたくさん勉強していかなくちゃ。",
+    "translation": "For both of us.\nWe need to keep on studying\nfrom here on out."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうした？　急に黙り込んで。\n俺のダンスに文句があるのか？",
+    "translation": "What's up? Suddenly going silent like that.\nDo you have a complaint with my dance?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ここは任せる。\n無理にリードしたら不格好になるしな。",
+    "translation": "I'll leave things to you, here.\nIf I forcibly lead you, I'll look pretty lame."
+  },
+  {
+    "character": "一花",
+    "japanese": "ほうほう、どうやら\n私の実力を認めてくれたようだね。",
+    "translation": "Oh, my? It seems that you've recognized my ability."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……俺は前から認めてるつもりだぞ。\nお前はいつも、俺たちの先を行ってる。",
+    "translation": "...I've been recognizing it for a while now.\nYou're always leading the way ahead of us."
+  },
+  {
+    "character": "一花",
+    "japanese": "ふふ、そうだったね。\n私が私の道を行くのを、君は認めてくれてる。",
+    "translation": "Teehee, I suppose that's true.\nYou recognize that I'm on my own path."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ただし、勉強については俺が教える側だ。\nそこは譲らねぇ。",
+    "translation": "However, I'm the one who teaches you how to study.\nI won't yield on that point there."
+  },
+  {
+    "character": "一花",
+    "japanese": "はーい、先生。",
+    "translation": "Okay, Sensei."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうした？　急に黙り込んで。\n俺のダンスに文句があるのか？",
+    "translation": "What's up? Suddenly going silent like that.\nDo you have a complaint with my dance?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "帰ったら勉強しとく。",
+    "translation": "I'll study up when we get back."
+  },
+  {
+    "character": "一花",
+    "japanese": "こういうところまで勉強熱心だなぁ。\nフータロー君らしいよ。",
+    "translation": "You're passionate for studying,\neven at a time like this.\nThat's so you, Futaro-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺の上達ぶりを見て驚くなよ？\n今度は、俺がお前をリードしてやる。",
+    "translation": "Don't be surprised to see how much\nI've improved next time, yeah?\nI'll be the one leading you next time."
+  },
+  {
+    "character": "一花",
+    "japanese": "うん、次を期待して待ってるよ。",
+    "translation": "Yep, I'll be waiting expectantly."
+  },
+  {
+    "character": "一花",
+    "japanese": "……またこうして踊れるかは、わからないけど。",
+    "translation": "...I don't know if we can dance\nlike this again, though."
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうした？　急に黙り込んで。\n俺のダンスに文句があるのか？",
+    "translation": "What's up? Suddenly going silent like that.\nDo you have a complaint with my dance?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ううん、そうじゃないよ。\n急に、昔のことが思い浮かんできちゃった。",
+    "translation": "No, that's not it.\nI just started thinking about the past."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "誰かとの、ダンスの想い出か？",
+    "translation": "You danced with someone in the past?"
+  },
+  {
+    "character": "一花",
+    "japanese": "そうだね、ダンスと言えばダンスかな。",
+    "translation": "Sure, you could call it dancing."
+  },
+  {
+    "character": "一花",
+    "japanese": "君も、覚えてる？\n林間学校のこと。",
+    "translation": "Do you remember?\nThe school camping trip."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ああ、そういや、\nあのときダンスの話があったな。\nキャンプファイヤーの伝説だったか？",
+    "translation": "...Speaking of which,\nthere was something about some dancing then.\nWas it a campfire legend?"
+  },
+  {
+    "character": "一花",
+    "japanese": "うん……。\nあれから今日まで、あっという間だった気がする。",
+    "translation": "Yeah...\nIt feels like no time at all has passed since then."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "色々なことがめまぐるしく起きたからな。\n今も、そのドタバタした日々の真っ最中だ。",
+    "translation": "A lot of things happened really fast.\nWe're still right in the middle of those chaotic days."
+  },
+  {
+    "character": "一花",
+    "japanese": "君と出会ってから、本当に色々あったもんね。\n林間学校とか、二乃たちが家出しちゃったりとか、\n今のアパートに引っ越したりとか。",
+    "translation": "There have been so many things since I met you, the\nschool camping trip, Nino and the others running away\nfrom home, and moving into our current apartment."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そういや、結局俺たち、\nあのときフォークダンスは踊らずじまいだったな。",
+    "translation": "Speaking of which,\nthe folk dance ended before we could dance, huh."
+  },
+  {
+    "character": "一花",
+    "japanese": "……え。",
+    "translation": "...Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前が言ったんじゃないか。\n２人だけのキャンプファイヤーだって。",
+    "translation": "You were talking about it, right?\nThe two of us dancing by the campfire."
+  },
+  {
+    "character": "一花",
+    "japanese": "ま、まだそんなこと、覚えてたんだ。",
+    "translation": "Y-you still remember that, don't you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あー、その……忘れるわけないだろ？",
+    "translation": "Ah, well...\nthere's no way I could forget that, you know?"
+  },
+  {
+    "character": "一花",
+    "japanese": "忘れるわけないって……どうして……。",
+    "translation": "You couldn't forget that...why?"
+  },
+  {
+    "character": "一花",
+    "japanese": "きゃっ！？",
+    "translation": "Yeeeep?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一花！？",
+    "translation": "Ichika?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "あっ……！",
+    "translation": "Ahh!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ったく、またかよ。\nどうした、急にリズムが崩れたぞ？",
+    "translation": "Good lord, AGAIN?\nWhat happened, you suddenly lost the rhythm."
+  },
+  {
+    "character": "一花",
+    "japanese": "う、うん、ごめん。\n砂に足を取られちゃったみたい。",
+    "translation": "O-ooh, oops.\nMy leg got caught in the sand again."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あのときといい、ホントにお前はドジだな。",
+    "translation": "Just like back then as well,\nyou are really so clumsy."
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは……。\n気をつけてるんだけどね、一応。",
+    "translation": "Hahaha...\nEven though I am trying to be a little more careful."
+  },
+  {
+    "character": "一花",
+    "japanese": "助けてくれて、ありがとう。\nやっぱり男の子だね、しっかりと受け止めてくれた。",
+    "translation": "Thank you for helping me.\nYou really are a man,\nyou completely stopped me from falling."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、ああ、当たり前だろ？\nお前がこけるのを黙って見てるわけにはいかねぇし。",
+    "translation": "C-come on, that's obvious, isn't it?\nI can't just sit back and watch you fall."
+  },
+  {
+    "character": "一花",
+    "japanese": "本当に優しいね、君は。",
+    "translation": "You really are kind, aren't you."
+  },
+  {
+    "character": "一花",
+    "japanese": "……困っちゃうくらいに。",
+    "translation": "...To the point it's a problem for me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おい、一花？",
+    "translation": "H-hey, Ichika?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ごめん、まだドキドキしてて動けないかも。",
+    "translation": "Sorry, my heart's pounding again, and I can't move."
+  },
+  {
+    "character": "一花",
+    "japanese": "こうやって君に背中を預けてれば、\n安心して、心臓も落ち着くと思うから――",
+    "translation": "I think if I rest my back on you like this,\nI'll feel safe, and my heart will calm down%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "あと少しだけ、あと少しだけ……いいかな？",
+    "translation": "Just a little more, just a little more...\nis that okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、ああ、構わないが……。",
+    "translation": "Y-yeah, I don't mind..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "構うわよーー！",
+    "translation": "WE MIND!"
+  },
+  {
+    "character": "一花",
+    "japanese": "わっ！？",
+    "translation": "WOAH?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "そんな指示は出してない。",
+    "translation": "We didn't give those instructions."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君、やりすぎでは？",
+    "translation": "Uesugi-kun, don't you think you're taking it too far?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いやいや、これは不可抗力だ！\n別に俺だって好きでこうしたわけじゃない！\nお前ら、見てただろ！？",
+    "translation": "No, no, this was inevitable!\nIt's not like I want to do this or anything!\nYou guys were watching, right?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君……私、やっぱり迷惑だった？",
+    "translation": "Futaro-kun...did I actually annoy you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "い、いや……そんなことはないが……。",
+    "translation": "N-no...that's not true..."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、すごく迷惑そうだし。\nうっ……うううっ……。",
+    "translation": "But, I feel like I REALLY did annoy you.\nOoh...ooooohh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい！？　なんで泣くんだ！？",
+    "translation": "Hey! Why are you crying?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "一花、いい加減にしなさい。",
+    "translation": "Ichika, get a hold of yourself."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローも動揺しないで。\nますます一花にからかわれるから。",
+    "translation": "Futaro, don't get upset, either.\nIt'll set Ichika off even more."
+  },
+  {
+    "character": "一花",
+    "japanese": "あはは、ごめんごめん。\nちょっと役に入り込みすぎちゃったかな。",
+    "translation": "Hahaha, sorry, sorry.\nPerhaps I got into the role a little too much."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……は？",
+    "translation": "...HUH?"
+  },
+  {
+    "character": "一花",
+    "japanese": "あまりにも面白そうな展開だったから、\nちょっと演技しちゃった。\n女優魂がうずいちゃって。",
+    "translation": "It was just such an interesting development,\nthat I acted a little bit.\nMy actress sense was tingling."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はああ～！？　いつからだよ！\nいつから演技してたんだ！？",
+    "translation": "WHAAA?! From when?!\nFrom when were you acting?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "ナ・イ・ショ。",
+    "translation": "It's a S-E-C-R-E-T."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はーい！\n一花と上杉さんの素敵な笑顔、\nいただいちゃいましたー！",
+    "translation": "Okay!\nWe were able to get some beautiful shots\nof your smiles, Ichika and Uesugi-san!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なっ！？",
+    "translation": "Wha?!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、本当にいい顔してたよ？\nアルバムが楽しみだなー。",
+    "translation": "Big bro, you really have such a good look.\nI'm excited to see the album."
+  }
+]

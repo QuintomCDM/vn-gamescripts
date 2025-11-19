@@ -1,0 +1,392 @@
+[
+  {
+    "character": "一花",
+    "japanese": "さーて！\nお昼ご飯もすんだし、\nフータロー君、このあとはどうする予定？",
+    "translation": "Right, then!\nWe've eaten lunch,\nFutaro-kun, what do you want to do after this?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、特に考えてなかった。\n海水浴なんだし泳げばいいんじゃないか？",
+    "translation": "Oh, I can't really think of anything.\nWe could go for a dip in the ocean, right?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん！\n海といえばやっぱりスイカ割りですよ、\nスイカ割りしましょう！",
+    "translation": "Uesugi-san!\nSpeaking of the ocean,\nI think we should do watermelon splitting! Let's do it!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "でもスイカなんてないじゃない。\nビーチボールあたりで代用するの？",
+    "translation": "But we don't have any watermelons, do we?\nAre we gonna use a beach ball instead?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ジャ～ン！\nなんとスイカを発見しちゃったんだ。\nちゃんと冷やしておいたから、超食べ頃だよ。",
+    "translation": "Tah-dah!\nI somehow found a watermelon.\nI properly chilled it, so it's totally ready to eat."
+  },
+  {
+    "character": "二乃",
+    "japanese": "は？　これスイカなの？\n見た目スイカっぽくなくない？",
+    "translation": "Huh? This is a watermelon?\nIt isn't a watermelon I've seen before."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ？　上杉さん？\n五月も真剣な顔してどうしたの？",
+    "translation": "Huh? Uesugi-san?\nItsuki too, you look so serious. What happened?"
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君はどう思います？\nこれは本当にスイカなのでしょうか？",
+    "translation": "What do you think, Uesugi-kun?\nIs this a real watermelon?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうかな、品種まではわからないが\nウリ科の実なのは確かだろう。",
+    "translation": "I wonder, I can't tell what species it is,\nbut it's certainly a fruit of the gourd family."
+  },
+  {
+    "character": "五月",
+    "japanese": "食べて大丈夫でしょうか？",
+    "translation": "Is it alright to eat?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、あのー？　２人とも？",
+    "translation": "U-um? You two?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "正体がわからないなら食べなければいいだけだ。\nせっかくの食材だが腹を壊しても困るしな。",
+    "translation": "If you don't know what it is, you mustn't eat it.\nIt's nice we might have found something to eat,\nbut I don't want anyone to get sick to their stomach."
+  },
+  {
+    "character": "五月",
+    "japanese": "それもそうですね。\n背に腹は変えられませんし。",
+    "translation": "That's true, indeed.\nYou can't make an omelet without breaking eggs."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そのことわざ、用法を間違えてるぞ。\nあとで正しい意味を調べておけ。",
+    "translation": "That's not how that proverb is used.\nPlease learn the correct way to use it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ま、まあまあ！\n細かいことは割ったあとで考えませんか？",
+    "translation": "W-well, anyway!\nLet's think about the details\nafter we've split it, okay?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "早くしないと、せっかく冷えたスイカが\nあったまっちゃうよ！",
+    "translation": "If we don't hurry, the chilled watermelon\nwill warm right up!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "割るのは誰がやる？",
+    "translation": "Who is going to try splitting it first?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "うーん、ここはやっぱり上杉さんで\nいいんじゃないかな？",
+    "translation": "Hmm, I think Uesugi-san should start."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前たちの誰かでいいじゃないか。\nなんで俺がやるんだ？",
+    "translation": "Why don't one of you start?\nWhy do I have to do it?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "私の力じゃ、割るのはちょっと無理。",
+    "translation": "I can't do it. I'm not strong enough."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですね。\nここは唯一の男性である、あなたにお任せします。",
+    "translation": "That's right.\nWe'll leave it up to the only boy around here."
+  },
+  {
+    "character": "二乃",
+    "japanese": "私、フー君の格好いいところが見たいな。\n頑張って！",
+    "translation": "I want to see you look cool, Fu-kun.\nDo your best!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、割れなきゃ意味がないしな。\n仕方がない、俺がやってやるか。",
+    "translation": "Well, there's no point if we don't split it.\nIt can't be helped, I'll give it a shot."
+  },
+  {
+    "character": "五月",
+    "japanese": "妙に張り切ってますね。\n実はやりたかったのですか？",
+    "translation": "Wow, aren't you confident.\nYou actually wanted to do it, didn't you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "い、いいだろ別に！　夏の醍醐味だ！",
+    "translation": "Wh-who cares if I want to!\nIt's classic summer fun!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉がやればいいんじゃないか？\nスイカを用意したのは四葉なんだし。",
+    "translation": "I think you should do the honors, Yotsuba.\nYou're the one that prepared the watermelon after all."
+  },
+  {
+    "character": "四葉",
+    "japanese": "いえいえ、私よりも上杉さんのほうが\n適役だと思いますよ。",
+    "translation": "No no, I think you're more suitable than I am,\nUesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだよ適役って……\nそれで本当に俺がやってもいいんだな？",
+    "translation": "Suitable...? \nYou sure you want me to do it?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、ここはビシッと\n格好よく決めちゃってください！",
+    "translation": "Yeah! Just CRACK that thing open!\nWith style!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "仕方がない。\n見てろよ、一発で決めてやるからな。",
+    "translation": "Okay, then.\nCheck this out. I'll finish this in one shot."
+  },
+  {
+    "character": "五月",
+    "japanese": "妙に張り切ってますね。\n実はやりたかったのですか？",
+    "translation": "Wow, aren't you confident.\nYou actually wanted to do it, didn't you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "い、いいだろ別に！　夏の醍醐味だ！",
+    "translation": "Wh-who cares if I want to!\nIt's classic summer fun!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいは、やってみるか？",
+    "translation": "Raiha, want to give it a shot?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "え～？\nみんなはお兄ちゃんの格好いいとこを\n見たいんじゃないかな？",
+    "translation": "Huh?\nI think everybody wants to watch you do it, big bro."
+  },
+  {
+    "character": "一花",
+    "japanese": "うんうん、フータロー君なら、\nビシッと一発で決めてくれそうだもんね。",
+    "translation": "Yeah yeah, if you do it, Futaro-kun,\nI think you'd split it open with one blow."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、頑張って。",
+    "translation": "Futaro, do your best."
+  },
+  {
+    "character": "らいは",
+    "japanese": "ほらね？\nお兄ちゃんファイトファイト！",
+    "translation": "Look, see?\nBig bro, fight, fight!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よーし、やるからには一発で決めてやるからな。\nお前らも、しっかり見ておけよ！",
+    "translation": "Alriiight, if I'm going to do this, better do it\nin one shot.\nYou'd better watch too, girls!"
+  },
+  {
+    "character": "五月",
+    "japanese": "妙に張り切ってますね。\n実はやりたかったのですか？",
+    "translation": "Wow, aren't you confident.\nYou actually wanted to do it, didn't you?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "い、いいだろ別に！　夏の醍醐味だ！",
+    "translation": "Wh-who cares if I want to!\nIt's classic summer fun!"
+  },
+  {
+    "character": "一花",
+    "japanese": "はい、フータロー君。\n目隠しするからじっとしてねー。",
+    "translation": "Alright, Futaro-kun.\nI'll blindfold you, so hold still."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう。",
+    "translation": "Okay."
+  },
+  {
+    "character": "一花",
+    "japanese": "んっ……と。\nこんな感じでいいかな？　縛り方、キツくない？",
+    "translation": "And...there.\nHow is it? Did I tie it on too tight?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "問題ない。\nしかしマジで何も見えねぇな、これで割るのか。",
+    "translation": "No problem.\nBut I really can't see anything at all.\nI wonder if I can actually split it."
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふ、本当に見えないのかしら？",
+    "translation": "Teehee, you really can't see, can you?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃、くっつきすぎ。",
+    "translation": "Nino, leave him alone."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、なにしてんだ？",
+    "translation": "Hey, what are you doing?"
+  },
+  {
+    "character": "五月",
+    "japanese": "はい、そこまでです！\n早く始めますよ！",
+    "translation": "Alright, that's far enough, Nino!\nLet's hurry up and start!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "じゃあ、いま上杉さんが立っているところが\nスタート地点として……スイカを置いてきまーす。",
+    "translation": "Okay, let's say where Uesugi-san is standing now\nis the starting point...\nand I'll put the watermelon here."
+  },
+  {
+    "character": "らいは",
+    "japanese": "準備オッケー？\nそれじゃ、スタート！",
+    "translation": "Are you ready?\nGO!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし、行くぞ！",
+    "translation": "Right, here I go!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "左よ、左！",
+    "translation": "To the left, to the left!"
+  },
+  {
+    "character": "一花",
+    "japanese": "もっと右、右～！",
+    "translation": "Right, more to the right!"
+  },
+  {
+    "character": "五月",
+    "japanese": "そのまま真っ直ぐです！",
+    "translation": "Okay, go straight, just like that!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "向き、違ってる。",
+    "translation": "You're going the wrong way."
+  },
+  {
+    "character": "らいは",
+    "japanese": "頑張れ～！",
+    "translation": "Do your best!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "いい感じですよ！",
+    "translation": "You're doing well!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ！？",
+    "translation": "WHAA?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "ほら右だってば、もっと右！",
+    "translation": "I said, RIGHT, didn't I? Go right more!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "左、左に戻って！",
+    "translation": "Go left, go back to the left!"
+  },
+  {
+    "character": "五月",
+    "japanese": "前に進まないと始まりませんよ！",
+    "translation": "You won't get anywhere if you don't go straight!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "そこでジャンプ！　ジャンプ！",
+    "translation": "Jump there! Jump!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "おろおろしてるフー君、ちょっと可愛い。",
+    "translation": "Fu-kun is kinda cute when he's flustered like this,\nisn't he."
+  },
+  {
+    "character": "四葉",
+    "japanese": "違います！　あっちですよ、あっち！",
+    "translation": "You're wrong! Go THAT way! THAT way!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちょっとタイムだ！　タイム！",
+    "translation": "Hold on, time out! Time out!"
+  },
+  {
+    "character": "一花",
+    "japanese": "あらら、もう降参？",
+    "translation": "Oh my, giving up already?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一斉にしゃべられたら聞き取れねぇぞ！\n今の指示でどうやって進めって言うんだ、\n割らせる気ないだろ！",
+    "translation": "If you all speak at once, I can't make sense\nof anything! How am I supposed to reach the\nwatermelon? You just don't want me to split it, right?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "偶然よ、ぐ・う・ぜ・ん。",
+    "translation": "That's a coincidence, a COINCIDENCE!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "五つ子ならではのチームワークってやつですね！",
+    "translation": "It's a special kind of teamwork unique to quintuplets!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はあ……。\nとにかく、指示出しするのは２人くらいにしてくれ。\nでないと割れる未来が見えてこない。",
+    "translation": "*sigh*\nAnyway, can I get instructions come from just two\nof you, okay? If not, I may never be able to split it."
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君の言うことも一理ありますね。\n割れてもらわないと困りますし。",
+    "translation": "Uesugi-kun has a point.\nIf he doesn't split it, we'll be in trouble."
+  },
+  {
+    "character": "一花",
+    "japanese": "食べられないもんね。",
+    "translation": "We won't be able to eat it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ指示出し、誰がやる？",
+    "translation": "Okay, then who will give instructions?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ジャンケンにしましょ。\n勝ち残った２人が、フー君に指示を出せるの。",
+    "translation": "Let's decide with rock-paper-scissors.\nThe two winners get to instruct Fu-kun."
+  },
+  {
+    "character": "らいは",
+    "japanese": "じゃあ、いくよー！",
+    "translation": "Alright, here we go!"
+  },
+  {
+    "character": "一花",
+    "japanese": "せーの！",
+    "translation": "Rock, paper, SCISSORS!"
+  }
+]

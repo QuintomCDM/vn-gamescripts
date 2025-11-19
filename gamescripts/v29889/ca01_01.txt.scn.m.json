@@ -1,0 +1,287 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "（さて、今日はそろそろ寝るか。\n　明日もいろいろありそうだしな）",
+    "translation": "(Well, it's about time to hit the hay.\n I bet a bunch of stuff will happen tomorrow, too.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ん？　なんの音だ？\n　夜行性の動物か？）",
+    "translation": "(Hm? What's that sound?\n A nocturnal animal?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あれは……人か？\n　後ろ姿でよくわからんが、\n　もしかして……一花じゃないか？）",
+    "translation": "(It's...a person?\n I can't really tell from behind,\n but perhaps...Ichika?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こんな時間に１人で外に出るなんて、\n　あいつらしくもなく不用心だな。\n　ちょっと様子を見に行くか）",
+    "translation": "(It's careless to go out alone at such an hour,\n even for her.\n I'll go see what's going on.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（あれ？　どこだ？\n　まさか夜の海を見に行ったのか？）",
+    "translation": "(Huh? Where is she?\n Did she come to look at the ocean at night?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……あんなところにいたか）",
+    "translation": "(...There she is.)"
+  },
+  {
+    "character": "一花",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（どうしたんだ？\n　物憂げな顔して……\n　これは、声をかけるべきかどうか……）",
+    "translation": "(What's going on?\n With such a somber look...\n I wonder if I should talk to her...)"
+  },
+  {
+    "character": "一花",
+    "japanese": "ふう……。",
+    "translation": "Whew..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（ええい！\n　このまま放っておいても気になって眠れない！）",
+    "translation": "(Alright then!\n If I just leave her like this, I won't stop wondering,\n and won't be able to fall asleep.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おい、一花。\nこんな時間にどうした、天体観測でもしてるのか？",
+    "translation": "Hey, Ichika.\nWhat're you doing at this hour?\nStargazing or something?"
+  },
+  {
+    "character": "一花",
+    "japanese": "！？　だっ、誰！？",
+    "translation": "Wh-who's there?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺だよ。",
+    "translation": "It's me."
+  },
+  {
+    "character": "一花",
+    "japanese": "なんだ、フータロー君か。\nもう、びっくりさせないでよ。",
+    "translation": "Oh, Futaro-kun.\nDon't scare me like that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "悪かった。\n寝ようと思ったら、窓の外に\nお前が歩いて行くのが見えたんでな。",
+    "translation": "Sorry.\nRight when I was about to go to bed,\nI saw you walking outside from my window."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こんな時間に、何をほっつき――",
+    "translation": "What do you think you're doing,\nwandering around at this hour%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（待てよ。\n　いきなり問いただすのは\n　デリカシーがないだろうか？）",
+    "translation": "(Wait.\n If I start interrogating her...\n I need to be delicate here... Right?)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ん、んんっ！\nあー、こんな時間にしか見えない星でも見てるのか？",
+    "translation": "Um, ummmm!\nAh, is there a star we can only see\nat this time of year?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確か、この時期、この時間、この地域で\n見られる星座は……。",
+    "translation": "Let's see, constellations in this region,\nat this time of year, hmmm..."
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君って星座にも詳しいよね。\nテストには出なさそうだけど。",
+    "translation": "Futaro-kun, you sure do know your constellations.\nThough it doesn't seem you'll put them on any tests."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "別に俺だって、テストがすべてだと\n思ってるわけじゃないぞ。",
+    "translation": "I don't necessarily think that tests are everything,\nyou know."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……まあ、こいつらに出会って\n　考え方が変わったんだが）",
+    "translation": "(...Though, my way of thinking changed\n when I met these guys.)"
+  },
+  {
+    "character": "一花",
+    "japanese": "じゃあ、なんで詳しいのかな？",
+    "translation": "So, why do you know them so well?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これくらいは一般教養レベルだ。\nそれに将来、天文学に携わることが\nあるかもしれないだろう？",
+    "translation": "It's general knowledge really not very impressive.\nAnd well...maybe I'll get involved in astronomy\nin the future, you know?"
+  },
+  {
+    "character": "一花",
+    "japanese": "君が天文学者？\n想像できないなぁ。",
+    "translation": "You, an astronomer?\nI can't imagine that."
+  },
+  {
+    "character": "一花",
+    "japanese": "私、夏の星座なんて\nサソリ座くらいしか思いつかないよ。",
+    "translation": "I can only think of Scorpio\nwhen it comes to summer stars."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いやいや、今の時期の代表的星座といえば\n夏の大三角形を押さえておくべきだろ。",
+    "translation": "No, no, the representative constellation\nat this time of year\nshould be the Great Summer Triangle."
+  },
+  {
+    "character": "一花",
+    "japanese": "三角形の星座……？\n有名だったっけ？",
+    "translation": "The Great Summer Triangle constellation?\nIs that famous?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、違う。\n夏の大三角は星座じゃないんだ。\nほら、俺の指さす方向を見てみろ。",
+    "translation": "Yes, but hold on.\nThe Great Summer Triangle isn't a constellation.\nHey, look in the direction I'm pointing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "十字架みたいに並んでる星があるだろ？\nそのうち、明るいのがデネブって星だ。",
+    "translation": "There are some stars that look like a cross, right?\nAmong them, Deneb is the bright star."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その周りにある別の明るいのが、ベガとアルタイル。\nこれらを結べば、夏の大三角形になる。",
+    "translation": "The other bright stars around it are\nVega and Altair, which, when connected,\nform the Great Summer Triangle."
+  },
+  {
+    "character": "一花",
+    "japanese": "あー、うん、なんとなく\n三角形に見えるようになってきた。",
+    "translation": "Ahh, I see.\nNow that I think about it,\nit's looking more and more like a triangle to me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "その三角形の星は、\nはくちょう座、こと座、わし座の一部なんだ。",
+    "translation": "The three stars in the triangle\nare part of the\nCygnus, Lyra, and Aquila constellations."
+  },
+  {
+    "character": "一花",
+    "japanese": "へえ……。\nそれぞれ別の星座の星なんだね。",
+    "translation": "Wow...\nSo each are stars in different constellations."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちなみに、その星たちには別名がある。\nこっちのほうが日本じゃ通りがいいかもな。",
+    "translation": "By the way, each of these stars each have another\nname in Japanese.\nThese names might make more sense to you."
+  },
+  {
+    "character": "一花",
+    "japanese": "えっ？　なに？",
+    "translation": "Hmm? What are they?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ベガが織姫星。あの明るい星だな。\nで、アルタイルが彦星だ。",
+    "translation": "Vega is Orihime-Boshi. That bright star, there.\nAltair is Hikoboshi, over there."
+  },
+  {
+    "character": "一花",
+    "japanese": "ああ……。\nなるほどね、聞いたことはあったけど\nこうしてちゃんと見るのは初めてだよ。",
+    "translation": "Ah...\nI see, I've heard about them,\nbut this is the first time I've seen them like this."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "都会の夏空は、\n一等星の星さえなかなか見られないからな。",
+    "translation": "It's hard to see even the brightest stars\nin the city's summer night sky."
+  },
+  {
+    "character": "一花",
+    "japanese": "織姫と彦星といえば七夕伝説だね。\n年に一度のロマンスだ。",
+    "translation": "When you say Orihime and Hikoboshi,\nI think of the Tanabata Legend.\nA romantic tale, that happens once every year."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はいはい、ロマンスね。\n言うと思ったぜ。",
+    "translation": "Yeah, yeah, romance.\nI thought you'd say that."
+  },
+  {
+    "character": "一花",
+    "japanese": "いつもそんな感じに勉強を教えてくれたら、\nもっと興味持てるのになー。",
+    "translation": "If you always taught me to study like that,\nI'd be more interested."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺は勉強にロマンチックさなんて\n求めてないから無理だ。",
+    "translation": "I don't need any romanticism in my studies,\nso that's impossible."
+  },
+  {
+    "character": "一花",
+    "japanese": "だよねー。",
+    "translation": "I know, riiight."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが、知識の中には\nロマンチックさもたまには紛れている。\nだから、それは自分で見つけるんだな。",
+    "translation": "However,\nsometimes there's romanticism in knowledge,\nso you have to find that yourself."
+  },
+  {
+    "character": "一花",
+    "japanese": "はーい、わかりました先生。",
+    "translation": "Okay, I understand, Sensei."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、これはずっと覚えていられそう。\n天の川を挟んで、織姫と彦星は\n見つめ合ってるんだって。",
+    "translation": "But I feel I'll remember this forever.\nOrihime and Hikoboshi,\nstaring at each other from across the Milky Way."
+  },
+  {
+    "character": "一花",
+    "japanese": "ふふっ！\nなんだか、この話を聞いたら元気出てきちゃった。",
+    "translation": "Teehee!\nI somehow feel better after hearing that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ってことは、元気がなかったわけか。",
+    "translation": "So that means, you weren't feeling good."
+  },
+  {
+    "character": "一花",
+    "japanese": "……あ。",
+    "translation": "...Ah."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "何か悩み事か？",
+    "translation": "Are you worried about something?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ううん、大丈夫。\n明日からなにして遊ぼうかって考えてただけ。",
+    "translation": "No, I'm alright.\nI was thinking about\nwhat kind of things I'll do during my free time tomorrow."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……そうか、だったらいい。",
+    "translation": "...Is that so. Good, then."
+  },
+  {
+    "character": "一花",
+    "japanese": "君のおかげで今日はいい夢見られそう。\nそれじゃ、おやすみなさい、フータロー君。",
+    "translation": "I feel like I'll have good dreams because of you.\nGood night then, Futaro-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、おやすみ。",
+    "translation": "Yeah, good night."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（俺ももう寝るか。\n　ここで気を揉んでいても仕方ないしな）",
+    "translation": "(Huh, I should get some sleep too.\n Well, there's no use worrying about anything right now.)"
+  }
+]

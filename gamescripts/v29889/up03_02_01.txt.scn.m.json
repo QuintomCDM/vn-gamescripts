@@ -1,0 +1,137 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "おい、３問目の計算、間違ってるぞ。\nそこの答えは－５だ。",
+    "translation": "Hey, you calculated problem three wrong.\nThe correct answer is negative five."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うう……また間違えた。",
+    "translation": "Oooh... I made a mistake again."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "公式はちゃんと覚えられてるから、\nあとはもう数をこなすしかないな。",
+    "translation": "You've already memorized the formula,\nso all you have to do is practice more."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……そもそも、マイナスってなに？",
+    "translation": "...What is a negative number?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、なにと言われても。",
+    "translation": "Hmm, how should I explain it."
+  },
+  {
+    "character": "三玖",
+    "japanese": "もし、ここにリンゴがあって、\nそれを食べてもマイナス１個にはならないでしょ？",
+    "translation": "If you had an apple and you ate it,\nyou would just be left with no apples, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まあ、普通に０個と言うだろうな。",
+    "translation": "Well, obviously it's zero in that case."
+  },
+  {
+    "character": "三玖",
+    "japanese": "やっぱり、マイナスの存在意義がわからない。",
+    "translation": "I still don't get why negative numbers are a thing."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そこを考え出すとキリがないぞ……。\nもう少し勉強に繋がる質問をしてくれないか？",
+    "translation": "Can you ask me a question\nthat's connected to your studies a little more?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ、どうしてマイナス同士を掛け算すると\nプラスになるの？",
+    "translation": "Then let me ask you, why does multiplying negatives\ngive you a positive?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "もしここにリンゴが――",
+    "translation": "Let's say you have an apple%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "マイナス１個のリンゴの説明ができないからやめろ！",
+    "translation": "I can't explain it using apple analogy,\nso stop!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローは、どうしてマイナス同士を\n掛け算したらプラスになるのかわかる？",
+    "translation": "Do you know why multiplying negatives\ngives you a positive, Futaro?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それは……。",
+    "translation": "That's..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "それは？",
+    "translation": "Because?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……そういうものだと思ってやってるから、\n説明しろと言われると困る。",
+    "translation": "...I don't question every little thing like you,\nso it's hard to explain these things to you."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふーん。\nフータローにもわからないんだ。",
+    "translation": "Hmmm.\nSo what you're telling me is, you don't know either, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんでちょっと嬉しそうなんだよ。",
+    "translation": "Why do you seem happy that I don't know?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローにもわからないなら、\n勉強しなくても大丈夫かなって。",
+    "translation": "Well, it got me thinking. If you don't know how to explain it,\nthen I shouldn't need to study it."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それとこれは話が別だ！\nマイナスがなんなのかわからなくても、\n問題集は全部解けるからな！",
+    "translation": "Those two things are different!\nEven if you don't know what a negative is,\nyou can solve all of the problems!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "さあ、話は終わりだ。\nキリキリ問題を解いてもらうぞ。",
+    "translation": "Okay, that's enough talking.\nGet to work and solve those problems."
+  },
+  {
+    "character": "三玖",
+    "japanese": "むう……。",
+    "translation": "Mmmhh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……島から帰ったら、\n一緒にマイナスのことを調べてみるか。\n正直、俺も気になってきた。",
+    "translation": "...When we get back from this island,\nlet's research about negative numbers.\nTo be honest, now I wanna know too."
+  },
+  {
+    "character": "三玖",
+    "japanese": "調べるときは２人で、だよ？",
+    "translation": "We'll look it up, just the two of us, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかったわかった。\nその代わり、今はちゃんと問題を解け。",
+    "translation": "I got it, I got it.\nBut in the meantime, try your best to solve these problems."
+  },
+  {
+    "character": "三玖",
+    "japanese": "わかった、頑張る。\n約束だからね、フータロー。",
+    "translation": "Okay, I'll do my best.\nThat's a promise, Futaro."
+  }
+]

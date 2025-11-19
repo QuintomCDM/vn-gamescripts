@@ -1,0 +1,132 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "よーし、休憩がてら山に関するクイズをしよう。",
+    "translation": "Alright, we've got a break,\nlet me quiz you about mountains."
+  },
+  {
+    "character": "四葉",
+    "japanese": "クイズですか？\nはい、ぜひぜひ！",
+    "translation": "Oh, a quiz?\nYes, please!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "では問題だ。\n世界でもっとも高い山と言えば――",
+    "translation": "Right, here's the problem.\nWhat's the tallest mountain in the world%p-2;――%p;?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ピンポーン！　エベレスト！！",
+    "translation": "I've got it! Mt. Everest!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……ですが。",
+    "translation": "...But."
+  },
+  {
+    "character": "四葉",
+    "japanese": "えええっ！？\nズルいですよ、そんな引っかけするなんて。",
+    "translation": "HUHHH?!\nHow devious, to trick me like that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "誰も早押しクイズだとは言ってない。\nそれに、問題をちゃんと理解するのは重要だぞ。",
+    "translation": "No one said it was a buzz-to-answer quiz.\nAlso, it's important to properly understand the problem."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "最後まで問題を聞き、\n何が求められているかを理解するんだ。",
+    "translation": "Listen to the problem until the end,\nand comprehend what's being asked of you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ気を取り直して、問題の続きだ。\nでは、世界で二番目に高い山の名前は？",
+    "translation": "So, let's get back on track,\nand continue with the problem. Then, what is the name\nof the second highest mountain in the world?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ええと……わかりません。",
+    "translation": "Umm... I don't know."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "正解はＫ２だ。\n覚えやすいだろ、名前に２がついているしな。",
+    "translation": "The answer is K2.\nIt's easy to remember, the name has a 2 in it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "Ｋ２ですか、知りませんでした。\n二番目を覚えてる人ってあんまりいなさそうですね。",
+    "translation": "K2? I didn't know that.\nIt doesn't seem that there would be many people\nwho would know second place."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……俺も、そんな風だったなぁ。",
+    "translation": "...That's how I was, too."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だが二番のやつからしたら、ずっと自分の上に\n居座られて、意識せざるを得ない相手なんだろうな。",
+    "translation": "But from the point of view of the guy in the number\ntwo spot, number one always looming over him.\nHe's got to be aware at all times."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、それってもしかして。",
+    "translation": "Ah, perhaps you're talking about..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、武田だ。",
+    "translation": "Yeah, Takeda."
+  },
+  {
+    "character": "四葉",
+    "japanese": "上杉さん、武田さんにズバッと言ってましたもんね。\n２位以下は気にしたことなかったって。",
+    "translation": "Uesugi-san, you told Takeda-san\nthat you never cared about second place or lower,\ndidn't you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "本当のことだからな。",
+    "translation": "Because it's true."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（だが、あいつにも色々と教えられた。\n　こいつらに夢を見つけてやりたいという目標を持つ\n　きっかけにもなった……）",
+    "translation": "(But he also taught me a lot.\n He also inspired me to have the goal\n to help these guys find their dreams...)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あのときはビックリでしたけど、\n上杉さんと武田さんがお友達になれてよかったです。",
+    "translation": "I was surprised at the time,\nbut I'm glad that\nyou two became friends."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？",
+    "translation": "Wha?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "だって、修学旅行でも仲良くしてましたよね。",
+    "translation": "I mean, you two were friendly on the school trip."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、別に俺は友達とか……。",
+    "translation": "No, I'm not really his friend or anything..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ライバルとの間に芽生える友情！\n熱い戦いを乗り越えたんですから、\nきっと一生で一番の友達になりますよ！",
+    "translation": "A friendship, grown between you and your rival!\nYou've survived a heated battle,\nand he's sure to become the best friend of your life!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "う、うるさい。\n二番クイズ続けるぞ。",
+    "translation": "Qu-quiet.\nWe're going onto the next question."
+  },
+  {
+    "character": "四葉",
+    "japanese": "はーい！　わっかりました！",
+    "translation": "Okay! Roger that!"
+  }
+]

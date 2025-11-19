@@ -1,0 +1,32 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "今日のご飯はお寿司なんですか？",
+    "translation": "Are we having sushi today?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、漬け丼だな。",
+    "translation": "No, we're having pickled rice bowls."
+  },
+  {
+    "character": "一花",
+    "japanese": "なんだが妙に色が黒いのは\n気のせいじゃないよね？",
+    "translation": "Is it just me, or does this look black?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あう……。\nしょっぱい……お塩をなめたみたい……。",
+    "translation": "Ugh...\nIt's salty...like I licked a salt block..."
+  },
+  {
+    "character": "一花",
+    "japanese": "あー、やっぱり？\n漬け置きしすぎちゃったんだ。",
+    "translation": "Ah, so that's it?\nIt must be over-pickled."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（絞って食うわけにもいかないし、参ったな……）",
+    "translation": "(I can't even wring out the salt and\n eat it that way either, I'm at a loss...)"
+  }
+]

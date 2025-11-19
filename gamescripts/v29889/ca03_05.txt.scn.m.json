@@ -1,0 +1,567 @@
+[
+  {
+    "character": "四葉",
+    "japanese": "おおっ！\n見てください、らいはちゃん！\nあそこの木に見たことない鳥がとまってます！",
+    "translation": "Ohh!\nLook, Raiha-chan! There's a cool looking bird on that tree!\nI've never seen a bird like that before!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "わあっ！　ホントだ！\nあんな綺麗な色の鳥、初めて見た！",
+    "translation": "Wow! You're right! I've never seen anything like it!\nIt looks so colorful!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "大きいのが２羽、小さいのが１羽……。\nきっと家族ですね。",
+    "translation": "Two big ones and a small one...\nThey must be a family."
+  },
+  {
+    "character": "らいは",
+    "japanese": "かわいい～！",
+    "translation": "How cute!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "相変わらず元気ねぇ、四葉は。",
+    "translation": "You're as energetic as ever, Yotsuba."
+  },
+  {
+    "character": "五月",
+    "japanese": "そうですね。\nらいはちゃんが一緒なので、いつもより\nパワフルさが増しているように感じます。",
+    "translation": "I've noticed too.\nShe always super energetic when she's with Raiha-chan."
+  },
+  {
+    "character": "二乃",
+    "japanese": "あれを羨ましいとは言わないけど、\nさすがに、もうちょっと\n体力はつけておくべきだったわ……。",
+    "translation": "I'm not saying I'm envious of her,\nbut I really should have built up my stamina\na bit more..."
+  },
+  {
+    "character": "一花",
+    "japanese": "大丈夫？\nギブアップなら、私がおんぶしてあげよっか？",
+    "translation": "Are you okay?\nShall I give you a piggyback ride?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "はあ？\nあんた、なに言って……。",
+    "translation": "Huh?\nStop joking around, as if..."
+  },
+  {
+    "character": "一花",
+    "japanese": "ほら、お姉ちゃんの背中だぞ～？",
+    "translation": "Come on, \ndon't you want a piggyback ride from your big sister?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "誰がするかっ！\nこんな歳になって！",
+    "translation": "Who'd do that?!\nAt this age!"
+  },
+  {
+    "character": "一花",
+    "japanese": "五月ちゃんはどう？\n疲れてるなら遠慮なくどーぞ。",
+    "translation": "What about you, Itsuki-chan?\nIf you're tired, don't hesitate to get on!"
+  },
+  {
+    "character": "五月",
+    "japanese": "私も結構です！",
+    "translation": "I'm also fine!"
+  },
+  {
+    "character": "五月",
+    "japanese": "それにしても、一花はずいぶんと余裕ですね。",
+    "translation": "At any rate, you seem to be doing just fine, Ichika."
+  },
+  {
+    "character": "一花",
+    "japanese": "まあねぇ、これでも女優だから。\n体力づくりは結構やってたりするんだ。",
+    "translation": "Well, I am an actress, after all.\nI do a fair amount of physical training."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そういえばあんた、だらしないくせに\n日課のジョギングだけはちゃんとやってたわね。",
+    "translation": "You're such a sloppy person, but funny enough, you somehow consistenly jog everyday."
+  },
+  {
+    "character": "二乃",
+    "japanese": "というか、私たちよりも\n後ろにいる２人の心配をしたほうがよさそう。",
+    "translation": "Instead of worrying about ourselves, \nwe should be worrying about the two behind us."
+  },
+  {
+    "character": "一花",
+    "japanese": "……あらまあ。\nいつの間にか、あんな後ろに。",
+    "translation": "...Oh dear.\nThey're quite far behind."
+  },
+  {
+    "character": "一花",
+    "japanese": "本格的にヤバそうになったら、四葉たちに\nペースダウンをお願いしないとね。",
+    "translation": "If it looks like they're in real trouble,\nwe may have to ask Yotsuba's party to slow down."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ぜぇ、はぁ、はぁ……。",
+    "translation": "*wheeze*\n*huff* *huff*"
+  },
+  {
+    "character": "三玖",
+    "japanese": "大丈夫？\n前にいる一花たちが、こっち見てるよ？",
+    "translation": "Are you okay? Itsuki and the others are looking at us worried."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（くっ……。\n　唯一の男として荷物持ちくらいはと大見得を\n　切った手前、ギブアップするわけには……）",
+    "translation": "(Damn...\n I can't just give up now after boasting about\n being the only guy carrying the luggage.)"
+  },
+  {
+    "character": "三玖",
+    "japanese": "お弁当のせいだよね。\nごめん、張り切って作りすぎちゃった。",
+    "translation": "It's probably because of the bento.\nI got too excited and made too much. Sorry."
+  },
+  {
+    "character": "三玖",
+    "japanese": "もしキツかったら、半分持つよ？\nあと、一花たちを呼び戻して……。",
+    "translation": "If it's too heavy, I can carry half of it.\nAnd I'll call Itsuki and the others back..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや！　助けはいらん！",
+    "translation": "No! I don't need any help!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも……。",
+    "translation": "But..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前も、そんな申し訳なさそうな顔するな。\nこれくらいの重さ、なんてことない。",
+    "translation": "Don't feel bad.\nIt's not that heavy."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……ありがとう。\nやっぱりフータローは優しい。",
+    "translation": "...Thanks.\nYou really are kind, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ふっ、俺をなめるなよ？\nこの無人島生活で、かなり体力がついたからな。",
+    "translation": "Heh, don't underestimate me.\nI've gained some stamina being on this island."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふふ、また言ってる。",
+    "translation": "Teehee, you're always saying that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あの、三玖さん？\nさっきよりも歩くペースが上がってませんか？",
+    "translation": "...Um, Miku-san?\nIs it just me, or you're walking a little faster than usual?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "変わってないよ？\nフータローのペースが落ちてるだけ。",
+    "translation": "Uhhh, I don't think so.\nI think you're the one who's walking slower, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、なんだと……。",
+    "translation": "Wh-what did you say?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふふっ！",
+    "translation": "Teehee!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんのことだ？\n俺はただ、事実を言ってるだけなんだがな。",
+    "translation": "What are you talking about?\nI'm just stating the facts."
+  },
+  {
+    "character": "三玖",
+    "japanese": "そうやって誤魔化すところも、やっぱり優しい。",
+    "translation": "Even when you try to play it cool, you're still kind."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ペースが落ちてるよ？\n優しいところだけじゃなくて、\n格好いいところも、見せてほしいな。",
+    "translation": "Come on Futaro. Your pace is slowing down.\nI want to see not only your kind side,\nbut also your cool side."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前のほうがずっと優しいだろ。",
+    "translation": "You're way kinder than I am."
+  },
+  {
+    "character": "三玖",
+    "japanese": "え？　どうして？",
+    "translation": "Huh? Why do you say that?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確かに弁当は重いが、それだけ\n俺たちのことを考えて作ってくれたんだろ？",
+    "translation": "I know how much love and care \nyou put into making each bento for us."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "むしろ礼を言うのはこっちだ。\nありがとな、三玖。",
+    "translation": "I should be the one thanking you.\nThanks, Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "三玖",
+    "japanese": "わ、私だけじゃなくて、二乃とらいはちゃんにも\nお礼を言ってあげて。",
+    "translation": "Um, don't forget to thank Nino and Raiha-chan too.\nNot just me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、弁当を食うときに改めてな。",
+    "translation": "Ah, I'll thank them when we eat."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よーし、そろそろ本気出すか。\n遅れてる分、ペース上げていくぞ――",
+    "translation": "Alright, time to get serious.\nLet's pick up the pace to make up for lost time%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うおっ！？",
+    "translation": "WOAH?!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー！　大丈夫！？",
+    "translation": "Futaro! Are you okay?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "も、問題ない。\nちょっとよろけただけだ。\n弁当も無事だと思う、たぶん。",
+    "translation": "I-I'm fine.\nI just stumbled a bit.\nThe bento should fine. I think."
+  },
+  {
+    "character": "三玖",
+    "japanese": "お弁当より、フータローが転んで\n怪我しないかのほうが、ずっと心配だよ。",
+    "translation": "I'm more worried about you falling and getting hurt\nthan the bento, Futaro."
+  },
+  {
+    "character": "三玖",
+    "japanese": "やっぱり私が半分持ったほうが……。",
+    "translation": "Maybe I should have carried half of it..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そもそも、弁当は１つのリュックに入ってるんだぞ？\nリュックを半分に分けるのは無理がある。",
+    "translation": "The bentos are all in one backpack.\nIt's impossible."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、そうだった。",
+    "translation": "Oh, right."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "気持ちだけ受け取っておく。\nほら、急ごうぜ。\n早く進まないと、一花たちにまで置いてかれちまう。",
+    "translation": "It's the thought that counts. Thanks.\nAnyway, come on, let's hurry. If we don't move faster,\nwe'll be left behind by Ichika and the others."
+  },
+  {
+    "character": "三玖",
+    "japanese": "なら、私が風太郎を引っ張る。",
+    "translation": "Then let me help you, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "引っ張るって……。",
+    "translation": "Help me..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちょ、三玖？\nなんで俺の手を？",
+    "translation": "Wha%p-2;――%p; Miku?\nWhat are you doing with my hand?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "こうして歩けば、登りの道も楽になるかなって。",
+    "translation": "I was thinking it might make it easier for you to walk uphill,\nIf I pulled you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "確かに、これなら楽は楽だが……。",
+    "translation": "Certainly, it's easier like this, but..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "さあ、遅れてる分を取り返さないと。",
+    "translation": "Alright, we need to make up for lost time."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "待て待て。\nそのまま歩きだしたら、今度はお前が危ない。",
+    "translation": "Wait hold on.\nIf we keep walking like this,\nyou'll hurt yourself."
+  },
+  {
+    "character": "三玖",
+    "japanese": "私は大丈夫だよ。\nまだ体力も残ってるし。",
+    "translation": "I'll be okay.\nI still have plenty of strength left."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうじゃなくて……。",
+    "translation": "That's not what I meant..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "あっ……。",
+    "translation": "Oh..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "どうしよう。\nフータローの手を掴んだままだと\n前を向いて歩けない。",
+    "translation": "What should I do?\nIf I keep holding your hand like this,\nI'll have a hard time walking."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だろ？",
+    "translation": "Right?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふふっ！\nいい方法だと思ったのに、全然ダメだった。",
+    "translation": "Teehee!\nI thought it was a good idea,\nbut I was completely wrong."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "はは！　まったくだ。\n笑い事じゃないんだがな。",
+    "translation": "Haha! My goodness.\nIt's not a laughing matter."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、フータローをこのままにはできないから\n片手で引っ張るよ。",
+    "translation": "But I can't leave you like this, Futaro,\nso I'll pull you with one hand."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それならまあ、危なくはないか。",
+    "translation": "Then I guess it's not as dangerous."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ、行こう。",
+    "translation": "Alright then, let's go."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……今度は絵面的にアレだな。\n小さい子どもかよ、俺は。",
+    "translation": "...I look like those toddlers being led to kindergarten by a teacher. \nYou treat me like a little kid."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、これって幼稚園の先生になった気分。",
+    "translation": "Yeah, I feel like I'm a kindergarten teacher."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "たまに、幼稚園児がこんな風に\n街を歩いていたりするよな。",
+    "translation": "Sometimes, you see little kids walking\naround the city like this."
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローくん、こっちですよ～。\n足元には気をつけてね？",
+    "translation": "Futaro-kuuun, mind your step.\nCome over here pleaaase."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "って、やめろ！　先生の真似をするな！",
+    "translation": "STOP IT! You're not funny!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローくん？\n大声を出したら、めっ、ですよ？",
+    "translation": "Futaro-kun?\nBe a good boy and no shouting, okay? "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "マジでやめてくれ……。",
+    "translation": "Please stop..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "ふふ、ごめん。",
+    "translation": "Teehee, sorry."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、フータローには\nいつも引っ張ってもらってばかりだから、\n私が引っ張るのって、なんだか新鮮。",
+    "translation": "Its feel great being the one leading for once."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺は恥ずかしくて仕方ない……。",
+    "translation": "No, it's so embarassing for me..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、歩くのは楽でしょ？",
+    "translation": "But, it's easier to walk, when I pull you right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……それは否定しない。",
+    "translation": "...I can't deny that."
+  },
+  {
+    "character": "三玖",
+    "japanese": "じゃあ、このまま目的地までこうして……。",
+    "translation": "Okay,\nlet's just keep going like this\nuntil we reach there..."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はい、ストップ。",
+    "translation": "And, stop."
+  },
+  {
+    "character": "三玖",
+    "japanese": "わっ！？",
+    "translation": "WOAH?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うおっ！？　二乃？",
+    "translation": "WOAH?! Nino?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "まったく、見てないのをいいことに\n抜け駆けしてくれちゃって。",
+    "translation": "Look at you guys, sneaking out and having fun."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……なんのこと？",
+    "translation": "...What are you talking about?"
+  },
+  {
+    "character": "一花",
+    "japanese": "２人ともかなり遅れてたから、\n心配で戻ってきたんだよ。",
+    "translation": "Both of you guys were taking so long,\nso I got worried and came to check on you two."
+  },
+  {
+    "character": "五月",
+    "japanese": "四葉たちには、少し先で待ってもらっています。",
+    "translation": "Yotsuba and the others are waiting a little ahead."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "すまん、迷惑をかけたな。",
+    "translation": "Sorry for worrying you."
+  },
+  {
+    "character": "五月",
+    "japanese": "気にしないでください。\nこれもハイキングの醍醐味でしょう。",
+    "translation": "Don't worry about it.\nIt's all part of the hiking experience."
+  },
+  {
+    "character": "二乃",
+    "japanese": "というわけだから、はい！\n今度は私がフー君を引っ張ってあげるわ。",
+    "translation": "So then, here!\nThis time I'll pull you, Fu-kun."
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃！？",
+    "translation": "Nino?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "あっ、じゃあ私も。\n二乃が右手で、私が左手でどう？",
+    "translation": "Let me help too!\nNino, you take the right hand, I'll take the left!"
+  },
+  {
+    "character": "五月",
+    "japanese": "では私は、上杉君を後ろから押してあげましょう。\nリュックも重いでしょうし。",
+    "translation": "Then I'll push Uesugi-kun from behind!\nHis backpack must be heavy too."
+  },
+  {
+    "character": "三玖",
+    "japanese": "五月まで……。",
+    "translation": "Itsuki, not you too..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やめろって！\nそこまで介護されなくてもちゃんと歩ける！",
+    "translation": "Stop it!\nI can walk on my own without your guys help!"
+  },
+  {
+    "character": "一花",
+    "japanese": "ほらほら、遠慮なんてしないでいいから。",
+    "translation": "Come on now, don't be shy."
+  },
+  {
+    "character": "二乃",
+    "japanese": "目的地まであと少しだから、一緒に頑張りましょ。",
+    "translation": "We're almost there,\nwe can do this."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ええい、離せ！\nこんな情けない姿をらいはに見せるわけにはいかん！",
+    "translation": "Enooough, let go of me!\nI can't have Raiha see me like this!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "むむう……。",
+    "translation": "Mmmhh..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "三玖！　頼む！\nこいつらをなんとかしてくれ！",
+    "translation": "Miku! I'm begging you!\nPlease, do something about them!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……両手は取られたから、\n私も五月と一緒に後ろから押す。",
+    "translation": "...Both of your hands are taken,\nso I'll push you from behind with Itsuki."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前もかよ！！",
+    "translation": "YOU TOO?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "では、私たちも左右で分かれましょう。",
+    "translation": "You take the left side and I'll take the right."
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん。",
+    "translation": "Yes."
+  },
+  {
+    "character": "一花",
+    "japanese": "さあ！",
+    "translation": "Now!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "私たちと一緒に！",
+    "translation": "All together!"
+  },
+  {
+    "character": "五月",
+    "japanese": "目的地に向かって……。",
+    "translation": "3, 2, 1..."
+  },
+  {
+    "character": "三玖",
+    "japanese": "出発、しんこー。",
+    "translation": "GOOOOO!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "やーめーろーー！！",
+    "translation": "STOOOPPP!!"
+  }
+]

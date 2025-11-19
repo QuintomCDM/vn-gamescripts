@@ -1,0 +1,492 @@
+[
+  {
+    "character": "五月",
+    "japanese": "ただいま戻りました。",
+    "translation": "We have returned."
+  },
+  {
+    "character": "一花",
+    "japanese": "２人ともおかえりー。\n片付け、ありがとね。",
+    "translation": "Welcome back, both of you.\nThanks for cleaning up."
+  },
+  {
+    "character": "四葉",
+    "japanese": "何もお手伝いしなくて、すみません。",
+    "translation": "Sorry for not helping out."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "謝るようなことじゃないだろ。\n気にするな。",
+    "translation": "You don't have to apologize.\nDon't worry about it."
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、五月さん、おかえりなさーい！\n次になにして遊ぶか決めたよ！",
+    "translation": "Big bro, Itsuki-san, welcome baaack!\nWe've decided what to do next!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おお、そうか。\n楽しそうでなによりだ。\nそれで、なんに決まったんだ？",
+    "translation": "O-oh, is that so?\nI'm just glad you look like you're enjoying yourselves.\nSo, what did you decide on?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "浜辺の宝探し大会をしまーす！",
+    "translation": "We're gonna have a treasure hunt on the beach!"
+  },
+  {
+    "character": "五月",
+    "japanese": "宝探し、ですか？",
+    "translation": "A treasure hunt?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "今から、それぞれが宝物を探して、\nこの砂浜や岩場のどこかに隠す。",
+    "translation": "We'll each find a treasure somewhere,\nand hide it on this beach or amongst the rocks."
+  },
+  {
+    "character": "二乃",
+    "japanese": "それで、隠し終わったら１回全員集まって、\n他の人が隠した宝物を探すってわけ。",
+    "translation": "And then, we'll meet up\nand search for the treasure that the others have hidden."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なるほどな、それぞれが宝を隠して、\nあとから他のやつが隠した宝を探すってことか。\nなかなか面白そうじゃないか。",
+    "translation": "I see, so everyone will hide a treasure\nand then the others will search for it later?\nThat sounds interesting."
+  },
+  {
+    "character": "四葉",
+    "japanese": "何か珍しい物が流れ着いてるかもしれませんし、\nみんなで色々と探しちゃいましょう。",
+    "translation": "We might find some unusual things\nwashed up on the shore,\nso let's all search together."
+  },
+  {
+    "character": "らいは",
+    "japanese": "じゃあ、さっそく！\n宝物集め、スタートー！",
+    "translation": "Okay, let's get started!\nLet the treasure hunt begin!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（おっ、シーグラス発見！\n　これなら、光に当てれば\n　ちょっとした宝石に見えなくもないな）",
+    "translation": "(Oh, I found some sea glass!\n If I shine a light on it,\n it could look like a little jewel.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（さっき見つけたガラス瓶に何個か入れれば、\n　見栄えも充分だろ）",
+    "translation": "(If I put some of these\n in the glass bottle I found earlier,\n it would look nice.)"
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ、それ、シーグラスって言うんですよね。\n綺麗です。",
+    "translation": "Oh, that's called sea glass, yeah?\nIt's really pretty."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、割れた瓶の欠片なんかが\n波に揉まれているうちに、だんだん削られて、\nこんな風に丸っこくなっちまうんだ。",
+    "translation": "Yeah, when the pieces of a broken bottle\nget tossed around in the waves,\nthey get worn down and become round like this."
+  },
+  {
+    "character": "四葉",
+    "japanese": "さすがは上杉さん！\nなんでも知ってますねぇ。",
+    "translation": "That's our Uesugi-san!\nYou know everything."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "探してみれば、まだまだ見つかるだろ。\nお前も集めてみたらどうだ？",
+    "translation": "If you look around, you'll find more.\nWhy don't you try collecting some too?"
+  },
+  {
+    "character": "四葉",
+    "japanese": "そうですね。\nじゃあ……。",
+    "translation": "You're right.\nOkay..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ、さっそく発見しましたよ！\nはい上杉さん、どうぞ。",
+    "translation": "Ah! I found one already!\nHere, Uesugi-san, there you go."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "えっ？\nああ、サンキュー。",
+    "translation": "Huh?\nHey, thanks."
+  },
+  {
+    "character": "四葉",
+    "japanese": "ほら、あそこにもありますよ！",
+    "translation": "Look, there are some over there!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はい、上杉さん。\nこれで３個目ですね。",
+    "translation": "Here you go, Uesugi-san.\nThis is your third one, right?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや、四葉、見つけたのを\n俺に渡さなくてもいいんだぞ？\nそれは自分の宝物にしておけ。",
+    "translation": "No, Yotsuba,\nyou don't have to give me the ones you find.\nKeep them as your own treasure."
+  },
+  {
+    "character": "四葉",
+    "japanese": "大丈夫ですよ。\n自分のは後で――",
+    "translation": "It's alright.\nI'll find my own after%p-2;――"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータローの言うとおりだよ。",
+    "translation": "It's as Futaro says."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あれ、三玖？",
+    "translation": "Huh, Miku?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "四葉、さっきからみんなの手伝いばかりで\n自分の分は探してなかったでしょ？",
+    "translation": "Yotsuba, you haven't been looking for your own treasure\nthis whole time, have you?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "時間なくなっちゃうよ。\nそろそろ自分のを集めたら？",
+    "translation": "You're running out of time.\nYou should start looking for your own treasure now."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あっ、それもそうだよね！\nえ～と……。",
+    "translation": "Ah, you're right about that!\nUmm..."
+  },
+  {
+    "character": "四葉",
+    "japanese": "私はあっちで探してくるから！\nじゃあ、三玖も頑張ってね～！",
+    "translation": "I'll go search over there.\nYou do your best too, Miku!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それで、三玖はもう集め終わったのか？",
+    "translation": "Well, are you done\ncollecting your treasure already, Miku?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん、四葉が手伝ってくれたから。\nまだどれにするかは決めてないけど。",
+    "translation": "Yeah, Yotsuba helped me, so I'm done.\nI still haven't decided which one to keep, though."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……四葉、どこ行ったのかな。",
+    "translation": "...I wonder where Yotsuba went."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉のこと、気にしてるのか？",
+    "translation": "Are you worried about Yotsuba?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん……。\nたぶんだけど、私に気を遣ったんだと思う。\nそんなことしなくてもいいのに。",
+    "translation": "Yes...\nI think she was trying to take care of me,\nbut she doesn't have to do that."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……あいつの考えそうなことだな。",
+    "translation": "...That's just like her."
+  },
+  {
+    "character": "三玖",
+    "japanese": "今日、四葉もちゃんと楽しめてるのかな？",
+    "translation": "I wonder if Yotsuba is really enjoying herself today?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（三玖も五月と同じことを感じてたのか。\n　やはり姉妹だな……）",
+    "translation": "(Miku also feels the same way as Itsuki.\n They really are sisters after all...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉には、あとでそれとなく言っておく。\nだから三玖もあまり気にしすぎるな。",
+    "translation": "I'll subtly mention it to Yotsuba later.\nSo don't worry too much, Miku."
+  },
+  {
+    "character": "三玖",
+    "japanese": "……ありがと、フータロー。",
+    "translation": "...Thanks, Futaro."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それじゃ、気を取り直して宝物を集めるか。",
+    "translation": "Then, let's get back on track and look for treasure."
+  },
+  {
+    "character": "二乃",
+    "japanese": "そうね！\n私の宝物は、やっぱりフー君かしら？",
+    "translation": "That's right!\nPerhaps, could it be that my treasure is you, Fu-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わっ！　二乃？\nお前は何を言って――",
+    "translation": "Wah! Nino?\nWhat are you saying%p-2;――"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ふふ！　――捕まえた！",
+    "translation": "Heheh! %p-2;――%p; I got you!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あっ！？　二乃、ズルい！",
+    "translation": "Ah?! Nino, no fair!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "またお前は……飛びついてくるなよ。\n危ないだろ？",
+    "translation": "Again... Don't jump on me like that.\nIt's dangerous, ya know?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ちょ、三玖！？\nお前までなんだ！",
+    "translation": "Wha, Miku?!\nYou too?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "手に入れた宝物は隠さないとね？\nさーて、どこに隠しちゃおうかしら？",
+    "translation": "We have to hide our treasures, right?\nNooow, where should we hide them?"
+  },
+  {
+    "character": "三玖",
+    "japanese": "こういうときは、砂に埋めるのが定番。",
+    "translation": "The standard practice would be to bury them \nin the sand at times like this."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺を埋めるつもりか！？",
+    "translation": "Are you planning to bury me?!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ま、待て、早まるな！\nここは１つ話し合いで――",
+    "translation": "W-wait, don't be hasty!\nLet's talk this out%p-2;――"
+  },
+  {
+    "character": "四葉",
+    "japanese": "なにやらキケンな気配が！\n上杉さん殺人事件はダメー！",
+    "translation": "I sense danger!\nNo burying Uesugi-san alive!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "そんなことするわけないでしょ？\nちょっと驚かせてあげただけ。",
+    "translation": "I wouldn't do something like that, you know?\nI just wanted to startle him a little."
+  },
+  {
+    "character": "三玖",
+    "japanese": "二乃ならやりかねないかも。",
+    "translation": "Nino might actually do it, though."
+  },
+  {
+    "character": "二乃",
+    "japanese": "やんないわよ！",
+    "translation": "I wouldn't!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "ふう、事件は未然に防がれました。\n無事で良かったですね、上杉さん。",
+    "translation": "Whew, we prevented a disaster.\nI'm glad you're safe, Uesugi-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、なんとか未遂ですんだな。",
+    "translation": "Yeah, the crime remains uncommitted."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "って、遊んでばかりいないで、\nお前らも自分の分の宝物を集めろよ？",
+    "translation": "Anyway, don't just play around.\nYou guys should also look for your own treasures."
+  },
+  {
+    "character": "二乃",
+    "japanese": "じゃあ、私と一緒に探しましょ。",
+    "translation": "Okay, come look for treasures with me."
+  },
+  {
+    "character": "四葉",
+    "japanese": "では、私は向こうで探してきまーす！",
+    "translation": "Alright, I'm gonna go look over there!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あっ、おい四葉！",
+    "translation": "Ah, hey, Yotsuba!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "ほら、フー君。\n早く早く！",
+    "translation": "Come on, Fu-kun.\nHurry, hurry!"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー。\nさっきのこと、お願いね。",
+    "translation": "Futaro.\nAbout what we talked about before."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、わかってる。",
+    "translation": "Yeah, got it."
+  },
+  {
+    "character": "四葉",
+    "japanese": "らいはちゃん、こんなの見つけてきましたよ。\nほら、剣みたいな流木です！",
+    "translation": "Raiha-chan, look what I found!\nIt's driftwood shaped like a sword!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "おー！　カッコいい！\nでも、大きすぎて隠すのは大変そう。",
+    "translation": "Oh! Cool!\nBut, it's so big, it might be hard to hide."
+  },
+  {
+    "character": "四葉",
+    "japanese": "あ！　確かに……。\nもうちょっと小さいのを探してみますか。",
+    "translation": "Ah! That's true...\nShould I look for something smaller?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ううう……。\n私には宝物探しの才能がないようです……。",
+    "translation": "Oooohh...\nI guess I don't have any talent\nfor treasure hunting..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "五月さん、綺麗なものじゃなくてもいいんだよ？\nその人にとって宝物ならなんでもいいんだから。",
+    "translation": "It doesn't have to be something beautiful, Itsuki.\nAs long as it's a treasure to that person,\nanything is fine."
+  },
+  {
+    "character": "四葉",
+    "japanese": "五月～！\nこっちに貝殻がいっぱい落ちてるよ！",
+    "translation": "Itsukiii!\nThere are lots of seashells scattered over here!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "五月さん、行ってみよ？",
+    "translation": "Itsuki-san, wanna check it out?"
+  },
+  {
+    "character": "五月",
+    "japanese": "は、はい！",
+    "translation": "Y-yes!"
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "二乃、どうかしたのか？",
+    "translation": "Nino, did something happen?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "いつものことだけど、楽しめてるのかしら？\n見てて心配になるわ。",
+    "translation": "She's acting like her normal self,\nbut I'm wondering if she's really having fun?\nIt's concerning to watch."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……四葉か。",
+    "translation": "...You're talking about Yotsuba, huh?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君はどう思う？\nさっきから五月やらいはちゃんの\n手伝いばかりしてるのよ。",
+    "translation": "What do you think, Fu-kun?\nShe's just been helping Itsuki and Raiha-chan\nfor a while."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "四葉らしいと言えばそれまでなんだがな。",
+    "translation": "Well, that's kind of typical for Yotsuba."
+  },
+  {
+    "character": "一花",
+    "japanese": "でも、やっぱりちょっと心配だよね。",
+    "translation": "But I'm still a bit worried."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "一花？　お前もか。",
+    "translation": "Ichika? You too?"
+  },
+  {
+    "character": "一花",
+    "japanese": "フータロー君だって気がついてたんでしょ？",
+    "translation": "I mean, even you noticed it, right, Futaro-kun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いくら俺だって、さすがに朝から見てればわかる。",
+    "translation": "Even I can tell after seeing her since this morning."
+  },
+  {
+    "character": "二乃",
+    "japanese": "というか、あれだけ態度に出てたら\n気がつかないほうがおかしいわ。",
+    "translation": "Or rather, it's strange not to notice it\nwith how she's been acting."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（本人は俺たちに楽しんでもらおうとして\n　一生懸命なんだろうが……）",
+    "translation": "(I guess she's been trying so hard\n to get us to have fun...)"
+  },
+  {
+    "character": "一花",
+    "japanese": "ねえ、フータロー君からも言ってあげてくれない？\n周りのことばかり気にしないでもいいって。",
+    "translation": "Hey, can't you say something to her too, Futaro-kun?\nLike not to worry so much about the people around her?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "……たぶん、私たちから言っても届かないから。",
+    "translation": "...I think even if we said something,\nit wouldn't reach her."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（こいつら、揃いも揃って……）",
+    "translation": "(These guys, they really are somethin' else...)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "まったく、仕方ないやつらだな。\nふっ……ははは……。",
+    "translation": "Seriously, you guys are hopeless.\nHeh... Hahaha..."
+  },
+  {
+    "character": "一花",
+    "japanese": "ええ？　今の笑うところ？",
+    "translation": "Huh? Is it really appropriate to laugh there?"
+  },
+  {
+    "character": "二乃",
+    "japanese": "フー君だって、四葉のことを\n心配してたんじゃないの？",
+    "translation": "Fu-kun, weren't you worried about Yotsuba?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ悪い、ちょっとな。",
+    "translation": "Ah, my bad, I was a little worried."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（５人とも、揃いも揃って\n　姉妹想いの姉妹バカなんだよな……）",
+    "translation": "(All five of them are just a bunch of silly sisters\n who love each other too much...)"
+  }
+]

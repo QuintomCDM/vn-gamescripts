@@ -1,0 +1,137 @@
+[
+  {
+    "character": null,
+    "japanese": "ゲームのチュートリアルを見ますか？",
+    "translation": "Do you want to watch the game tutorial?"
+  },
+  {
+    "character": "勇也",
+    "japanese": "よう、風太郎。\nどうやら、いろいろと困ってるようだな。",
+    "translation": "Yo, Futaro.\nSeems you got yourself in a bit of trouble."
+  },
+  {
+    "character": "勇也",
+    "japanese": "仕方ねぇなぁ。\n俺がこのゲームについて説明してやろう！",
+    "translation": "But no worries!\nI'll explain how this game works!"
+  },
+  {
+    "character": "勇也",
+    "japanese": "いいか？\nこのゲームは２部構成になっている。",
+    "translation": "Ok, listen.\nThis game is divided into two parts."
+  },
+  {
+    "character": "勇也",
+    "japanese": "第１部は、島でのサバイバル生活だ。",
+    "translation": "Part One, you have to survive, while being on the island."
+  },
+  {
+    "character": "勇也",
+    "japanese": "まず大事なのは、食材を集めて飯を食うこと。\n生き残るためには食わなきゃいけねぇからな。",
+    "translation": "Normally you would search for drinkable water first, but on this island \nfood is your number one priority.\n'Cause you gotta eat to survive."
+  },
+  {
+    "character": "勇也",
+    "japanese": "それと、もう１つ。\nお嬢ちゃんたちの学力アップを\n目指すのも忘れるなよ？",
+    "translation": "You also need to take care of the girls.\nDon't forget to raise the academic ability\nof those girls, you hear?"
+  },
+  {
+    "character": "勇也",
+    "japanese": "第１部の最終日には、\nお前が作ったテストで学力を試すことになるが――",
+    "translation": "On the last day of Part One,\nyou're going to test the quintuplets' academic ability\nwith the tests that Futaro makes."
+  },
+  {
+    "character": "勇也",
+    "japanese": "お嬢ちゃんたち全員の全教科が、\n６０点以上で合格だ。",
+    "translation": "If they can pass the test in every subject\nwith 60 points or more, they're golden."
+  },
+  {
+    "character": "勇也",
+    "japanese": "５人全員が合格すれば、第２部に進むことができる。\nだが、１人でも不合格なら即ゲームオーバーだ。",
+    "translation": "If all quintuplets pass, you can proceed to Part two.\nHowever, if even one girl fails,\nit's game over for you."
+  },
+  {
+    "character": "勇也",
+    "japanese": "風太郎の、家庭教師としての技量が\n試されることになるな。",
+    "translation": "Your skills as a tutor will be tested, Futaro."
+  },
+  {
+    "character": "勇也",
+    "japanese": "まあ、お前だったらできるはずだ。",
+    "translation": "But I'm sure you can do it."
+  },
+  {
+    "character": "勇也",
+    "japanese": "第２部は、７つのルートに分岐する。",
+    "translation": "Part two is divided into seven distinct routes."
+  },
+  {
+    "character": "勇也",
+    "japanese": "お嬢ちゃんたち、それぞれのルート。\n「らいは」のルート。\nそれからもう１つ、「みんな」でのルートだ。",
+    "translation": "Each girl has her own route as well as two extra routes.\nIf you've finished every route once you will unlock the, 'All Route.'\nBeyond that, there's also the 'Raiha Route.'"
+  },
+  {
+    "character": "勇也",
+    "japanese": "分岐するきっかけは、\nお嬢ちゃんたちの、お前に対する親密度だ。",
+    "translation": "What triggers a route\nis the level of intimacy a young lady holds towards you."
+  },
+  {
+    "character": "勇也",
+    "japanese": "親密度は「会話での文章分岐の選択」、\n「育成シーンでのサポート」、\n「料理シーンでの指名」で変化する。",
+    "translation": "The Intimacy level can be improved after selecting 'an answer \nduring a dialog.' It can also be raised when you choose to \n'support a girl as a tutor' or 'choose a girl to cook a meal.'"
+  },
+  {
+    "character": "勇也",
+    "japanese": "パラメータコマンドで今の状況がわかるから、\n行動の指針とするといいだろうな。",
+    "translation": "The 'Parameter' menu available on the 'Game Command' screen\nwill give you a good idea of what's going on,\nyou should try to use it as a guide."
+  },
+  {
+    "character": null,
+    "japanese": "（各ルートに分岐するためには\n　キャラクターの風太郎への親密度が\n　５つ星以上である必要があります）",
+    "translation": "(In order to advance to a specific route,\n the girls 'Intimacy Level' towards Futaro\n must be 5 or higher.)"
+  },
+  {
+    "character": null,
+    "japanese": "（親密度は文章選択や、\n　スケジュールの勉強、食料調達の\n　風太郎サポートで上がります）",
+    "translation": "(The 'Intimacy Level' can be increased through dialogue selection,\n through Futaro's support as a tutor or\n through choosing a girl as a cook.)"
+  },
+  {
+    "character": null,
+    "japanese": "（らいはルートは、五つ子の風太郎への親密度が\n　全員５つ星未満、かつ、全教科の成績が\n　８０点未満の場合に分岐します）",
+    "translation": "(You will get the 'Raiha Route' if the girls\n 'Intimacy Level' towards Futaro is less than 5 stars,\n and if they have less than 80 points in every subject.)"
+  },
+  {
+    "character": null,
+    "japanese": "（みんなでルートは、五つ子の風太郎への親密度が\n　全員５つ星未満、かつ、全教科の成績が\n　８０点以上の場合に分岐します）",
+    "translation": "(You will get the 'All Route' if all quintuplets'\n 'Intimacy level' towards Futaro is less than 5 stars,\n and if they have more than 80 points in every subject.)"
+  },
+  {
+    "character": "勇也",
+    "japanese": "そして、各ルートのエンディングは２つある。\n「ノーマルエンド」と「グッドエンド」だ。",
+    "translation": "Keep in mind that there are two endings for each route.\nThe 'Normal Ending' and the 'Good Ending.'"
+  },
+  {
+    "character": "勇也",
+    "japanese": "風太郎。\nお嬢ちゃんたちの気持ち、\nしっかり受け止めてやるんだぞ。",
+    "translation": "Futaro.\nYou better take the feelings of those young ladies\nseriously, now."
+  },
+  {
+    "character": null,
+    "japanese": "（キャラクタールートから\n　「風太郎」パラメータが追加されます）",
+    "translation": "(There is a 'Futaro Parameter' that will be added\n when a character route starts.)"
+  },
+  {
+    "character": null,
+    "japanese": "（この風太郎パラメータが４つ星以上の場合は\n　グッドエンドに、４つ星未満の場合は\n　ノーマルエンドにそれぞれ移行します）",
+    "translation": "(When the 'Futaro Parameter' has 4 stars or more,\n you'll get the good ending, but if you have less than 4 stars\n you'll get the normal ending.)"
+  },
+  {
+    "character": "勇也",
+    "japanese": "それと、らいはのことも頼むぞ。\nちゃんと面倒見てやれよ！",
+    "translation": "Also, take care of Raiha.\nWatch out for her! You hear me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "待て、親父！\n親密度ってなんなんだよ！",
+    "translation": "Hold on, Dad!\nWhat the heck's intimacy?!"
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "指示出しはらいはたちになったのか。",
+    "translation": "So Raiha's gonna give directions with Itsuki?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、スイカ目指して頑張ろうね。",
+    "translation": "Big bro, do your best to aim for the watermelon."
+  },
+  {
+    "character": "五月",
+    "japanese": "あまり自信はありませんが、\n私もスイカのために頑張ってみます。",
+    "translation": "I'm not very confident,\nbut I'll do my best for the watermelon's sake, too."
+  },
+  {
+    "character": "二乃",
+    "japanese": "はい、フー君。\n目隠ししてあげるから動いちゃダメよ？",
+    "translation": "Okay, Fu-kun.\nI'll put the blindfold on you, so don't move, okay?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、おう。",
+    "translation": "O-okay."
+  },
+  {
+    "character": "らいは",
+    "japanese": "それじゃ、始めるね！\nよーい……スタート！",
+    "translation": "Alright, here we go!\nReady... START!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（向いてる方向がわからんが、\n　とりあえず真っ直ぐ進むか）",
+    "translation": "(I don't know which way I'm facing,\n so I'll just go straight.)"
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君！　ストップです！\n今、方向を見てますから！",
+    "translation": "Uesugi-kun! Stop!\nI'm watching where you're going, so please don't worry\nabout running into anything!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "へっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "五月",
+    "japanese": "その場で、ゆっくりと右に体を回してください。\n正しい方向を向きましたら教えます！",
+    "translation": "Right where you are, slowly turn to the right.\nI'll let you know when you're\npointing in the right direction!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "こ、こうか？",
+    "translation": "L-like this?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ストップです！\nスイカを正面に捉えました！\nそのまま真っすぐに進んでください！",
+    "translation": "Stop!\nThe watermelon is RIGHT in front of you!\nJust go straight ahead!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう……行くぞ？",
+    "translation": "Okay... I'm going, then?"
+  },
+  {
+    "character": "五月",
+    "japanese": "上杉君！　ストップです！",
+    "translation": "Uesugi-kun! Stop!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？　またか？",
+    "translation": "Huh? Again?"
+  },
+  {
+    "character": "五月",
+    "japanese": "今の踏み出しで右に３センチ……\nいえ、５センチほど正面からズレました！\n修正しましょう！",
+    "translation": "The step you just took is about an inch...\nNo, two inches too far to the right!\nWe've got to fix your bearings!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "細かすぎる！\nスイカを割る前に日が暮れるぞ！？",
+    "translation": "That's WAY too detailed!\nThe sun's gonna set before I split the watermelon!"
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ！？　それは困ります！\n早くなんとかしてください！",
+    "translation": "Huh?! That won't do!\nPlease find a way to fix this!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんとかするのはお前らの役目だろ！？",
+    "translation": "That's YOUR responsibility, right?!"
+  },
+  {
+    "character": "五月",
+    "japanese": "そ、それもそうでした！",
+    "translation": "O-oh, that's true!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "あはは！　２人とも頑張ってー！",
+    "translation": "Ahaha! Do your best, you two!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "らいは……。\n笑ってないで、なんとかしてくれ。",
+    "translation": "Raiha...\nStop laughing, and help us out."
+  },
+  {
+    "character": "五月",
+    "japanese": "すみません、らいはちゃん。\n私では難しそうなので、お願いできますか？",
+    "translation": "Sorry, Raiha-chan.\nThis is a bit tough for me. Can you help?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "仕方ないなー。\nお兄ちゃん、そのまま進んじゃっていいよー！",
+    "translation": "I suppoooose.\nBig bro, keep going just like that!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかった。",
+    "translation": "Got it."
+  },
+  {
+    "character": "五月",
+    "japanese": "ああああ、そんな適当に進んだら……\nほら、違う方向に行ってますよ！？",
+    "translation": "Aaahh, don't go forward so casually...\nHey, you're going in the wrong direction!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "大丈夫大丈夫。\nお兄ちゃん、右にちょっとジャンプ！",
+    "translation": "It's fine, it's fine.\nBig bro, jump a little to the right!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よっ！　こんなもんか？",
+    "translation": "There! Like this?"
+  },
+  {
+    "character": "五月",
+    "japanese": "えええ……。\nどうしてそんなにうまくいくのですか……。",
+    "translation": "Huhhh...?\nWhy is everything going so well...?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うんうん。\nあと４歩進んだら叩いちゃっていいよー！",
+    "translation": "Good, good.\nFour more steps, and you can swing!"
+  },
+  {
+    "character": "五月",
+    "japanese": "う、上杉君！　頑張ってください！",
+    "translation": "U-Uesugi-kun! Please do your best!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "１、２、３、４……それっ！",
+    "translation": "One, two, three, four...and SWING!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ふう、当たったか。",
+    "translation": "Whew, did I hit it?"
+  },
+  {
+    "character": "らいは",
+    "japanese": "やったね、お兄ちゃん！",
+    "translation": "Great job, big bro!"
+  },
+  {
+    "character": "五月",
+    "japanese": "２人とも、お見事です！\nあうんの呼吸というのはこのことを言うのですね。",
+    "translation": "Both of you were amazing!\nSo this is what being in perfect harmony is."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お？　見た目はそれっぽくなかったが、\nこれは間違いなくスイカだな。",
+    "translation": "Oh? It didn't really look like one,\nbut this is definitely a watermelon."
+  },
+  {
+    "character": "らいは",
+    "japanese": "中身も傷んでないし匂いも変じゃないね。\n食べられそう。",
+    "translation": "The insides aren't damaged, and it doesn't smell weird.\nI think it's edible."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺も大丈夫だと思うが……五月はどう思う？",
+    "translation": "I think it's okay too... What do you think,\nItsuki?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あ、はい。\nそうですね、見た感じは――",
+    "translation": "Ah, yes.\nWell, it looks%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "――！\nい、今のは忘れてください！",
+    "translation": "%p-2;――%p;!\nN-no, forget what I just said!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "仕方がないよ。\n美味しそうだもんね。\nお兄ちゃん、このスイカ食べちゃダメかな？",
+    "translation": "I can't help myself.\nIt looks so delicious!\nBig bro, can't we eat this watermelon?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "問題はなさそうだし食べておくか。\n食べ物は粗末にしたらダメだからな。",
+    "translation": "Doesn't seem to be any problem, so let's eat it.\nSince it's not right to waste food."
+  },
+  {
+    "character": "五月",
+    "japanese": "私はなんの力にもなれませんでしたから、\n遠慮しておきます。",
+    "translation": "I wasn't any help at all, so I'm going to pass. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "変な意地を張るなよ。\n本当は食いたいんだろ？",
+    "translation": "Oh, don't be so stubborn.\nYou really just wanna eat it, right?"
+  },
+  {
+    "character": "五月",
+    "japanese": "意地など張っていません！",
+    "translation": "I'm not being stubborn!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、そんな言い方したら\n五月さんもますます食べづらくなっちゃうよ？",
+    "translation": "Big bro, when you say things like that,\nit'll be even harder for Itsuki-san to eat it, you know?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そうなのか？",
+    "translation": "Really?"
+  },
+  {
+    "character": "五月",
+    "japanese": "…………。",
+    "translation": "......"
+  },
+  {
+    "character": "らいは",
+    "japanese": "私は五月さんと一緒に食べたいなぁ。",
+    "translation": "I want to eat this watermelon with you, Itsuki-san."
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほら、らいはもこう言ってるんだ。\n一緒に食おうぜ。",
+    "translation": "Look, even Raiha's saying it.\nLet's eat it together."
+  },
+  {
+    "character": "五月",
+    "japanese": "らいはちゃんにそう言われては……\n仕方がありませんね。",
+    "translation": "If Raiha-chan says to...\nI suppose I have no choice."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "これは遊びなんだし、難しく考えるな。",
+    "translation": "We're just playing. Don't be so hard on yourself."
+  },
+  {
+    "character": "五月",
+    "japanese": "ですが……。",
+    "translation": "But..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺が気にしてないって言ってるんだぞ。\nそれに、なにより楽しかったからな。",
+    "translation": "I'm saying I don't mind at all.\nAnd most of all, it was fun."
+  },
+  {
+    "character": "五月",
+    "japanese": "楽しかった……ですか？",
+    "translation": "It was...fun?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、特にお前の指示のめちゃくちゃぶりが。",
+    "translation": "Yeah, especially with your confusing directions."
+  },
+  {
+    "character": "五月",
+    "japanese": "め、めちゃくちゃ……。",
+    "translation": "C-confusing directions..."
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん、めちゃくちゃだけど面白かったよ！\n五月さんらしいなって。",
+    "translation": "Yes, they were a bit confusing,\nbut they were so fun!\nIt's just so you, Itsuki-san."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "だな、実にお前らしかったぜ。",
+    "translation": "For sure. It was totally a you thing."
+  },
+  {
+    "character": "五月",
+    "japanese": "ふふ、褒めてもらったと思うことにします。",
+    "translation": "Heheh, then I suppose I'll take that as a compliment."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺をもてなすんだろ？",
+    "translation": "Aren't you gonna indulge me?"
+  },
+  {
+    "character": "五月",
+    "japanese": "えっ？",
+    "translation": "Huh?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "この島に来た理由だよ。\nお前たちが言い出したことじゃないか。",
+    "translation": "That's why I came to this island.\nIsn't that what you all told me?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺はここでお前とスイカを食いたい。\nそれはダメなのか？",
+    "translation": "I want to eat a watermelon here with you.\nIs that so wrong?"
+  },
+  {
+    "character": "五月",
+    "japanese": "ダメ……ではありませんが……。",
+    "translation": "It's...not wrong, but..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "３人で苦労して割ったスイカだからな。\nみんなで一緒に食おうぜ、きっと美味いぞ。",
+    "translation": "It's a watermelon that the three of us\ntook the trouble to break open.\nLet's eat it together. It's gonna be delicious."
+  },
+  {
+    "character": "五月",
+    "japanese": "そこまで言われたら……断れないじゃないですか。",
+    "translation": "If you say that...how can I refuse?"
+  },
+  {
+    "character": "一花",
+    "japanese": "おー、美味しそうなスイカだね。\nさっそく食べよっか。",
+    "translation": "Ooh, it looks so delicious!\nLet's eat it right now!"
+  },
+  {
+    "character": "四葉",
+    "japanese": "切り分けるのは任せてください！",
+    "translation": "I'll divide it up!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、頼む。",
+    "translation": "Sure, I'll leave it up to you."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "髪、結び終わったな。\nんじゃ、食うとするか。",
+    "translation": "You've finished tying your hair up.\nAlright, let's chow down. "
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（五月が髪を結んだのは、食べるのに邪魔だからか。\n　そこまで気合いを入れて食うのかと\n　若干引いてしまったが、さすがに違ったな）",
+    "translation": "(Itsuki tied her hair back because it got in the way.\n I see now. I thought it was it because she was just\n that excited to eat.)"
+  },
+  {
+    "character": "らいは",
+    "japanese": "はい、五月さん。\n冷えてるうちに食べよ。",
+    "translation": "Okay, Itsuki-san.\nEat it while it's still cold."
+  },
+  {
+    "character": "五月",
+    "japanese": "では、お言葉に甘えて――",
+    "translation": "Alright, if you say so%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "いただきます！",
+    "translation": "Let's eat!"
+  },
+  {
+    "character": "五月",
+    "japanese": "はっ！？　これは――",
+    "translation": "WHA?! This is%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どうした？\nまさか傷んで――",
+    "translation": "What's wrong?\nOh no, don't tell me it got bruised%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "まごうことなきスイカです！\n甘くて美味しいスイカですよ！！",
+    "translation": "This is definitely a watermelon!\nIt's so sweet and delicious, too!!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "うん！　とっても美味しい！",
+    "translation": "Yum! It's so good!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "……驚かせるな。",
+    "translation": "...Don't surprise me like that."
+  },
+  {
+    "character": "五月",
+    "japanese": "ああ……。\n瑞々しい甘さが体中に染み渡ります。",
+    "translation": "Oh my goodness...\nThe fresh sweetness is permeating my entire body."
+  },
+  {
+    "character": "五月",
+    "japanese": "こんなにも美味しく感じるのは、\n夏の浜辺という最高の調味料のおかげでしょうか？",
+    "translation": "Could the summer beach be the perfect seasoning \nto make it taste this delicious?"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "日差しも強いし、体が水分を欲してたんだろ。",
+    "translation": "It's 'cause the sun's strong,\nand your body craves water."
+  },
+  {
+    "character": "らいは",
+    "japanese": "お兄ちゃん、わかってないなぁ。\n一緒に楽しく食べるから美味しいんだよ。",
+    "translation": "You don't get it, do you, big bro.\nIt's because we're having fun eating it together\nthat makes it so delicious."
+  },
+  {
+    "character": "五月",
+    "japanese": "夏の味覚を夏に味わう……。\n幸せですね……。",
+    "translation": "To eat a summer food, during summer...\nI'm so happy..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（まあ……こいつの顔を見れば、\n　らいはの言うこともわからなくはないか）",
+    "translation": "(Well...looking at Itsuki,\n I can kind of get what Raiha's saying.)"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ほら、らいは。\n五月と一緒に俺の分も食べていいぞ。",
+    "translation": "Go on, Raiha.\nYou can eat my portion with Itsuki."
+  },
+  {
+    "character": "らいは",
+    "japanese": "やったー！",
+    "translation": "Yaaay!"
+  },
+  {
+    "character": "五月",
+    "japanese": "いいのですか？",
+    "translation": "Is it really okay?"
+  },
+  {
+    "character": "五月",
+    "japanese": "あっ、いえ！\n上杉君の分まで頂くわけにはいきません。",
+    "translation": "Ah, no!\nI can't take your share, Uesugi-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "俺は、お前とらいはが\n食べてるのを見てるだけで充分だ。\nだから遠慮しないで食っとけ。",
+    "translation": "I'm happy enough just watching you and Raiha eat it.\nGo ahead and chow down!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "だって！\n一緒にお兄ちゃんの分を食べちゃおう！",
+    "translation": "Hey, he said it!\nCome on, let's eat big bro's watermelon!"
+  },
+  {
+    "character": "五月",
+    "japanese": "……らいはちゃんの勧めでは、\n断るわけにはいきませんよね？",
+    "translation": "...I can't really refuse if you insist, Raiha-chan."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ああ、当然だ。\n断ったらただじゃおかねぇ。",
+    "translation": "Yeah, naturally.\nRefuse Raiha, and you'll pay the price."
+  },
+  {
+    "character": "五月",
+    "japanese": "では仕方がありません。",
+    "translation": "I really am powerless, here."
+  },
+  {
+    "character": "らいは",
+    "japanese": "それじゃ――",
+    "translation": "In that case%p-2;――"
+  },
+  {
+    "character": "五月",
+    "japanese": "いただきまーす！",
+    "translation": "Leeet's eeaat!"
+  },
+  {
+    "character": "五月",
+    "japanese": "んー、やはり美味しいです！",
+    "translation": "Mmm, this is just so good!"
+  },
+  {
+    "character": "らいは",
+    "japanese": "五月さんを見てると\nますます美味しく感じちゃうなー。",
+    "translation": "Watching you, Itsuki-san,\nmakes it even more delicious."
+  },
+  {
+    "character": "五月",
+    "japanese": "ありがとうございます！\nらいはちゃんの笑顔も最高の調味料ですよ！",
+    "translation": "Thank you so much!\nYour smile is the perfect seasoning too, Raiha-chan!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（本当に嬉しそうに食べやがって。\n　まあ、俺の分を譲ったかいがあったな）",
+    "translation": "(They look so happy eating it.\n I guess giving them my share was totally worth it.)"
+  }
+]

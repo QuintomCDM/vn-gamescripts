@@ -1,0 +1,127 @@
+[
+  {
+    "character": "風太郎",
+    "japanese": "どうだ？\n食えそうな山菜は見つかったか？",
+    "translation": "How's it going?\nFind any edible-looking wild plants?"
+  },
+  {
+    "character": "一花",
+    "japanese": "ん～、ないみたい――",
+    "translation": "Hmm, doesn't seem like there are any%p-2;――"
+  },
+  {
+    "character": "一花",
+    "japanese": "おっ、発見！\nこらぁ、手間取らせてくれちゃって。",
+    "translation": "Oh, a discovery!\nOoohh, it took so much longer than expected!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前も山菜採集にだいぶ慣れたみたいだな。",
+    "translation": "It looks like you've gotten used to\npicking wild plants."
+  },
+  {
+    "character": "一花",
+    "japanese": "まあねー。\n何事も経験を積めばなんとかなるもんだなって。",
+    "translation": "Well, I suppose.\nSeems that once you have experience in\nsomething you can pretty much handle anything."
+  },
+  {
+    "character": "一花",
+    "japanese": "……いい香り。\nこれは天ぷらにしたら美味しそう。\n炊き込みご飯にしてもいいかも。",
+    "translation": "...This smells good.\nIf we made this into tempura, it might be delicious.\nWe could cook it with rice."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "よし、これだけ採れてれば問題ないだろ。\nそろそろ戻るか。",
+    "translation": "Okay, gathering this much,\nthere won't be a problem.\nShould we head back soon?"
+  },
+  {
+    "character": "一花",
+    "japanese": "もうちょっとあったほうがよくない？\n待ってて、すぐに見つけるから。",
+    "translation": "Wouldn't having a little more be good?\nHold on, I'll find some soon."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "わかった。\n俺は採った物をまとめておく。",
+    "translation": "Got it.\nI'll put together everything we've gathered."
+  },
+  {
+    "character": "一花",
+    "japanese": "よろしく～。",
+    "translation": "Thanks."
+  },
+  {
+    "character": "一花",
+    "japanese": "何かないかな～。\nデザートになるヤマグワとかイチゴが\nあったら嬉しいんだけど……。",
+    "translation": "I wonder if there's anything.\nI'd be happy if there was mulberry\nor strawberries for dessert."
+  },
+  {
+    "character": "一花",
+    "japanese": "おっと……なんだか怪しげなポイント発見。",
+    "translation": "Ooh...here's something a little suspicious."
+  },
+  {
+    "character": "一花",
+    "japanese": "ひゃあああああああ！！！！",
+    "translation": "EEEEEEEEPPPP!!!!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "どっ、どうした！？",
+    "translation": "Wh-what's wrong?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "むっ……虫が……。\nびっくりしたぁ……。",
+    "translation": "A b-bug...\nIt surprised me..."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ははは！\nなんだ、お約束なことしてんな。",
+    "translation": "Hahaha!\nOh, this is such a trope."
+  },
+  {
+    "character": "一花",
+    "japanese": "笑わないでよ。\nホントにびっくりしたんだからね。",
+    "translation": "Don't laugh at me.\nThat really, really surprised me."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "虫がいるのは当たり前なんだし、\nそんなに驚くことないだろ。\nそっちにも慣れてもいい頃じゃないか？",
+    "translation": "It's obvious that there will be bugs here,\nso you shouldn't be that surprised.\nIsn't it about time you got used to them?"
+  },
+  {
+    "character": "一花",
+    "japanese": "意地悪だなぁ……。",
+    "translation": "You're so mean..."
+  },
+  {
+    "character": "一花",
+    "japanese": "……えいっ！",
+    "translation": "...Take that!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いてっ！？\nなんだ、何を投げて――",
+    "translation": "OW?!\nWhat the, what did you throw at me%p-2;――"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "ぬあああっ！？\nなんじゃこりゃー！！",
+    "translation": "NNAAAAAHH?!\nWHAT IS THIS?!"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "キモッ！　気持ち悪っ！　なんだこの虫は！？",
+    "translation": "It's so GROSS! How DISGUSTING!\nWhat's with this insect?!"
+  },
+  {
+    "character": "一花",
+    "japanese": "あはははは！\nフータロー君だってビックリしてるじゃーん。",
+    "translation": "AHAHAHAHA!\nEven you're surprised,\nFutaro-kun."
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（た、確かに……\n　この虫が急に出てきたら驚くな……）",
+    "translation": "(Of course... \n You could throw that at anyone and\n they'd be surprised...)"
+  }
+]
