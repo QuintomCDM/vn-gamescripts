@@ -1,0 +1,78 @@
+[
+  {
+    "character": null,
+    "japanese": "シーンタイトル"
+  },
+  {
+    "character": null,
+    "japanese": "時間経過\nno=0自動 1昼 2夕 3夜 4昼2 5昼夕 6夕夜 7夜昼 8昼夕夜"
+  },
+  {
+    "character": null,
+    "japanese": "日付経過\nno=日数指定\nno2=0自動 1昼 2夕 3夜 4昼2 5昼夕 6夕夜 7夜昼 8昼夕夜"
+  },
+  {
+    "character": null,
+    "japanese": "マップ移動テスト"
+  },
+  {
+    "character": null,
+    "japanese": "マップ移動テスト（マクロ版）"
+  },
+  {
+    "character": null,
+    "japanese": "アニメ・走り線モ・横"
+  },
+  {
+    "character": null,
+    "japanese": "アニメ・走り線モ・横８"
+  },
+  {
+    "character": null,
+    "japanese": "アニメ・走り線モ・縦"
+  },
+  {
+    "character": null,
+    "japanese": "アニメ・走り線モ・縦８"
+  },
+  {
+    "character": null,
+    "japanese": "ダミーシナリオ"
+  },
+  {
+    "character": null,
+    "japanese": "シーンタイトル"
+  },
+  {
+    "character": null,
+    "japanese": "時間経過\nno=0自動 1昼 2夕 3夜 4昼2 5昼夕 6夕夜 7夜昼 8昼夕夜"
+  },
+  {
+    "character": null,
+    "japanese": "日付経過\nno=日数指定\nno2=0自動 1昼 2夕 3夜 4昼2 5昼夕 6夕夜 7夜昼 8昼夕夜"
+  },
+  {
+    "character": null,
+    "japanese": "シーンタイトル"
+  },
+  {
+    "character": null,
+    "japanese": "移動開始"
+  },
+  {
+    "character": null,
+    "japanese": "告白開始"
+  },
+  {
+    "character": null,
+    "japanese": "移動箇所"
+  },
+  {
+    "character": null,
+    "japanese": "おしまい"
+  },
+  {
+    "character": null,
+    "japanese": "完了"
+  }
+]

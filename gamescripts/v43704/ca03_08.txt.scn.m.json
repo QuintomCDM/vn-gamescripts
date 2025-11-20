@@ -1,0 +1,286 @@
+[
+  {
+    "character": "前田",
+    "japanese": "おい上杉。\n結局お前、誰に告ったんだよ。"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "は？\nなんだ、朝からいきなり。"
+  },
+  {
+    "character": "前田",
+    "japanese": "しらばっくれるな。\n後夜祭の話、忘れたとは言わせねぇぞ？"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うっ……。"
+  },
+  {
+    "character": "武田",
+    "japanese": "やれやれ。\nあえて避けていた話題だったけど……\nさすが前田君、前置きなしで突っ込んでいくね。"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや……別に告白するとは一言も……。"
+  },
+  {
+    "character": "前田",
+    "japanese": "はぁぁぁ？\nあの流れで告ってないとかマジか？"
+  },
+  {
+    "character": "武田",
+    "japanese": "いやいや、上杉君はそんな男じゃないさ。\n僕はわかってるよ。"
+  },
+  {
+    "character": "前田",
+    "japanese": "そうだよなぁ。\n上杉はそんな男じゃねぇよなぁ。"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前ら、俺の何を知ってるんだよ……。"
+  },
+  {
+    "character": "前田",
+    "japanese": "と言うわけで、吐けコラ！\n誰に告ったんだよ！？"
+  },
+  {
+    "character": "三玖",
+    "japanese": "フータロー、ちょっといい？"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "！？"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "あ、ああ、三玖か！\nおはよう！"
+  },
+  {
+    "character": "三玖",
+    "japanese": "おはよう。"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "珍しく遅いな、遅刻ギリギリじゃないか。"
+  },
+  {
+    "character": "三玖",
+    "japanese": "これを作ってて。\nはい、フータロー。"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なんだこれ。\n俺にくれるのか？"
+  },
+  {
+    "character": "三玖",
+    "japanese": "お弁当、作ってきたんだ。\nフータローに食べてほしくて。"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "え……。"
+  },
+  {
+    "character": "三玖",
+    "japanese": "…………。"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "そ、そうか。\nありがとな、その……嬉しい。"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん……。"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "…………。"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "じゃあ、その……\n昼飯、どうだ？　一緒に……。"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……っ！"
+  },
+  {
+    "character": "三玖",
+    "japanese": "も、もちろんいいよ。\n２人で食べよう。"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "おう。"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（……ん？\n　なんか、クラス中の視線が俺たちに集まってる？）"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、あの？\nみんな、なんでこっち見て……。"
+  },
+  {
+    "character": "前田",
+    "japanese": "おい武田。"
+  },
+  {
+    "character": "武田",
+    "japanese": "ああ。\nこれは間違いなく、そういうことだね。"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "な、何がだよ。"
+  },
+  {
+    "character": "前田",
+    "japanese": "お前が後夜祭で告ったの、三玖さんか！"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "なっ！？"
+  },
+  {
+    "character": "椿",
+    "japanese": "えええぇぇぇっ！？"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ひゃあっ！？"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "うおおっ！？\nちょ、ちょ、なんだよ！？"
+  },
+  {
+    "character": "葵",
+    "japanese": "あの上杉君が告白！？"
+  },
+  {
+    "character": "椿",
+    "japanese": "それって本当！？\n三玖ちゃん、上杉君と付き合ってるの！？"
+  },
+  {
+    "character": "三玖",
+    "japanese": "え、え、ええぇ……。"
+  },
+  {
+    "character": "クラスメイトＡ",
+    "japanese": "嘘でしょー！？"
+  },
+  {
+    "character": "クラスメイトＣ",
+    "japanese": "待て待て上杉！！\nお前、勉強一筋じゃなかったのか！？"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お、お前ら！\nうるせぇ、一度に話しかけてくるなっ！"
+  },
+  {
+    "character": "葵",
+    "japanese": "どっちから告白したの？\nやっぱり上杉君から？"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "それは……一応、俺からになるのか？"
+  },
+  {
+    "character": "三玖",
+    "japanese": "で、でも、先に言ったのは私だから。\nフータローが後夜祭で返事をしてくれて……。"
+  },
+  {
+    "character": "クラスメイトＡ",
+    "japanese": "じゃあ、三玖ちゃんが言ってた好きな人って\n上杉君だったんだ！"
+  },
+  {
+    "character": "三玖",
+    "japanese": "あ、あう……。"
+  },
+  {
+    "character": "クラスメイトＤ",
+    "japanese": "嘘だろ……！\nなんで上杉なんだよぉ～！　ちくしょおー！！"
+  },
+  {
+    "character": "前田",
+    "japanese": "おう、落ち着けや。\n負け犬の遠吠えは見苦しいぞ。"
+  },
+  {
+    "character": "四葉",
+    "japanese": "はいは～い、\n２人への質問タイムは後でお願いします！\n今は終了で～す！"
+  },
+  {
+    "character": "五月",
+    "japanese": "そろそろ始業の時間ですし、席に戻りましょう！"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "（四葉、五月！\n　正直助かった……！）"
+  },
+  {
+    "character": "武田",
+    "japanese": "ああ、つい盛り上がってしまったね。\nごめん、三玖さん。"
+  },
+  {
+    "character": "三玖",
+    "japanese": "う、うん。"
+  },
+  {
+    "character": "前田",
+    "japanese": "詳しいことはまた後でな。"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "いや何を話せと……。"
+  },
+  {
+    "character": "前田",
+    "japanese": "まあ、でも、よかったじゃねぇか。\nうまくいってよ。"
+  },
+  {
+    "character": "武田",
+    "japanese": "おめでとう、上杉君。"
+  },
+  {
+    "character": "風太郎",
+    "japanese": "お前ら……。"
+  },
+  {
+    "character": "三玖",
+    "japanese": "はぁ……。"
+  },
+  {
+    "character": "二乃",
+    "japanese": "だから言ったじゃない。\nこのタイミングで渡したらこうなるって。"
+  },
+  {
+    "character": "三玖",
+    "japanese": "でも、すぐに渡したくて。"
+  },
+  {
+    "character": "五月",
+    "japanese": "隠すことではないと思いますが、\nタイミングは考えたほうが……。"
+  },
+  {
+    "character": "三玖",
+    "japanese": "ご、ごめん。\nありがとう五月、四葉も。"
+  },
+  {
+    "character": "四葉",
+    "japanese": "よかったね三玖。\nお弁当、上杉さんに受け取ってもらえて。"
+  },
+  {
+    "character": "三玖",
+    "japanese": "うん……。"
+  },
+  {
+    "character": "二乃",
+    "japanese": "…………。"
+  },
+  {
+    "character": "二乃",
+    "japanese": "あんたの頑張りがちゃんと届いたってことね。\nよかったじゃない。"
+  },
+  {
+    "character": "三玖",
+    "japanese": "……ありがとう、二乃。"
+  }
+]
